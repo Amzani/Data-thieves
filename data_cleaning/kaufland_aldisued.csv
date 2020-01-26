@@ -1,0 +1,132 @@
+,Unnamed: 0_x,Name,Price_x,Unit_x,Packet Size_x,Supermarket_x,Comparable Price_x,Unnamed: 0_y,Price_y,Unit_y,Packet Size_y,Supermarket_y,Comparable Price_y
+0,0,Nutella,3.79,100 Gramm,Vorteils Glas 1000 Gramm,kaufland,0.379,4,3.89,100 Gramm,"Glas 880 Gramm, + 80 g Gratis",aldi-sued,0.442
+1,8,Ferrero Milchschnitte,1.99,100 Gramm,"10 x 28 g, Packung 280 Gramm",kaufland,0.71,646,1.79,100 Gramm,"10 x 28 g, Packung 280 Gramm",aldi-sued,0.64
+2,15,Coca Cola,11.4,100 ml,"Kasten 12 L, 12 x 1l",kaufland,0.095,1,0.99,100 ml,Pet-Flasche 1.25 L,aldi-sued,0.079
+3,20,Coppenrath & Wiese Unsere Goldstücke Weizenbrötchen,1.39,100 Gramm,"Packung 450 Gramm, 9 Stück",kaufland,0.309,42,1.39,100 Gramm,"Packung 450 Gramm, 9 Stück",aldi-sued,0.309
+4,39,Iglo Schlemmer-Filet Classic a la Bordelaise,2.89,100 Gramm,Packung 380 Gramm,kaufland,0.7609999999999999,7,2.99,100 Gramm,Packung 380 Gramm,aldi-sued,0.787
+5,51,Weihenstephan Frische Tafelbutter 82% Fett,2.19,100 Gramm,Packung 250  Gramm,kaufland,0.88,279,1.49,100 Gramm,Packung 250  Gramm,aldi-sued,0.6
+6,81,Kinder Pingui Schoko,1.99,100 Gramm,"Family Pack 240 Gramm, 8 x 30 g",kaufland,0.83,1178,1.89,100 Gramm,"Family Pack 240 Gramm, 8 x 30 g",aldi-sued,0.79
+7,82,Krombacher Pils,14.8,100 ml,"Kasten 10 L, 20 x 0,5 L ",kaufland,0.14800000000000002,1181,0.79,100 ml,"Dose 0,5L",aldi-sued,0.158
+8,89,Rotkäppchen Sekt Halbtrocken,3.99,100 ml,Flasche Glas 0.75 L,kaufland,0.532,218,3.99,100 ml,Flasche Glas 0.75 L,aldi-sued,0.532
+9,91,Rocher Pralinen,3.49,100 Gramm,"Packung 200 Gramm, 16 Stück",kaufland,1.75,257,3.49,100 Gramm,"Packung 200 Gramm, 16 Stück",aldi-sued,1.75
+10,97,Landliebe Grieß Pudding Traditionell,0.79,100 Gramm,Becher 150 Gramm,kaufland,0.53,463,0.99,100 Gramm,Becher 330 Gramm,aldi-sued,0.3
+11,100,Ferrero Küsschen,2.99,100 Gramm,"Packung 178 Gramm, 20 Stück",kaufland,1.68,280,2.99,100 Gramm,"Packung 178 Gramm, 20 Stück",aldi-sued,1.68
+12,107,Milka Alpenmilch Schokolade,1.09,100 Gramm,Tafel 100  Gramm,kaufland,1.09,255,0.95,100 Gramm,Tafel 100  Gramm,aldi-sued,0.95
+13,113,Coca Cola Zero,0.49,100 ml,Dose 330 ML,kaufland,0.14800000000000002,158,0.89,100 ml,Pet-Flasche 1.25 L,aldi-sued,0.071
+14,131,Bananen ca. 6 Stück,0.99,100 Gramm, 1 KG,kaufland,0.099,1621,0.99,100 Gramm, 1 KG,aldi-sued,0.099
+15,136,Brokkoli frisch,1.19,100 Gramm,Folie 500 Gramm,kaufland,0.23800000000000002,110,0.99,100 Gramm,Folie 500 Gramm,aldi-sued,0.198
+16,155,Rispentomaten frisch,2.99,100 Gramm,Packung 1 KG,kaufland,0.29900000000000004,1415,0.65,100 Gramm,Packung 150 Gramm,aldi-sued,0.43
+17,186,Bertolli Extra Vergine Originale das Fruchtige,4.29,100 ml,Flasche Glas 500 ML,kaufland,0.858,151,5.69,100 ml,Flasche Glas 500 ML,aldi-sued,1.138
+18,206,Sprite,12.48,100 ml,Kasten 12 L,kaufland,0.104,1763,0.89,100 ml,Pet-Flasche 1.25 L,aldi-sued,0.071
+19,207,Fanta Orange,12.48,100 ml,"Kasten 12 L, 12 x 1l",kaufland,0.104,1761,0.89,100 ml,Pet-Flasche 1.25 L,aldi-sued,0.071
+20,215,"Wodka Gorbatschow 37,5% Vol.",7.49,100 ml,Flasche Glas 700 ML,kaufland,1.0699999999999998,2014,4.79,100 Gramm,Beutel 1000 Gramm,aldi-sued,0.479
+21,219,Chantre Weinbrand 36% Vol.,6.99,100 ml,Flasche Glas 0.7 L,kaufland,0.9990000000000001,1640,6.99,100 ml,Flasche Glas 0.7 L,aldi-sued,0.9990000000000001
+22,275,Ouzo Plomari 40 % Vol.,10.99,100 ml,Flasche Glas 0.7 L,kaufland,1.5699999999999998,579,11.99,100 ml,Geschenkpackung + Glas,aldi-sued,1.713
+23,290,Funny Frisch Chipsfrisch Ungarisch,1.99,100 Gramm,Beutel 175 Gramm,kaufland,1.14,652,1.19,100 Gramm,Beutel 175 Gramm,aldi-sued,0.68
+24,296,Capri Sonne Orange 10-er Pack 10 x 0.2 L,2.39,100 ml,Pack 2 L,kaufland,0.12,650,1.69,100 ml,Pack 2 L,aldi-sued,0.08499999999999999
+25,301,Schwartau Extra Samt Erdbeere,2.19,100 Gramm,Glas 270 Gramm,kaufland,0.81,1317,1.39,100 Gramm,Glas 270 Gramm,aldi-sued,0.51
+26,305,Pfanner Der Grüne Tee Zitrone-Kaktusfeige,1.69,100 ml,Getränkekarton 2 L,kaufland,0.08499999999999999,649,0.99,100 ml,Getränkekarton 2 L,aldi-sued,0.05
+27,309,Bachmeier Bayerische Brezen,1.19,100 Gramm,Karton 850 Gramm,kaufland,0.14,424,1.29,100 Gramm,Karton 850 Gramm,aldi-sued,0.152
+28,312,"Ramazzotti Amaro Kräuterbitter, 30% Vol.",9.99,100 ml,Flasche Glas 0.7 L,kaufland,1.4269999999999998,35,12.99,100 ml,Flasche Glas 0.7 L,aldi-sued,1.856
+29,321,Raffaello Pralinen Kokos-Mandel,1.99,100 Gramm,"Packung 150  Gramm, 15 Stück",kaufland,1.33,129,2.99,100 Gramm,Packung 260 Gramm,aldi-sued,1.15
+30,328,Tillmans Toasty Geflügelsnack,2.99,100 Gramm,"Packung 350 Gramm, 5 Stück x 70 g",kaufland,0.85,647,2.99,100 Gramm,"Packung 350 Gramm, 5 Stück x 70 g",aldi-sued,0.85
+31,329,Jack Daniels Whisky Old Time No. 7 40 % Vol.,17.99,100 ml,Flasche Glas 0.7 L,kaufland,2.57,425,17.99,100 ml,Flasche Glas 0.7 L,aldi-sued,2.57
+32,334,Tillmann Cevapcici vom Rindfleisch,4.99,100 Gramm,Packung 1000 Gramm,kaufland,0.499,155,5.59,100 Gramm,Packung 1000 Gramm,aldi-sued,0.5589999999999999
+33,426,Maronen frisch,1.69,100 ml,Dose 500 ML,kaufland,0.338,1627,1.89,100 Gramm,"Packung 820 Gramm, 20 x 41 g ",aldi-sued,0.23
+34,548,Bürger Eierspätzle Original schwäbisch,2.89,100 Gramm,Packung 1000 Gramm,kaufland,0.28900000000000003,120,3.29,100 Gramm,Packung 1000 Gramm,aldi-sued,0.32899999999999996
+35,565,Yeni Raki,16.49,100 ml,Flasche Glas 700 ML,kaufland,2.356,2037,10.49,100 ml,Flasche Glas 700 ML,aldi-sued,1.499
+36,571,Wassermelone,1.15,100 Gramm, 1 KG,kaufland,0.115,1022,2.55,100 Gramm, 1 Stück,aldi-sued,0.0
+37,607,Haribo Goldbären,1.45,100 Gramm,Mini-Maxi Beutel 250 Gramm,kaufland,0.58,648,0.89,100 Gramm,Beutel 300 Gramm,aldi-sued,0.3
+38,656,Coca Cola Light,11.7,100 ml," 15 L, 10 x 1500 ml, Mehrwegflasche",kaufland,0.078,480,0.89,100 ml,Pet-Flasche 1.25 L,aldi-sued,0.071
+39,660,Paprika rot,1.79,100 Gramm,Beutel 1 KG,kaufland,0.179,1207,1.79,100 Gramm,Beutel 500 Gramm,aldi-sued,0.358
+40,863,"Müller Kefir Kalinka 1,5% Fett",0.79,100 Gramm,Becher 500 Gramm,kaufland,0.158,216,0.59,100 Gramm,Flasche Kunststoff,aldi-sued,0.0
+41,915,President Meersalzbutter mit Meersalzkörner,2.89,100 Gramm,Becher 250 Gramm,kaufland,1.16,219,3.19,100 Gramm,Becher 250 Gramm,aldi-sued,1.28
+42,927,Baileys Original Irish Cream,13.49,100 ml,Flasche Glas 700 ML,kaufland,1.9269999999999998,733,6.99,100 ml,"Flasche Sondergröße 0,5 Liter",aldi-sued,1.398
+43,929,Ouzo 12,10.49,100 ml,Flasche Glas 0.7 L,kaufland,1.499,1180,9.99,100 ml,Flasche Glas 0.7 L,aldi-sued,1.4269999999999998
+44,967,Red Bull Energy Drink,20.0,100 ml,"Karton 6 L, 24 x 0,250 L",kaufland,0.33299999999999996,1311,1.69,100 Gramm,Packung 420 Gramm,aldi-sued,0.4
+45,982,Havana Club Anejo 3 Anos 3 Jahre,12.99,100 ml,Flasche Glas 0.7 L,kaufland,1.856,474,4.99,100 Gramm,Beutel 450 Gramm,aldi-sued,1.109
+46,1126,Bäcker Bachmeier Bayerische Laugenstangerl,1.19,100 Gramm,Karton 818 Gramm,kaufland,0.145,653,1.29,100 Gramm,Karton 818 Gramm,aldi-sued,0.158
+47,1187,Ritter Sport Mini Bunter Mix 9 Minis,0.29,100 ml,Pet-Flasche 500 ML,kaufland,0.058,1318,1.79,100 Gramm,Packung 200 Gramm,aldi-sued,0.9
+48,1317,Himbeeren frisch,1.99,100 Gramm,Schale 125 Gramm,kaufland,1.59,958,1.99,100 Gramm,Packung 100 Gramm,aldi-sued,1.99
+49,1417,Dr. Quendt Echter Dresdner Christstollen,0.49,100 Gramm,Becher 500 Gramm,kaufland,0.098,1024,6.99,100 Gramm,Packung 1000 Gramm,aldi-sued,0.6990000000000001
+50,3699,Dr. Quendt Echter Dresdner Christstollen,1.19,100 Gramm,Packung 500 Gramm,kaufland,0.23800000000000002,1024,6.99,100 Gramm,Packung 1000 Gramm,aldi-sued,0.6990000000000001
+51,1556,Dr. Oetker Paradies Creme Vanille Geschmack,0.79,100 Gramm,Packung 63 Gramm,kaufland,1.25,378,0.89,100 Gramm,Packung 63 Gramm,aldi-sued,1.41
+52,1592,Wagner Big Pizza Supreme,2.39,100 Gramm,Packung 410 Gramm,kaufland,0.583,1634,1.19,100 Gramm,Beutel 175 Gramm,aldi-sued,0.68
+53,1604,Balisto Korn Mix,1.99,100 Gramm,"Packung 166.5 Gramm, 9 x 18,5 g",kaufland,1.2,1631,1.19,100 Gramm,Schale 500 Gramm,aldi-sued,0.23800000000000002
+54,1609,Schwartau Extra Samt Himbeere,2.19,100 Gramm,Glas 270 Gramm,kaufland,0.81,1639,1.39,100 Gramm,Glas 270 Gramm,aldi-sued,0.51
+55,1659,Mon Cheri Piemont Kirsche,2.99,100 Gramm,"15 Stück, Packung 157 Gramm",kaufland,1.9,278,2.99,100 Gramm,"15 Stück, Packung 157 Gramm",aldi-sued,1.9
+56,1679,Karotten,0.69,100 Gramm, 1 KG,kaufland,0.06899999999999999,1319,0.79,100 Gramm,Beutel 2 KG,aldi-sued,0.04
+57,1682,Kiwi,0.25,Preis pro Stück, 1 Stück,kaufland,0.25,1216,0.09,Preis pro Stück, 1 Stück,aldi-sued,0.09
+58,1690,VibaSept Hygiene Tuch,1.45,Preis pro 100 Stück,Packung 15 Stück,kaufland,9.67,2031,1.99,Preis pro 100 Stück,Packung 20 Stück,aldi-sued,9.95
+59,1697,Zuckermais,1.39,Preis pro Stück,Packung 2 Stück,kaufland,0.7,1528,0.65,Preis pro Stück,Packung 2 Stück,aldi-sued,0.33
+60,1698,Kopfsalat kl. I,0.95,Preis pro Stück, 1 Stück,kaufland,0.95,1419,0.35,Preis pro Stück, 1 Stück,aldi-sued,0.35
+61,1700,Lauch / Poree,1.39,100 Gramm, 1 KG,kaufland,0.13899999999999998,1618,0.69,100 Gramm, 1 KG,aldi-sued,0.06899999999999999
+62,1701,Grapefruit,0.49,Preis pro Stück, 1 Stück,kaufland,0.49,1531,0.29,Preis pro Stück, 1 Stück,aldi-sued,0.29
+63,1702,Zucchini,1.89,100 Gramm, 1 KG,kaufland,0.18899999999999997,1210,0.69,100 Gramm, 1 KG,aldi-sued,0.06899999999999999
+64,1707,Weiße Champignon frisch,1.85,100 Gramm,Schale 500 Gramm,kaufland,0.37,1633,5.49,100 Gramm,Packung 500 Gramm,aldi-sued,1.1
+65,1867,Miracoli Pasta Sauce Tomate und Basilikum,1.99,100 ml,Glas 500 ML,kaufland,0.39799999999999996,1025,0.75,100 ml,Glas 500 ML,aldi-sued,0.15
+66,2055,Wirsing Deutschland,1.15,Preis pro Stück,1 kg,kaufland,0.29,268,0.99,100 Gramm, 1 KG,aldi-sued,0.099
+67,2059,Rosenkohl,1.29,100 Gramm,Netz 1 KG,kaufland,0.129,1530,0.49,100 Gramm,Netz 1 KG,aldi-sued,0.049
+68,2060,Feigen frisch,0.39,100 Gramm,1 Stück,kaufland,1.2990000000000002,1619,1.59,100 Gramm,Packung 500 Gramm,aldi-sued,0.318
+69,2207,Blumenkohl 1 Kopf,1.45,Preis pro Stück, 1 Stück,kaufland,1.45,1417,0.69,Preis pro Stück, 1 Stück,aldi-sued,0.69
+70,2316,Kinder Country,1.49,100 Gramm,"Packung 211.5 Gramm, 9 x 23,5",kaufland,0.7,1084,2.99,100 Gramm,Packung 420 Gramm,aldi-sued,0.7120000000000001
+71,2372,Brandt Der Markenzwieback,0.86,100 Gramm,Packung 225 Gramm,kaufland,0.38,1312,1.59,100 Gramm,Packung 125 Gramm,aldi-sued,1.27
+72,2554,"Schlütters Echte! Original Nürnberger Rostbratwurst 28 Stück,  Sonderposten",3.49,100 Gramm,Packung 600 Gramm,kaufland,0.58,1313,2.59,100 Gramm,Packung 500 Gramm,aldi-sued,0.518
+73,2594,Milka Alpenmilch Schokolade & TUC Cracker,0.69,100 Gramm,Packung 125 Gramm,kaufland,0.55,740,0.95,100 Gramm,Packung 87 Gramm,aldi-sued,1.09
+74,2713,Brandt Genuss Zwieback Kokos,1.49,100 Gramm,Packung 225 Gramm,kaufland,0.66,1610,2.48,100 Gramm,Packung 0.355 KG,aldi-sued,0.0
+75,2754,Kaki frisch,0.49,Preis pro Stück, 1 Stück,kaufland,0.49,1529,0.39,Preis pro Stück, 1 Stück,aldi-sued,0.39
+76,2762,"Weihenstephan Frischer Kakao 3,5 % Fett, aus guter Alpenmilch",1.49,100 ml,Getränkekarton 1 L,kaufland,0.149,745,1.11,100 ml,Getränkekarton 1 L,aldi-sued,0.11100000000000003
+77,2787,Ferrero Giotto Haselnuss Gebäckspezialität,1.99,100 Gramm,"Packung 154.8 Gramm, 4 x 38,7, 36 Stück",kaufland,1.29,2023,1.85,100 Gramm,"Packung 154.8 Gramm, 4 x 38,7, 36 Stück",aldi-sued,1.2
+78,2802,Lavazza Caffe Crema Classico,13.99,100 Gramm,Beutel 1000 Gramm,kaufland,1.399,580,12.99,100 Gramm,Beutel 1000 Gramm,aldi-sued,1.2990000000000002
+79,2818,Rotkäppchen Sekt Trocken,3.99,100 ml,Flasche Glas 0.75 L,kaufland,0.532,576,3.99,100 ml,Flasche Glas 0.75 L,aldi-sued,0.532
+80,2821,Moskovskaya Russischer Wodka,7.79,100 ml,Flasche Glas 0.5 L,kaufland,1.558,575,8.49,100 ml,Flasche Glas 0.5 L,aldi-sued,1.6980000000000002
+81,2826,Fernet Branca,13.99,100 ml,Flasche Glas 0.7 L,kaufland,1.999,500,13.99,100 ml,Flasche Glas 0.7 L,aldi-sued,1.999
+82,2853,kaba Der Plantagentrank,1.79,100 Gramm,Nachfüllbeutel 500 Gramm,kaufland,0.358,2038,1.35,100 Gramm,Nachfüllbeutel 500 Gramm,aldi-sued,0.27
+83,2865,Mezzo Mix Cola küsst Orange,0.89,100 ml,Pet-Flasche 1.25 L,kaufland,0.071,1762,0.89,100 ml,Pet-Flasche 1.25 L,aldi-sued,0.071
+84,2901,"Aperol italienischer Aperitiv Bitter Spirituose, 15 % Vol.",9.49,100 ml,Flasche Glas 0.7 L,kaufland,1.3559999999999999,2036,8.79,100 ml,Flasche Glas 0.7 L,aldi-sued,1.256
+85,3066,Pom-Bär Original,1.15,100 Gramm,Beutel 75 Gramm,kaufland,1.53,1637,3.49,100 Gramm,Packung 900 Gramm,aldi-sued,0.38799999999999996
+86,3133,"Danone Actimel Classic, 0,1% Fett",1.39,100 Gramm,Packung 400 Gramm,kaufland,0.348,1632,1.69,100 Gramm,Packung 410 Gramm,aldi-sued,0.412
+87,3163,Funny Frisch Chipsfrisch Oriental,1.79,100 Gramm,Beutel 175 Gramm,kaufland,1.02,1636,3.99,100 ml,Flasche Glas 0.75 L,aldi-sued,0.532
+88,3167,Aprikosen frisch Kl. 1,3.99,100 Gramm,Packung 1000 Gramm,kaufland,0.39899999999999997,1617,1.89,100 Gramm,Packung 1000 Gramm,aldi-sued,0.18899999999999997
+89,3177,Zuckermais frisch,1.15,Preis pro Stück,Folie 2 Stück,kaufland,0.58,1622,0.99,Preis pro Stück,Folie 2 Stück,aldi-sued,0.5
+90,3418,Deutscher Spargel weiss frisch,3.99,100 Gramm,Packung 500 Gramm,kaufland,0.7979999999999999,1623,1.89,100 Gramm,Packung 500 Gramm,aldi-sued,0.37799999999999995
+91,3468,Linie Aquavit,17.99,100 ml,Flasche Glas 700 ML,kaufland,2.57,572,18.99,100 ml,Flasche Glas 700 ML,aldi-sued,2.713
+92,3636,Salatgurken frisch,3.19,100 Gramm,Packung 150 Gramm,kaufland,2.13,1416,0.45,Preis pro Stück, 1 Stück,aldi-sued,0.45
+93,3750,Mumm Extra Dry Sekt trocken,5.49,100 ml,Flasche Glas 0.75 L,kaufland,0.732,1638,2.19,100 Gramm,Packung 600 Gramm,aldi-sued,0.365
+94,3782,Knoblauch,1.39,100 Gramm,Netz 200 Gramm,kaufland,0.7,1532,0.65,100 Gramm,Netz 200 Gramm,aldi-sued,0.33
+95,3846,Speisezwiebeln,1.35,100 Gramm,Packung 200 Gramm,kaufland,0.68,1534,1.19,100 Gramm,Beutel 1.0 KG,aldi-sued,0.11900000000000001
+96,4091,Knack & Back 8 Knoblauch Ecken,2.15,100 Gramm,Packung 340 Gramm,kaufland,0.632,577,2.29,100 Gramm,Packung 340 Gramm,aldi-sued,0.674
+97,4236,Bio Zitronen,1.89,100 Gramm,Netz 500 Gramm,kaufland,0.37799999999999995,2045,0.49,100 Gramm,Netz 500 Gramm,aldi-sued,0.098
+98,4237,Weißkohl frisch,0.99,Preis pro Stück, 1 Stück,kaufland,0.99,2078,0.39,Preis pro Stück, 1 Stück,aldi-sued,0.39
+99,4240,Heidelbeeren frisch,1.75,100 Gramm,Packung 125 Gramm,kaufland,1.4,2072,0.83,100 Gramm,Packung 125 Gramm,aldi-sued,0.66
+100,4241,Schnittlauch im Topf,1.19,Preis pro Stück, 1 Stück,kaufland,1.19,2019,0.79,Preis pro Stück, 1 Stück,aldi-sued,0.79
+101,4242,Rhabarber frisch,1.79,100 Gramm, 1 KG,kaufland,0.179,2068,1.45,100 Gramm, 1 KG,aldi-sued,0.145
+102,4245,Biskin Gold Pflanzenfett,2.79,100 Gramm,Stange 1000 Gramm,kaufland,0.27899999999999997,1401,0.99,100 Gramm,Packung 250 Gramm,aldi-sued,0.4
+103,4246,Rucola frisch,0.89,100 Gramm,Schale 125 Gramm,kaufland,0.71,2055,0.69,100 Gramm,Schale 150 Gramm,aldi-sued,0.46
+104,4265,Tante Fanny Frische Flammkuchenböden,2.99,100 Gramm,Packung 340 Gramm,kaufland,0.88,1399,1.49,100 Gramm,Packung 100 Gramm,aldi-sued,1.49
+105,4388,Osborne Veterano,11.99,100 ml,Flasche Glas 0.7 L,kaufland,1.713,573,11.99,100 ml,Flasche Glas 0.7 L,aldi-sued,1.713
+106,4400,Laschinger Sockeye Wildlachs in Scheiben,3.59,100 Gramm,Packung 150 Gramm,kaufland,2.39,522,4.59,100 Gramm,Packung 150 Gramm,aldi-sued,3.06
+107,4532,Galia Melonen Kl. 1,1.49,100 Gramm,Schale 100 Gramm,kaufland,1.49,2077,0.89,Preis pro Stück, 1 Stück,aldi-sued,0.89
+108,4534,Physalis,0.99,100 Gramm,Schale 250 Gramm,kaufland,0.4,2074,0.59,100 Gramm,Schale 100 Gramm,aldi-sued,0.59
+109,4536,Dattel Cherrytomaten,0.79,100 Gramm,Packung 100 Gramm,kaufland,0.79,2067,0.66,100 Gramm,Schale 250 Gramm,aldi-sued,0.26
+110,4539,Basilikum im Topf,1.09,100 ml,Flasche Kunststoff 1.5 L,kaufland,0.073,2018,0.79,Preis pro Stück, 1 Stück,aldi-sued,0.79
+111,4689,Eisbergsalat,2.15,100 Gramm,Netz 500 Gramm,kaufland,0.43,2070,0.35,Preis pro Stück, 1 Stück,aldi-sued,0.35
+112,4691,Paprika Mix frisch,1.49,Preis pro Stück,Packung 3 Stück,kaufland,0.5,2041,0.99,100 Gramm,"Folie 500 Gramm, Spanien Kl. 1",aldi-sued,0.198
+113,4692,Salatherzen frisch Mini Romana,1.95,100 Gramm,Becher 300 Gramm,kaufland,0.65,2084,1.59,100 Gramm,Packung 185 Gramm,aldi-sued,0.86
+114,4736,Sprehe Deutsches Hähnchen mit Innereien,1.49,100 ml,Getränkekarton 2 L,kaufland,0.075,1390,2.99,100 Gramm,Folie 1200 Gramm,aldi-sued,0.24900000000000005
+115,4737,Pfanner Der Gelbe Tee,1.79,100 Gramm,Packung 500 Gramm,kaufland,0.358,2035,0.99,100 ml,Getränkekarton 2 L,aldi-sued,0.05
+116,4925,Gerolsteiner Sprudel Medium,6.48,100 ml,"Kasten 12 L, 12 x 1 L",kaufland,0.054000000000000006,2015,0.79,100 ml,"Pet-Flasche 1,5 L 	",aldi-sued,0.053000000000000005
+117,5067,Osborne Carlos I 40 % Vol.,22.99,100 ml,Flasche Glas 700 ML,kaufland,3.2840000000000003,1082,1.79,100 Gramm,Packung 250 Gramm,aldi-sued,0.72
+118,5241,Pril Spülmittel Kraftgel,1.75,100 ml,Flasche Kunststoff 600 ML,kaufland,0.292,2088,1.35,100 ml,Flasche 500ml,aldi-sued,0.27
+119,5281,Zwetschgen frisch,1.49,100 Gramm, 1 KG,kaufland,0.149,2062,0.75,100 Gramm, 1 KG,aldi-sued,0.075
+120,5283,Pfirsich,1.99,100 Gramm,Packung 1 KG,kaufland,0.19899999999999998,2048,0.85,100 Gramm,Packung 1 KG,aldi-sued,0.08499999999999999
+121,5436,Champignons braun frisch,1.75,100 Gramm,"Packung 400gr, aus Polen",kaufland,0.43799999999999994,957,3.99,100 Gramm,Packung 240 Gramm,aldi-sued,1.66
+122,5558,Bio Bananen,1.79,100 Gramm,Folie 1 KG,kaufland,0.179,2043,1.19,100 Gramm,Folie 1 KG,aldi-sued,0.11900000000000001
+123,5881,Honigmelone gelb,2.99,Preis pro Stück, 1 Stück,kaufland,2.99,2052,0.89,Preis pro Stück, 1 Stück,aldi-sued,0.89
+124,5883,Chicoree frisch,1.35,100 Gramm, 500 Gramm,kaufland,0.27,2053,0.69,100 Gramm, 500 Gramm,aldi-sued,0.13799999999999998
+125,5911,Erdbeeren frisch,14.99,100 ml,Flasche Glas 0.7 L,kaufland,2.141,2047,1.11,100 Gramm,Schale 500 Gramm,aldi-sued,0.22200000000000006
+126,6341,Funny Frisch Chipsfrisch Sour Cream & Wild Onion,1.19,100 Gramm,Beutel 175  Gramm,kaufland,0.68,2087,0.99,100 Gramm,Beutel 175  Gramm,aldi-sued,0.57
+127,7248,Trentin Grana Padano 32% Fett,2.99,100 Gramm,Vakuum 200 Gramm,kaufland,1.5,3559,3.59,100 Gramm,Vakuum 200 Gramm,aldi-sued,1.8
+128,7382,Kölner Gelierzucker 2:1,0.59,100 Gramm,Packung 500 Gramm,kaufland,0.11800000000000001,3531,0.79,100 Gramm,Packung 500 Gramm,aldi-sued,0.158
+129,7702,Blend-a-med Zahncreme Classic,1.9,100 ml,"Doppelpackung 150 ML, 2 x 75 ml",kaufland,1.27,3533,1.55,100 ml,XXL Tube 125 ML,aldi-sued,1.24
+130,7868,Blutorangen frisch,2.29,100 Gramm,Netz 1.5 KG,kaufland,0.153,3575,0.69,100 Gramm,Netz 1 KG,aldi-sued,0.06899999999999999

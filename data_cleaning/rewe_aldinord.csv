@@ -1,0 +1,105 @@
+,Unnamed: 0_x,Name,Price_x,Unit_x,Packet Size_x,Supermarket_x,Comparable Price_x,Unnamed: 0_y,Price_y,Unit_y,Packet Size_y,Supermarket_y,Comparable Price_y
+0,4,Nutella,3.79,100 Gramm,Glas 750 Gramm,rewe,0.505,1,3.79,100 Gramm,Glas 750 Gramm,aldi-nord,0.505
+1,5,Coca Cola,0.99,100 ml,Pet-Flasche 1.5 L,rewe,0.066,2,2.89,100 ml,"6 x 0,33 L, 1.98 L",aldi-nord,0.146
+2,14,Iglo Fischstäbchen,1.77,100 Gramm,"15er, Packung 450 Gramm",rewe,0.39299999999999996,4,3.49,100 Gramm,"15er, Packung 450 Gramm",aldi-nord,0.7759999999999999
+3,36,Meica Curry King,1.69,100 Gramm,Packung 220 Gramm,rewe,0.77,18,1.49,100 Gramm,Packung 220 Gramm,aldi-nord,0.68
+4,70,Iglo Schlemmer-Filet Classic a la Bordelaise,1.79,100 Gramm,Packung 380 Gramm,rewe,0.47100000000000003,19,3.19,100 Gramm,Packung 380 Gramm,aldi-nord,0.8390000000000001
+5,157,Kölln Blütenzarte Köllnflocken,1.29,100 Gramm,Packung 500 Gramm,rewe,0.258,300,0.99,100 Gramm,Packung 500 Gramm,aldi-nord,0.198
+6,162,Kerrygold Original Irische Butter mildgesäuert,2.49,100 Gramm,Packung 250  Gramm,rewe,1.0,98,1.05,100 Gramm,Becher 400 Gramm,aldi-nord,0.263
+7,222,Iglo Rahmspinat der mit dem Blubb,1.19,100 Gramm,Packung 800 Gramm,rewe,0.149,25,1.89,100 Gramm,Packung 750 Gramm,aldi-nord,0.252
+8,287,Deli Reform Margarine Das Original,0.89,100 Gramm,Becher 500  Gramm,rewe,0.17800000000000002,176,1.69,100 Gramm,"Netz 120 Gramm, 6 x 20 g",aldi-nord,1.41
+9,289,Ferrero Kinder Riegel,3.49,100 Gramm,"Packung 378 Gramm, 18 x 21g",rewe,0.92,146,1.99,100 Gramm,"10 x 21 g, Packung 210 Gramm",aldi-nord,0.95
+10,322,Haribo Goldbären,1.75,100 Gramm,Mini-Maxi Beutel 250 Gramm,rewe,0.7,56,0.99,100 Gramm,Beutel 200 Gramm,aldi-nord,0.5
+11,324,Funny Frisch Chipsfrisch Ungarisch,1.39,100 Gramm,Beutel 175 Gramm,rewe,0.79,79,1.39,100 Gramm,Beutel 175 Gramm,aldi-nord,0.79
+12,340,Dr. Oetker Ristorante Pizza Salame,1.88,100 Gramm,Karton 320 Gramm,rewe,0.59,122,2.49,100 Gramm,Karton 320 Gramm,aldi-nord,0.78
+13,351,Original Wagner Steinofen Pizza Salami,1.79,100 Gramm,Packung 320  Gramm,rewe,0.56,121,2.29,100 Gramm,Packung 320  Gramm,aldi-nord,0.72
+14,375,Kölln Echte Kernige,1.39,100 Gramm,Packung 500 Gramm,rewe,0.278,706,0.99,100 Gramm,Packung 500 Gramm,aldi-nord,0.198
+15,407,Ferrero Milchschnitte,0.99,100 Gramm,"5 x 28 g, Packung 140 Gramm",rewe,0.71,177,1.99,100 Gramm,"10 x 28 g, Packung 280 Gramm",aldi-nord,0.71
+16,436,Wagner herzhafter Flammkuchen Unser Original,1.49,100 Gramm,Dose 800 Gramm,rewe,0.18600000000000003,123,2.29,100 Gramm,Packung 300 Gramm,aldi-nord,0.76
+17,531,Krustenbrot,1.15,100 Gramm, 1000 Gramm,rewe,0.115,1241,1.15,100 Gramm, 1000 Gramm,aldi-nord,0.115
+18,572,Miracel Whip Klassik,1.29,100 ml,Glas 500 ML,rewe,0.258,227,1.59,100 ml,Glas 500 ML,aldi-nord,0.318
+19,583,Ferrero Küsschen,2.25,100 Gramm,"Packung 124 Gramm, 14 Pralinen",rewe,1.81,470,2.99,100 Gramm,"Packung 178 Gramm, 20 Stück",aldi-nord,1.68
+20,593,Kerrygold Extra ungesalzen,1.99,100 Gramm,Becher 250 Gramm,rewe,0.8,466,2.19,100 Gramm,Becher 250 Gramm,aldi-nord,0.88
+21,600,Krombacher Pils,10.79,100 ml,"Kasten 10 L, 20 x 0,5 L ",rewe,0.108,218,0.79,100 ml,"Dose 0,5L",aldi-nord,0.158
+22,601,Red Bull Energy Drink,0.85,100 ml,Dose 250 ML,rewe,0.34,446,1.09,100 ml,Dose 250 ML,aldi-nord,0.4360000000000001
+23,604,Rotkäppchen Sekt Halbtrocken,2.69,100 ml,Flasche Glas 0.75 L,rewe,0.359,219,3.99,100 ml,Flasche Glas 0.75 L,aldi-nord,0.532
+24,656,Rocher Pralinen,2.29,100 Gramm,"Packung 200 Gramm, 16 Stück",rewe,1.15,413,3.49,100 Gramm,"Packung 200 Gramm, 16 Stück",aldi-nord,1.75
+25,657,Arla Kaergarden ungesalzen,1.29,100 Gramm,Becher 250 Gramm,rewe,0.52,451,1.29,100 Gramm,Becher 250 Gramm,aldi-nord,0.52
+26,665,Dr. Oetker Ristorante Pizza Tonno,1.99,100 Gramm,Packung 355 Gramm,rewe,0.561,221,2.49,100 Gramm,Packung 355 Gramm,aldi-nord,0.701
+27,733,Arla Kaergarden gesalzen,1.29,100 Gramm,Becher 250  Gramm,rewe,0.52,450,1.29,100 Gramm,Becher 250  Gramm,aldi-nord,0.52
+28,739,Oreo Doppelkeks Vanillegeschmack,1.49,100 Gramm,Packung 176 Gramm,rewe,0.85,473,1.49,100 Gramm,Packung 176 Gramm,aldi-nord,0.85
+29,745,Kerrygold Extra gesalzen,1.99,100 Gramm,Becher 250 Gramm,rewe,0.8,467,2.19,100 Gramm,Becher 250 Gramm,aldi-nord,0.88
+30,810,Dr. Oetker Original Pudding Vanille Geschmack,0.85,100 Gramm,"Packung 105 Gramm, 3er",rewe,0.81,298,0.99,100 Gramm,Packung 148 Gramm,aldi-nord,0.67
+31,811,Dr. Oetker Paradies Creme Sahne-Karamell-Geschmack,0.85,100 Gramm,Packung 76 Gramm,rewe,1.12,301,0.79,100 Gramm,Packung 76 Gramm,aldi-nord,1.04
+32,836,Äpfel Braeburn,0.3,100 Gramm,1 Stück,rewe,0.0,964,0.45,100 Gramm,Glas 680 Gramm,aldi-nord,0.066
+33,878,De Beukelaer Prinzen Rolle mit Kakaocreme,1.19,100 Gramm,Rolle 400 Gramm,rewe,0.3,228,1.49,100 Gramm,Rolle 400 Gramm,aldi-nord,0.37
+34,936,Ferrero Kinder Überraschung Ei,0.65,100 Gramm,Folie 20 Gramm,rewe,3.25,615,2.29,100 Gramm,"Folie 60 Gramm, 3 Stück",aldi-nord,3.82
+35,941,Arla Buko Der Sahnige,0.88,100 Gramm,Packung 200  Gramm,rewe,0.44,707,0.88,100 Gramm,Packung 200  Gramm,aldi-nord,0.44
+36,949,Mon Cheri Piemont Kirsche,2.89,100 Gramm,"15 Stück, Packung 157 Gramm",rewe,1.84,715,2.99,100 Gramm,"15 Stück, Packung 157 Gramm",aldi-nord,1.9
+37,972,Original Wagner Steinofen Pizza Speciale,1.79,100 Gramm,Packung 350 Gramm,rewe,0.51,220,2.29,100 Gramm,Packung 350 Gramm,aldi-nord,0.65
+38,1015,Kinder Country,1.85,100 Gramm,"Packung 211.5 Gramm, 9 x 23,5",rewe,0.87,471,1.99,100 Gramm,"Packung 211.5 Gramm, 9 x 23,5",aldi-nord,0.94
+39,1121,Ernst Wagners Original Pizza Diavola,2.49,100 Gramm,Packung 350 Gramm,rewe,0.7110000000000001,464,2.99,100 Gramm,Packung Ernst Wagners,aldi-nord,0.6950000000000001
+40,1139,Kinder Pingui Schoko,0.99,100 Gramm,"Packung 120 Gramm, 4 Stück",rewe,0.83,472,1.99,100 Gramm,"Family Pack 240 Gramm, 8 x 30 g",aldi-nord,0.83
+41,1141,Red Bull Energy Drink sugarfree,0.99,100 ml,Dose 250 ML,rewe,0.396,445,1.09,100 ml,Dose 250 ML,aldi-nord,0.4360000000000001
+42,1158,Arla Buko Frischkäse Garten Kräuter 18% Fett,1.29,100 Gramm,Packung 200 Gramm,rewe,0.65,465,0.88,100 Gramm,Packung 200 Gramm,aldi-nord,0.44
+43,1231,Haribo Color-Rado,0.95,100 Gramm,Beutel 200 Gramm,rewe,0.48,1263,1.19,100 Gramm,Maxi Pack 360 Gramm,aldi-nord,0.33
+44,1232,Haribo Phantasia,0.95,100 Gramm,Beutel 200  Gramm,rewe,0.48,1210,1.19,100 Gramm,Maxipack 360 Gramm,aldi-nord,0.33
+45,1254,Miracle Whip Balance,1.55,100 ml,Glas 250 ML,rewe,0.62,226,1.59,100 ml,Glas 500 ML,aldi-nord,0.318
+46,1274,Tafeltrauben hell,1.99,100 Gramm,Packung 500 Gramm,rewe,0.39799999999999996,1491,1.59,100 Gramm,Beutel 750 Gramm,aldi-nord,0.212
+47,1346,Harry-Brot Roggenkrüstchen 8 Stück,1.69,Preis pro Stück,Packung 8  Stück,rewe,0.21,1250,0.85,Preis pro Stück,Packung 8  Stück,aldi-nord,0.11
+48,1548,Dr. Oetker Ristorante Pizza Hawaii,2.69,100 Gramm,Packung 355 Gramm,rewe,0.76,222,2.49,100 Gramm,Packung 355 Gramm,aldi-nord,0.7
+49,1592,Leibniz Butterkeks 30% weniger Zucker,1.45,100 Gramm,Packung 150 Gramm,rewe,0.97,461,0.99,100 Gramm,Packung 150 Gramm,aldi-nord,0.66
+50,1595,Haribo Pico-Balla,0.95,100 Gramm,Beutel 175 Gramm,rewe,0.54,238,0.99,100 Gramm,Beutel 175 Gramm,aldi-nord,0.57
+51,1609,Funny Frisch Chipsfrisch Peperoni,1.89,100 Gramm,Beutel 175 Gramm,rewe,1.08,230,1.39,100 Gramm,Beutel 175 Gramm,aldi-nord,0.79
+52,1731,Orginal Radeberger Lachsschinken geschnitten,2.75,100 Gramm,Vakuum 150 Gramm,rewe,1.83,628,2.69,100 Gramm,Vakuum 150 Gramm,aldi-nord,1.79
+53,1828,Rotkäppchen Sekt Trocken,2.65,100 ml,Flasche Glas 0.75 L,rewe,0.353,547,6.6,100 Gramm,Folie 264 Gramm,aldi-nord,2.5
+54,1842,Fanta Orange,1.65,100 ml,Pet-Flasche 2 L,rewe,0.08299999999999999,552,0.99,100 Gramm,Beutel 150 Gramm,aldi-nord,0.66
+55,1862,Mezzo Mix Cola küsst Orange,1.11,100 ml,Pet-Flasche 2 L,rewe,0.056000000000000015,553,1.99,100 Gramm,Folie 650 Gramm,aldi-nord,0.306
+56,1863,Sprite,1.65,100 ml,Pet-Flasche 2 L,rewe,0.08299999999999999,551,0.89,100 ml,"Pet-Flasche 1,5 L 	",aldi-nord,0.059000000000000004
+57,1874,Ernst Wagners Original Pizza Pizza Margherita,3.49,100 Gramm,Packung 350 Gramm,rewe,1.0,1334,2.99,100 Gramm,Packung 350 Gramm,aldi-nord,0.85
+58,1884,Dr. Oetker Die Ofenfrische Pizza Salami,1.79,100 Gramm,Packung 250 Gramm,rewe,0.72,377,2.69,100 Gramm,Packung 380 Gramm,aldi-nord,0.71
+59,1914,Original Wagner Steinofen Pizza Mozzarella,2.49,100 Gramm,Packung 350 Gramm,rewe,0.71,376,2.29,100 Gramm,Packung 350 Gramm,aldi-nord,0.65
+60,1918,Mango frisch,0.99,Preis pro Stück, 1 Stück,rewe,0.99,1488,1.89,100 Gramm,Packung 400 Gramm,aldi-nord,0.473
+61,1938,Dr. Oetker Vitalis Knusper Müsli,2.99,100 Gramm,Packung 600 Gramm,rewe,0.4980000000000001,712,2.79,100 Gramm,Packung 600 Gramm,aldi-nord,0.465
+62,2134,Trauben hell kernlos,0.99,100 Gramm,Schale 500 Gramm,rewe,0.198,1483,1.19,100 Gramm,Schale 500 Gramm,aldi-nord,0.23800000000000002
+63,2169,Leibniz Butterkeks,0.99,100 Gramm,Packung 200 Gramm,rewe,0.5,703,0.99,100 Gramm,Packung 200 Gramm,aldi-nord,0.5
+64,2174,Halloren Von Herzen Sahne-Cacao,3.49,100 Gramm,Dose 200 Gramm,rewe,1.75,1485,1.99,100 Gramm,Packung 160 Gramm,aldi-nord,1.24
+65,2177,Funny Frisch Chipsfrisch Oriental,1.19,100 Gramm,Beutel 175 Gramm,rewe,0.68,384,1.39,100 Gramm,Beutel 175 Gramm,aldi-nord,0.79
+66,2307,Balisto Müsli Mix,1.99,100 Gramm,"Packung 166.5 Gramm, 9 x 18,5 g",rewe,1.2,717,1.79,100 Gramm,"Packung 166.5 Gramm, 9 x 18,5 g",aldi-nord,1.08
+67,2308,Dr. Oetker Paradies Creme Zitronen Geschmack,0.85,100 Gramm,Packung 78 Gramm,rewe,1.09,714,0.89,100 Gramm,Packung 78 Gramm,aldi-nord,1.14
+68,2309,Speisekartoffeln Deutschland vorwiegend festkochend,1.79,100 Gramm,"Sack 10 KG, Deutschland",rewe,0.018000000000000002,1490,1.19,100 ml,,aldi-nord,0.0
+69,2355,Brokkoli frisch,1.29,100 Gramm,Folie 500 Gramm,rewe,0.258,617,0.59,100 Gramm,Folie 500 Gramm,aldi-nord,0.11800000000000001
+70,2480,Kirschen frisch,4.9,100 Gramm,Packung 1 KG,rewe,0.4900000000000001,1422,1.99,100 Gramm,Packung 500 Gramm,aldi-nord,0.39799999999999996
+71,2570,Dr. Oetker Original Pudding Sahne Geschmack,0.85,100 Gramm,"Packung 105 Gramm, 3er",rewe,0.81,695,0.99,100 Gramm,Packung 148 Gramm,aldi-nord,0.67
+72,2571,Dr. Oetker Original Pudding Schokolade,0.99,100 Gramm,"Packung 126 Gramm, 3er",rewe,0.79,694,0.99,100 Gramm,"Packung 133,5 Gramm",aldi-nord,0.74
+73,2572,Dr. Oetker Paradies Creme Stracciatella,0.85,100 Gramm,Packung 66  Gramm,rewe,1.29,381,0.89,100 Gramm,Packung 66  Gramm,aldi-nord,1.35
+74,2573,Dr. Oetker Paradies Creme Schokolade,0.85,100 Gramm,Packung 73 Gramm,rewe,1.16,382,0.89,100 Gramm,Packung 73 Gramm,aldi-nord,1.22
+75,2574,Dr. Oetker Paradies Creme Vanille Geschmack,0.85,100 Gramm,Packung 63 Gramm,rewe,1.35,713,0.89,100 Gramm,Packung 63 Gramm,aldi-nord,1.41
+76,2628,Haribo Lakritz Konfekt,0.95,100 Gramm,Beutel 200 Gramm,rewe,0.48,720,1.99,100 Gramm,Beutel 500 Gramm,aldi-nord,0.4
+77,2632,Balisto Korn Mix,1.99,100 Gramm,"Packung 166.5 Gramm, 9 x 18,5 g",rewe,1.2,718,1.79,100 Gramm,"Packung 166.5 Gramm, 9 x 18,5 g",aldi-nord,1.08
+78,2718,Dr. Oetker Vitalis Knusper Schoko,2.22,100 Gramm,Packung 600 Gramm,rewe,0.37,711,2.79,100 Gramm,Packung 600 Gramm,aldi-nord,0.465
+79,2790,Weihenstephan Frischer Fruchtquark Vanille,1.89,100 Gramm,Becher 500 Gramm,rewe,0.37799999999999995,705,1.39,100 Gramm,Becher 500 Gramm,aldi-nord,0.278
+80,2811,Doppelbrötchen,0.29,100 Gramm, 1 Stück,rewe,0.0,1375,0.25,Preis pro Stück, 1 Stück,aldi-nord,0.25
+81,2865,Storck Merci Finest Selection Grosse Vielfalt,1.99,100 Gramm,Packung 250  Gramm,rewe,0.8,485,2.39,100 Gramm,Packung 200 Gramm,aldi-nord,1.2
+82,2873,Ferrero Giotto Haselnuss Gebäckspezialität,15.08,100 Gramm,"Packung 154.8 Gramm, 4 x 38,7, 36 Stück",rewe,9.74,1045,2.69,100 Gramm,"Packung 154.8 Gramm, 4 x 38,7, 36 Stück",aldi-nord,1.74
+83,2875,Duplo,3.49,100 Gramm,"Packung 327 Gramm, 18 x 18g",rewe,1.07,1046,1.99,100 Gramm,"Packung 180 Gramm, 10 x 18g",aldi-nord,1.11
+84,3062,Storck Toffifee,0.95,100 Gramm,"Packung 125  Gramm, 15 Stück",rewe,0.76,1044,2.69,100 Gramm,"Packung 250 Gramm, 2 x 125 Gramm",aldi-nord,1.08
+85,3219,Zitronen frisch,0.59,100 Gramm,Netz 500 Gramm,rewe,0.11800000000000001,1767,1.09,Preis pro Stück, 1 Stück,aldi-nord,1.09
+86,3393,Schneekoppe Apfelessig klar,1.69,100 ml,Flasche Glas 750 ML,rewe,0.225,1038,1.25,100 ml,Flasche Glas 750 ML,aldi-nord,0.16699999999999998
+87,3420,Sternburg Export 20-er,3.99,100 ml,"Kasten 11 x 0,5 L",rewe,0.073,1724,4.29,100 ml,Flasche Glas 0.7 L,aldi-nord,0.613
+88,3427,Wilhelm Brandenburg Kalbschnitzel aus der Oberschale,13.49,100 ml,"Kasten 4 L, 8 x 0,5L",rewe,0.337,1758,3.29,100 Gramm,Packung 100 Gramm,aldi-nord,3.29
+89,3815,Heidelbeeren frisch,1.0,100 Gramm,Schale 200 Gramm,rewe,0.5,1765,0.22,Preis pro Stück,,aldi-nord,0.22
+90,3818,Ben & Jerrys Ice Cream Cookie Dough,4.99,100 ml,Becher 500 ML,rewe,0.998,1333,4.99,100 ml,Becher 500 ML,aldi-nord,0.998
+91,3822,Storck Merci Finest Selection Helle Vielfalt,1.99,100 Gramm,Packung 250 Gramm,rewe,0.8,886,1.99,100 Gramm,Packung 400 Gramm,aldi-nord,0.4980000000000001
+92,3823,Storck Merci Finest Selection Herbe Vielfalt,1.99,100 Gramm,Packung 250 Gramm,rewe,0.8,885,5.99,100 Gramm,Packung 200 Gramm,aldi-nord,3.0
+93,3828,Rotkäppchen Sekt Rose trocken,25.14,100 ml,"Karton 4.5 L, 6 x 750 ml",rewe,0.5589999999999999,1335,3.99,100 ml,Flasche Glas 0.75 L,aldi-nord,0.532
+94,3873,Orangen,1.22,100 Gramm,Netz 2 KG,rewe,0.061,1770,0.69,100 Gramm,Schale 600 Gramm,aldi-nord,0.115
+95,4013,Ananas frisch,0.88,Preis pro Stück, 1 Stück,rewe,0.88,1768,1.89,100 Gramm,,aldi-nord,0.18899999999999997
+96,4221,"Thüringer Land Frische Fitmilch 1,5% Fett",1.09,100 ml,Getränkekarton 1 L,rewe,0.109,1772,1.49,100 Gramm,Packung 500 Gramm,aldi-nord,0.298
+97,4289,Ferrero Küsschen weiß,2.65,100 Gramm,"Packung 178 Gramm, 20 Stück",rewe,1.49,1336,2.99,100 Gramm,"Packung 178 Gramm, 20 Stück",aldi-nord,1.68
+98,4502,Suppengrün,0.79,100 Gramm,Schale 500 Gramm,rewe,0.158,1771,0.99,100 ml,Getränkekarton 1 L,aldi-nord,0.099
+99,4506,"Ami Hafermast Gänsebrust mit Knochen A, bratfertig gefroren",5.99,100 Gramm,Folie 1100 Gramm,rewe,0.545,1256,6.74,100 Gramm,Folie 900 Gramm,aldi-nord,0.7490000000000001
+100,4530,Himbeeren frisch,1.49,100 Gramm,Schale 125 Gramm,rewe,1.19,1764,1.55,100 Gramm,Schale 200 Gramm,aldi-nord,0.78
+101,5693,Weltmeisterbrötchen,0.29,Preis pro Stück, 1 Stück,rewe,0.29,2887,2.99,100 Gramm,Dose 700 Gramm,aldi-nord,0.427
+102,5739,Ben & Jerrys Ice Cream Half Baked,4.99,100 ml,Becher 500 ML,rewe,0.998,2173,4.99,100 ml,Becher 500 ML,aldi-nord,0.998
+103,6188,Buttercroissant,0.39,Preis pro Stück,1 Stück lose,rewe,0.39,1286,0.39,Preis pro Stück, 1 Stück,aldi-nord,0.39

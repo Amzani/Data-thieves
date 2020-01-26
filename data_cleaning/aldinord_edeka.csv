@@ -1,0 +1,97 @@
+,Unnamed: 0_x,Name,Price_x,Unit_x,Packet Size_x,Supermarket_x,Comparable Price_x,Unnamed: 0_y,Price_y,Unit_y,Packet Size_y,Supermarket_y,Comparable Price_y
+0,1,Nutella,3.79,100 Gramm,Glas 750 Gramm,aldi-nord,0.505,1,1.77,100 Gramm,"Glas 500 Gramm, + 50 g Gratis",edeka,0.354
+1,2,Coca Cola,2.89,100 ml,"6 x 0,33 L, 1.98 L",aldi-nord,0.146,0,1.39,100 ml,Pet-Flasche 1.5 L,edeka,0.09300000000000001
+2,4,Iglo Fischstäbchen,3.49,100 Gramm,"15er, Packung 450 Gramm",aldi-nord,0.7759999999999999,3,2.99,100 Gramm,"15er, Packung 450 Gramm",edeka,0.6639999999999999
+3,18,Meica Curry King,1.49,100 Gramm,Packung 220 Gramm,aldi-nord,0.68,27,1.99,100 Gramm,Packung 220 Gramm,edeka,0.9
+4,19,Iglo Schlemmer-Filet Classic a la Bordelaise,3.19,100 Gramm,Packung 380 Gramm,aldi-nord,0.8390000000000001,12,1.77,100 Gramm,Packung 380 Gramm,edeka,0.466
+5,25,Iglo Rahmspinat der mit dem Blubb,1.89,100 Gramm,Packung 750 Gramm,aldi-nord,0.252,72,1.59,100 Gramm,Packung 500 Gramm,edeka,0.318
+6,56,Haribo Goldbären,0.99,100 Gramm,Beutel 200 Gramm,aldi-nord,0.5,367,0.55,100 Gramm,Beutel 200 Gramm,edeka,0.28
+7,78,Maggi Würze Tischflasche,1.69,100 Gramm,Flasche Glas 250 Gramm,aldi-nord,0.68,298,0.89,100 Gramm,Becher 200 Gramm,edeka,0.45
+8,79,Funny Frisch Chipsfrisch Ungarisch,1.39,100 Gramm,Beutel 175 Gramm,aldi-nord,0.79,139,1.29,100 Gramm,Beutel 175 Gramm,edeka,0.74
+9,98,Kerrygold Original Irische Butter mildgesäuert,1.05,100 Gramm,Becher 400 Gramm,aldi-nord,0.263,65,1.11,100 Gramm,Packung 250  Gramm,edeka,0.44
+10,121,Original Wagner Steinofen Pizza Salami,2.29,100 Gramm,Packung 320  Gramm,aldi-nord,0.72,677,2.59,100 Gramm,Packung 320  Gramm,edeka,0.81
+11,122,Dr. Oetker Ristorante Pizza Salame,2.49,100 Gramm,Karton 320 Gramm,aldi-nord,0.78,64,1.66,100 Gramm,Karton 320 Gramm,edeka,0.52
+12,123,Wagner herzhafter Flammkuchen Unser Original,2.29,100 Gramm,Packung 300 Gramm,aldi-nord,0.76,538,2.59,100 Gramm,Packung 300 Gramm,edeka,0.86
+13,145,Raffaello Pralinen Kokos-Mandel,2.99,100 Gramm,Packung 230 Gramm,aldi-nord,1.3,372,2.69,100 Gramm,Packung 230 Gramm,edeka,1.17
+14,146,Ferrero Kinder Riegel,1.99,100 Gramm,"10 x 21 g, Packung 210 Gramm",aldi-nord,0.95,389,2.5,100 Gramm,"Packung 420 Gramm, 20 Riegel Sparpack",edeka,0.6
+15,176,Deli Reform Margarine Das Original,1.69,100 Gramm,"Netz 120 Gramm, 6 x 20 g",aldi-nord,1.41,392,0.88,100 Gramm,Becher 500  Gramm,edeka,0.17600000000000002
+16,177,Ferrero Milchschnitte,1.99,100 Gramm,"10 x 28 g, Packung 280 Gramm",aldi-nord,0.71,16,1.29,100 Gramm,"5 x 28 g, Packung 140 Gramm",edeka,0.92
+17,218,Krombacher Pils,0.79,100 ml,"Dose 0,5L",aldi-nord,0.158,999,3.99,100 ml,"Pack 3 L, 6 x 500 ml",edeka,0.133
+18,219,Rotkäppchen Sekt Halbtrocken,3.99,100 ml,Flasche Glas 0.75 L,aldi-nord,0.532,657,2.69,100 ml,Flasche Glas 0.75 L,edeka,0.359
+19,222,Dr. Oetker Ristorante Pizza Hawaii,2.49,100 Gramm,Packung 355 Gramm,aldi-nord,0.7,2123,1.99,100 Gramm,Packung 355 Gramm,edeka,0.56
+20,226,Miracle Whip Balance,1.59,100 ml,Glas 500 ML,aldi-nord,0.318,984,1.29,100 ml,Glas 500 ML,edeka,0.258
+21,227,Miracel Whip Klassik,1.59,100 ml,Glas 500 ML,aldi-nord,0.318,822,1.29,100 ml,Glas 500 ML,edeka,0.258
+22,228,De Beukelaer Prinzen Rolle mit Kakaocreme,1.49,100 Gramm,Rolle 400 Gramm,aldi-nord,0.37,146,1.49,100 Gramm,Rolle 400 Gramm,edeka,0.37
+23,229,Ehrmann Grand Dessert Plus Double-Choc,0.79,100 Gramm,Becher 190 Gramm,aldi-nord,0.42,2024,0.59,100 Gramm,Becher 200 Gramm,edeka,0.3
+24,264,Dr. Quendt Echter Dresdner Christstollen,6.99,100 Gramm,Packung 1000 Gramm,aldi-nord,0.6990000000000001,973,7.99,100 Gramm,Packung 1000 Gramm,edeka,0.799
+25,289,Rosenkohl,0.99,100 Gramm,Netz 750 Gramm,aldi-nord,0.132,807,1.98,100 Gramm,Netz 500 Gramm,edeka,0.396
+26,300,Kölln Blütenzarte Köllnflocken,0.99,100 Gramm,Packung 500 Gramm,aldi-nord,0.198,911,1.99,100 Gramm,Packung 180 Gramm,edeka,1.11
+27,301,Dr. Oetker Paradies Creme Sahne-Karamell-Geschmack,0.79,100 Gramm,Packung 76 Gramm,aldi-nord,1.04,940,0.59,100 Gramm,Packung 76 Gramm,edeka,0.78
+28,376,Original Wagner Steinofen Pizza Mozzarella,2.29,100 Gramm,Packung 350 Gramm,aldi-nord,0.65,3969,6.49,100 Gramm,Packung 500 Gramm,edeka,1.298
+29,377,Dr. Oetker Die Ofenfrische Pizza Salami,2.69,100 Gramm,Packung 380 Gramm,aldi-nord,0.71,2572,2.22,100 Gramm,Packung 380 Gramm,edeka,0.58
+30,381,Dr. Oetker Paradies Creme Stracciatella,0.89,100 Gramm,Packung 66  Gramm,aldi-nord,1.35,4013,1.65,100 Gramm,Becher 150 Gramm,edeka,1.1
+31,382,Dr. Oetker Paradies Creme Schokolade,0.89,100 Gramm,Packung 73 Gramm,aldi-nord,1.22,4012,0.89,100 Gramm,Packung 78 Gramm,edeka,1.14
+32,383,Ehrmann Grand Dessert Vanille,0.79,100 Gramm,Becher 190 Gramm,aldi-nord,0.42,3212,0.59,100 Gramm,Becher 200 Gramm,edeka,0.3
+33,403,Aldi Nord Knusper Schoklis,1.49,100 Gramm,Packung 250 Gramm,aldi-nord,0.6,1685,1.39,100 Gramm,Packung 250 Gramm,edeka,0.56
+34,413,Rocher Pralinen,3.49,100 Gramm,"Packung 200 Gramm, 16 Stück",aldi-nord,1.75,63,3.49,100 Gramm,"Packung 200 Gramm, 16 Stück",edeka,1.75
+35,446,Red Bull Energy Drink,1.09,100 ml,Dose 250 ML,aldi-nord,0.4360000000000001,998,0.99,100 ml,Dose 250 ML,edeka,0.396
+36,450,Arla Kaergarden gesalzen,1.29,100 Gramm,Becher 250  Gramm,aldi-nord,0.52,1926,1.79,100 Gramm,Becher 250  Gramm,edeka,0.72
+37,464,Ernst Wagners Original Pizza Diavola,2.99,100 Gramm,Packung Ernst Wagners,aldi-nord,0.6950000000000001,1124,2.59,100 Gramm,Packung 350 Gramm,edeka,0.74
+38,465,Arla Buko Frischkäse Garten Kräuter 18% Fett,0.88,100 Gramm,Packung 200 Gramm,aldi-nord,0.44,2078,1.19,100 Gramm,Packung 200 Gramm,edeka,0.6
+39,466,Kerrygold Extra ungesalzen,2.19,100 Gramm,Becher 250 Gramm,aldi-nord,0.88,1131,1.29,100 Gramm,Becher 250 Gramm,edeka,0.52
+40,467,Kerrygold Extra gesalzen,2.19,100 Gramm,Becher 250 Gramm,aldi-nord,0.88,1154,1.29,100 Gramm,Becher 250 Gramm,edeka,0.52
+41,468,Ehrmann Almighurt Himbeer,0.59,100 Gramm,Becher 150 Gramm,aldi-nord,0.39,2022,0.43,100 Gramm,Becher 150 Gramm,edeka,0.29
+42,469,Dr. Oetker Vitalis Schoko Müsli klassisch,2.79,100 Gramm,Packung 600 Gramm,aldi-nord,0.465,672,2.22,100 Gramm,Packung 600 Gramm,edeka,0.37
+43,470,Ferrero Küsschen,2.99,100 Gramm,"Packung 178 Gramm, 20 Stück",aldi-nord,1.68,1708,1.99,100 Gramm,"Packung 178 Gramm, 20 Stück",edeka,1.12
+44,471,Kinder Country,1.99,100 Gramm,"Packung 211.5 Gramm, 9 x 23,5",aldi-nord,0.94,1277,1.79,100 Gramm,"Packung 211.5 Gramm, 9 x 23,5",edeka,0.85
+45,472,Kinder Pingui Schoko,1.99,100 Gramm,"Family Pack 240 Gramm, 8 x 30 g",aldi-nord,0.83,681,1.29,100 Gramm,"Packung 120 Gramm, 4 Stück",edeka,1.08
+46,485,Storck Merci Finest Selection Grosse Vielfalt,2.39,100 Gramm,Packung 200 Gramm,aldi-nord,1.2,4394,1.99,100 Gramm,Packung 250  Gramm,edeka,0.8
+47,547,Rotkäppchen Sekt Trocken,6.6,100 Gramm,Folie 264 Gramm,aldi-nord,2.5,4219,1.29,100 ml,Flasche Glas 0.2 L,edeka,0.645
+48,551,Sprite,0.89,100 ml,"Pet-Flasche 1,5 L 	",aldi-nord,0.059000000000000004,4951,0.85,100 ml," 6 L, 12 x 500 ml, Mehrwegflasche",edeka,0.014000000000000002
+49,552,Fanta Orange,0.99,100 Gramm,Beutel 150 Gramm,aldi-nord,0.66,4566,0.89,100 ml,Pet-Flasche 1 L,edeka,0.08900000000000001
+50,553,Mezzo Mix Cola küsst Orange,1.99,100 Gramm,Folie 650 Gramm,aldi-nord,0.306,4211,0.99,100 ml,,edeka,0.0
+51,617,Brokkoli frisch,0.59,100 Gramm,Folie 500 Gramm,aldi-nord,0.11800000000000001,2565,1.59,100 ml,Dose 0.485 L,edeka,0.328
+52,679,Jermi Räucher Schinken,1.69,100 Gramm,Packung 250 Gramm,aldi-nord,0.68,1913,1.99,100 Gramm,Packung 250 Gramm,edeka,0.8
+53,702,Feldsalat küchenfertig,1.09,100 Gramm,Packung 150 Gramm,aldi-nord,0.73,3948,1.29,100 Gramm,Packung 150 Gramm,edeka,0.86
+54,703,Leibniz Butterkeks,0.99,100 Gramm,Packung 200 Gramm,aldi-nord,0.5,1450,0.88,100 Gramm,Packung 200 Gramm,edeka,0.44
+55,704,Weihenstephan Frischer Fruchtquark Pfirsich Maracuja,1.39,100 Gramm,Becher 500 Gramm,aldi-nord,0.28,2604,1.89,100 Gramm,Becher 500 Gramm,edeka,0.38
+56,705,Weihenstephan Frischer Fruchtquark Vanille,1.39,100 Gramm,Becher 500 Gramm,aldi-nord,0.278,2766,1.89,100 Gramm,Becher 500 Gramm,edeka,0.37799999999999995
+57,706,Kölln Echte Kernige,0.99,100 Gramm,Packung 500 Gramm,aldi-nord,0.198,2810,0.99,100 Gramm,Packung 500 Gramm,edeka,0.198
+58,707,Arla Buko Der Sahnige,0.88,100 Gramm,Packung 200  Gramm,aldi-nord,0.44,2468,0.88,100 Gramm,Packung 200  Gramm,edeka,0.44
+59,710,Dr. Oetker Vitalis Weniger süß Knusper Pur,2.79,100 Gramm,Packung 600 Gramm,aldi-nord,0.465,3417,2.79,100 Gramm,Packung 600 Gramm,edeka,0.465
+60,711,Dr. Oetker Vitalis Knusper Schoko,2.79,100 Gramm,Packung 600 Gramm,aldi-nord,0.465,2484,2.99,100 Gramm,Packung 600 Gramm,edeka,0.4980000000000001
+61,712,Dr. Oetker Vitalis Knusper Müsli,2.79,100 Gramm,Packung 600 Gramm,aldi-nord,0.465,2783,2.99,100 Gramm,Packung 600 Gramm,edeka,0.4980000000000001
+62,713,Dr. Oetker Paradies Creme Vanille Geschmack,0.89,100 Gramm,Packung 63 Gramm,aldi-nord,1.41,3367,0.59,100 Gramm,Packung 63 Gramm,edeka,0.94
+63,715,Mon Cheri Piemont Kirsche,2.99,100 Gramm,"15 Stück, Packung 157 Gramm",aldi-nord,1.9,303,1.15,100 Gramm,Tafel 100  Gramm,edeka,1.15
+64,716,Storck Knoppers Milch-Haselnuss-Schnitte,1.89,100 Gramm,"Packung 200 Gramm, 8 x 25 g",aldi-nord,0.95,4019,1.59,100 Gramm,"Packung 200 Gramm, 8 x 25 g",edeka,0.8
+65,718,Balisto Korn Mix,1.79,100 Gramm,"Packung 166.5 Gramm, 9 x 18,5 g",aldi-nord,1.08,3731,1.99,100 Gramm,Packung 180 Gramm,edeka,1.11
+66,719,Balisto Joghurt-Beeren-Mix,1.79,100 Gramm,"Packung 166.5 Gramm, 9",aldi-nord,1.08,3732,1.99,100 Gramm,Packung 180 Gramm,edeka,1.11
+67,720,Haribo Lakritz Konfekt,1.99,100 Gramm,Beutel 500 Gramm,aldi-nord,0.4,3735,1.69,100 Gramm,Beutel 400 Gramm,edeka,0.42
+68,886,Storck Merci Finest Selection Helle Vielfalt,1.99,100 Gramm,Packung 400 Gramm,aldi-nord,0.4980000000000001,6044,2.19,100 Gramm,Packung 250 Gramm,edeka,0.88
+69,964,Äpfel Braeburn,0.45,100 Gramm,Glas 680 Gramm,aldi-nord,0.066,975,0.99,100 Gramm, 1 KG,edeka,0.099
+70,1043,Vio Natürliches Mineralwasser still,0.79,100 ml,Pet-Flasche 1.5 L,aldi-nord,0.053000000000000005,5471,3.33,100 ml,"Pack 6 x 1,5L Pet",edeka,0.037000000000000005
+71,1044,Storck Toffifee,2.69,100 Gramm,"Packung 250 Gramm, 2 x 125 Gramm",aldi-nord,1.08,4570,0.99,100 Gramm,"Packung 125  Gramm, 15 Stück",edeka,0.79
+72,1045,Ferrero Giotto Haselnuss Gebäckspezialität,2.69,100 Gramm,"Packung 154.8 Gramm, 4 x 38,7, 36 Stück",aldi-nord,1.74,4397,2.15,100 Gramm,"Packung 154.8 Gramm, 4 x 38,7, 36 Stück",edeka,1.39
+73,1046,Duplo,1.99,100 Gramm,"Packung 180 Gramm, 10 x 18g",aldi-nord,1.11,4091,1.11,100 Gramm,"Packung 180 Gramm, 10 x 18g",edeka,0.62
+74,1210,Haribo Phantasia,1.19,100 Gramm,Maxipack 360 Gramm,aldi-nord,0.33,1349,0.79,100 Gramm,Beutel 200  Gramm,edeka,0.4
+75,1245,Rügen Fisch Heringsfilets in Tomaten-Creme,0.79,100 Gramm,Dose 200 Gramm,aldi-nord,0.4,1010,0.89,100 Gramm,Dose 200 Gramm,edeka,0.45
+76,1261,Südzucker Gelier Zucker 2 plus 1,0.69,100 Gramm,Packung 500 Gramm,aldi-nord,0.13799999999999998,2270,0.95,100 Gramm,Packung 500 Gramm,edeka,0.19
+77,1263,Haribo Color-Rado,1.19,100 Gramm,Maxi Pack 360 Gramm,aldi-nord,0.33,1852,0.55,100 Gramm,Beutel 200 Gramm,edeka,0.28
+78,1335,Rotkäppchen Sekt Rose trocken,3.99,100 ml,Flasche Glas 0.75 L,aldi-nord,0.532,6104,3.99,100 ml,Flasche Glas 0.75 L,edeka,0.532
+79,1419,Haribo Tropifrutti,1.19,100 Gramm,Maxipack 360 Gramm,aldi-nord,0.33,3742,0.79,100 Gramm,Beutel 200  Gramm,edeka,0.4
+80,1485,Halloren Von Herzen Sahne-Cacao,1.99,100 Gramm,Packung 160 Gramm,aldi-nord,1.24,3729,1.09,100 Gramm,Packung 125 Gramm,edeka,0.87
+81,1487,Blumenkohl 1 Kopf,1.95,100 Gramm,Packung 500 Gramm,aldi-nord,0.39,2563,0.49,Preis pro Stück, 1 Stück,edeka,0.49
+82,1488,Mango frisch,1.89,100 Gramm,Packung 400 Gramm,aldi-nord,0.473,2739,0.99,Preis pro Stück,"Mango Shelly essreif, faserarm aus Peru 1 Stück",edeka,0.99
+83,1490,Speisekartoffeln Deutschland vorwiegend festkochend,1.19,100 ml,,aldi-nord,0.0,3020,2.99,100 Gramm,Netz 10 KG,edeka,0.03
+84,1759,Rondo Melange,1.89,100 Gramm,Packung 200 Gramm,aldi-nord,0.95,5785,2.99,100 Gramm,Packung 500 Gramm,edeka,0.5980000000000001
+85,1764,Himbeeren frisch,1.55,100 Gramm,Schale 200 Gramm,aldi-nord,0.78,4376,2.99,100 Gramm,Schale 125 Gramm,edeka,2.39
+86,1766,Weißkohl frisch,0.69,100 Gramm,Netz 500 Gramm,aldi-nord,0.13799999999999998,6549,0.99,Preis pro Stück,"1 KG, Deutschland, Kl. 1",edeka,0.0
+87,1767,Zitronen frisch,1.09,Preis pro Stück, 1 Stück,aldi-nord,1.09,5531,0.99,100 Gramm,"Netz 1 kg, Spanien, Kl. 1",edeka,0.099
+88,1768,Ananas frisch,1.89,100 Gramm,,aldi-nord,0.18899999999999997,5528,1.79,Preis pro Stück, 1 Stück,edeka,1.79
+89,1770,Orangen,0.69,100 Gramm,Schale 600 Gramm,aldi-nord,0.115,5567,3.99,100 Gramm,Packung 1000 Gramm,edeka,0.39899999999999997
+90,1770,Orangen,0.69,100 Gramm,Schale 600 Gramm,aldi-nord,0.115,7742,2.99,100 Gramm,Netz 3 KG,edeka,0.1
+91,1771,Suppengrün,0.99,100 ml,Getränkekarton 1 L,aldi-nord,0.099,5647,1.99,100 Gramm,Packung 500 Gramm,edeka,0.39799999999999996
+92,2396,Haribo Süße Mäuse,1.59,100 Gramm,Beutel 400 Gramm,aldi-nord,0.4,3746,0.85,100 Gramm,Beutel 200 Gramm,edeka,0.43
+93,2397,Haribo Lakritz Schnecken,0.89,100 Gramm,Beutel 300 Gramm,aldi-nord,0.3,961,0.85,100 Gramm,Beutel 200 Gramm,edeka,0.43
+94,2401,Golden Cheese Käse Edamer in Scheiben,1.29,100 Gramm,Becher 250 Gramm,aldi-nord,0.52,7970,1.39,100 Gramm,Packung 250 Gramm,edeka,0.56
+95,2566,Sprengel Erfrischungsstäbchen leicht-frisch-fruchtig,0.89,100 Gramm,Packung 150 Gramm,aldi-nord,0.59,8562,0.65,100 Gramm,Packung 75 Gramm,edeka,0.87

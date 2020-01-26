@@ -1,0 +1,119 @@
+,Unnamed: 0_x,Name,Price_x,Unit_x,Packet Size_x,Supermarket_x,Comparable Price_x,Unnamed: 0_y,Price_y,Unit_y,Packet Size_y,Supermarket_y,Comparable Price_y
+0,1,Coca Cola,0.99,100 ml,Pet-Flasche 1.25 L,aldi-sued,0.079,0,1.39,100 ml,Pet-Flasche 1.5 L,edeka,0.09300000000000001
+1,4,Nutella,3.89,100 Gramm,"Glas 880 Gramm, + 80 g Gratis",aldi-sued,0.442,1,1.77,100 Gramm,"Glas 500 Gramm, + 50 g Gratis",edeka,0.354
+2,7,Iglo Schlemmer-Filet Classic a la Bordelaise,2.99,100 Gramm,Packung 380 Gramm,aldi-sued,0.787,12,1.77,100 Gramm,Packung 380 Gramm,edeka,0.466
+3,27,Dr. Oetker Rote Grütze herrlich fruchtig,1.99,100 Gramm,Becher 500 Gramm,aldi-sued,0.39799999999999996,90,1.68,100 Gramm,Becher 500 Gramm,edeka,0.336
+4,35,"Ramazzotti Amaro Kräuterbitter, 30% Vol.",12.99,100 ml,Flasche Glas 0.7 L,aldi-sued,1.856,137,11.99,100 ml,Flasche Glas 0.7 L,edeka,1.713
+5,42,Coppenrath & Wiese Unsere Goldstücke Weizenbrötchen,1.39,100 Gramm,"Packung 450 Gramm, 9 Stück",aldi-sued,0.309,66,1.59,100 Gramm,"Packung 420 Gramm, 6 Stück",edeka,0.379
+6,110,Brokkoli frisch,0.99,100 Gramm,Folie 500 Gramm,aldi-sued,0.198,2565,1.59,100 ml,Dose 0.485 L,edeka,0.328
+7,120,Bürger Eierspätzle Original schwäbisch,3.29,100 Gramm,Packung 1000 Gramm,aldi-sued,0.32899999999999996,913,1.49,100 Gramm,Packung 500 Gramm,edeka,0.298
+8,129,Raffaello Pralinen Kokos-Mandel,2.99,100 Gramm,Packung 260 Gramm,aldi-sued,1.15,372,2.69,100 Gramm,Packung 230 Gramm,edeka,1.17
+9,151,Bertolli Extra Vergine Originale das Fruchtige,5.69,100 ml,Flasche Glas 500 ML,aldi-sued,1.138,220,3.29,100 ml,Flasche Glas 500 ML,edeka,0.6579999999999999
+10,157,EDEKA Bratapfel Eis,1.69,100 ml,Packung 260 ML,aldi-sued,0.65,151,1.58,100 ml,Packung 260 ML,edeka,0.608
+11,158,Coca Cola Zero,0.89,100 ml,Pet-Flasche 1.25 L,aldi-sued,0.071,113,0.95,100 ml,Pet-Flasche 1.5 L,edeka,0.063
+12,218,Rotkäppchen Sekt Halbtrocken,3.99,100 ml,Flasche Glas 0.75 L,aldi-sued,0.532,657,2.69,100 ml,Flasche Glas 0.75 L,edeka,0.359
+13,219,President Meersalzbutter mit Meersalzkörner,3.19,100 Gramm,Becher 250 Gramm,aldi-sued,1.28,62,3.29,100 Gramm,Becher 250 Gramm,edeka,1.32
+14,255,Milka Alpenmilch Schokolade,0.95,100 Gramm,Tafel 100  Gramm,aldi-sued,0.95,43,0.79,100 Gramm,Tafel 100  Gramm,edeka,0.79
+15,257,Rocher Pralinen,3.49,100 Gramm,"Packung 200 Gramm, 16 Stück",aldi-sued,1.75,63,3.49,100 Gramm,"Packung 200 Gramm, 16 Stück",edeka,1.75
+16,268,Wirsing Deutschland,0.99,100 Gramm, 1 KG,aldi-sued,0.099,4016,0.69,100 Gramm, 1 KG,edeka,0.06899999999999999
+17,278,Mon Cheri Piemont Kirsche,2.99,100 Gramm,"15 Stück, Packung 157 Gramm",aldi-sued,1.9,303,1.15,100 Gramm,Tafel 100  Gramm,edeka,1.15
+18,279,Weihenstephan Frische Tafelbutter 82% Fett,1.49,100 Gramm,Packung 250  Gramm,aldi-sued,0.6,248,0.99,100 Gramm,Packung 250  Gramm,edeka,0.4
+19,280,Ferrero Küsschen,2.99,100 Gramm,"Packung 178 Gramm, 20 Stück",aldi-sued,1.68,1708,1.99,100 Gramm,"Packung 178 Gramm, 20 Stück",edeka,1.12
+20,378,Dr. Oetker Paradies Creme Vanille Geschmack,0.89,100 Gramm,Packung 63 Gramm,aldi-sued,1.41,3367,0.59,100 Gramm,Packung 63 Gramm,edeka,0.94
+21,416,Ananas frisch,1.79,Preis pro Stück, 1 Stück,aldi-sued,1.79,5528,1.79,Preis pro Stück, 1 Stück,edeka,1.79
+22,425,Jack Daniels Whisky Old Time No. 7 40 % Vol.,17.99,100 ml,Flasche Glas 0.7 L,aldi-sued,2.57,140,14.99,100 ml,Flasche Glas 0.7 L,edeka,2.141
+23,463,Landliebe Grieß Pudding Traditionell,0.99,100 Gramm,Becher 330 Gramm,aldi-sued,0.3,1399,0.69,100 Gramm,Becher 150 Gramm,edeka,0.46
+24,474,Havana Club Anejo 3 Anos 3 Jahre,4.99,100 Gramm,Beutel 450 Gramm,aldi-sued,1.109,44,13.99,100 ml,Flasche Glas 0.7 L,edeka,1.999
+25,480,Coca Cola Light,0.89,100 ml,Pet-Flasche 1.25 L,aldi-sued,0.071,305,0.69,100 Gramm,"Packung 93 Gramm, 10 Stück",edeka,0.74
+26,500,Fernet Branca,13.99,100 ml,Flasche Glas 0.7 L,aldi-sued,1.999,4107,8.77,100 ml,Flasche Glas 0.7 L,edeka,1.253
+27,572,Linie Aquavit,18.99,100 ml,Flasche Glas 700 ML,aldi-sued,2.713,4427,16.99,100 ml,Flasche Glas 700 ML,edeka,2.427
+28,573,Osborne Veterano,11.99,100 ml,Flasche Glas 0.7 L,aldi-sued,1.713,4547,8.99,100 ml,Flasche Glas 0.7 L,edeka,1.284
+29,575,Moskovskaya Russischer Wodka,8.49,100 ml,Flasche Glas 0.5 L,aldi-sued,1.6980000000000002,4095,7.99,100 ml,Flasche Glas 0.5 L,edeka,1.598
+30,576,Rotkäppchen Sekt Trocken,3.99,100 ml,Flasche Glas 0.75 L,aldi-sued,0.532,4219,1.29,100 ml,Flasche Glas 0.2 L,edeka,0.645
+31,579,Ouzo Plomari 40 % Vol.,11.99,100 ml,Geschenkpackung + Glas,aldi-sued,1.713,4551,8.99,100 ml,Flasche Glas 0.7 L,edeka,1.284
+32,580,Lavazza Caffe Crema Classico,12.99,100 Gramm,Beutel 1000 Gramm,aldi-sued,1.2990000000000002,2527,13.59,100 Gramm,Beutel 1000 Gramm,edeka,1.359
+33,581,Johnny Walker Black Label 12 years,24.99,100 ml,Flasche Glas 0.7 L,aldi-sued,3.5700000000000003,4983,26.99,100 ml,Flasche Glas 0.7 L,edeka,3.856
+34,646,Ferrero Milchschnitte,1.79,100 Gramm,"10 x 28 g, Packung 280 Gramm",aldi-sued,0.64,16,1.29,100 Gramm,"5 x 28 g, Packung 140 Gramm",edeka,0.92
+35,648,Haribo Goldbären,0.89,100 Gramm,Beutel 300 Gramm,aldi-sued,0.3,367,0.55,100 Gramm,Beutel 200 Gramm,edeka,0.28
+36,649,Pfanner Der Grüne Tee Zitrone-Kaktusfeige,0.99,100 ml,Getränkekarton 2 L,aldi-sued,0.05,148,1.44,100 ml,Getränkekarton 2 L,edeka,0.07200000000000001
+37,650,Capri Sonne Orange 10-er Pack 10 x 0.2 L,1.69,100 ml,Pack 2 L,aldi-sued,0.08499999999999999,231,1.99,100 ml,Pack 2 L,edeka,0.1
+38,652,Funny Frisch Chipsfrisch Ungarisch,1.19,100 Gramm,Beutel 175 Gramm,aldi-sued,0.68,139,1.29,100 Gramm,Beutel 175 Gramm,edeka,0.74
+39,708,Orangen,2.39,100 Gramm,Netz 2 KG,aldi-sued,0.12,5567,3.99,100 Gramm,Packung 1000 Gramm,edeka,0.39899999999999997
+40,708,Orangen,2.39,100 Gramm,Netz 2 KG,aldi-sued,0.12,7742,2.99,100 Gramm,Netz 3 KG,edeka,0.1
+41,733,Baileys Original Irish Cream,6.99,100 ml,"Flasche Sondergröße 0,5 Liter",aldi-sued,1.398,655,13.99,100 ml,Flasche Glas 700 ML,edeka,1.999
+42,734,Ernst Wagners Original Pizza Diavola,2.99,100 Gramm,Packung Ernst Wagners,aldi-sued,0.6950000000000001,1124,2.59,100 Gramm,Packung 350 Gramm,edeka,0.74
+43,744,Schneekoppe Bio Rote Bete Saft,0.85,100 ml,Getränkekarton 500ml,aldi-sued,0.16999999999999998,3778,0.99,100 ml,Flasche Glas 330 ML,edeka,0.3
+44,958,Himbeeren frisch,1.99,100 Gramm,Packung 100 Gramm,aldi-sued,1.99,4376,2.99,100 Gramm,Schale 125 Gramm,edeka,2.39
+45,1020,Äpfel Braeburn,0.89,100 Gramm, 1 KG,aldi-sued,0.08900000000000001,975,0.99,100 Gramm, 1 KG,edeka,0.099
+46,1022,Wassermelone,2.55,100 Gramm, 1 Stück,aldi-sued,0.0,899,1.29,100 Gramm, 1 KG,edeka,0.129
+47,1024,Dr. Quendt Echter Dresdner Christstollen,6.99,100 Gramm,Packung 1000 Gramm,aldi-sued,0.6990000000000001,973,7.99,100 Gramm,Packung 1000 Gramm,edeka,0.799
+48,1083,Abraham Katenschinken gewürfelt,1.49,100 Gramm,"Packung 211.5 Gramm, 9 x 23,5",aldi-sued,0.7,4477,1.79,100 Gramm,Packung 80 Gramm,edeka,2.24
+49,1084,Kinder Country,2.99,100 Gramm,Packung 420 Gramm,aldi-sued,0.7120000000000001,1277,1.79,100 Gramm,"Packung 211.5 Gramm, 9 x 23,5",edeka,0.85
+50,1118,Mango frisch,1.49,100 Gramm,Packung 400 Gramm,aldi-sued,0.373,2739,0.99,Preis pro Stück,"Mango Shelly essreif, faserarm aus Peru 1 Stück",edeka,0.99
+51,1173,"Südzucker Fein Zucker feinkörnig, rasch löslich",0.85,100 Gramm,Packung 1000 Gramm,aldi-sued,0.08499999999999999,2269,1.09,100 Gramm,Packung 1000 Gramm,edeka,0.109
+52,1178,Kinder Pingui Schoko,1.89,100 Gramm,"Family Pack 240 Gramm, 8 x 30 g",aldi-sued,0.79,681,1.29,100 Gramm,"Packung 120 Gramm, 4 Stück",edeka,1.08
+53,1179,Snickers Schokoriegel mit Erdnüsse und Karamel,2.29,100 Gramm,"Packung 309 Gramm, 9er",aldi-sued,0.74,1441,2.89,100 Gramm,"Packung 500 Gramm, 10 Stück",edeka,0.58
+54,1180,Ouzo 12,9.99,100 ml,Flasche Glas 0.7 L,aldi-sued,1.4269999999999998,1000,8.99,100 ml,Flasche Glas 0.7 L,edeka,1.284
+55,1181,Krombacher Pils,0.79,100 ml,"Dose 0,5L",aldi-sued,0.158,999,3.99,100 ml,"Pack 3 L, 6 x 500 ml",edeka,0.133
+56,1207,Paprika rot,1.79,100 Gramm,Beutel 500 Gramm,aldi-sued,0.358,3946,4.99,100 Gramm,Beutel 1 KG,edeka,0.499
+57,1210,Zucchini,0.69,100 Gramm, 1 KG,aldi-sued,0.06899999999999999,2837,1.99,100 Gramm, 1 KG,edeka,0.19899999999999998
+58,1281,Storck Nimm 2 Soft,1.99,100 Gramm,Beutel 345 Gramm,aldi-sued,0.58,4894,5.99,100 Gramm,Beutel 800 Gramm,edeka,0.75
+59,1285,Brandt Mini Vollkorn Zwieback Schoko Zartbitter,1.39,100 Gramm,Packung 125  Gramm,aldi-sued,1.11,2383,1.09,100 Gramm,Packung 125  Gramm,edeka,0.87
+60,1311,Red Bull Energy Drink,1.69,100 Gramm,Packung 420 Gramm,aldi-sued,0.4,998,0.99,100 ml,Dose 250 ML,edeka,0.396
+61,1312,Brandt Der Markenzwieback,1.59,100 Gramm,Packung 125 Gramm,aldi-sued,1.27,1856,1.99,100 Gramm,Vorratspackung 450 Gramm,edeka,0.44
+62,1313,"Schlütters Echte! Original Nürnberger Rostbratwurst 28 Stück,  Sonderposten",2.59,100 Gramm,Packung 500 Gramm,aldi-sued,0.518,1960,2.29,100 Gramm,"Packung 300 Gramm, 14 Stück",edeka,0.76
+63,1315,Wagner Big Pizza BBQ Chicken,1.79,100 Gramm,"Packung 320 Gramm, 8 x 2 Stück",aldi-sued,0.56,2138,2.39,100 Gramm,Packung 420 Gramm,edeka,0.57
+64,1317,Schwartau Extra Samt Erdbeere,1.39,100 Gramm,Glas 270 Gramm,aldi-sued,0.51,2396,1.89,100 Gramm,Glas 270 Gramm,edeka,0.7
+65,1390,Sprehe Deutsches Hähnchen mit Innereien,2.99,100 Gramm,Folie 1200 Gramm,aldi-sued,0.24900000000000005,4703,2.79,100 Gramm,Folie 1200 Gramm,edeka,0.233
+66,1391,Eckes Eierlikör,4.99,100 ml,Flasche Glas 500 ML,aldi-sued,0.998,4190,6.49,100 ml,Flasche Glas 500 ML,edeka,1.298
+67,1401,Biskin Gold Pflanzenfett,0.99,100 Gramm,Packung 250 Gramm,aldi-sued,0.4,6569,1.29,100 Gramm,Stange 250 Gramm,edeka,0.516
+68,1415,Rispentomaten frisch,0.65,100 Gramm,Packung 150 Gramm,aldi-sued,0.43,2479,1.99,100 Gramm,Packung 1 KG Niederlande,edeka,0.19899999999999998
+69,1416,Salatgurken frisch,0.45,Preis pro Stück, 1 Stück,aldi-sued,0.45,2830,0.33,Preis pro Stück, 1 Stück,edeka,0.33
+70,1417,Blumenkohl 1 Kopf,0.69,Preis pro Stück, 1 Stück,aldi-sued,0.69,2563,0.49,Preis pro Stück, 1 Stück,edeka,0.49
+71,1419,Kopfsalat kl. I,0.35,Preis pro Stück, 1 Stück,aldi-sued,0.35,1187,0.49,Preis pro Stück, 1 Stück,edeka,0.49
+72,1529,Kaki frisch,0.39,Preis pro Stück, 1 Stück,aldi-sued,0.39,2722,0.99,Preis pro Stück, 1 Stück,edeka,0.99
+73,1530,Rosenkohl,0.49,100 Gramm,Netz 1 KG,aldi-sued,0.049,807,1.98,100 Gramm,Netz 500 Gramm,edeka,0.396
+74,1532,Knoblauch,0.65,100 Gramm,Netz 200 Gramm,aldi-sued,0.33,3944,9.9,100 Gramm,Zopf 1 KG,edeka,0.99
+75,1533,Radieschen Bund,0.19,Preis pro Stück, 1 Stück,aldi-sued,0.19,2564,0.79,100 Gramm,Folie 500 Gramm,edeka,0.158
+76,1534,Speisezwiebeln,1.19,100 Gramm,Beutel 1.0 KG,aldi-sued,0.11900000000000001,3943,0.99,100 Gramm,Beutel 1.0 KG,edeka,0.099
+77,1611,"Wolf Mini Berner Würstchen mit Käse, 8 x 31,25 g",1.79,100 Gramm,Packung 250 Gramm,aldi-sued,0.72,4064,2.49,100 Gramm,Packung 250 Gramm,edeka,1.0
+78,1612,Zentis Marzipanbrot mit Schokoladenüberzug,0.55,100 Gramm,Beutel 200 Gramm,aldi-sued,0.28,3724,0.59,100 Gramm,Beutel 200 Gramm,edeka,0.3
+79,1618,Lauch / Poree,0.69,100 Gramm, 1 KG,aldi-sued,0.06899999999999999,2831,0.99,100 Gramm, 1 KG,edeka,0.099
+80,1619,Feigen frisch,1.59,100 Gramm,Packung 500 Gramm,aldi-sued,0.318,3947,0.79,100 Gramm,1 Stück,edeka,0.0
+81,1621,Bananen ca. 6 Stück,0.99,100 Gramm, 1 KG,aldi-sued,0.099,2576,0.99,100 Gramm, 1 KG,edeka,0.099
+82,1623,Deutscher Spargel weiss frisch,1.89,100 Gramm,Packung 500 Gramm,aldi-sued,0.37799999999999995,3955,5.9,100 Gramm,"Bund weiß violett, 16mm+, Kl. II, Deutschland",edeka,0.5900000000000001
+83,1629,Balisto Joghurt-Beeren-Mix,1.89,100 Gramm,"Packung 820 Gramm, 20 x 41 g ",aldi-sued,0.23,3732,1.99,100 Gramm,Packung 180 Gramm,edeka,1.11
+84,1631,Balisto Korn Mix,1.19,100 Gramm,Schale 500 Gramm,aldi-sued,0.23800000000000002,3731,1.99,100 Gramm,Packung 180 Gramm,edeka,1.11
+85,1632,"Danone Actimel Classic, 0,1% Fett",1.69,100 Gramm,Packung 410 Gramm,aldi-sued,0.412,3022,2.22,100 Gramm,"Packung 800 Gramm, 8 x 100 g",edeka,0.278
+86,1633,Weiße Champignon frisch,5.49,100 Gramm,Packung 500 Gramm,aldi-sued,1.1,3021,1.99,100 Gramm,Schale 1000 Gramm,edeka,0.19899999999999998
+87,1634,Wagner Big Pizza Supreme,1.19,100 Gramm,Beutel 175 Gramm,aldi-sued,0.68,2888,1.19,100 Gramm,Flasche Glas 165 Gramm,edeka,0.72
+88,1638,Mumm Extra Dry Sekt trocken,2.19,100 Gramm,Packung 600 Gramm,aldi-sued,0.365,1181,5.79,100 ml,Flasche Glas 0.75 L,edeka,0.772
+89,1640,Chantre Weinbrand 36% Vol.,6.99,100 ml,Flasche Glas 0.7 L,aldi-sued,0.9990000000000001,2857,2.89,Preis pro 100 Stück,Packung 64 Stück,edeka,4.52
+90,1761,Fanta Orange,0.89,100 ml,Pet-Flasche 1.25 L,aldi-sued,0.071,4566,0.89,100 ml,Pet-Flasche 1 L,edeka,0.08900000000000001
+91,1762,Mezzo Mix Cola küsst Orange,0.89,100 ml,Pet-Flasche 1.25 L,aldi-sued,0.071,4211,0.99,100 ml,,edeka,0.0
+92,1763,Sprite,0.89,100 ml,Pet-Flasche 1.25 L,aldi-sued,0.071,4951,0.85,100 ml," 6 L, 12 x 500 ml, Mehrwegflasche",edeka,0.014000000000000002
+93,2015,Gerolsteiner Sprudel Medium,0.79,100 ml,"Pet-Flasche 1,5 L 	",aldi-sued,0.053000000000000005,4090,6.79,100 ml,"Kasten 12 L, 12 x 1 L",edeka,0.057
+94,2018,Basilikum im Topf,0.79,Preis pro Stück, 1 Stück,aldi-sued,0.79,6655,1.79,Preis pro Stück, 1 Stück,edeka,1.79
+95,2022,Storck Merci Petits Chocolate Collection,1.69,100 Gramm,Beutel 200 Gramm,aldi-sued,0.85,5480,2.69,100 ml,Glas 250 ML,edeka,1.08
+96,2023,Ferrero Giotto Haselnuss Gebäckspezialität,1.85,100 Gramm,"Packung 154.8 Gramm, 4 x 38,7, 36 Stück",aldi-sued,1.2,4397,2.15,100 Gramm,"Packung 154.8 Gramm, 4 x 38,7, 36 Stück",edeka,1.39
+97,2035,Pfanner Der Gelbe Tee,0.99,100 ml,Getränkekarton 2 L,aldi-sued,0.05,2625,3.49,Preis pro Waschladung,Packung 30 Waschladungen,edeka,0.0
+98,2036,"Aperol italienischer Aperitiv Bitter Spirituose, 15 % Vol.",8.79,100 ml,Flasche Glas 0.7 L,aldi-sued,1.256,4101,8.99,100 ml,Flasche Glas 0.7 L,edeka,1.284
+99,2038,kaba Der Plantagentrank,1.35,100 Gramm,Nachfüllbeutel 500 Gramm,aldi-sued,0.27,2532,1.49,100 Gramm,Nachfüllbeutel 500 Gramm,edeka,0.298
+100,2041,Paprika Mix frisch,0.99,100 Gramm,"Folie 500 Gramm, Spanien Kl. 1",aldi-sued,0.198,6641,1.29,100 ml,Getränkekarton 1 L,edeka,0.129
+101,2043,Bio Bananen,1.19,100 Gramm,Folie 1 KG,aldi-sued,0.11900000000000001,5513,1.59,100 Gramm,Folie 1 KG,edeka,0.159
+102,2044,Birnen frisch,1.7,100 Gramm,Folie 1 KG,aldi-sued,0.16999999999999998,5776,3.99,100 Gramm,Birne Abate Fetel aus Südafrika 1 kg,edeka,0.39899999999999997
+103,2052,Honigmelone gelb,0.89,Preis pro Stück, 1 Stück,aldi-sued,0.89,6553,2.99,Preis pro Stück, 1 Stück,edeka,2.99
+104,2053,Chicoree frisch,0.69,100 Gramm, 500 Gramm,aldi-sued,0.13799999999999998,5515,0.99,100 Gramm, 500 Gramm,edeka,0.198
+105,2054,Zitronen frisch,0.29,100 Gramm, 1 Stück,aldi-sued,0.0,5531,0.99,100 Gramm,"Netz 1 kg, Spanien, Kl. 1",edeka,0.099
+106,2070,Eisbergsalat,0.35,Preis pro Stück, 1 Stück,aldi-sued,0.35,5498,0.59,Preis pro Stück, 1 Stück,edeka,0.59
+107,2078,Weißkohl frisch,0.39,Preis pro Stück, 1 Stück,aldi-sued,0.39,6549,0.99,Preis pro Stück,"1 KG, Deutschland, Kl. 1",edeka,0.0
+108,2084,Salatherzen frisch Mini Romana,1.59,100 Gramm,Packung 185 Gramm,aldi-sued,0.86,6551,1.29,Preis pro Stück,Packung 2 Stück,edeka,0.65
+109,2088,Pril Spülmittel Kraftgel,1.35,100 ml,Flasche 500ml,aldi-sued,0.27,5506,1.85,100 ml,Flasche Kunststoff 600 ML,edeka,0.308
+110,2089,Pril Spülmittel Sensitive,1.35,100 ml,Flasche 500 ML,aldi-sued,0.27,5525,1.54,100 ml,"Flasche Kunststoff 1L, + 11% gratis",edeka,0.154
+111,2328,Kupfer Original Nürnberger Rostbratwurst gebrüht,0.99,100 Gramm,Becher 200 Gramm,aldi-sued,0.5,7483,1.79,100 Gramm,Packung 200 Gramm,edeka,0.9
+112,2512,Kiwi Gold,0.22,Preis pro Stück, 1 Stück,aldi-sued,0.22,7450,0.49,Preis pro Stück, 1 Stück,edeka,0.49
+113,3533,Blend-a-med Zahncreme Classic,1.55,100 ml,XXL Tube 125 ML,aldi-sued,1.24,9031,2.39,100 ml,"Doppelpackung 150 ML, 2 x 75 ml",edeka,1.59
+114,3541,Perfetti Mentos Mint 4-er 4 x 38 g,1.49,100 Gramm,Packung 152 Gramm,aldi-sued,0.98,8578,1.49,100 Gramm,Packung 152 Gramm,edeka,0.98
+115,3542,Perfetti Mentos Fruit Kaudragee 4-er 4 x 38 g,1.49,100 Gramm,Packung 152 Gramm,aldi-sued,0.98,8579,1.49,100 Gramm,Packung 152 Gramm,edeka,0.98
+116,3559,Trentin Grana Padano 32% Fett,3.59,100 Gramm,Vakuum 200 Gramm,aldi-sued,1.8,9368,3.39,100 Gramm,Vakuum 200 Gramm,edeka,1.7
+117,3575,Blutorangen frisch,0.69,100 Gramm,Netz 1 KG,aldi-sued,0.06899999999999999,9208,1.99,100 Gramm,Netz 1.5 KG,edeka,0.133

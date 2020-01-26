@@ -1,0 +1,684 @@
+,Unnamed: 0_x,Name,Price_x,Unit_x,Packet Size_x,Supermarket_x,Comparable Price_x,Unnamed: 0_y,Price_y,Unit_y,Packet Size_y,Supermarket_y,Comparable Price_y
+0,0,Coca Cola,0.99,100 ml,Pet-Flasche 1.25 L,lidl,0.079,5,0.99,100 ml,Pet-Flasche 1.5 L,rewe,0.066
+1,3,Nutella,3.99,100 Gramm,Vorteils Glas 1000 Gramm,lidl,0.39899999999999997,4,3.79,100 Gramm,Glas 750 Gramm,rewe,0.505
+2,5,Iglo Fischstäbchen,3.39,100 Gramm,"15er, Packung 450 Gramm",lidl,0.753,14,1.77,100 Gramm,"15er, Packung 450 Gramm",rewe,0.39299999999999996
+3,8,Milka Alpenmilch Schokolade,1.09,100 Gramm,Tafel 100  Gramm,lidl,1.09,159,1.69,100 Gramm,Tafel 300 Gramm,rewe,0.56
+4,16,Rama Margarine Classic,1.79,100 Gramm,Becher 500 Gramm + 50g mehr Inhalt,lidl,0.325,163,0.99,100 Gramm,Becher 500  Gramm,rewe,0.198
+5,17,Kerrygold Original Irische Butter mildgesäuert,2.39,100 Gramm,Packung 250  Gramm,lidl,0.96,162,2.49,100 Gramm,Packung 250  Gramm,rewe,1.0
+6,36,Lätta Halbfettmargarine Original,0.99,100 Gramm,"XXL Becher 550 Gramm, 10% mehr Inhalt",lidl,0.18,35,0.99,100 Gramm,Becher 500  Gramm,rewe,0.198
+7,38,Iglo Schlemmer-Filet Classic a la Bordelaise,1.77,100 Gramm,Packung 380 Gramm,lidl,0.466,70,1.79,100 Gramm,Packung 380 Gramm,rewe,0.47100000000000003
+8,41,Dr. Oetker Die Ofenfrische Pizza Speciale,2.49,100 Gramm,Packung 405 Gramm,lidl,0.61,101,2.49,100 Gramm,Packung 405 Gramm,rewe,0.61
+9,41,Dr. Oetker Die Ofenfrische Pizza Speciale,2.49,100 Gramm,Packung 405 Gramm,lidl,0.61,2717,2.22,100 Gramm,Packung 405 Gramm,rewe,0.55
+10,1491,Dr. Oetker Die Ofenfrische Pizza Speciale,2.99,100 Gramm,Packung 405 Gramm,lidl,0.74,101,2.49,100 Gramm,Packung 405 Gramm,rewe,0.61
+11,1491,Dr. Oetker Die Ofenfrische Pizza Speciale,2.99,100 Gramm,Packung 405 Gramm,lidl,0.74,2717,2.22,100 Gramm,Packung 405 Gramm,rewe,0.55
+12,44,Danone Dany Sahne Schoko 4-er,1.79,100 Gramm,"Packung 460 Gramm, 4 x 115g",lidl,0.39,349,1.47,100 Gramm,"Packung 460 Gramm, 4 x 115g",rewe,0.32
+13,48,Thomy Sonnenblumenöl,1.99,100 ml,Flasche Glas 750 ML,lidl,0.265,143,0.99,100 ml,Flasche Glas 500 ML,rewe,0.2
+14,53,Funny Frisch Chipsfrisch Ungarisch,1.39,100 Gramm,Beutel 175 Gramm,lidl,0.79,324,1.39,100 Gramm,Beutel 175 Gramm,rewe,0.79
+15,57,"Iglo Filegro Backfisch Traditioneller Ofen-Backfisch, 2 Stück",1.66,100 Gramm,Packung 240 Gramm,lidl,0.69,38,1.88,100 Gramm,Packung 240 Gramm,rewe,0.78
+16,59,Danone Actimel Classic,1.99,100 Gramm,6er Packung 600 Gramm,lidl,0.332,68,1.99,100 Gramm,Packung 800 Gramm,rewe,0.24900000000000005
+17,69,Nestle Choco Crossies Classic,1.99,100 Gramm,"Packung 150 Gramm, 2 x 75 Gramm",lidl,1.33,1152,1.99,100 Gramm,Packung 180 Gramm,rewe,1.11
+18,70,Philadelphia Doppelrahmstufe Original,1.49,100 Gramm,Packung 175 Gramm,lidl,0.85,641,0.77,100 Gramm,Packung 175 Gramm,rewe,0.44
+19,72,Pepsi Cola Classic koffeinhaltig,0.99,100 ml,Pet-Flasche 1.5 L,lidl,0.066,576,3.79,100 ml,"Pack 9 L, 6 x 1,5 L",rewe,0.042
+20,73,"Milkana Schmelzkäse Kräuter, 50% Fett",1.99,100 Gramm,Packung 200 Gramm,lidl,1.0,980,1.99,100 Gramm,Packung 200 Gramm,rewe,1.0
+21,75,Rotkäppchen Sekt Halbtrocken,3.99,100 ml,Flasche Glas 0.75 L,lidl,0.532,604,2.69,100 ml,Flasche Glas 0.75 L,rewe,0.359
+22,76,Red Bull Energy Drink,1.09,100 ml,Dose 250 ML,lidl,0.4360000000000001,601,0.85,100 ml,Dose 250 ML,rewe,0.34
+23,93,Punica Classics Nektar Multivitamin 17+4,1.59,100 ml,Pet-Flasche 1500 ML,lidl,0.106,216,0.99,100 ml,Pet-Flasche 1500 ML,rewe,0.066
+24,94,Hela Curry Gewürz Ketchup delikat,2.29,100 ml,Flasche Kunststoff 800 ML,lidl,0.28600000000000003,106,1.79,100 ml,Flasche Kunststoff 800 ML,rewe,0.22400000000000006
+25,95,"Müller Müllermilch Schoko, 1,5 % Fett",0.89,100 Gramm,Flasche Kunststoff 400 Gramm,lidl,0.223,178,0.66,100 Gramm,Flasche Kunststoff 400 Gramm,rewe,0.16499999999999998
+26,96,Miracoli Spaghetti Klassiker mit Tomatensauce,1.99,100 Gramm,Packung 634 Gramm,lidl,0.314,180,25.14,100 ml,"Karton 6 x 0,75L",rewe,0.5589999999999999
+27,97,Coca Cola Zero,0.89,100 ml,Pet-Flasche 1.25 L,lidl,0.071,109,1.65,100 ml,Pet-Flasche 2 L,rewe,0.08299999999999999
+28,98,Henkell Trocken,5.99,100 ml,Flasche Glas 0.75 L,lidl,0.799,1762,0.69,100 Gramm,Becher 160 Gramm,rewe,0.43
+29,105,Rotkäppchen Sekt Alkoholfrei,3.99,100 ml,Flasche Glas 750 ML,lidl,0.532,181,0.99,100 Gramm,"Packung 450 Gramm, 9 Stück",rewe,0.22000000000000006
+30,111,Zentis Nusspli Nuss Nougat Creme,0.99,100 Gramm,Becher 400 Gramm,lidl,0.248,92,1.11,100 Gramm,Becher 400 Gramm,rewe,0.278
+31,126,"Salakis Schafskäse Natur, 50 % Fett",1.59,100 Gramm,Packung 200 Gramm,lidl,0.8,177,1.69,100 Gramm,Packung 200 Gramm,rewe,0.85
+32,151,Golden Toast Butter Toast,1.19,100 Gramm,Packung 500  Gramm,lidl,0.23800000000000002,271,0.99,100 Gramm,Packung 250  Gramm,rewe,0.396
+33,152,Bertolli Extra Vergine Originale das Fruchtige,4.69,100 ml,Flasche Glas 500 ML,lidl,0.938,223,4.49,100 ml,Flasche Glas 500 ML,rewe,0.898
+34,154,Barilla Spaghetti No.5,0.77,100 Gramm,Packung 500 Gramm,lidl,0.154,165,0.69,100 Gramm,Packung 500 Gramm,rewe,0.13799999999999998
+35,181,Jacobs Krönung Original,5.99,100 Gramm,Packung 500 Gramm,lidl,1.198,1830,4.44,100 Gramm,Packung 500 Gramm,rewe,0.8880000000000001
+36,184,Chantre Weinbrand 36% Vol.,6.99,100 ml,Flasche Glas 0.7 L,lidl,0.9990000000000001,3029,5.99,100 ml,Flasche Glas 0.7 L,rewe,0.8560000000000001
+37,187,Cinzano Asti,6.29,100 ml,Flasche Glas 0.75 L,lidl,0.8390000000000001,3375,4.99,100 ml,Flasche Glas 0.75 L,rewe,0.665
+38,190,Melitta Bella Crema La Crema,12.99,100 Gramm,Packung 1000 Gramm,lidl,1.2990000000000002,3418,8.99,100 Gramm,Packung 1000 Gramm,rewe,0.899
+39,193,Melitta Cafe Auslese,5.69,100 Gramm,Vakuum 500 Gramm,lidl,1.138,1833,4.29,100 Gramm,Vakuum 500 Gramm,rewe,0.858
+40,199,"Aperol italienischer Aperitiv Bitter Spirituose, 15 % Vol.",9.99,100 ml,Flasche Glas 0.7 L,lidl,1.4269999999999998,1849,10.59,100 ml,Flasche Glas 0.7 L,rewe,1.513
+41,235,"Old Amsterdam Gouda alt Holländischer Schnittkäse Alt, in Scheiben,  48 % Fett",1.79,100 Gramm,Packung 125 Gramm,lidl,1.43,217,2.29,100 Gramm,Packung 125 Gramm,rewe,1.83
+42,257,Rama mit Butter,1.29,100 Gramm,Becher 225 Gramm,lidl,0.57,1806,1.19,100 Gramm,Becher 225 Gramm,rewe,0.53
+43,261,Leerdammer Original Scheibenkäse Classic 45 % Fett,1.99,100 Gramm,"Packung 140g, 7 Scheiben",lidl,1.42,234,1.39,100 Gramm,"Packung 140g, 7 Scheiben",rewe,0.99
+44,262,Lorenz Crunchips Paprika,1.19,100 Gramm,Beutel 200 Gramm,lidl,0.6,403,1.89,100 Gramm,Beutel 200 Gramm,rewe,0.95
+45,263,Ritter Sport Schokolade Voll-Nuss,1.29,100 Gramm,Tafel 100 Gramm,lidl,1.29,323,0.69,100 Gramm,Tafel 100 Gramm,rewe,0.69
+46,264,Becks Pils,4.29,100 ml,"6 x 0,5 L, Pack 3 L",lidl,0.14300000000000002,244,10.99,100 ml,"20 x 0,5 L, Kasten 10 L",rewe,0.11
+47,265,Deli Reform Margarine Das Original,0.85,100 Gramm,Becher 555 Gramm,lidl,0.153,287,0.89,100 Gramm,Becher 500  Gramm,rewe,0.17800000000000002
+48,266,Dr. Oetker Bistro Baguette Salami,2.45,100 Gramm,"Multipackung 500 Gramm, 4 x 125 g",lidl,0.49,277,0.99,100 Gramm,Packung 250 Gramm,rewe,0.4
+49,268,Kinder Bueno,2.79,100 Gramm,"Packung 258 Gramm, 12 x 21,5 g 	 ",lidl,1.08,382,1.79,100 Gramm,"Packung 129 Gramm, 6 Stück",rewe,1.39
+50,269,Coca Cola Light,0.89,100 ml,Pet-Flasche 1.25 L,lidl,0.071,238,1.65,100 ml,Pet-Flasche 2 L,rewe,0.08299999999999999
+51,270,Maggi Ravioli in Tomatensauce,1.39,100 Gramm,Dose 800 Gramm,lidl,0.174,256,1.29,100 Gramm,Dose 800 Gramm,rewe,0.161
+52,271,Hanuta Haselnuss Schnitte,1.89,100 Gramm,Packung 249.6 Gramm,lidl,0.76,417,0.55,100 Gramm,"Packung 44 Gramm, 2er",rewe,1.25
+53,272,"Ramazzotti Amaro Kräuterbitter, 30% Vol.",8.88,100 ml,Flasche Glas 0.7 L,lidl,1.2690000000000001,235,12.59,100 ml,Flasche Glas 0.7 L,rewe,1.7990000000000002
+54,273,Milkana Runddose Vielfalt Schmelzkäse 8 x 25 g,1.99,100 Gramm,Dose 200 Gramm,lidl,1.0,378,1.99,100 Gramm,Dose 200 Gramm,rewe,1.0
+55,275,Rocher Pralinen,3.49,100 Gramm,"Packung 200 Gramm, 16 Stück",lidl,1.75,656,2.29,100 Gramm,"Packung 200 Gramm, 16 Stück",rewe,1.15
+56,276,Danone Actimel Erdbeere,1.99,100 Gramm,Packung 400 Gramm,lidl,0.4980000000000001,501,1.0,100 Gramm,Packung 400 Gramm,rewe,0.25
+57,278,Ferrero Kinder Riegel,2.39,100 Gramm,"10 x 21 g, Packung 210 Gramm",lidl,1.14,289,3.49,100 Gramm,"Packung 378 Gramm, 18 x 21g",rewe,0.92
+58,279,Mini Babybel rot 45% Fett,1.89,100 Gramm,"Netz 140 Gramm, 7 Stück",lidl,1.35,331,4.79,100 Gramm,Packung 400 Gramm. 20 x 20 g,rewe,1.2
+59,281,Schwip Schwap ohne Zucker,0.89,100 ml,Pet-Flasche 1.5 L,lidl,0.059000000000000004,334,0.59,100 ml,Pet-Flasche 1.5 L,rewe,0.039
+60,284,Pringles Kartoffelchips Hot & Spicy,2.15,100 Gramm,Dose 190 Gramm,lidl,1.13,251,1.29,100 Gramm,Dose 190 Gramm,rewe,0.68
+61,292,Ferrero Milchschnitte,1.79,100 Gramm,Beutel 200 Gramm,lidl,0.9,407,0.99,100 Gramm,"5 x 28 g, Packung 140 Gramm",rewe,0.71
+62,293,Lorenz Erdnuß Locken Leicht,1.19,100 Gramm,Packung 600 Gramm,lidl,0.198,485,1.79,100 Gramm,Beutel 200 Gramm,rewe,0.9
+63,296,Paprika rot,2.77,100 Gramm,Packung 396 Gramm,lidl,0.7,1789,1.19,100 Gramm,Beutel 500 Gramm,rewe,0.23800000000000002
+64,301,Krustenbrot,1.15,100 Gramm, 1000 Gramm,lidl,0.115,531,1.15,100 Gramm, 1000 Gramm,rewe,0.115
+65,3828,Krustenbrot,1.29,100 Gramm, 1000 Gramm,lidl,0.129,531,1.15,100 Gramm, 1000 Gramm,rewe,0.115
+66,368,Kaki frisch,1.49,Preis pro Stück, 1 Stück,lidl,1.49,2430,0.39,Preis pro Stück, 1 Stück,rewe,0.39
+67,441,Frosta Tagliatelle Wildlachs,3.49,100 Gramm,"Packung 650 Gramm, + 30% mehr Inhalt",lidl,0.537,201,2.49,100 Gramm,Packung 500 Gramm,rewe,0.4980000000000001
+68,447,"Patros Feta Natur,  40% Fett",1.99,100 Gramm,Packung 225 Gramm,lidl,0.884,479,1.99,100 Gramm,Packung 200 Gramm,rewe,0.995
+69,464,Weihenstephan Frische Tafelbutter 82% Fett,0.99,100 Gramm,Packung 250  Gramm,lidl,0.4,386,0.77,100 Gramm,Becher 150  Gramm,rewe,0.51
+70,465,Landliebe Butter 82% Fett,0.99,100 Gramm,Packung 250  Gramm,lidl,0.4,348,2.09,100 Gramm,Packung 250  Gramm,rewe,0.84
+71,466,Golden Toast Vollkorn Toast,1.19,100 Gramm,Packung 500 Gramm,lidl,0.23800000000000002,363,1.29,100 Gramm,Packung 500 Gramm,rewe,0.258
+72,467,Dr. Oetker Ristorante Pizza Salame,2.69,100 Gramm,Karton 320 Gramm,lidl,0.84,340,1.88,100 Gramm,Karton 320 Gramm,rewe,0.59
+73,469,Uncle Bens Express Spitzen-Langkorn-Reis 2 Minuten,1.59,100 Gramm,Packung 250 Gramm,lidl,0.64,704,1.75,100 Gramm,Packung 250 Gramm,rewe,0.7
+74,471,Danone Activia Classic Natur,1.99,100 Gramm,"Packung 500 Gramm, 4 x 125g",lidl,0.4,306,1.99,100 Gramm,"Packung 460 Gramm, 4 x 115 Gramm",rewe,0.43
+75,475,Wagner herzhafter Flammkuchen Unser Original,2.59,100 Gramm,Packung 300 Gramm,lidl,0.86,436,1.49,100 Gramm,Dose 800 Gramm,rewe,0.18600000000000003
+76,480,Milka Noisette Schokolade,0.79,100 Gramm,Tafel 100  Gramm,lidl,0.79,801,0.59,100 Gramm,Tafel 100  Gramm,rewe,0.59
+77,484,Landliebe Sahnepudding Schokolade,1.99,100 Gramm,"Packung 500 Gramm, 4 Stück",lidl,0.4,717,0.49,100 Gramm,Becher 150 Gramm,rewe,0.33
+78,485,Iglo Schlemmer Filet Sylter Art,1.77,100 Gramm,Packung 380 Gramm,lidl,0.466,713,1.88,100 Gramm,Packung 380 Gramm,rewe,0.495
+79,495,"Danone Fruchtzwerge Erdbeere, Kirsche, Himbeere, 6 x 50 g",1.35,100 Gramm,Packung 300 Gramm,lidl,0.45,500,1.39,100 Gramm,Packung 300 Gramm,rewe,0.46
+80,497,Geramont Frisch Genuss Frischkäsespezialität mit Creme Fraiche,2.19,100 Gramm,Packung 150 Gramm,lidl,1.46,409,1.66,100 Gramm,Packung 150 Gramm,rewe,1.11
+81,503,Milka I love Milka Erdbeer-Rahm,1.99,100 Gramm,Packung 125 Gramm,lidl,1.59,822,1.99,100 Gramm,Packung 125 Gramm,rewe,1.59
+82,555,"Weihenstephan Haltbare Alpenmilch 3,5% Fett",0.79,100 ml,Getränkekarton 1 L,lidl,0.079,282,1.15,100 ml,Getränkekarton 1 L,rewe,0.115
+83,558,Dr. Oetker Steinofen Tradizionale Salame Pizza,2.22,100 Gramm,Karton 310 Gramm,lidl,0.72,240,2.22,100 Gramm,Karton 310 Gramm,rewe,0.72
+84,682,Haribo Goldbären,0.89,100 Gramm,Beutel 300 Gramm,lidl,0.3,322,1.75,100 Gramm,Mini-Maxi Beutel 250 Gramm,rewe,0.7
+85,683,Milram Paprikaquark,0.69,100 Gramm,Becher 200 Gramm,lidl,0.35,402,0.59,100 Gramm,Becher 200 Gramm,rewe,0.3
+86,685,Pfanner Der Grüne Tee Zitrone-Kaktusfeige,0.99,100 ml,Getränkekarton 2 L,lidl,0.05,412,1.11,100 ml,Getränkekarton 2 L,rewe,0.056000000000000015
+87,686,Wolf Thüringer Rostbratwurst roh,1.89,100 Gramm,"Packung 400 Gramm, 4 Stück",lidl,0.473,534,3.49,100 Gramm,"Packung 450 Gramm, 3 Stück",rewe,0.7759999999999999
+88,688,Miracoli Pasta Sauce Tomate Kräuter,1.29,100 ml,Glas 500 ML,lidl,0.258,401,1.99,100 ml,Glas 500 ML,rewe,0.39799999999999996
+89,692,Geramont mit Joghurt 20% Fett,1.59,100 Gramm,Packung 200 Gramm,lidl,0.8,327,2.45,100 Gramm,Packung 200 Gramm,rewe,1.23
+90,695,Houdek Kabanos Klassik,1.25,100 Gramm,Packung 100 Gramm,lidl,1.25,533,1.59,100 Gramm,"Packung 150 Gramm, 2 x 75-g-Packung",rewe,1.06
+91,699,Amicelli Waffelröllchen,1.99,100 Gramm,"Packung 225 Gramm, 18 12,5g",lidl,0.88,524,1.99,100 Gramm,"Packung 225 Gramm, 18 12,5g",rewe,0.88
+92,700,Milka Adventskalender,4.44,100 Gramm,Packung 200 Gramm,lidl,2.22,373,4.44,100 Gramm,Packung 200 Gramm,rewe,2.22
+93,719,Dr. Oetker Die Ofenfrische Pizza Pepperoni-Salami,2.39,100 Gramm,Packung 320  Gramm,lidl,0.75,339,2.57,100 Gramm,Packung 400 Gramm,rewe,0.64
+94,720,Original Wagner Steinofen Pizza Salami,0.88,100 Gramm,Packung 125 Gramm,lidl,0.7,351,1.79,100 Gramm,Packung 320  Gramm,rewe,0.56
+95,721,Leibniz Choco Vollmilch,1.29,100 Gramm,Packung 500 Gramm,lidl,0.258,834,0.99,100 Gramm,Packung 125 Gramm,rewe,0.79
+96,789,Arla Kaergarden ungesalzen,1.89,100 Gramm,Becher 250 Gramm,lidl,0.76,657,1.29,100 Gramm,Becher 250 Gramm,rewe,0.52
+97,790,Arla Kaergarden gesalzen,1.89,100 Gramm,Becher 250  Gramm,lidl,0.76,733,1.29,100 Gramm,Becher 250  Gramm,rewe,0.52
+98,791,"Meggle die Kräuter-Butter Portionen Original portioniert, 5 x 20 g",1.39,100 Gramm,Packung 100 Gramm,lidl,1.39,1213,1.39,100 Gramm,Packung 100 Gramm,rewe,1.39
+99,792,"Bonbel Butterkäse in Scheiben, 50% Fett",0.99,100 Gramm,Packung 100  Gramm,lidl,0.99,974,1.29,100 Gramm,Packung 100  Gramm,rewe,1.29
+100,793,"Geramont Weichkäse Cremig-Leicht, 16% Fett",2.29,100 Gramm,Packung 200 Gramm,lidl,1.15,963,1.66,100 Gramm,Packung 200 Gramm,rewe,0.83
+101,794,Exquisa Der Sahnige Natur,0.99,100 Gramm,Packung 200 Gramm,lidl,0.5,985,0.77,100 Gramm,Packung 200 Gramm,rewe,0.39
+102,795,Funny Frisch Frit Sticks ungarisch,1.39,100 Gramm,Beutel 100  Gramm,lidl,1.39,268,0.99,100 Gramm,Beutel 100  Gramm,rewe,0.99
+103,796,After Eight Classic,1.99,100 Gramm,Packung 200   Gramm,lidl,1.0,1605,1.99,100 Gramm,Packung 200   Gramm,rewe,1.0
+104,797,Ritter Sport Schokolade Nugat,0.99,100 Gramm,Tafel 100  Gramm,lidl,0.99,595,0.59,100 Gramm,Tafel 100  Gramm,rewe,0.59
+105,798,Sonnen Bassermann Hühner Nudeltopf mit buntem Gemüse,1.95,100 Gramm,Dose 800 Gramm,lidl,0.244,976,1.29,100 Gramm,Dose 800 Gramm,rewe,0.161
+106,799,Becel pro-activ Halbfettmargarine 40% Fett,2.99,100 Gramm,Becher 250 Gramm,lidl,1.1960000000000002,880,2.29,100 Gramm,Becher 250 Gramm,rewe,0.9159999999999999
+107,800,Becel Classic 60% Fett,1.49,100 Gramm,"Becher 250 Gramm, Classic",lidl,0.596,886,0.99,100 Gramm,"Becher 250 Gramm, Classic",rewe,0.396
+108,801,Deli Reform Die Leichte Halbfettmargarine,1.39,100 Gramm,Becher 500  Gramm,lidl,0.278,975,0.89,100 Gramm,Becher 500  Gramm,rewe,0.17800000000000002
+109,802,Mazola Keimöl,1.99,100 ml,Flasche Glas 750  ML,lidl,0.265,332,2.89,100 ml,Flasche Glas 750  ML,rewe,0.385
+110,803,Emmi Caffe Latte Macchiato,1.39,100 ml,Becher 230 ML,lidl,0.6,854,3.99,100 ml,"Packung 920 ML, 4 x 230 ml, Gratis Glas",rewe,0.43
+111,805,Dr. Oetker Ristorante Pizza Tonno,2.69,100 Gramm,Packung 355 Gramm,lidl,0.758,665,1.99,100 Gramm,Packung 355 Gramm,rewe,0.561
+112,806,Uncle Bens Express Reis Mediterran 2 Minuten,1.59,100 Gramm,Packung 250 Gramm,lidl,0.64,1366,1.75,100 Gramm,Packung 250 Gramm,rewe,0.7
+113,807,Dallmayr Crema d Oro,8.99,100 Gramm,Beutel 1000 Gramm,lidl,0.899,740,8.88,100 Gramm,Beutel 1000 Gramm,rewe,0.8880000000000001
+114,809,Celebrations Pralinenmischung,2.79,100 Gramm,Packung 190 Gramm,lidl,1.47,962,3.99,100 Gramm,Packung 297 Gramm,rewe,1.34
+115,811,"Müller Reine Buttermilch Pur, 0.9% Fett",0.59,100 Gramm,Becher 500 Gramm,lidl,0.11800000000000001,577,0.39,100 Gramm,Becher 500 Gramm,rewe,0.078
+116,813,Nescafe Classic Original,5.99,100 Gramm,Glas 200 Gramm,lidl,3.0,874,5.49,100 Gramm,Glas 200 Gramm,rewe,2.75
+117,814,Schwartau Fruit 2 Day Erdbeere-Orange,1.89,100 ml,Doppelpackung 400 ML,lidl,0.47,964,1.49,100 ml,Doppelpackung 400 ML,rewe,0.37
+118,815,Caro Landkaffee Original,2.99,100 Gramm,Dose 200 Gramm,lidl,1.5,978,2.79,100 Gramm,Dose 200 Gramm,rewe,1.4
+119,816,Original Wagner Steinofen Pizza Speciale,2.29,100 Gramm,Packung 350 Gramm,lidl,0.65,972,1.79,100 Gramm,Packung 350 Gramm,rewe,0.51
+120,819,Miracle Whip Balance,1.29,100 ml,Glas 500 ML,lidl,0.258,1254,1.55,100 ml,Glas 250 ML,rewe,0.62
+121,820,Langnese Flotte Biene Wildblüten Honig,2.79,100 Gramm,Spenderflasche 250 Gramm,lidl,1.1159999999999999,1217,4.99,100 Gramm,Spenderflasche 500 Gramm,rewe,0.998
+122,821,"Danone Fruchtzwerge weniger süss Erdbeere, Aprikose, Banane, 6 x 50 g",1.29,100 Gramm,Packung 300 Gramm,lidl,0.43,1351,0.99,100 Gramm,Packung 300 Gramm,rewe,0.33
+123,822,"Danone Fruchtzwerge Banane, Erdbeere, Aprikose",1.49,100 Gramm,"Packung 300 Gramm, 6 x 50g",lidl,0.5,1133,0.99,100 Gramm,"Packung 300 Gramm, 6 x 50g",rewe,0.33
+124,823,Langnese Cremissimo Bourbon Vanille,1.99,100 ml,Packung 1000 ML,lidl,0.19899999999999998,658,2.22,100 ml,Packung 1000 ML,rewe,0.22200000000000006
+125,824,Brunch Cremiger Brotaufstrich Feine Kräuter,1.39,100 Gramm,Becher 200 Gramm,lidl,0.7,1534,1.39,100 Gramm,Becher 200 Gramm,rewe,0.7
+126,825,Brunch Brotaufstrich Paprika-Peperoni,1.39,100 Gramm,Becher 200 Gramm,lidl,0.7,728,1.45,100 Gramm,Becher 200 Gramm,rewe,0.73
+127,827,Landliebe Sahne Pudding Vanille,0.65,100 Gramm,Becher 150 Gramm,lidl,0.43,1354,0.44,100 Gramm,Becher 150 Gramm,rewe,0.0
+128,828,Nestle Kit Kat Mini,1.89,100 Gramm,Beutel 250 Gramm,lidl,0.7559999999999999,1260,1.99,100 Gramm,Packung 233 Gramm,rewe,0.8539999999999999
+129,830,Bounty Minis,1.99,100 Gramm,Packung 267 Gramm,lidl,0.745,1744,1.99,100 Gramm,Packung 221 Gramm,rewe,0.9
+130,831,De Beukelaer Prinzen Rolle mit Kakaocreme,1.39,100 Gramm,Rolle 400 Gramm,lidl,0.35,878,1.19,100 Gramm,Rolle 400 Gramm,rewe,0.3
+131,832,Hohes C Milde Orange 100% Saft,2.19,100 ml,Getränkekarton 1.5 L,lidl,0.146,366,1.11,100 ml,Pet-Flasche 1 L,rewe,0.11100000000000003
+132,833,Bifi Original Minisalami 5-er 5 x 25 g,1.99,100 Gramm,Packung 125 Gramm,lidl,1.59,1191,1.79,100 Gramm,Packung 125 Gramm,rewe,1.43
+133,834,Miracel Whip Klassik,1.29,100 ml,Glas 500 ML,lidl,0.258,572,1.29,100 ml,Glas 500 ML,rewe,0.258
+134,838,"Rama Cremefine zum Schlagen, 19 % Fett",0.99,100 ml,XXL Flasche Kunststoff 300 ML,lidl,0.33,1134,0.99,100 ml,Flasche Kunststoff 250 ML,rewe,0.4
+135,839,Rama Cremefine zum Kochen 15 % Fett,0.99,100 ml,Flasche Kunststoff 250 ML,lidl,0.4,1538,0.99,100 ml,Flasche Kunststoff 250 ML,rewe,0.4
+136,840,Lorenz Saltletts Sticks,1.55,100 Gramm,Packung 250 Gramm,lidl,0.62,1249,1.29,100 Gramm,Packung 250 Gramm,rewe,0.52
+137,841,Maggi Ravioli in pikanter Sauce,1.99,100 Gramm,Dose 800 Gramm,lidl,0.24900000000000005,866,1.29,100 Gramm,Dose 800 Gramm,rewe,0.161
+138,842,Du darfst leichte Butter 39% Fett,1.05,100 Gramm,Packung 250  Gramm,lidl,0.42,744,1.25,100 Gramm,Packung 250  Gramm,rewe,0.5
+139,843,"Hochland Sandwich Scheiben Gouda, 48% Fett",1.99,100 Gramm,Packung 200 Gramm,lidl,1.0,730,1.49,100 Gramm,"Packung 175 Gramm, 10 Scheiben",rewe,0.85
+140,845,Wasa Knäckebrot Sesam,0.89,100 Gramm,Packung 200 Gramm,lidl,0.45,1153,0.79,100 Gramm,Packung 200 Gramm,rewe,0.4
+141,847,Iglo Filegro Müllerin Art,1.66,100 Gramm,Packung 250 Gramm,lidl,0.66,575,1.79,100 Gramm,Packung 250 Gramm,rewe,0.72
+142,850,"Müller Joghurt mit der Ecke Schoko Balls,  3.8 % Fett",0.59,100 Gramm,Becher 150 Gramm,lidl,0.39,1697,0.33,100 Gramm,Becher 150 Gramm,rewe,0.22
+143,851,Herta Finesse saftiger Schinken hauchzart,1.89,100 Gramm,Packung 100 Gramm,lidl,1.89,1475,1.49,100 Gramm,Packung 150 Gramm,rewe,0.99
+144,852,Kinder Schoko Bons,1.95,100 Gramm,"Beutel 224 Gramm, 200 g+12 % Mehr Inhalt",lidl,0.87,1014,3.15,100 Gramm,Beutel 300 Gramm,rewe,1.05
+145,853,Aoste Stickado Snack Classic,1.99,100 Gramm,Packung 70 Gramm,lidl,2.84,1135,1.79,100 Gramm,Packung 70 Gramm,rewe,2.56
+146,855,Aoste Stickado Snack Pikant,1.99,100 Gramm,Packung 70 Gramm,lidl,2.84,726,1.59,100 Gramm,Packung 70 Gramm,rewe,2.27
+147,857,Funny Frisch Ringli Paprika,1.39,100 Gramm,Beutel 75 Gramm,lidl,1.85,1678,1.19,100 Gramm,Beutel 75 Gramm,rewe,1.59
+148,858,"Eduscho Gala Mild & Elegant, Röstkaffee mit Karamell",4.29,100 Gramm,Vakuum 500 Gramm,lidl,0.858,1140,3.49,100 Gramm,Vakuum 500 Gramm,rewe,0.6980000000000001
+149,859,Eduscho Gala Vollmundig & Edel,4.29,100 Gramm,Vakuum 500 Gramm,lidl,0.858,1358,4.79,100 Gramm,Vakuum 500 Gramm,rewe,0.958
+150,860,Baileys Original Irish Cream,9.99,100 ml,Flasche Glas 700 ML,lidl,1.4269999999999998,868,9.99,100 ml,Flasche Glas 700 ML,rewe,1.4269999999999998
+151,861,Rama Culinesse Pflanzencreme,1.59,100 ml,Flasche Kunststoff 500  ML,lidl,0.318,864,1.65,100 ml,Flasche Kunststoff 500  ML,rewe,0.33
+152,862,"Barilla Pesto alla Genovese, Basilico Fresco",2.89,100 ml,Glas 190 ML,lidl,1.52,1362,1.99,100 ml,Glas 190 ML,rewe,1.05
+153,864,Geramont Klassik 60% Fett,1.99,100 Gramm,Packung 200 Gramm,lidl,1.0,579,2.45,100 Gramm,Packung 200 Gramm,rewe,1.23
+154,865,Saint Albray mild & würzig 60% Fett,2.99,100 Gramm,Vorteilspack 300 Gramm,lidl,1.0,845,1.99,100 Gramm,Packung 200 Gramm,rewe,1.0
+155,866,"Fol Epi Hauchfein Classic, 50 % Fett",2.29,100 Gramm,Packung 150 Gramm,lidl,1.53,738,1.59,100 Gramm,Packung 100 Gramm,rewe,1.59
+156,867,"Fol Epi Scheiben Leicht,",1.99,100 Gramm,Packung 150 Gramm,lidl,1.33,1441,2.39,100 Gramm,Packung 150 Gramm,rewe,1.59
+157,868,Mars Ice Cream,2.99,100 ml,"Packung 357  ML, 7 Stück Family Pack",lidl,0.84,1692,1.99,100 ml,"Packung 306 ML, 6 Stück x 51ml",rewe,0.65
+158,869,"Milkana Schmelzkäse Sahne, 50% Fett",1.99,100 Gramm,Packung 200 Gramm,lidl,1.0,591,1.39,100 Gramm,Packung 200 Gramm,rewe,0.7
+159,870,"Hengstenberg Original Aceto Balsamico di Modena, 6 % Säure",2.69,100 ml,Flasche Glas 0.5 L,lidl,0.5379999999999999,1338,2.19,100 ml,Flasche Glas 0.5 L,rewe,0.43799999999999994
+160,872,Ferrero Kinder Maxi King,1.09,100 Gramm,"Packung 105 Gramm, 3 x 35g",lidl,1.04,852,0.99,100 Gramm,"Packung 105 Gramm, 3 x 35g",rewe,0.94
+161,875,Schwartau Extra Fruttissima Erdbeere,1.49,100 Gramm,Becher 250 Gramm,lidl,0.6,590,1.49,100 Gramm,Becher 250 Gramm,rewe,0.6
+162,876,Ariel Pulver Waschmittel Color & Style,15.99,Preis pro Waschladung,XXXL Pack 110 Waschladungen ,lidl,0.15,1690,11.99,Preis pro Waschladung,"Packung 70 Waschladungen, 65 + 5",rewe,0.17
+163,877,Pepsi Cola Light,0.89,100 ml,Pet-Flasche 1.5 L,lidl,0.059000000000000004,877,0.59,100 ml,Pet-Flasche 1.5 L,rewe,0.039
+164,878,Schwip Schwap Cola + Orange mit Zucker,0.89,100 ml,Pet-Flasche 1.5 L,lidl,0.059000000000000004,1234,0.95,100 ml,Pet-Flasche 1.5 L,rewe,0.063
+165,882,Dallmayr Prodomo 100 % Arabica,6.49,100 Gramm,Packung 500 Gramm,lidl,1.298,603,3.99,100 Gramm,Packung 500 Gramm,rewe,0.7979999999999999
+166,883,Hochland Sandwich Scheiben Emmentaler,1.99,100 Gramm,Packung 200 Gramm,lidl,1.0,1168,1.49,100 Gramm,"Packung 220 Gramm, + 10 % gratis",rewe,0.68
+167,884,Katjes Yoghurt Gums,0.85,100 Gramm,Beutel 200 Gramm,lidl,0.43,991,0.99,100 Gramm,Beutel 200 Gramm,rewe,0.5
+168,885,Lavazza  Crema e Aroma,10.99,100 Gramm,Packung 1000 Gramm,lidl,1.099,1361,15.99,100 Gramm,Packung 1000 Gramm,rewe,1.599
+169,890,Ariel Pulver Waschmittel Klassik,10.99,Preis pro Waschladung,"XXL Packung, 60 Wäschen",lidl,0.18,967,10.49,Preis pro Waschladung,XL Pack 42 Waschladungen,rewe,0.25
+170,891,Bitburger Premium Pils,0.75,100 ml,Dose 0.5 L,lidl,0.15,599,13.89,100 ml,Kasten 10 L,rewe,0.13899999999999998
+171,893,"Leerdammer Caractere Schnittkäse in Scheiben, 48% Fett",1.99,100 Gramm,"Packung 150 Gramm, 6 Scheiben",lidl,1.33,1167,1.39,100 Gramm,"Packung 125 Gramm, 6 Scheiben",rewe,1.11
+172,894,Dallmayr Crema d Oro Intensa Ganze Bohnen,12.79,100 Gramm,Beutel 1000 Gramm,lidl,1.2790000000000001,1676,8.88,100 Gramm,Beutel 1000 Gramm,rewe,0.8880000000000001
+173,896,Snickers Schokoriegel mit Erdnüsse und Karamel,1.49,100 Gramm,"Packung 250 Gramm, 5 x 50g",lidl,0.6,1258,0.99,100 Gramm,Packung 80 Gramm. 2er,rewe,1.24
+174,897,Pringles Original,2.15,100 Gramm,Dose 190 Gramm,lidl,1.13,1195,2.29,100 Gramm,Dose 190 Gramm,rewe,1.21
+175,898,Heinz Tomato Ketchup,1.11,100 ml,Dosierflasche 450 ML,lidl,0.24700000000000005,631,1.19,100 ml,Flasche Glas 300 ML,rewe,0.397
+176,898,Heinz Tomato Ketchup,1.11,100 ml,Dosierflasche 450 ML,lidl,0.24700000000000005,702,1.55,100 ml,Flasche Kunststoff 450 ML,rewe,0.344
+177,1348,Heinz Tomato Ketchup,1.99,100 ml,"Flasche 875ml, + 33% mehr Inhalt",lidl,0.16999999999999998,631,1.19,100 ml,Flasche Glas 300 ML,rewe,0.397
+178,1348,Heinz Tomato Ketchup,1.99,100 ml,"Flasche 875ml, + 33% mehr Inhalt",lidl,0.16999999999999998,702,1.55,100 ml,Flasche Kunststoff 450 ML,rewe,0.344
+179,909,Kerrygold Extra ungesalzen,0.75,100 Gramm,Becher 150 Gramm,lidl,0.5,593,1.99,100 Gramm,Becher 250 Gramm,rewe,0.8
+180,911,Kerrygold Extra gesalzen,0.75,100 Gramm,Becher 150 Gramm,lidl,0.5,745,1.99,100 Gramm,Becher 250 Gramm,rewe,0.8
+181,914,Pringles Sour Cream & Onion,2.15,100 Gramm,Dose 190 Gramm,lidl,1.13,1194,2.29,100 Gramm,Dose 190 Gramm,rewe,1.21
+182,915,Wiltmann Gourmet Salami geschnitten,1.49,100 Gramm,Vakuum 80 Gramm,lidl,1.86,1653,1.29,100 Gramm,Vakuum 80 Gramm,rewe,1.61
+183,921,Zum Dorfkrug Schokoladen Pudding,0.99,100 Gramm,Glas 375 Gramm,lidl,0.26,2822,1.99,100 Gramm,Glas 375 Gramm,rewe,0.53
+184,937,Kühne würzen + genießen Hot Chili Sauce,0.89,100 ml,Flasche Glas 250 ML,lidl,0.36,814,0.99,100 ml,Flasche Glas 250 ML,rewe,0.4
+185,938,Erasco Hühner Nudeltopf mit frischem Gemüse,1.89,100 Gramm,Dose 800 Gramm,lidl,0.23600000000000002,352,2.39,100 Gramm,Dose 800 Gramm,rewe,0.29900000000000004
+186,939,Maggi Magic Asia Gebratene Nudeln,1.29,100 Gramm,Packung 124 Gramm,lidl,1.04,786,0.99,100 Gramm,Packung 124 Gramm,rewe,0.8
+187,942,"Arla Kaergarden Balance ungesalzen, 30% weniger Fett",1.79,100 Gramm,Becher 250 Gramm,lidl,0.72,536,1.79,100 Gramm,Becher 250 Gramm,rewe,0.72
+188,943,"Zott Zottarella Basilikum Rolle,  45% Fett",1.49,100 Gramm,Beutel 250  Gramm,lidl,0.6,1677,1.49,100 Gramm,"Beutel 400 Gramm, XXL Rolle",rewe,0.37
+189,945,Danone Actimel Vanilla,1.39,100 Gramm,Packung 400 Gramm,lidl,0.348,1348,1.11,100 Gramm,Packung 400 Gramm,rewe,0.278
+190,946,"Südzucker Fein Zucker feinkörnig, rasch löslich",0.85,100 Gramm,Packung 1000 Gramm,lidl,0.08499999999999999,1451,1.19,100 Gramm,Packung 1000 Gramm,rewe,0.11900000000000001
+191,951,Ferrero Küsschen,2.25,100 Gramm,"Packung 178 Gramm, 20 Stück",lidl,1.26,583,2.25,100 Gramm,"Packung 124 Gramm, 14 Pralinen",rewe,1.81
+192,975,Sonnen Bassermann Linsentopf mit Cocktailwürstchen,1.89,100 Gramm,Dose 800 Gramm,lidl,0.23600000000000002,858,1.29,100 Gramm,Dose 800 Gramm,rewe,0.161
+193,978,Krombacher Pils,0.79,100 ml,"Dose 0,5L",lidl,0.158,600,10.79,100 ml,"Kasten 10 L, 20 x 0,5 L ",rewe,0.108
+194,981,Kölln Müsli Schoko,2.89,100 Gramm,Packung 600 Gramm,lidl,0.482,1501,8.29,100 Gramm,Packung 2000 Gramm,rewe,0.415
+195,989,"Miracel Whip so leicht 4,9% Fett",0.75,100 Gramm,Beutel 125 Gramm,lidl,0.6,1122,1.49,100 ml,Glas 500 ML,rewe,0.298
+196,1003,"Patros Genießerwürfel Mediterrane Kräuter, 2 x 75 g",1.99,100 Gramm,Becher 150  Gramm,lidl,1.33,1360,1.49,100 Gramm,Becher 150  Gramm,rewe,0.99
+197,1222,Bürger Eierspätzle Original schwäbisch,1.89,100 Gramm,Packung 1000 Gramm,lidl,0.18899999999999997,710,1.99,100 Gramm,Packung 1000 Gramm,rewe,0.19899999999999998
+198,1226,Dr. Quendt Dresdner Russisch Brot Das Original,0.77,100 Gramm,"Packung 115 Gramm, 15% mehr Inhalt ",lidl,0.67,819,0.99,100 Gramm,Packung 100 Gramm,rewe,0.99
+199,1227,Geramont Kräuter leicht 16% Fett,2.29,100 Gramm,Packung 200  Gramm,lidl,1.15,885,2.45,100 Gramm,Packung 200  Gramm,rewe,1.23
+200,1228,Arla Buko Frischkäse Garten Kräuter 18% Fett,1.19,100 Gramm,Packung 200 Gramm,lidl,0.6,1158,1.29,100 Gramm,Packung 200 Gramm,rewe,0.65
+201,1229,Barilla Pasta Fusilli,0.77,100 Gramm,Packung 500 Gramm,lidl,0.154,1356,1.65,100 Gramm,Packung 1000 Gramm,rewe,0.16499999999999998
+202,1230,Uncle Bens Express Basmati Reis 2 Minuten,1.59,100 Gramm,Packung 250 Gramm,lidl,0.64,1147,1.75,100 Gramm,Packung 250 Gramm,rewe,0.7
+203,1233,Langnese Viennetta Vanille,1.49,100 ml,Packung 1000 ML,lidl,0.149,725,1.99,100 ml,"Packung 650 ML, 30 % mehr Inhalt",rewe,0.306
+204,1236,Kinder Pingui Schoko,0.88,100 Gramm,"Packung 120 Gramm, 4 Stück",lidl,0.73,1139,0.99,100 Gramm,"Packung 120 Gramm, 4 Stück",rewe,0.83
+205,1237,Leibniz Butterkeks 30% weniger Zucker,0.88,100 Gramm,Packung 150 Gramm,lidl,0.59,1592,1.45,100 Gramm,Packung 150 Gramm,rewe,0.97
+206,1242,Wasa Knäckebrot köstlich,2.69,100 Gramm,Packung 1100 Gramm,lidl,0.245,1458,0.75,100 Gramm,Packung 200 Gramm,rewe,0.38
+207,1252,Fürst von Metternich Riesling Sekt Extra Trocken,1.49,100 Gramm,Eimer 1000 Gramm,lidl,0.149,4157,5.99,100 ml,Flasche Glas 0.75 L,rewe,0.799
+208,1345,Uncle Bens Express Chinesisch,1.59,100 Gramm,Packung 250 Gramm,lidl,0.64,789,1.79,100 Gramm,Packung 250 Gramm,rewe,0.72
+209,1347,Dr. Oetker Vitalis Früchte Müsli,2.79,100 Gramm,Packung 600 Gramm,lidl,0.465,637,2.22,100 Gramm,Packung 600 Gramm,rewe,0.37
+210,1350,Pfanner Ice Tea Pfirsich,0.95,100 ml,Getränkekarton 2 L,lidl,0.048,629,1.29,100 ml,Pet-Flasche 1.5 L,rewe,0.086
+211,1351,Langnese Cremissimo Schokolade,2.89,100 ml,Packung 900 ML,lidl,0.321,701,3.39,100 ml,Packung 900 ML,rewe,0.377
+212,1352,Kühne Senf mittelscharf,0.99,100 ml,Glas 250 ML,lidl,0.4,818,1.09,100 ml,Glas 250 ML,rewe,0.44
+213,1352,Kühne Senf mittelscharf,0.99,100 ml,Glas 250 ML,lidl,0.4,2604,0.85,100 ml,Tube 100 ML,rewe,0.85
+214,1355,Frosta Bami Goreng,2.49,100 Gramm,Packung 500 Gramm,lidl,0.4980000000000001,353,2.49,100 Gramm,Packung 500 Gramm,rewe,0.4980000000000001
+215,1356,Frosta Steakhouse Pfanne,3.33,100 Gramm,"Beutel 650 Gramm, + 30% mehr Inhalt",lidl,0.512,798,4.99,100 Gramm,Packung 900 Gramm,rewe,0.5539999999999999
+216,1362,Thomy Les Sauces Hollandaise,0.97,100 ml,Getränkekarton 250 ML,lidl,0.39,799,0.89,100 ml,Getränkekarton 250 ML,rewe,0.36
+217,1364,Tafeltrauben hell,2.19,100 Gramm,Packung 1 KG,lidl,0.21899999999999997,1274,1.99,100 Gramm,Packung 500 Gramm,rewe,0.39799999999999996
+218,1368,Landliebe Milchkaffee Cappuccino,1.49,100 ml,Packung 2 x 230ml,lidl,0.32,797,1.29,100 ml,Becher 230 ML,rewe,0.56
+219,1371,Bonbel Cremig & Würzig 50% Fett,1.99,100 Gramm,Rolle 170 Gramm,lidl,1.17,1136,1.99,100 Gramm,Rolle 180 Gramm,rewe,1.11
+220,1372,Schwartau Extra Samt Erdbeere,1.89,100 Gramm,Glas 270 Gramm,lidl,0.7,589,1.49,100 Gramm,Glas 270 Gramm,rewe,0.55
+221,1373,"Mondamin Milchreis Klassische Art, für 2 - 3 Portionen",0.95,100 Gramm,Packung 130 Gramm,lidl,0.73,1576,0.99,100 Gramm,Packung 130 Gramm,rewe,0.76
+222,1374,Twix,1.49,100 Gramm,"Packung 225 Gramm, 5 x 45g",lidl,0.66,1596,1.85,100 Gramm,"Packung 250 Gramm, 5 x 50g",rewe,0.74
+223,1375,"Geramont Feine Scheiben Natur, 60% Fett",2.29,100 Gramm,"Packung 150 Gramm, 7 Scheiben",lidl,1.53,666,2.45,100 Gramm,"Packung 150 Gramm, 7 Scheiben",rewe,1.63
+224,1380,Bonbel Cremig & Würzig Leicht,1.99,100 Gramm,Stange 170 Gramm,lidl,1.17,1495,1.99,100 Gramm,Stange 170 Gramm,rewe,1.17
+225,1381,Iglo Chicken Nuggets,1.99,100 Gramm,"Packung 250 Gramm, 12 Stück",lidl,0.7959999999999999,1192,1.99,100 Gramm,"Packung 12 + 3 Nuggets, 25% gratis",rewe,0.0
+226,1479,"Castello Höhlenkäse Dänischer Schnittkäse Classic, in Scheiben",1.59,100 Gramm,Packung 150 Gramm,lidl,1.06,1878,0.55,100 Gramm,Becher 250 Gramm,rewe,0.22
+227,1480,Leibniz Butterkeks,0.99,100 Gramm,Packung 200 Gramm,lidl,0.5,2169,0.99,100 Gramm,Packung 200 Gramm,rewe,0.5
+228,1481,Arla Buko Der Sahnige,0.88,100 Gramm,Packung 200  Gramm,lidl,0.44,941,0.88,100 Gramm,Packung 200  Gramm,rewe,0.44
+229,1482,Funny Frisch Jumpys mit Paprika,1.39,100 Gramm,Beutel 75 Gramm,lidl,1.85,415,0.99,100 Gramm,Beutel 75 Gramm,rewe,1.32
+230,1483,Becel Vital,1.49,100 Gramm,Becher 250 Gramm,lidl,0.596,1279,1.79,100 Gramm,Packung 175 Gramm,rewe,1.02
+231,1484,Uncle Bens Express Reis Mexikanisch 2 Minuten,1.59,100 Gramm,Packung 250 Gramm,lidl,0.64,2060,1.75,100 Gramm,Packung 250 Gramm,rewe,0.7
+232,1485,Uncle Bens Spitzen-Langkorn-Reis 10 min.,2.69,100 Gramm,"Packung 750 Gramm, 6 x 125 g",lidl,0.359,2467,1.49,100 Gramm,"Packung 500 Gramm, 4 x 125 g - im Kochbeutel ",rewe,0.298
+233,1486,"Müller Milchreis Zimt, 3% Fett",0.59,100 Gramm,Becher 200 Gramm,lidl,0.3,2044,0.39,100 Gramm,Becher 200 Gramm,rewe,0.2
+234,1487,"Optiwell Pudding Schoko, 0,1% Fett",0.49,100 Gramm,Becher 150 Gramm,lidl,0.33,2691,0.49,100 Gramm,Becher 150 Gramm,rewe,0.33
+235,1488,Nescafe Gold Mild,9.49,100 Gramm,Glas 200 Gramm,lidl,4.75,2530,8.99,100 Gramm,Glas 200 Gramm,rewe,4.5
+236,1489,Nescafe Gold entkoffeiniert,9.49,100 Gramm,Glas 200 Gramm,lidl,4.75,2463,6.99,100 Gramm,Glas 200 Gramm,rewe,3.5
+237,1492,Knorr Fix Spaghetti Bolognese,0.75,100 Gramm,Beutel 46 Gramm,lidl,1.63,2056,0.49,100 Gramm,Beutel 46 Gramm,rewe,1.07
+238,1493,Nestle Kit Kat Chunky,1.89,100 Gramm,Packung 200 Gramm,lidl,0.95,2636,1.99,100 Gramm,Packung 200 Gramm,rewe,1.0
+239,1497,Ehrmann Almighurt Erdbeer,0.55,100 Gramm,Becher 150 Gramm,lidl,0.37,1039,0.65,100 ml,Flasche Kunststoff 500 ML,rewe,0.13
+240,1499,Balisto Korn Mix,1.99,100 Gramm,"Packung 185 Gramm, 9 + 1 Riegel",lidl,1.08,2632,1.99,100 Gramm,"Packung 166.5 Gramm, 9 x 18,5 g",rewe,1.2
+241,1501,Balisto Müsli Mix,3.29,100 ml,"Packung 440 ML, 4 Stück",lidl,0.75,2307,1.99,100 Gramm,"Packung 166.5 Gramm, 9 x 18,5 g",rewe,1.2
+242,1502,"Langnese Magnum Almond Mandel, 4 Stück",0.65,100 Gramm,Folie 20 Gramm,lidl,3.25,2394,1.79,100 ml,Packung 480 ML,rewe,0.37
+243,1503,Ferrero Kinder Überraschung Ei,3.88,100 Gramm,Packung 500 Gramm,lidl,0.7759999999999999,936,0.65,100 Gramm,Folie 20 Gramm,rewe,3.25
+244,1504,Mövenpick Der Himmlische Kaffee gemahlen,2.19,100 Gramm,Packung 150 Gramm,lidl,1.46,1022,3.33,100 Gramm,Packung 500 Gramm,rewe,0.6659999999999999
+245,1507,Bresso Frischkäse mit Kräutern aus der Provence,1.59,100 Gramm,Becher 150 Gramm,lidl,1.06,939,1.69,100 Gramm,Becher 150 Gramm,rewe,1.13
+246,1510,Salatgurken frisch,0.75,Preis pro Stück, 1 Stück,lidl,0.0,2283,0.39,Preis pro Stück, 1 Stück,rewe,0.39
+247,1516,Appel Heringsfilets in Tomaten-Creme,1.19,100 Gramm,Dose 200 Gramm,lidl,0.6,2199,1.11,100 Gramm,Dose 200 Gramm,rewe,0.56
+248,1517,Mon Cheri Piemont Kirsche,2.59,100 Gramm,"15 Stück, Packung 157 Gramm",lidl,1.65,949,2.89,100 Gramm,"15 Stück, Packung 157 Gramm",rewe,1.84
+249,1518,Dallmayr Prodomo entkoffeiniert,6.49,100 Gramm,Packung 500 Gramm,lidl,1.298,1048,1.99,100 ml,Glas 400 ML,rewe,0.4980000000000001
+250,1519,Melitta Bella Crema Speciale,10.99,100 Gramm,Packung 1000 Gramm,lidl,1.099,954,12.99,100 Gramm,Packung 1000 Gramm,rewe,1.2990000000000002
+251,1521,Eduscho Gala Nr 1,4.49,100 Gramm,Packung 500 Gramm,lidl,0.898,1786,3.49,100 Gramm,Packung 500 Gramm,rewe,0.6980000000000001
+252,1522,Nescafe Gold Das Original,9.49,100 Gramm,Glas 200 Gramm,lidl,4.75,1782,5.39,100 Gramm,Glas 100 Gramm,rewe,5.39
+253,1524,Thomy Remoulade,1.29,100 ml,Tube 200 ML,lidl,0.65,1928,1.55,100 ml,Tube 200 ML,rewe,0.78
+254,1527,Rügenwalder Teewurst fein,1.69,100 Gramm,Becher 125 Gramm,lidl,1.35,1886,1.49,100 Gramm,Becher 125 Gramm,rewe,1.19
+255,1528,Ritter Sport Schokolade Alpenmilch,1.09,100 Gramm,Tafel 100 Gramm,lidl,1.09,504,0.69,100 Gramm,Tafel 100 Gramm,rewe,0.69
+256,1531,Zucchini,0.99,100 Gramm, 1 KG,lidl,0.099,2830,0.89,100 Gramm,Becher 450 Gramm,rewe,0.2
+257,1536,Pringles Chips Classic Paprika,2.15,100 Gramm,Dose 190 Gramm,lidl,1.13,2647,2.29,100 Gramm,Dose 190 Gramm,rewe,1.21
+258,1541,Müller Milchreis Original,0.59,100 Gramm,Becher 200 Gramm,lidl,0.3,1930,0.39,100 Gramm,Becher 200 Gramm,rewe,0.2
+259,1550,Galbani Santa Lucia Mozzarella 45% Fett,0.99,100 Gramm,Beutel 220 Gramm,lidl,0.45,998,0.79,100 Gramm,Beutel 215 Gramm,rewe,0.37
+260,1551,Kiri mit Sahne 70% Fett,1.11,100 Gramm,"Packung 120 Gramm, 6 x 20g",lidl,0.93,1144,1.59,100 Gramm,"Packung 120 Gramm, 6 x 20g",rewe,1.33
+261,1553,Arla Buko Balance 17% Fett,1.19,100 Gramm,Packung 200  Gramm,lidl,0.6,1142,1.29,100 Gramm,Packung 200  Gramm,rewe,0.65
+262,1554,"Sanella Backen ist Liebe ... Margarine, 75% Fett",1.59,100 Gramm,Becher 500 Gramm,lidl,0.318,1185,1.65,100 Gramm,Becher 500 Gramm,rewe,0.33
+263,1555,Dr. Oetker Ristorante Pizza Funghi,2.69,100 Gramm,Packung 365 Gramm,lidl,0.74,1547,2.69,100 Gramm,Packung 365 Gramm,rewe,0.74
+264,1556,Barilla Pasta Farfalle No.65,1.39,100 Gramm,Packung 1kg,lidl,0.13899999999999998,1369,1.49,100 Gramm,Packung 500 Gramm,rewe,0.298
+265,1557,Barilla Pasta Maccheroni,0.59,100 Gramm,Packung 500 Gramm,lidl,0.11800000000000001,1126,0.69,100 Gramm,Packung 500 Gramm,rewe,0.13799999999999998
+266,1561,"Mondamin Grießbrei Klassische Art, für 2 - 3 Portionen",0.95,100 Gramm,Beutel 89 Gramm,lidl,1.07,1224,0.79,100 Gramm,Beutel 89 Gramm,rewe,0.89
+267,1565,Ballantines Finest Scotch Whisky,9.99,100 ml,Flasche Glas 700 ML,lidl,1.4269999999999998,865,9.99,100 ml,Flasche Glas 700 ML,rewe,1.4269999999999998
+268,1566,Lätta Halbfettmargarine mit Joghurt,1.59,100 Gramm,Becher 500  Gramm,lidl,0.318,983,1.59,100 Gramm,Becher 500  Gramm,rewe,0.318
+269,1570,Ouzo 12,8.99,100 ml,Flasche Glas 0.7 L,lidl,1.284,1006,8.99,100 ml,Flasche Glas 0.7 L,rewe,1.284
+270,1573,Geramont Le Snack,2.29,100 Gramm,Becher 150 Gramm,lidl,1.53,1166,2.19,100 Gramm,Becher 150 Gramm,rewe,1.46
+271,1576,Bresso Weichkäse mit grünem Pfeffer,1.89,100 Gramm,Packung 200 Gramm,lidl,0.95,1157,2.19,100 Gramm,Packung 200 Gramm,rewe,1.1
+272,1579,"Ferrero Kinder Joy Mit Überaschung, 1 Stück",2.95,100 Gramm,Packung 3 x 20g,lidl,4.92,1699,0.79,100 Gramm,Folie 20 Gramm,rewe,3.95
+273,1581,"Danone Activia Classic Heidelbeere, 4 x 115 g",1.99,100 Gramm,Packung 460 Gramm,lidl,0.433,1370,1.99,100 Gramm,Packung 460 Gramm,rewe,0.433
+274,1582,Nestle Kit Kat Multipack 5 x 45 g,1.69,100 Gramm,Packung 225 Gramm,lidl,0.75,1599,1.99,100 Gramm,Packung 225 Gramm,rewe,0.88
+275,1583,Paprika Mix frisch,1.29,100 Gramm,Folie 750 Gramm,lidl,0.172,3806,0.99,100 Gramm,"Folie 500 Gramm, Spanien Kl. 1",rewe,0.198
+276,1587,Lätta & luftig luftig aufgeschlagen 39%,1.29,100 Gramm,Packung 175 Gramm,lidl,0.74,1211,1.59,100 Gramm,Schale 320 Gramm,rewe,0.49700000000000005
+277,1589,Philadelphia Balance Schinken,1.39,100 Gramm,Packung 175 Gramm,lidl,0.79,1482,1.29,100 Gramm,Packung 175 Gramm,rewe,0.74
+278,1591,Adler Edelcreme Sahne,1.55,100 Gramm,"Packung 150 Gramm, 6 x 25 g",lidl,1.03,1269,0.79,100 Gramm,Packung 100 Gramm,rewe,0.79
+279,1592,Schwartau Corny Schoko,2.89,100 Gramm,Packung 380 Gramm,lidl,0.76,2799,1.39,100 Gramm,"Packung 150 Gramm, 6 x 25 g",rewe,0.93
+280,1593,Dr. Oetker Die Ofenfrische Pizza Salami,0.99,100 Gramm,"Packung 500 Gramm, 4 x 125g, 3 und 1 Becher gratis",lidl,0.2,1884,1.79,100 Gramm,Packung 250 Gramm,rewe,0.72
+281,1609,Thomy Delikatess Senf mittelscharf,0.99,100 ml,Tube 200 ML,lidl,0.5,940,0.99,100 ml,Tube 200 ML,rewe,0.5
+282,1706,"Bergader Bergbauern Schnittkäse mild nussig, 48% Fett i. Tr.",1.99,100 Gramm,Packung 160 Gramm,lidl,1.24,1915,1.59,100 Gramm,Packung 160 Gramm,rewe,0.99
+283,1714,Ferrero Küsschen Mix,2.79,100 Gramm,Karton 186 Gramm,lidl,1.5,2451,1.99,100 Gramm,Karton 186 Gramm,rewe,1.07
+284,1898,"Kerrygold Original Irischer Cheddar herzhaft,  48 % Fett",1.49,100 Gramm,Packung 150 Gramm,lidl,0.99,1245,1.49,100 Gramm,Packung 150 Gramm,rewe,0.99
+285,1902,Maggi Ravioli Diavolo,1.39,100 Gramm,Dose 800  Gramm,lidl,0.174,1240,0.99,100 Gramm,Dose 800  Gramm,rewe,0.124
+286,1912,Kiri mit Joghurt 6 x 20 g,1.11,100 Gramm,Packung 120 Gramm,lidl,0.93,1445,1.59,100 Gramm,Packung 120 Gramm,rewe,1.33
+287,1913,Brandt Der Markenzwieback,0.93,100 Gramm,Packung 225 Gramm,lidl,0.41,1239,0.99,100 Gramm,Packung 225 Gramm,rewe,0.44
+288,1919,"Weihenstephan Rahmjoghurt cremig-mild Pfirsich, 10 % Fett",0.35,100 Gramm,Becher 150 Gramm,lidl,0.23,1018,0.65,100 Gramm,Becher 150 Gramm,rewe,0.43
+289,1926,Bahlsen Chokini Gebäck mit Schokoladenstückchen,1.49,100 Gramm,Packung 150 Gramm,lidl,0.99,1588,1.95,100 Gramm,Packung 150 Gramm,rewe,1.3
+290,1927,"Dovgan Russische Küche Eiskrem Plombir Vanillegeschmack,Familienpackung 6 x 130 ml",1.79,100 ml,"Packung 720 ML, 6 Stück",lidl,0.24900000000000005,1514,2.65,100 ml,"Packung 780 ML, 6 Stück",rewe,0.34
+291,1928,"Rügenwalder Mühlen Mett Jägermett mit feinem Kräutern und Paprika, 2 x 62.5 g",1.49,100 Gramm,Becher 125 Gramm,lidl,1.19,1452,1.39,100 Gramm,Becher 125 Gramm,rewe,1.11
+292,1929,Hohes C Orange mit Fruchtfleisch 100% Saft,0.88,100 ml,Pet-Flasche 1 L,lidl,0.08800000000000001,1359,1.49,100 ml,Pet-Flasche 1 L,rewe,0.149
+293,1931,Ferrero Kinder Choco Fresh 5 x 21 g,0.99,100 ml,Dose 500 ML,lidl,0.198,1761,0.89,100 ml,Getränkekarton 1000 ML,rewe,0.08900000000000001
+294,1932,Rockstar Juiced Energy Mango-Orange Passionsfrucht,2.29,100 Gramm,Packung 310 Gramm,lidl,0.7390000000000001,1476,1.79,100 ml,Dose 500 ML,rewe,0.358
+295,1934,Wasa Knäckebrot  Roggen dünn,2.49,100 Gramm,Packung 225 Gramm,lidl,1.11,1244,1.49,100 Gramm,"Vorteilspackung 410 Gramm, 2 x 205g",rewe,0.35
+296,1936,GÜ London New York Cheesecakes im Glas,1.49,100 Gramm,Packung 300 Gramm,lidl,0.5,1683,3.29,100 Gramm,Packung 160 Gramm,rewe,2.06
+297,1940,Bertolli Brotaufstrich mit mildem Olivenöl,0.59,100 Gramm,Becher 200 Gramm,lidl,0.3,1792,1.39,100 Gramm,Packung 250 Gramm,rewe,0.56
+298,1943,Schwartau Extra Erdbeere,1.99,100 Gramm,Glas 340 Gramm,lidl,0.59,1795,1.49,100 Gramm,Glas 340 Gramm,rewe,0.44
+299,1947,"Brunch Leichter Brotaufstrich Legere Classic, 15% Fett",1.19,100 Gramm,Becher 200 Gramm,lidl,0.6,2342,1.29,100 Gramm,Becher 200 Gramm,rewe,0.65
+300,1949,Nescafe Cappucino Cremig Zart 10 x 14g,2.45,100 Gramm,Packung 140 Gramm,lidl,1.75,2529,2.79,100 Gramm,Packung 140 Gramm,rewe,1.993
+301,1954,Bananen ca. 6 Stück,0.69,100 Gramm, 1 KG,lidl,0.06899999999999999,1877,1.59,100 Gramm,Packung 150 Gramm,rewe,1.06
+302,1976,Trauben hell kernlos,2.99,100 Gramm,Folie 1 KG,lidl,0.29900000000000004,2134,0.99,100 Gramm,Schale 500 Gramm,rewe,0.198
+303,1977,Brokkoli frisch,1.29,100 Gramm,Folie 500 Gramm,lidl,0.258,2355,1.29,100 Gramm,Folie 500 Gramm,rewe,0.258
+304,1984,Wiltmann Geflügel Salami,1.49,100 Gramm,Folie 80 Gramm,lidl,1.86,2106,1.19,100 Gramm,Folie 80 Gramm,rewe,1.49
+305,2068,Appel Fisch Minis Heringsfilet-Stücke in tomatiger Ketchup-Sauce,0.59,100 Gramm,Dose 100 Gramm,lidl,0.59,1379,0.99,100 Gramm,Dose 100 Gramm,rewe,0.99
+306,2069,Kühne Rotkohl Das Original,1.05,100 ml,Glas 720 ML,lidl,0.146,365,0.88,100 ml,Glas 720 ML,rewe,0.122
+307,2070,Appel Wellness Heringsfilets Harmonie,0.88,100 Gramm,Dose 200 Gramm,lidl,0.44,1321,1.49,100 Gramm,Dose 200 Gramm,rewe,0.75
+308,2072,Meggle die Kräuter-Butter Original mit frischen Kräutern,1.11,100 Gramm,Rolle 125  Gramm,lidl,0.89,971,1.11,100 Gramm,Rolle 125  Gramm,rewe,0.89
+309,2072,Meggle die Kräuter-Butter Original mit frischen Kräutern,1.11,100 Gramm,Rolle 125  Gramm,lidl,0.89,1212,0.99,100 Gramm,Packung 62.5 Gramm,rewe,1.58
+310,2073,"Adler Edelcreme Champignon, 2 Ecken,  60% Fett",0.79,100 Gramm,Packung 100 Gramm,lidl,0.79,1442,1.29,100 Gramm,Packung 100 Gramm,rewe,1.29
+311,2075,"Arla Esrom Classic Dänischer Schnittkäse in Scheiben, 45 % Fett",1.49,100 Gramm,Packung 175 Gramm,lidl,0.85,721,1.49,100 Gramm,Packung 150 Gramm,rewe,0.99
+312,2076,Mikado Milchschokolade,0.99,100 Gramm,Packung 75 Gramm,lidl,1.32,1593,1.39,100 Gramm,Packung 75 Gramm,rewe,1.85
+313,2077,Lorenz Crunchips Cheese & Onion,1.19,100 Gramm,Beutel 200  Gramm,lidl,0.6,1160,1.89,100 Gramm,Beutel 200  Gramm,rewe,0.95
+314,2078,Langnese Cremissimo Schwarzwälder Kirsch,1.88,100 ml,Packung 900 ML,lidl,0.209,1523,3.39,100 ml,Packung 900 ML,rewe,0.377
+315,2079,Milram Frühlingsquark 40 % Fett,0.69,100 Gramm,Becher 200 Gramm,lidl,0.35,973,0.59,100 Gramm,Becher 200 Gramm,rewe,0.3
+316,2082,Weihenstephan Sahne zum Kochen 15% 50% weniger Fett,0.69,100 Gramm,"Getränkekarton 325 Gramm,  + 30 % gratis",lidl,0.21,661,0.79,100 Gramm,Getränkekarton 250 Gramm,rewe,0.32
+317,2083,Nescafe Espresso,3.99,100 Gramm,Glas 100 Gramm,lidl,3.99,965,5.49,100 Gramm,Glas 100 Gramm,rewe,5.49
+318,2084,Original Wagner Steinofen Pizza Hawaii,2.39,100 Gramm,Packung 380 Gramm,lidl,0.63,1246,1.79,100 Gramm,Packung 380 Gramm,rewe,0.47
+319,2087,Dr. Oetker Kirsch Grütze,0.69,100 Gramm,Becher 160 Gramm,lidl,0.431,718,2.29,100 Gramm,Becher 500 Gramm,rewe,0.45799999999999996
+320,2088,Müller Schoko Pudding mit Sauce Vanillegeschmack,0.77,100 Gramm,Becher 450 Gramm,lidl,0.17,1760,3.99,100 ml,Flasche Glas 0.75 L,rewe,0.532
+321,2090,Kinder Country,1.79,100 Gramm,Glas 340 Gramm,lidl,0.53,1015,1.85,100 Gramm,"Packung 211.5 Gramm, 9 x 23,5",rewe,0.87
+322,2092,Kühne würzen + genießen Knoblauch Sauce,0.65,100 Gramm,Beutel 175 Gramm,lidl,0.37,1582,0.99,100 ml,Flasche Glas 250 ML,rewe,0.4
+323,2093,Haribo Pico-Balla,0.55,100 Gramm,Becher 200 Gramm,lidl,0.28,1595,0.95,100 Gramm,Beutel 175 Gramm,rewe,0.54
+324,2097,Kathi Grundmischung Streuselteig,1.39,100 Gramm,"Packung 140 Gramm, 5 x 28 g",lidl,0.99,1709,1.19,100 Gramm,Becher 400  Gramm,rewe,0.3
+325,2100,"Landliebe Naturjoghurt Mild 1,5 % Fett, im Becher gereift",1.49,100 Gramm,Packung 100 Gramm,lidl,1.49,1017,0.59,100 Gramm,Becher 200 Gramm,rewe,0.29500000000000004
+326,2105,Sonnen Bassermann Hacksteaks in pikanter Bratensoße,0.85,100 Gramm,Dose 200 Gramm,lidl,0.43,252,2.99,100 Gramm,Packung 480 Gramm,rewe,0.623
+327,2108,Miracoli Pasta Sauce Tomate und Basilikum,1.25,100 Gramm,Dose 200 Gramm,lidl,0.63,1630,1.99,100 ml,Glas 500 ML,rewe,0.39799999999999996
+328,2109,Miracoli Pasta Sauce Arrabbiata,1.29,100 Gramm,Beutel 250 Gramm,lidl,0.52,1631,1.99,100 ml,Glas 500 ML,rewe,0.39799999999999996
+329,2111,Vegeta Würzmischung mit Gemüse,0.99,100 Gramm,Packung 750 Gramm,lidl,0.132,1585,1.85,100 Gramm,Beutel 250 Gramm,rewe,0.74
+330,2113,Iglo Rahmspinat portionierbar,1.29,100 Gramm,Packung 150 Gramm,lidl,0.86,1193,1.19,100 Gramm,Packung 750 Gramm,rewe,0.159
+331,2119,Meggle die Knoblauch-Butter,1.11,100 Gramm,Rolle 125  Gramm,lidl,0.89,1173,1.75,100 Gramm,Rolle 125  Gramm,rewe,1.4
+332,2121,Aoste Ringsalami luftgetrocknet,3.49,100 Gramm,Packung 250 Gramm,lidl,1.4,988,3.69,100 Gramm,Packung 250 Gramm + 50g mehr Inhalt,rewe,1.23
+333,2128,Chaumes Würzige Scheiben,1.99,100 Gramm,Packung 150 Gramm,lidl,1.33,1436,2.39,100 Gramm,Packung 150 Gramm,rewe,1.59
+334,2133,"Weihenstephan Rahmjoghurt cremig-mild Stracciatella, 10 % Fett",0.39,100 Gramm,Becher 150 Gramm,lidl,0.26,1021,0.65,100 Gramm,Becher 150 Gramm,rewe,0.43
+335,2134,Weihenstephan Camembert Original 45% Fett,0.59,100 Gramm,Packung 80 Gramm,lidl,0.74,1667,0.66,100 Gramm,Packung 80 Gramm,rewe,0.83
+336,2135,Bürger Maultaschen traditionell schwäbisch,0.99,100 Gramm,Packung 360 Gramm,lidl,0.28,873,1.11,100 Gramm,Packung 360 Gramm,rewe,0.31
+337,2141,Frosta Nasi Goreng,2.49,100 Gramm,Packung 500 Gramm,lidl,0.4980000000000001,722,2.49,100 Gramm,Packung 500 Gramm,rewe,0.4980000000000001
+338,2142,Frosta Hähnchen Curry,2.49,100 Gramm,Packung 500 Gramm,lidl,0.4980000000000001,1010,2.49,100 Gramm,Packung 500 Gramm,rewe,0.4980000000000001
+339,2147,Bürger Maultaschen Unsere Besten,1.89,100 Gramm,Packung 400 Gramm,lidl,0.47,1754,2.99,100 Gramm,Packung 400 Gramm,rewe,0.75
+340,2148,"Hochland Sandwich Scheiben Gouda, leicht",1.99,100 Gramm,Packung 200 Gramm,lidl,1.0,1443,1.99,100 Gramm,Packung 200 Gramm,rewe,1.0
+341,2151,Haribo Color-Rado,0.89,100 Gramm,Beutel 300 Gramm,lidl,0.3,1231,0.95,100 Gramm,Beutel 200 Gramm,rewe,0.48
+342,2154,Mondamin Fix Soßenbinder hell,0.99,100 Gramm,"Packung 275 Gramm, + 10% mehr",lidl,0.36,856,0.99,100 Gramm,Packung 250 Gramm,rewe,0.4
+343,2156,Havana Club Anejo 3 Anos 3 Jahre,10.99,100 ml,Flasche Glas 0.7 L,lidl,1.5699999999999998,602,10.99,100 ml,Flasche Glas 0.7 L,rewe,1.5699999999999998
+344,2158,"Müller Frucht Buttermilch Multivitamin, 0.5% Fett",0.89,100 Gramm,Glas 200 Gramm,lidl,0.45,1670,0.69,100 Gramm,Flasche 500ml,rewe,0.0
+345,2164,Südzucker Gelierzucker Fix & Fruchtig,0.79,100 Gramm,Packung 125 Gramm,lidl,0.632,1386,0.99,100 Gramm,Packung 125 Gramm,rewe,0.792
+346,2165,Wernesgrüner Pils Legende,0.49,100 ml,Flasche Glas 0.5 L,lidl,0.098,307,10.49,100 ml,Kasten 10 L,rewe,0.105
+347,2169,"Rügenwalder Mühlen Mett Zwiebelmett fein gewürzt, 2 x 62.5 g",1.49,100 Gramm,Becher 125 Gramm,lidl,1.19,1179,1.39,100 Gramm,Becher 125 Gramm,rewe,1.11
+348,2170,"cp Petri Petrella Frischkäsezubereitung Schnittlauch, 24% Fett",1.29,100 Gramm,Schale 140 Gramm,lidl,0.92,1758,0.89,100 Gramm,Becher 450 Gramm,rewe,0.2
+349,2173,Russian Standard Original Vodka,9.99,100 ml,Flasche Glas 0.7 L,lidl,1.4269999999999998,871,9.99,100 ml,Flasche Glas 0.7 L,rewe,1.4269999999999998
+350,2176,Valess Schnitzel 2 Stück,2.22,100 Gramm,Schale 180 Gramm,lidl,1.23,1159,2.22,100 Gramm,Schale 180 Gramm,rewe,1.23
+351,2181,Uncle Bens Spitzen-Langkorn-Reis 20 Minuten im Kochbeutel,2.79,100 Gramm,"Packung 1000 Gramm, 8 x 125 g",lidl,0.27899999999999997,1573,1.99,100 Gramm,Packung 500 Gramm,rewe,0.39799999999999996
+352,2182,Ritter Sport Schokolade Olympia Joghurt Honig Nuss Traubenzucker,0.85,100 Gramm,Tafel 100 Gramm,lidl,0.85,1408,0.77,100 Gramm,Tafel 100 Gramm,rewe,0.77
+353,2184,"Milram Sylter kräftig-würzig, 48% Fett",1.19,100 Gramm,Packung 175 Gramm,lidl,0.68,1665,1.69,100 Gramm,Packung 175 Gramm,rewe,0.97
+354,2188,Milka Choco Minis,1.59,100 Gramm,Packung 150 Gramm,lidl,1.06,1228,1.69,100 Gramm,Packung 185 Gramm,rewe,0.91
+355,2189,Milka Crispello Pudding a la Vanille Pudding,1.79,100 Gramm,Packung 150 Gramm,lidl,1.19,1481,1.59,100 Gramm,Packung 150 Gramm,rewe,1.06
+356,2190,Milka Crispello Pudding a la Schoko Pudding,1.79,100 Gramm,Packung 150 Gramm,lidl,1.19,1480,1.59,100 Gramm,Packung 150 Gramm,rewe,1.06
+357,2202,Oreo Doppelkeks Vanillegeschmack,1.29,100 Gramm,Packung 154 Gramm,lidl,0.84,739,1.49,100 Gramm,Packung 176 Gramm,rewe,0.85
+358,2210,Kerrygold Original Irischer Butterkäse 50% Fett i. Tr.,1.59,100 Gramm,"Packung 170 Gramm, + 1 Scheibe gratis",lidl,0.94,1662,1.49,100 Gramm,Packung 150 Gramm,rewe,0.99
+359,2224,Lätta & Butter gesalzen,1.19,100 Gramm,Becher 225 Gramm,lidl,0.529,1743,1.19,100 Gramm,Becher 225 Gramm,rewe,0.529
+360,2225,Lätta & Butter,1.19,100 Gramm,Becher 225 Gramm,lidl,0.529,1742,1.19,100 Gramm,Becher 225 Gramm,rewe,0.529
+361,2229,Idee Kaffee Classic,3.59,100 Gramm,Packung 500 Gramm,lidl,0.718,1893,4.29,100 Gramm,Packung 500 Gramm,rewe,0.858
+362,2231,Thomy Delikatess Mayonnaise,1.29,100 ml,Tube 200 ML,lidl,0.645,1041,1.29,100 ml,Flasche Kunststoff 300 ML,rewe,0.43
+363,2232,"Müller Müllermilch Erdbeere, 1,5 % Fett",0.79,100 Gramm,Flasche Kunststoff 400 Gramm,lidl,0.198,2438,0.59,100 Gramm,Flasche Kunststoff 400 Gramm,rewe,0.14800000000000002
+364,2233,"Weihenstephan Frischer Joghurt mild 3,5% Fett",0.79,100 Gramm,Becher 500 Gramm,lidl,0.158,2407,0.79,100 Gramm,Becher 500 Gramm,rewe,0.158
+365,2235,Herta Finesse zarte Putenbrust mit Honig,1.89,100 Gramm,Packung 150 Gramm,lidl,1.26,1911,1.49,100 Gramm,Packung 150 Gramm,rewe,0.99
+366,2239,"Danone Actimel Classic, 0,1% Fett",1.99,100 Gramm,"Packung 800 Gramm, 8 x 100 g",lidl,0.24900000000000005,2071,1.79,100 Gramm,Packung 400 Gramm,rewe,0.4480000000000001
+367,2246,Iglo Lachs Filetstäbchen 100% Wildlachsfilet,7.9,100 Gramm,Packung 1 KG,lidl,0.79,1801,1.88,100 Gramm,"Packung 224 Gramm, 8 Stück,",rewe,0.84
+368,2247,Kirschen frisch,0.85,100 ml,Dose 500 ML,lidl,0.16999999999999998,2480,4.9,100 Gramm,Packung 1 KG,rewe,0.4900000000000001
+369,2248,Lipton Ice Tea Zero Sugar Peach,1.05,100 ml,Pet-Flasche 1.25 L,lidl,0.08399999999999999,2651,0.95,100 ml,Pet-Flasche 0.5 L,rewe,0.19
+370,2249,Zott Bayerntaler Original,1.29,100 Gramm,Packung 150 Gramm,lidl,0.86,2782,1.49,100 Gramm,Packung 150 Gramm,rewe,0.99
+371,2250,Rama mit Butter mit Meersalz,1.19,100 Gramm,Becher 225 Gramm,lidl,0.53,1803,1.19,100 Gramm,Becher 225 Gramm,rewe,0.53
+372,2251,"Dr Oetker Pizzaburger Salami, 2 Burger",2.22,100 Gramm,Packung  265 Gramm,lidl,0.84,2152,2.22,100 Gramm,Packung  265 Gramm,rewe,0.84
+373,2305,Lorenz Erdnuss Locken Classic,1.89,100 Gramm,Beutel 250 Gramm,lidl,0.76,842,0.99,100 Gramm,packung 200 Gramm,rewe,0.5
+374,2306,Ferrero Garden Mix 18 Pralinen,3.79,100 Gramm,Box 152 Gramm,lidl,2.49,3435,0.39,100 ml,Flasche Glas 0.5 L,rewe,0.078
+375,2307,Holsten Pilsener 20-er,0.49,100 ml,Pet-Flasche 0.5 L,lidl,0.098,3338,7.77,100 ml,Kasten 10 L,rewe,0.078
+376,2309,Dallmayr Prodomo Naturmild,5.49,100 Gramm,Packung 500 Gramm,lidl,1.0979999999999999,3365,5.49,100 Gramm,Packung 500 Gramm,rewe,1.0979999999999999
+377,2310,Dallmayr Kaffee Classic,3.88,100 Gramm,Packung 500 Gramm,lidl,0.7759999999999999,1954,3.77,100 Gramm,Packung 500 Gramm,rewe,0.754
+378,2312,Melitta Cafe Harmonie naturmild,5.69,100 Gramm,Packung 500 Gramm,lidl,1.138,2208,2.99,100 Gramm,Packung 500 Gramm,rewe,0.5980000000000001
+379,2313,Melitta Cafe Auslese Mild,4.95,100 Gramm,Packung 500 Gramm,lidl,0.99,3329,4.99,100 Gramm,Packung 500 Gramm,rewe,0.998
+380,2314,Melitta Cafe Harmonie entcoffeiniert,4.29,100 Gramm,Packung 500 Gramm,lidl,0.858,3357,4.99,100 Gramm,Packung 500 Gramm,rewe,0.998
+381,2315,Barilla Pesto alla Calabrese,2.89,100 Gramm,Glas 190 Gramm,lidl,1.52,3669,2.49,100 Gramm,Glas 190 Gramm,rewe,1.31
+382,2316,Sprite,0.89,100 ml,Pet-Flasche 1.25 L,lidl,0.071,1863,1.65,100 ml,Pet-Flasche 2 L,rewe,0.08299999999999999
+383,2317,Fanta Orange,0.89,100 ml,Pet-Flasche 1.25 L,lidl,0.071,1842,1.65,100 ml,Pet-Flasche 2 L,rewe,0.08299999999999999
+384,2319,Vittel Natürliches Mineralwasser ohne Kohlensäure,0.75,100 ml,Pet-Flasche 2 L,lidl,0.038,3027,9.99,100 ml,"3 Kasten 3 x 6 x 1,5l Pet",rewe,0.037000000000000005
+385,2320,Kukident Die Blauen,2.59,Preis pro 100 Stück,Packung 104 Stück,lidl,2.49,3039,2.89,Preis pro 100 Stück,Packung 104 Stück,rewe,2.78
+386,2321,DanKlorix Hygiene-Reiniger Klassisch,2.65,100 ml,Flasche Kunststoff 1500 ML,lidl,0.177,3662,2.69,100 ml,Flasche Kunststoff 1500 ML,rewe,0.179
+387,2322,Rotkäppchen Sekt Trocken,3.99,100 ml,Flasche Glas 0.75 L,lidl,0.532,1828,2.65,100 ml,Flasche Glas 0.75 L,rewe,0.353
+388,2324,Listerine Mundspülung Coolmint Minzstark,3.95,100 ml,Flasche Glas 500 ML,lidl,0.79,3683,3.79,100 ml,Flasche Glas 500 ML,rewe,0.758
+389,2329,Averna Amaro Siciliano,8.99,100 ml,Flasche Glas 700 ML,lidl,1.284,3028,11.89,100 ml,Flasche Glas 700 ML,rewe,1.6989999999999998
+390,2330,Jim Beam Bourbon Whisky Kentucky Straight Bourbon Whiskey,9.99,100 ml,Flasche Glas 700 ML,lidl,1.4269999999999998,1832,8.99,100 ml,Flasche Glas 700 ML,rewe,1.284
+391,2332,"Campari Bitter Aperitif, 25 % Vol.",10.99,100 ml,Flasche Glas 700 ML,lidl,1.5699999999999998,2217,2.85,Preis pro 100 Stück,Packung 66 Stück,rewe,4.32
+392,2333,Mumm Dry Sekt trocken,3.99,100 ml,Flasche Glas 0.75 L,lidl,0.532,1834,5.89,100 ml,Flasche Glas 0.75 L,rewe,0.7849999999999999
+393,2334,Lipton Ice Tea Peach,1.25,100 ml,Pet-Flasche 1.5 L,lidl,0.08299999999999999,1836,1.29,100 ml,Pet-Flasche 1.5 L,rewe,0.086
+394,2335,Deli Reform Sommerfrische 28 % Fett,0.85,100 Gramm,Becher 500  Gramm,lidl,0.16999999999999998,3037,0.89,100 Gramm,Becher 500  Gramm,rewe,0.17800000000000002
+395,2337,Duplo,1.75,100 Gramm,"Packung 180 Gramm, 10 x 18g",lidl,0.97,2875,3.49,100 Gramm,"Packung 327 Gramm, 18 x 18g",rewe,1.07
+396,2338,"Smirnoff Vodka Red Label 37,5 % Vol.",8.99,100 ml,Flasche Glas 0.7 L,lidl,1.284,1844,12.59,100 ml,Flasche Glas 0.7 L,rewe,1.7990000000000002
+397,2340,Kupferberg Gold Weiss Trocken,3.89,100 ml,Flasche Glas 0.75 L,lidl,0.519,3031,2.99,100 ml,Flasche Glas 0.75 L,rewe,0.39899999999999997
+398,2342,MM Extra trocken,2.69,100 ml,Flasche Glas 0.75 L,lidl,0.359,2874,2.79,100 ml,Flasche Glas 0.75 L,rewe,0.37200000000000005
+399,2344,"Rotkäppchen Riesling Sekt Flaschengärung, trocken",3.99,100 ml,Flasche Glas 0.75 L,lidl,0.532,3337,4.44,100 ml,Flasche Glas 0.75 L,rewe,0.5920000000000001
+400,2347,Sanella Zum Backen / Braten / Kochen Margarine,1.59,100 Gramm,Becher 500 Gramm,lidl,0.318,1852,1.69,100 Gramm,Becher 500 Gramm,rewe,0.338
+401,2351,Lipton Ice Tea Green Limone,0.99,100 ml,Pet-Flasche 1.25 L,lidl,0.079,4297,7.74,100 ml,"Pack 6 x 1,5L",rewe,0.086
+402,2353,Purina One Adult Huhn & Reis,2.95,100 Gramm,Beutel 800 Gramm,lidl,0.369,3544,2.99,100 Gramm,Beutel 800 Gramm,rewe,0.374
+403,2354,Suppengrün,1.29,100 Gramm,Schale 500 Gramm,lidl,0.258,4502,0.79,100 Gramm,Schale 500 Gramm,rewe,0.158
+404,2359,"Coral Feinwaschmittel Black Velvet, 20 WL",4.45,100 ml,Flasche Kunststoff 1500 ML,lidl,0.29700000000000004,3473,4.49,100 ml,Flasche Kunststoff 1500 ML,rewe,0.29900000000000004
+405,2360,Hanuta Minis,1.99,100 Gramm,Beutel 200 Gramm,lidl,1.0,3603,2.19,100 Gramm,Beutel 200 Gramm,rewe,1.1
+406,2361,Persil Universal Pulver,16.99,Preis pro Waschladung,Packung 100 Wäschen,lidl,0.17,2225,1.99,100 ml,Glas 330 ML,rewe,0.6
+407,2362,Somat 7 Tabs,10.95,100 Gramm,Packung 1.176 KG,lidl,0.9309999999999999,3367,5.75,100 Gramm,"Packung 26 Stück, 494 g",rewe,0.0
+408,2368,Ananas frisch,1.69,Preis pro Stück, 1 Stück,lidl,1.69,4013,0.88,Preis pro Stück, 1 Stück,rewe,0.88
+409,2372,"Arla Kaergarden Balance gesalzen, 30% weniger Fett",1.79,100 Gramm,Becher 250  Gramm,lidl,0.72,3380,1.79,100 Gramm,Becher 250  Gramm,rewe,0.72
+410,2393,"Adler Edelcreme Kräuter,  2 x 50 g, 60% Fett",1.89,100 Gramm,Dose 800 Gramm,lidl,0.23600000000000002,2082,0.79,100 Gramm,Packung 100 Gramm,rewe,0.79
+411,2394,Langnese Cremissimo Tiramisu,2.89,100 ml,Packung 900 ML,lidl,0.321,2488,3.39,100 ml,Packung 900 ML,rewe,0.377
+412,2395,Dr. Oetker Ristorante Pizza Spinaci,2.59,100 Gramm,Packung 390 Gramm,lidl,0.66,2078,2.69,100 Gramm,Packung 390 Gramm,rewe,0.69
+413,2398,Dr. Oetker Süße Mahlzeit Milchreis nach klassischer Art,1.03,100 Gramm,Packung 125 Gramm,lidl,0.82,2168,0.79,100 Gramm,Packung 125 Gramm,rewe,0.63
+414,2403,Maggi fix & frisch Spaghetti Bolognese,0.79,100 Gramm,Beutel 46 Gramm,lidl,1.72,1272,0.49,100 Gramm,Beutel 46 Gramm,rewe,1.07
+415,2404,Bahlsen ABC Russisch Brot,0.99,100 Gramm,"Beutel 125 Gramm, Superpack + 25% mehr ",lidl,0.79,2170,1.19,100 Gramm,Beutel 100 Gramm,rewe,1.19
+416,2406,Eduscho Gala Sanft & Verträglich,4.99,100 Gramm,Packung 500 Gramm,lidl,0.998,1038,0.29,100 Gramm,Becher 150 Gramm,rewe,0.19
+417,2418,"Leerdammer Delacreme mild, würzig",0.89,100 Gramm,Packung 230 Gramm,lidl,0.39,2133,1.39,100 Gramm,Packung 150 Gramm,rewe,0.93
+418,2420,Wasa Mjölk,1.59,100 Gramm,Becher 150 Gramm,lidl,1.06,2191,0.99,100 ml,Dose 500 ML,rewe,0.198
+419,2424,Schogetten Nugat,0.69,100 Gramm,"Tafel 116.6 Gramm,  + 16% mehr Inhalt",lidl,0.59,1787,0.99,100 Gramm,Tafel 100 Gramm,rewe,0.99
+420,2430,"Müller Joghurt mit der Ecke Schlemmer Kirsche, 3.5 % Fett",0.59,100 Gramm,Becher 150 Gramm,lidl,0.39,4887,1.49,100 Gramm,Packung 200  Gramm,rewe,0.745
+421,4269,"Müller Joghurt mit der Ecke Schlemmer Kirsche, 3.5 % Fett",0.49,100 Gramm,Becher 150 Gramm,lidl,0.33,4887,1.49,100 Gramm,Packung 200  Gramm,rewe,0.745
+422,2433,Chinakohl Deutschland Kl.1,0.89,100 Gramm, 1 KG,lidl,0.08900000000000001,2070,0.79,100 Gramm, 1 KG,rewe,0.079
+423,2434,Rügenwalder Pommersche Gutsleberwurst grob,1.59,100 Gramm,Becher 125 Gramm,lidl,1.27,2703,1.49,100 Gramm,Beutel 175 Gramm,rewe,0.85
+424,2436,Zott Zottarella Classic Rolle Classic 45 % Fett,1.49,100 Gramm,Beutel 250  Gramm,lidl,0.6,2083,1.49,100 Gramm,Beutel 400 Gramm,rewe,0.37
+425,2438,Kohlrabi Deutschland,0.39,Preis pro Stück, 1 Stück,lidl,0.39,1887,0.49,Preis pro Stück, 1 Stück,rewe,0.49
+426,2443,Iglo Spinatstäbchen 15-er,2.89,100 Gramm,,lidl,0.6779999999999999,2155,1.88,100 Gramm,Packung 426 Gramm,rewe,0.441
+427,2444,"Müller Müllermilch die Leichte Erdbeere, 0.1% Fett",0.89,100 Gramm,Flasche Kunststoff 400 Gramm,lidl,0.223,2124,0.85,100 Gramm,Flasche Kunststoff 400 Gramm,rewe,0.213
+428,2445,Kölln Müsli Schoko 30% weniger Zucker,2.99,100 Gramm,Packung 600 Gramm,lidl,0.4980000000000001,2526,2.99,100 Gramm,Packung 600 Gramm,rewe,0.4980000000000001
+429,2446,Rama Culinesse Buttergeschmack,1.59,100 ml,Flasche Kunststoff 500 ML,lidl,0.318,1937,1.29,100 ml,Flasche Kunststoff 500 ML,rewe,0.258
+430,2447,Freixenet Carta Nevada Semi Seco halbtrocken,4.44,100 ml,Flasche Glas 750 ML,lidl,0.5920000000000001,346,3.88,100 ml,Flasche Glas 750 ML,rewe,0.517
+431,2448,Lavazza Caffe Crema Classico,9.99,100 Gramm,Beutel 1000 Gramm,lidl,0.9990000000000001,267,9.99,100 Gramm,Beutel 1000 Gramm,rewe,0.9990000000000001
+432,2466,Wilthener Goldkrone 28 % Vol.,5.29,100 ml,Flasche Glas 0.7 L,lidl,0.7559999999999999,2210,3.99,100 ml,Flasche Glas 0.7 L,rewe,0.5700000000000001
+433,2468,Der General Univeral Allzweckreiniger Bergfrühling,1.65,100 ml,Flasche Kunststoff 500 ML,lidl,0.33,3401,1.75,100 ml,Flasche Kunststoff 750 ML,rewe,0.233
+434,2470,Osborne Veterano,8.99,100 ml,Flasche Glas 0.7 L,lidl,1.284,3335,8.99,100 ml,Flasche Glas 0.7 L,rewe,1.284
+435,2512,Captain Morgan Original Spiced Gold 35 % Vol.,9.99,100 ml,Flasche Glas 0.7 L,lidl,1.4269999999999998,1855,9.99,100 ml,Flasche Glas 0.7 L,rewe,1.4269999999999998
+436,2672,"Weihenstephan Haltbare Alpenmilch fettarm, 1,5% Fett",0.79,100 ml,Getränkekarton 1 L,lidl,0.079,937,0.79,100 ml,Getränkekarton 1 L,rewe,0.079
+437,2675,"Teekanne Heiße Liebe mit Himbeer-Vanille-Aroma, 20 x 3 g",1.69,100 Gramm,Packung 60 Gramm,lidl,2.82,2702,1.19,100 Gramm,Packung 250 Gramm,rewe,0.48
+438,2676,Uncle Bens Sauce Chinesisch Süß-Sauer Extra Gemüse,1.99,100 Gramm,"Glas 750 Gramm, XXL",lidl,0.265,2099,1.49,100 Gramm,Glas 400 Gramm,rewe,0.373
+439,2680,Leibnitz Choco Edelherb,0.88,100 Gramm,Packung 125  Gramm,lidl,0.7,2781,0.99,100 Gramm,Packung 125  Gramm,rewe,0.79
+440,2685,Nescafe frappe Original,1.99,100 Gramm,Dose 275 Gramm,lidl,0.72,2151,2.49,100 Gramm,Dose 275 Gramm,rewe,0.91
+441,2686,Schwartau Extra Samt Himbeere,1.79,100 Gramm,Glas 270 Gramm,lidl,0.66,1898,1.49,100 Gramm,Glas 270 Gramm,rewe,0.55
+442,2687,Schwartau Extra Samt Mango,1.79,100 Gramm,Glas 270 Gramm,lidl,0.66,1896,1.49,100 Gramm,Glas 270 Gramm,rewe,0.55
+443,2691,Geramont Cremig-Würzig 56% Fett,2.29,100 Gramm,Packung 200 Gramm,lidl,1.15,1023,2.45,100 Gramm,Packung 200 Gramm,rewe,1.23
+444,2696,Milka Luflee Schokolade,0.79,100 Gramm,Tafel 100 Gramm,lidl,0.79,2476,0.79,100 Gramm,Tafel 100 Gramm,rewe,0.79
+445,2700,Underberg Kräuterlikör,6.99,100 ml,Packung 0.24 L,lidl,2.9130000000000003,2517,3.39,100 ml,"Packung 80 ML, 4 x 20 ml",rewe,4.238
+446,2702,Bresso Antipasti Frischkäse-Häppchen mit Kräutern der Provence,1.89,100 Gramm,Packung 100 Gramm,lidl,1.89,2513,2.39,100 Gramm,Packung 100 Gramm,rewe,2.39
+447,2704,"Zott Sahne Joghurt mild Erdbeer, 1,5 % Fett",0.33,100 Gramm,Becher 150  Gramm,lidl,0.22,2784,0.39,100 Gramm,Becher 150  Gramm,rewe,0.26
+448,2707,Wirsing Deutschland,0.99,100 Gramm, 1 KG,lidl,0.099,2105,0.79,100 Gramm, 1 KG,rewe,0.079
+449,2708,Knoblauch,1.29,100 Gramm,Netz 200 Gramm,lidl,0.65,2114,0.69,100 Gramm,Netz 250 Gramm,rewe,0.28
+450,2709,Buschbohnen,1.19,100 Gramm,Netz 500 Gramm,lidl,0.23800000000000002,4489,2.29,100 Gramm,Glas 300 Gramm,rewe,0.763
+451,2711,Livio Klassik-Pflanzenöl Sonnenblumenöl,1.49,100 ml,Flasche Glas 750 ML,lidl,0.19899999999999998,2599,2.15,100 ml,Dose Weißblech 500 ML,rewe,0.43
+452,2907,Livio Klassik-Pflanzenöl Sonnenblumenöl,1.79,100 Gramm,Glas 340 Gramm,lidl,0.526,2599,2.15,100 ml,Dose Weißblech 500 ML,rewe,0.43
+453,2713,Eduscho Gala Caffe Crema,8.99,100 Gramm,Packung 1000 Gramm,lidl,0.899,1798,7.77,100 Gramm,Packung 1000 Gramm,rewe,0.7769999999999999
+454,2715,"Zott Jogole fruchtig & cremig Erdbeere, 1,5 % Fett",0.29,100 Gramm,Becher 150 Gramm,lidl,0.19,2471,0.33,100 Gramm,Becher 150 Gramm,rewe,0.22
+455,2716,Ehrmann Almighurt nach Herzenslust Garten Erdbeeren & zarte Schoko Wellen,0.66,100 Gramm,Becher 150 Gramm,lidl,0.44,2104,0.69,100 Gramm,Becher 150 Gramm,rewe,0.46
+456,2719,Doppelbrötchen,0.29,100 Gramm, 1 Stück,lidl,0.0,2811,0.29,100 Gramm, 1 Stück,rewe,0.0
+457,2721,Dr. Oetker Tassen Küchlein Haselnuss,4.79,100 Gramm,Packung 500 Gramm,lidl,0.958,2773,3.79,100 ml,Dose 570 ML,rewe,0.665
+458,2724,Jacobs Krönung Balance,9.99,100 ml,Flasche Glas 700 ML,lidl,1.4269999999999998,2859,3.33,100 Gramm,Packung 500 Gramm,rewe,0.6659999999999999
+459,2726,Listerine Mundspülung Freshmint,3.95,100 ml,Flasche Glas 500 ML,lidl,0.79,3714,4.95,Preis pro Waschladung,Packung 16 WL,rewe,0.31
+460,2813,Oro Di Parma Tomatenmark Classic 3-fach konzentriert,0.89,100 Gramm,Tube 200 Gramm,lidl,0.45,2088,0.99,100 Gramm,Tube 200 Gramm,rewe,0.5
+461,2815,Dr. Oetker Die Ofenfrische Pizza Thunfisch,2.59,100 Gramm,Packung 420 Gramm,lidl,0.617,2074,2.22,100 Gramm,Packung 420 Gramm,rewe,0.529
+462,2816,Ehrmann Grand Dessert Schoko,0.37,100 Gramm,Becher 200 Gramm,lidl,0.19,1273,0.39,100 Gramm,Becher 200 Gramm,rewe,0.2
+463,2818,"Milram Frühlingsquark leicht, 2,4% Fett",0.69,100 Gramm,Becher 200 Gramm,lidl,0.35,2050,0.89,100 Gramm,Becher 200 Gramm,rewe,0.45
+464,2821,Birkel No.1 Hartweizen Eiernudeln Hörnchen,0.77,100 Gramm,Packung 500 Gramm,lidl,0.154,2461,1.39,100 Gramm,Packung 500 Gramm,rewe,0.278
+465,2822,Dr. Oetker Käse-Sahne Torte,2.99,100 Gramm,Packung 390 Gramm,lidl,0.77,2328,3.19,100 Gramm,Packung 390 Gramm,rewe,0.82
+466,2827,"Zentis Belfrutta Auslese Erdbeere, mit 50% Fruchtgehalt",1.29,100 Gramm,Glas 340 Gramm,lidl,0.38,2304,1.75,100 Gramm,Glas 340 Gramm,rewe,0.51
+467,2828,Original Wagner Steinofen Pizza Mozzarella,2.39,100 Gramm,Packung 350 Gramm,lidl,0.68,1914,2.49,100 Gramm,Packung 350 Gramm,rewe,0.71
+468,2829,"Landliebe Haltbare fettarme Landmilch 1,5% Fett",0.85,100 ml,Getränkekarton 1 L,lidl,0.08499999999999999,2655,1.19,100 ml,Getränkekarton 1 L,rewe,0.11900000000000001
+469,2830,Müller Grieß Pudding mit Kirsch Sauce,0.77,100 Gramm,Becher 450 Gramm,lidl,0.17,2831,1.29,100 Gramm,Packung 300 Gramm,rewe,0.43
+470,2831,Dr. Oetker Süße Mahlzeit Grießbrei nach klassischer Art,0.95,100 Gramm,Beutel 92 Gramm,lidl,1.03,2562,1.09,100 Gramm,Beutel 92 Gramm,rewe,1.18
+471,2835,Schwartau Extra Schwarz-Kirsche,1.79,100 Gramm,Glas 340 Gramm,lidl,0.53,2391,1.99,100 Gramm,Glas 340 Gramm,rewe,0.59
+472,2836,Schwartau Extra Aprikose,1.49,100 Gramm,"Glas 374 Gramm, + 10% gratis",lidl,0.4,2085,1.99,100 Gramm,Glas 340 Gramm,rewe,0.59
+473,2838,Zentis Aachener Pflümli Pflaumenmus,0.88,100 Gramm,Becher 450 Gramm,lidl,0.2,2302,1.49,100 Gramm,Becher 450 Gramm,rewe,0.33
+474,2841,Ferrero Kinder Happy Hippo Cacao,0.99,100 Gramm,Packung 103.5 Gramm,lidl,0.96,2631,1.49,100 Gramm,Packung 103.5 Gramm,rewe,1.44
+475,2848,Becel Omega 3 Pflanzenöl,1.99,100 ml,Flasche Glas 500 ML,lidl,0.39799999999999996,2598,2.75,100 ml,Flasche Glas 500 ML,rewe,0.55
+476,2850,Wagner Big Pizza Supreme,1.88,100 Gramm,Packung 410 Gramm,lidl,0.459,2079,2.59,100 Gramm,Packung 410 Gramm,rewe,0.632
+477,2851,"Wagner Original Piccolinis Salami,",2.39,100 Gramm,"Packung 270 Gramm, 9 x 30g",lidl,0.89,1035,0.59,100 Gramm,Becher 200 Gramm,rewe,0.3
+478,2857,"Pfanni Kartoffel Püree das Lockere, 3 x 3 Portionen",0.25,100 Gramm,Becher 150 Gramm,lidl,0.17,2443,0.99,100 Gramm,Packung 250 Gramm,rewe,0.4
+479,2858,Ehrmann Almighurt Heidelbeere,0.79,100 Gramm,Packung 270 Gramm,lidl,0.29,1785,0.29,100 Gramm,Becher 150 Gramm,rewe,0.19
+480,2861,Dr. Oetker Ristorante Pizza Pasta,2.49,100 Gramm,Packung 350 Gramm,lidl,0.71,639,2.69,100 Gramm,Karton 410 Gramm,rewe,0.66
+481,2861,Dr. Oetker Ristorante Pizza Pasta,2.49,100 Gramm,Packung 350 Gramm,lidl,0.71,2535,2.69,100 Gramm,Packung 410 Gramm,rewe,0.66
+482,2863,Hawesta zarte Bratheringe nach Hausfrauenart in würziger Marinade,1.99,100 ml,"Dose 257g, ergibt 2,75 Liter",lidl,0.0,617,2.59,100 Gramm,Dose 500 Gramm,rewe,0.518
+483,2864,Dr. Oetker Frischkäse Torte,0.95,100 ml,Pet-Flasche 1 L,lidl,0.095,2325,3.19,100 Gramm,Packung 350 Gramm,rewe,0.91
+484,2871,Schwartau Schoko Mac,0.89,100 Gramm,Becher 150 Gramm,lidl,0.59,1892,1.89,100 Gramm,Glas 400 Gramm,rewe,0.473
+485,2873,Schwartau Extra Samt Erdbeer Vanille,1.79,100 Gramm,Glas 270 Gramm,lidl,0.66,2185,1.49,100 Gramm,Glas 270 Gramm,rewe,0.55
+486,2874,Schwartau Extra Samt Johannisbeeren,1.79,100 Gramm,Glas 270 Gramm,lidl,0.66,1899,1.99,100 Gramm,Glas 270 Gramm,rewe,0.74
+487,2875,Schwartau Extra Samt Waldfrucht,1.79,100 Gramm,Glas 270 Gramm,lidl,0.66,1900,1.49,100 Gramm,Glas 270 Gramm,rewe,0.55
+488,2876,Schwartau Extra Samt Aprikose,1.79,100 Gramm,Glas 270 Gramm,lidl,0.66,2093,1.49,100 Gramm,Glas 270 Gramm,rewe,0.55
+489,2877,Schwartau Extra Samt Brombeere,1.79,100 Gramm,Glas 270 Gramm,lidl,0.66,2723,1.49,100 Gramm,Glas 270 Gramm,rewe,0.55
+490,2880,Schwartau Extra Wildbeeren Gelee,1.79,100 Gramm,Glas 340 Gramm,lidl,0.53,2392,1.99,100 Gramm,Glas 340 Gramm,rewe,0.59
+491,2881,Schwartau Dessert Sauce Schokolade,0.89,100 ml,Flasche Glas 125 ML,lidl,0.71,2057,0.99,100 ml,Flasche Glas 125 ML,rewe,0.79
+492,2884,Meggle Grill- & Pfannen-Kartoffel Paprika-Chili,1.79,100 Gramm,Packung 400 Gramm,lidl,0.4480000000000001,1880,0.99,100 Gramm,Packung 540  Gramm,rewe,0.183
+493,2886,Trumpf Schogetten Cappuccino,0.69,100 Gramm,Tafel 100 Gramm,lidl,0.69,1777,0.99,100 Gramm,Tafel 100 Gramm,rewe,0.99
+494,2889,Müller Fructiv ACE + F,0.69,100 Gramm,Pet-Flasche 440 Gramm,lidl,0.157,2112,0.69,100 Gramm,Pet-Flasche 440 Gramm,rewe,0.157
+495,2900,"MinusL fettarme H Milch 1,5% Fett",0.99,100 ml,Getränkekarton 1 L,lidl,0.099,945,1.29,100 ml,Getränkekarton 1 L,rewe,0.129
+496,2901,Meggle Grill- & Pfannen-Kartoffel Rosmarin-Knoblauch,1.79,100 Gramm,Packung 400 Gramm,lidl,0.4480000000000001,2054,1.69,100 Gramm,Packung 400 Gramm,rewe,0.423
+497,2906,Frosta Paella,1.99,100 ml,Dose Weißblech 1000 ML,lidl,0.19899999999999998,1289,1.88,100 Gramm,Packung 380 Gramm,rewe,0.495
+498,2910,Wagner Big Pizza Texas,1.88,100 Gramm,Packung 420 Gramm,lidl,0.4480000000000001,935,1.88,100 Gramm,Packung 420 Gramm,rewe,0.4480000000000001
+499,2915,Nescafe Cafe au Lait,2.99,100 Gramm,Dose 250 Gramm,lidl,1.2,2663,3.45,100 Gramm,Dose 250 Gramm,rewe,1.38
+500,2916,Mondamin Fix Soßenbinder dunkel,0.99,100 Gramm,"Packung 275 Gramm, + 10 % mehr",lidl,0.36,1889,1.29,100 Gramm,Packung 250 Gramm,rewe,0.52
+501,2920,Herta Saftiger Genuss Saftschinken gegart,1.29,100 Gramm,"Packung 125 Gramm, 5 Scheiben ",lidl,1.03,1287,2.49,100 Gramm,Packung 500 Gramm,rewe,0.4980000000000001
+502,2923,Emmi Käse Schweizer Fondue Family & Friends,2.99,100 Gramm,Packung 400 Gramm,lidl,0.748,2514,3.69,100 Gramm,Packung 400 Gramm,rewe,0.9229999999999999
+503,2931,Müller Fructiv Multivitamin,0.69,100 Gramm,Pet-Flasche 440 Gramm,lidl,0.157,2764,0.69,100 Gramm,Pet-Flasche 440 Gramm,rewe,0.157
+504,2932,Knorr Salat Krönung Dressing Balsamico,1.19,100 ml,Flasche Kunststoff 235 ML,lidl,0.51,2086,1.59,100 ml,Flasche Kunststoff 235 ML,rewe,0.68
+505,2938,Milka Milkinis Milch,0.79,100 Gramm,Packung 87.5 Gramm,lidl,0.903,2447,0.99,100 Gramm,Packung 87.5 Gramm,rewe,1.131
+506,2943,Powerade Sports Mountain Blast,0.79,100 ml,Sportflasche 0.5 L,lidl,0.158,2650,0.99,100 ml,Sportflasche 0.5 L,rewe,0.198
+507,2945,Knorr Salat Krönung Gurke & Dill Joghurt Dressing,1.19,100 ml,Flasche Kunststoff 235 ML,lidl,0.51,2456,1.59,100 ml,Flasche Kunststoff 235 ML,rewe,0.68
+508,2948,Nektarinen gelbfleischig,0.89,100 Gramm, 1 KG,lidl,0.08900000000000001,1888,1.79,100 Gramm, 1 KG,rewe,0.179
+509,2949,Speisekartoffeln Deutschland vorwiegend festkochend,0.85,100 Gramm,"Netz 2,5 kg",lidl,0.034,2309,1.79,100 Gramm,"Sack 10 KG, Deutschland",rewe,0.018000000000000002
+510,2951,Speisekürbis Hokaido Deutschland,1.99,Preis pro Stück,1 kg,lidl,0.0,2506,1.49,Preis pro Stück,1 kg,rewe,0.0
+511,2952,Ingwer frisch,1.49,100 Gramm,Packung 200 Gramm,lidl,0.75,951,0.49,100 Gramm,Packung 100 Gramm,rewe,0.49
+512,2953,Radieschen Bund,0.39,Preis pro Stück, 1 Stück,lidl,0.39,2826,1.79,100 Gramm,Packung 150 Gramm,rewe,1.19
+513,2960,Mango frisch,1.79,100 ml,Dose 800 ML,lidl,0.22400000000000006,1918,0.99,Preis pro Stück, 1 Stück,rewe,0.99
+514,2967,Milka Choco Cookies,1.59,100 Gramm,Packung 168 Gramm,lidl,0.95,1940,1.59,100 Gramm,Packung 168 Gramm,rewe,0.95
+515,2968,Grünländer Käsewürfel mild & nussig,1.79,100 Gramm,"Packung 150 Gramm, 2 x 75g",lidl,1.19,1923,1.59,100 Gramm,"Packung 130 Gramm, 2 x 65g",rewe,1.22
+516,2969,"Grünländer Käsewürfel Chili & Paprika, 2 x 75 g",1.79,100 Gramm,Packung 150 Gramm,lidl,1.19,2118,1.99,100 Gramm,"Packung 130 Gramm, 2 x 65 Gramm",rewe,1.53
+517,2976,Krüger Family Country Cup Typ Schoko Brownie,1.99,100 Gramm,Beutel 400 Gramm,lidl,0.4980000000000001,2412,2.69,100 Gramm,Beutel 400 Gramm,rewe,0.6729999999999999
+518,2979,Speisezwiebeln,1.19,100 Gramm,Beutel 1.0 KG,lidl,0.11900000000000001,2142,0.49,100 Gramm,Beutel 1.0 KG,rewe,0.049
+519,2981,Ehrmann Almighurt nach Herzenslust Herz Kirsche & Schoko Wellen,0.66,100 Gramm,Becher 150 Gramm,lidl,0.44,2429,0.99,100 Gramm,Becher 150 Gramm,rewe,0.66
+520,2986,"Dr. Oetker Paula Minis Vanille Pudding mit Schokoflecken, 6 x 50 g",0.99,100 Gramm,Packung 300 Gramm,lidl,0.33,2747,1.19,100 Gramm,Packung 300 Gramm,rewe,0.397
+521,3007,Jacobs Auslese Klassisch,3.49,100 Gramm,Packung 500 Gramm,lidl,0.6980000000000001,837,3.29,100 Gramm,,rewe,0.6579999999999999
+522,3008,Dr. Oetker Tassen Küchlein Nougat,2.89,100 Gramm,Packung 350 Gramm,lidl,0.83,2772,1.79,100 Gramm,Dose 200 Gramm,rewe,0.9
+523,3009,Dr. Oetker Tassen Küchlein Schoko,1.79,100 Gramm,Becher 150 Gramm,lidl,1.19,2774,1.19,100 Gramm,Packung 260 Gramm,rewe,0.46
+524,3014,Onko Kaffee klassisch,2.45,100 ml,Flasche Kunststoff 200 ML,lidl,1.23,2860,3.33,100 Gramm,Packung 500 Gramm,rewe,0.6659999999999999
+525,3015,Jacobs Meisterröstung,3.49,100 Gramm,Glas 375 Gramm,lidl,0.9309999999999999,1831,3.49,100 Gramm,Packung 500 Gramm,rewe,0.6980000000000001
+526,3018,Moskovskaya Russischer Wodka,5.79,100 ml,Flasche Glas 0.5 L,lidl,1.158,1839,5.99,100 ml,Flasche Glas 0.5 L,rewe,1.198
+527,3019,Persil Color Pulver,19.99,Preis pro Waschladung,Packung 130 Wäschen,lidl,0.15,3056,12.99,Preis pro Waschladung,"XXL Pack 70 Waschladungen, 5,25kg",rewe,0.19
+528,3021,Bacardi Superior Rum,9.99,100 ml,Flasche Glas 700 ML,lidl,1.4269999999999998,1975,9.99,100 ml,Flasche Glas 700 ML,rewe,1.4269999999999998
+529,3158,Bertolli Extra Vergine Gentile,4.49,100 ml,Flasche Glas 500  ML,lidl,0.898,3847,4.49,100 ml,Flasche Glas 500  ML,rewe,0.898
+530,3160,"Langnese Feine Auslese Honig Landhonig, kalt geschleudert",3.99,100 Gramm,Glas 500 Gramm,lidl,0.7979999999999999,3990,3.99,100 Gramm,Glas 500 Gramm,rewe,0.7979999999999999
+531,3162,Schauma Shampoo 7 Kräuter,1.95,100 ml,Flasche Kunststoff 400 ML,lidl,0.488,4002,1.99,100 ml,Flasche Kunststoff 400 ML,rewe,0.4980000000000001
+532,3163,Melitta Cafe Auslese Pads,1.79,100 Gramm,"Packung 112 Gramm, 16 Kaffeepads",lidl,0.0,4174,1.49,100 Gramm,"Packung 20 Stück, 18 Kaffeepads + 2 Gratis",rewe,0.0
+533,3166,Lorenz Saltletts Sticks Sesam,1.45,100 Gramm,Packung 175 Gramm,lidl,0.83,4394,1.29,100 Gramm,Packung 175 Gramm,rewe,0.74
+534,3167,Rotkäppchen Sekt Rose trocken,3.99,100 ml,Flasche Glas 0.75 L,lidl,0.532,3828,25.14,100 ml,"Karton 4.5 L, 6 x 750 ml",rewe,0.5589999999999999
+535,3168,Langnese Feine Auslese Honig Sommerblüte,3.99,100 Gramm,Glas 500 Gramm,lidl,0.7979999999999999,3838,3.49,100 Gramm,Glas 500 Gramm,rewe,0.6980000000000001
+536,3170,Pril Spülmittel Kraftgel,1.35,100 ml,Flasche 500ml,lidl,0.27,3839,1.89,100 ml,Flasche Kunststoff 600 ML,rewe,0.315
+537,3182,"Danone Dany Sahne 4-er Magische Momente Kirsche, 4 x 115 g",7.99,Preis pro Waschladung,XL Pack 66 Waschladungen,lidl,0.12,4135,1.49,100 Gramm,Packung 460 Gramm,rewe,0.32
+538,3190,Barilla Penne Rigate,0.69,100 Gramm,Packung 500 Gramm,lidl,0.13799999999999998,3346,0.69,100 Gramm,Packung 500 Gramm,rewe,0.13799999999999998
+539,3191,Jacobs Krönung Mild,4.29,100 Gramm,Packung 500 Gramm,lidl,0.858,2869,3.33,100 Gramm,Packung 500 Gramm,rewe,0.6659999999999999
+540,5342,Jacobs Krönung Mild,4.59,100 Gramm,Packung 500 Gramm,lidl,0.918,2869,3.33,100 Gramm,Packung 500 Gramm,rewe,0.6659999999999999
+541,3192,Martini Bianco 15 % Vol.,5.49,100 ml,Flasche Glas 750 ML,lidl,0.732,3331,4.99,100 ml,Flasche Glas 750 ML,rewe,0.665
+542,3194,Jacobs Krönung Gold,6.66,100 Gramm,Glas 200 Gramm,lidl,3.33,3026,4.99,100 Gramm,Glas 100 Gramm,rewe,4.99
+543,3195,Langnese Sonnenblumen Honig mit Sommertracht,3.49,100 Gramm,Glas 375 Gramm,lidl,0.9309999999999999,3627,3.79,100 Gramm,Glas 375 Gramm,rewe,1.011
+544,3198,Ariel Pulver Waschmittel Compact Color & Style,8.79,Preis pro Waschladung,Flasche Kunststoff 44 Waschladungen,lidl,0.2,1995,9.99,100 Gramm,Packung 1 Gramm,rewe,
+545,3200,Lipton Ice Tea Lemon,9.99,100 ml,Flasche Glas 0.7 L,lidl,1.4269999999999998,1841,1.29,100 ml,Pet-Flasche 1.5 L,rewe,0.086
+546,3201,Fernet Branca,1.45,100 ml,Packung 400 ml,lidl,0.36,3030,9.99,100 ml,Flasche Glas 0.7 L,rewe,1.4269999999999998
+547,3205,Amarula Wild Fruit Cream Liqueur,9.99,100 ml,Flasche Glas 0.7 L,lidl,1.4269999999999998,3567,12.29,100 ml,Flasche Glas 0.7 L,rewe,1.7559999999999998
+548,3207,Lorenz Peppies Snack-Speck Bacon,0.99,100 Gramm,Beutel 75 Gramm,lidl,1.32,3485,1.39,100 Gramm,Beutel 75 Gramm,rewe,1.85
+549,3213,Sierra Tequila Silver,9.99,100 ml,Flasche Glas 0.7 L,lidl,1.4269999999999998,3385,9.99,100 ml,Flasche Glas 0.7 L,rewe,1.4269999999999998
+550,3214,Malibu Caribbean Rum mit Kokosnuss,9.99,100 ml,Flasche Glas 0.7 L,lidl,1.4269999999999998,3390,9.99,100 ml,Flasche Glas 0.7 L,rewe,1.4269999999999998
+551,3219,Coca Cola Cherry Kirsch,0.95,100 ml,Pet-Flasche 1.25 L,lidl,0.076,3047,0.89,100 ml,Pet-Flasche 0.5 L,rewe,0.17800000000000002
+552,3226,Bertolli Olio Di Oliva Das Besonders Milde,3.99,100 Gramm,Packung 500 Gramm,lidl,0.7979999999999999,4273,4.29,100 ml,Flasche Glas 500 ML,rewe,0.858
+553,3227,Jacobs Balance,2.79,100 Gramm,"Packung 220 Gramm, +10% mehr Inhalt",lidl,1.268,3963,3.22,100 Gramm,Packung 500 Gramm,rewe,0.644
+554,3330,Rotkäppchen Sekt Tradition Mild,3.99,100 ml,Flasche Glas 0.75 L,lidl,0.532,3788,25.14,100 ml,"Karton 4.5 L, 6 x 750 ml",rewe,0.5589999999999999
+555,3523,finish Powerball Alles in 1,7.77,Preis pro 100 Stück,"Packung 57 Stück, + 5 Tabs gratis, 52 + 5",lidl,13.63,4499,10.99,Preis pro 100 Stück,"Packung 84 Stück, 1920 g Packung",rewe,13.08
+556,3704,Ferrero Giotto Haselnuss Gebäckspezialität,8.88,Preis pro Waschladung,"Flasche Kunststoff 45 WL, 3,375 L",lidl,0.0,2873,15.08,100 Gramm,"Packung 154.8 Gramm, 4 x 38,7, 36 Stück",rewe,9.74
+557,3706,"Salakis Schafskäse Leicht, 9% Fett",5.99,Preis pro Waschladung,Flasche Kunststoff 3000 ML,lidl,0.0,1977,1.69,100 Gramm,Packung 180 Gramm,rewe,0.94
+558,3713,Bref Power Reiniger Kalk & Schmutz,2.45,100 ml,"Sprühflasche 900 ML, + 20% gratis",lidl,0.272,3432,1.99,100 Gramm,Packung 250 Gramm,rewe,0.7959999999999999
+559,3717,Bacardi Black Rum Dunkler Rum,8.88,100 ml,Flasche Glas 700 ML,lidl,1.2690000000000001,3552,9.99,100 ml,Flasche Glas 700 ML,rewe,1.4269999999999998
+560,3719,Karamalz Classic Alkoholfrei,4.95,100 ml,"Pack 6 x 0,75l",lidl,0.11,1860,0.89,100 ml,"0,75l Pet Flasche",rewe,0.11900000000000001
+561,3721,Disaronno Originale Amaretto,7.99,100 ml,Flasche Glas 0.5 L,lidl,1.598,3568,10.49,100 ml,Flasche Glas 0.5 L,rewe,2.0980000000000003
+562,3724,Tullamore Dew Irish Whisky,11.99,100 ml,Flasche Glas 700 ML,lidl,1.713,3446,15.99,100 ml,Flasche Glas 700 ML,rewe,2.2840000000000003
+563,3726,Nutella & Go,1.59,100 Gramm,Pack 104 Gramm,lidl,1.5290000000000001,3604,0.99,100 Gramm,Becher 52 Gramm,rewe,1.9040000000000001
+564,3727,Pitu Do Brasil Cachaca 40 % Vol.,8.99,100 ml,Flasche Glas 700 ML,lidl,1.284,1986,1.85,100 Gramm,Packung 355 Gramm,rewe,0.52
+565,3735,Listerine Mundspülung Zahn & Zahnfleischschutz,2.95,100 ml,Flasche Glas 500 ML,lidl,0.5900000000000001,3684,4.99,100 ml,Flasche Glas 500 ML,rewe,0.998
+566,3759,Langnese Wald Honig kalt geschleudert,3.49,100 Gramm,Glas 375 Gramm,lidl,0.9309999999999999,3626,3.79,100 Gramm,Glas 375 Gramm,rewe,1.011
+567,3763,Piasten Schoko Linsen,0.59,100 Gramm,Beutel 200 Gramm,lidl,0.3,3606,1.29,100 Gramm,Beutel 250  Gramm,rewe,0.52
+568,3766,Pfanner Der Gelbe Tee,1.69,100 ml,Becher 750  ML,lidl,0.225,3615,1.59,100 ml,Getränkekarton 2 L,rewe,0.08
+569,3767,Pfanner Light Ice Tee Lemon-Lime,2.79,100 Gramm,Packung 400 Gramm,lidl,0.7,3064,1.0,100 ml,Getränkekarton 2 L,rewe,0.05
+570,3768,Landliebe Eiscreme Bourbon Vanille,3.45,100 ml,Flasche Kunststoff 400 ML,lidl,0.8630000000000001,3035,2.69,100 ml,Becher 750  ML,rewe,0.359
+571,3774,Sonnen Bassermann Mein Schlemmergulasch,9.99,100 ml,Flasche Glas 700 ML,lidl,1.4269999999999998,3646,2.75,100 Gramm,Schale 480  Gramm,rewe,0.5730000000000001
+572,3776,Johnny Walker Red Label,4.44,100 ml,Flasche Glas 700 ML,lidl,0.634,3055,9.99,100 ml,Flasche Glas 700 ML,rewe,1.4269999999999998
+573,3777,Johnny Walker Black Label 12 years,4.44,100 ml,Flasche Glas 700 ML,lidl,0.634,2870,25.99,100 ml,Flasche Glas 0.7 L,rewe,3.713
+574,3778,Berentzen Fruchtige 20 % Vol.,4.44,100 ml,Flasche Glas 700 ML,lidl,0.634,3349,1.79,100 ml,Flasche Glas 100 ML,rewe,1.7899999999999998
+575,3779,Berentzen Fruchtige Saurer Apfel 16% Vol.,1.49,100 Gramm,Packung 500 Gramm,lidl,0.3,3043,5.99,100 ml,Flasche Glas 700 ML,rewe,0.8560000000000001
+576,3783,Kümmerling Kräuterlikör,4.99,100 ml,Flasche Glas 500 ML,lidl,0.998,1989,8.99,100 ml,"Karton 500 ML, 25 x 20 ml ",rewe,1.798
+577,3784,"Chivas Regal Whisky 12 Years Blended Scotch Whisky, 12 Jahre, 40% Vol.",19.99,100 ml,Flasche Glas 700 ML,lidl,2.8560000000000003,3033,19.99,100 ml,Flasche Glas 700 ML,rewe,2.8560000000000003
+578,3804,Söhnlein Brillant Jahrgangssekt Trocken,2.29,100 ml,Flasche Glas 0.75 L,lidl,0.305,3032,2.49,100 ml,Flasche Glas 0.75 L,rewe,0.332
+579,3805,Söhnlein Brillant Jahrgangssekt Medium Dry,2.29,100 ml,Flasche Glas 0.75 L,lidl,0.305,3515,2.49,100 ml,Flasche Glas 0.75 L,rewe,0.332
+580,3807,Ouzo Plomari 40 % Vol.,8.99,100 ml,Flasche Glas 0.7 L,lidl,1.284,3344,10.99,100 ml,Flasche Glas 0.7 L,rewe,1.5699999999999998
+581,3808,Osborne 103 Solera Brandy,8.88,100 ml,Flasche Glas 700 ML,lidl,1.2690000000000001,3387,8.99,100 ml,Flasche Glas 700 ML,rewe,1.284
+582,3814,Yeni Raki,1.99,100 Gramm,Packung 750 Gramm,lidl,0.265,2863,13.99,100 ml,Flasche Glas 700 ML,rewe,1.999
+583,3820,Alpia Alpenmilch Schokolade,4.99,100 Gramm,Packung 400 Gramm,lidl,1.248,969,0.49,100 Gramm,Tafel 100 Gramm,rewe,0.49
+584,3832,Kerrygold Original Irische Kräuter Butter,1.19,100 Gramm,Becher 150 Gramm,lidl,0.79,3704,1.49,100 Gramm,Becher 150 Gramm,rewe,0.99
+585,3833,Kerrygold Original Irische Meersalz Butter,0.69,100 Gramm,Dose 75 Gramm,lidl,0.92,3705,1.49,100 Gramm,Becher 150 Gramm,rewe,0.99
+586,3837,Rotkäppchen Fruchtsecco Holunderblüte,2.79,100 ml,Flasche Glas 0.75 L,lidl,0.37200000000000005,3742,4.99,100 ml,Flasche Glas 0.7 L,rewe,0.713
+587,3841,Rotkäppchen Fruchtsecco Erdbeere,2.79,100 ml,Flasche Glas 0.75 L,lidl,0.37200000000000005,3069,3.99,100 ml,Flasche Glas 0.75 L,rewe,0.532
+588,3852,"Südzucker Puder Zucker hauchzart locker, pudrig leicht",0.39,100 Gramm,Packung 250 Gramm,lidl,0.16,3996,0.49,100 Gramm,Packung 250 Gramm,rewe,0.2
+589,3853,Cilit Bang Kraftreiniger Kalk & Schmutz,2.99,100 ml,"Sprühflasche 1L, gratis + 33%",lidl,0.29900000000000004,4367,3.79,100 ml,Sprühflasche 750 ML,rewe,0.505
+590,3860,Eisbergsalat,0.65,Preis pro Stück, 1 Stück,lidl,0.65,3812,0.59,Preis pro Stück, 1 Stück,rewe,0.59
+591,3862,Himbeeren frisch,1.79,100 Gramm,Schale 125 Gramm,lidl,1.43,4530,1.49,100 Gramm,Schale 125 Gramm,rewe,1.19
+592,3864,Milka Schmunzelhase Nuss,1.99,100 Gramm,Lose 130 Gramm,lidl,1.53,4144,2.19,100 Gramm,Lose 130 Gramm,rewe,1.68
+593,3869,Thera-med 2 in 1 Original Zahncreme + Mundwasser,0.95,100 ml,Dosierflasche 75 ML,lidl,1.27,3845,1.59,100 ml,Dosierflasche 75 ML,rewe,2.12
+594,3870,Schauma For Men Shampoo,1.75,100 ml,Flasche Kunststoff 400 ML,lidl,0.44,3842,1.11,100 ml,Flasche Kunststoff 400 ML,rewe,0.28
+595,3888,Bushmills Malt Whisky Geschenkpackung,14.99,100 ml,Flasche Glas 700 ML,lidl,2.141,4236,28.95,100 ml,Flasche Glas 700 ML,rewe,4.136
+596,3889,Light Life alkoholfreier Sekt weiß,2.49,100 ml,Flasche Glas 0.75 L,lidl,0.332,3808,2.49,100 ml,Flasche Glas 0.75 L,rewe,0.332
+597,3893,Honigmelone gelb,1.79,Preis pro Stück, 1 Stück,lidl,1.79,4454,1.29,Preis pro Stück, 1 Stück,rewe,1.29
+598,3894,Orangen,1.39,100 Gramm,Netz 2 KG,lidl,0.06999999999999999,3873,1.22,100 Gramm,Netz 2 KG,rewe,0.061
+599,3896,Lorenz Saltletts Sticks Vollkorn,1.55,100 Gramm,Beutel 175 Gramm,lidl,0.89,4395,1.29,100 Gramm,Beutel 175 Gramm,rewe,0.74
+600,3897,"Danone Dany Sahne Creme Duett 4-er Pack Schoko Vanille, 4 x 115 g",1.59,100 Gramm,Pack 460 Gramm,lidl,0.35,4161,0.99,100 Gramm,Pack 460 Gramm,rewe,0.22
+601,3899,Leerdammer Leger 17% Fett,1.99,100 Gramm,Packung 140 Gramm 7 Scheiben,lidl,1.42,4382,1.39,100 Gramm,"Packung 160 Gramm, 8 Scheiben",rewe,0.87
+602,3904,"Müller Müllermilch die Leichte Vanilla, 0.1% Fett",0.79,100 Gramm,Flasche Kunststoff 400 Gramm,lidl,0.198,4191,0.85,100 Gramm,Flasche Kunststoff 400 Gramm,rewe,0.213
+603,3907,Milka Feine Eier Nougatcreme,1.99,100 Gramm,Packung 112.5 Gramm,lidl,1.77,4148,1.99,100 Gramm,Packung 112.5 Gramm,rewe,1.77
+604,3910,Schwartau Extra Fruttissima Johannisbeere Limited Edition,1.49,100 Gramm,Becher 250 Gramm,lidl,0.6,4310,1.89,100 Gramm,Becher 250 Gramm,rewe,0.76
+605,3911,Kerrygold Original Irische Butter gesalzen,1.79,100 Gramm,Packung 250 Gramm,lidl,0.72,4599,1.99,100 Gramm,Packung 250 Gramm,rewe,0.8
+606,3913,Tassimo Jacobs Caffe Crema Classico XL 16 T Discs,4.49,100 Gramm,Packung 132.8 Gramm,lidl,3.38,4494,4.99,100 Gramm,"Packung 144 Gramm, 16",rewe,0.0
+607,3928,Lavazza Crema Gustoso ganze Bohne,10.99,100 Gramm,Packung 1000 Gramm,lidl,1.099,3014,12.99,100 Gramm,Packung 1000 Gramm,rewe,1.2990000000000002
+608,3932,Osborne Veterano Solera-Brandy 30 % Vol.,8.88,100 ml,Flasche Glas 0.7 L,lidl,1.2690000000000001,4233,10.99,100 ml,Flasche Glas 0.7 L,rewe,1.5699999999999998
+609,3933,Ferrero Die Besten,4.44,100 Gramm,"Karton 269 Gramm,  26 Stück",lidl,1.65,3874,4.99,100 Gramm,"Karton 269 Gramm,  26 Stück",rewe,1.86
+610,3934,Le Rustique Camembert 45% Fett i. Tr.,1.99,100 Gramm,Packung 250 Gramm,lidl,0.8,3791,2.29,100 Gramm,Packung 250 Gramm,rewe,0.92
+611,3935,Eduscho Gala Espresso,8.99,100 Gramm,Packung 1000 Gramm,lidl,0.899,3795,7.77,100 Gramm,Packung 1000 Gramm,rewe,0.7769999999999999
+612,3938,Mandarinen,2.99,100 Gramm,2300 Gramm,lidl,0.13,3876,0.99,100 Gramm,Netz 750g,rewe,0.132
+613,3941,Clementinen frisch,0.79,100 Gramm, 1 KG,lidl,0.079,1869,1.11,100 Gramm, 1 KG,rewe,0.11100000000000003
+614,3943,Basilikum im Topf,0.85,Preis pro Stück, 1 Stück,lidl,0.85,3952,0.99,Preis pro Stück, 1 Stück,rewe,0.99
+615,3948,Milka Schmunzelhase Alpenmilch,0.89,100 Gramm,Lose 60 Gramm,lidl,1.48,3877,1.69,100 Gramm,Lose 130 Gramm,rewe,1.3
+616,3948,Milka Schmunzelhase Alpenmilch,0.89,100 Gramm,Lose 60 Gramm,lidl,1.48,4147,1.09,100 Gramm,Lose 60 Gramm,rewe,1.82
+617,3949,Bonbel Cremig,1.99,100 Gramm,Rolle 180 Gramm,lidl,1.11,3887,1.99,100 Gramm,Rolle 180 Gramm,rewe,1.11
+618,3951,Jacobs momente caffe crema classico,7.99,100 Gramm,Beutel 1000 Gramm,lidl,0.799,3898,11.99,100 Gramm,Beutel 1000 Gramm,rewe,1.199
+619,3952,De Beukelaer ChocOle Zarte Milchschokolade,0.99,100 Gramm,Packung 75 Gramm,lidl,1.32,4279,1.39,100 Gramm,Packung 75 Gramm,rewe,1.85
+620,3961,Emmi Caffe Latte Caramel New York Edition,2.99,100 ml,"Packung 920 ML, 4 x 230 ml",lidl,0.33,3814,1.39,100 ml,Becher 230 ML,rewe,0.6
+621,3963,Barilla Piccolini Mini Penne Rigate,0.99,100 Gramm,Streuer 250 Gramm,lidl,0.4,3992,1.49,100 Gramm,Packung 500 Gramm,rewe,0.298
+622,3965,Langnese Flotte Biene Akazien mit Frühlingsblütenhonig,0.99,100 ml,Getränkekarton 2 L,lidl,0.05,3983,2.99,100 Gramm,Spenderflasche 250 Gramm,rewe,1.1960000000000002
+623,3966,Pfanner Der Rote Tee Zitrone-Lotosblüte,0.33,100 Gramm,Becher 150 Gramm,lidl,0.22,3925,1.11,100 ml,Getränkekarton 2 L,rewe,0.056000000000000015
+624,3973,Nestle Fitness & Joghurt mit Vollkornweizen,2.89,100 Gramm,Packung 350 Gramm,lidl,0.826,4244,2.89,100 Gramm,Packung 350 Gramm,rewe,0.826
+625,3974,"Landliebe Joghurt mit erlesenen Erdbeeren, 3.8 % Fett",0.33,100 Gramm,Becher 150 Gramm,lidl,0.22,3792,0.35,100 Gramm,Becher 150 Gramm,rewe,0.23
+626,3976,Pfanner Ice Tea Summer Citrus,0.95,100 ml,Getränkekarton 2000 ML,lidl,0.048,4317,1.49,100 ml,Getränkekarton 2000 ML,rewe,0.075
+627,3977,Jacobs Krönung Bohnen,4.44,100 Gramm,Packung 500 Gramm,lidl,0.8880000000000001,3800,3.33,100 Gramm,Packung 500 Gramm,rewe,0.6659999999999999
+628,3981,Lipton Ice Tea Mango,0.59,100 ml,Pet-Flasche 1.25 L,lidl,0.047,4296,7.74,100 ml,"Pack 6 x 1,5L",rewe,0.086
+629,3993,Tassimo Jacobs Krönung 16 T Discs,3.99,100 Gramm,Beutel 630 Gramm,lidl,0.63,4493,4.79,Preis pro Stück,Packung 16 Stück,rewe,0.3
+630,4002,"Meggle Butter Boutique Mix mit frischen Kräutern,  5 x 20 g",1.39,100 Gramm,Doppelpackung 200 Gramm,lidl,0.7,3858,1.39,100 Gramm,Packung 100 Gramm,rewe,1.39
+631,4007,"Le Rustique Camembert light, 28% Fett",1.99,100 Gramm,"Packung 275 Gramm, + 10% gratis",lidl,0.72,3853,2.29,100 Gramm,Packung 250 Gramm,rewe,0.92
+632,4012,Loch Lomond  Scotch Whisky Single Malt Highland Malt,12.99,100 ml,Flasche Glas 0.7 L,lidl,1.856,3890,15.49,100 ml,Flasche Glas 0.7 L,rewe,2.213
+633,4013,Galia Melonen Kl. 1,1.11,Preis pro Stück, 1 Stück,lidl,1.11,3883,1.49,Preis pro Stück, 1 Stück,rewe,1.49
+634,4019,Physalis,1.09,100 Gramm,Netz 500 Gramm,lidl,0.21800000000000005,4156,0.79,100 Gramm,Schale 100 Gramm,rewe,0.79
+635,4021,Schnittlauch im Topf,0.85,Preis pro Stück, 1 Stück,lidl,0.85,4503,0.99,Preis pro Stück, 1 Stück,rewe,0.99
+636,4023,Zitronen frisch,0.69,100 Gramm,Netz 500 Gramm,lidl,0.13799999999999998,3219,0.59,100 Gramm,Netz 500 Gramm,rewe,0.11800000000000001
+637,4026,Underberg Kräuterlikör 12 x 20 ml,6.99,100 ml,Packung 240 ML,lidl,2.9130000000000003,3907,8.89,100 ml,Packung 240 ML,rewe,3.704
+638,4030,Spargel grün frisch,0.99,100 Gramm,Packung 139 Gramm,lidl,0.71,4397,1.99,100 Gramm,Packung 500 Gramm,rewe,0.39799999999999996
+639,4037,Trauben rot kernlos,2.22,100 Gramm,Karton 360 Gramm,lidl,0.62,4129,2.99,100 Gramm, 1 KG,rewe,0.29900000000000004
+640,4070,Milka Schmunzelhase Zartherb,1.11,100 Gramm,Lose 130 Gramm,lidl,0.85,4146,2.19,100 Gramm,Lose 130 Gramm,rewe,1.68
+641,4077,Süßkartoffeln frisch,1.99,100 Gramm, 1 KG,lidl,0.19899999999999998,3797,1.99,100 Gramm, 1 KG,rewe,0.19899999999999998
+642,4082,Johannisbeeren rot frisch,1.11,Preis pro Stück, 1 Stück,lidl,1.11,4203,1.79,100 Gramm,Schale 250 Gramm,rewe,0.716
+643,4086,De Beukelaer ChocOle Feine Zartbitterschokolade,0.99,100 Gramm,Packung 75 Gramm,lidl,1.32,4280,1.39,100 Gramm,Packung 75 Gramm,rewe,1.85
+644,4092,Arizona Green Tee Pomegranate,0.99,100 ml,Flasche Kunststoff 0.5 L,lidl,0.198,3926,1.39,100 ml,Flasche Kunststoff 0.5 L,rewe,0.278
+645,4104,Zwiebelbrot,1.59,100 Gramm,Lose 600 Gramm,lidl,0.265,5525,1.89,100 Gramm,Lose 750 Gramm,rewe,0.252
+646,4107,Zott Caffreze Cappuccino,0.69,100 ml,Becher 200 ML,lidl,0.35,4536,0.89,100 ml,Becher 200 ML,rewe,0.45
+647,4108,Zott Caffreze Latte Macchiato,0.69,100 ml,Becher 200 ML,lidl,0.35,4537,0.89,100 ml,Becher 200 ML,rewe,0.45
+648,4109,Rotkäppchen Fruchtsecco Mango,2.79,100 ml,Flasche Glas 0.75 L,lidl,0.37200000000000005,4561,3.99,100 ml,Flasche Glas 0.75 L,rewe,0.532
+649,4129,Wagner herzhafter Flammkuchen Griechische Art,1.95,100 Gramm,Packung 330 Gramm,lidl,0.59,4662,1.79,100 Gramm,Packung 330 Gramm,rewe,0.54
+650,4165,Landliebe Milchreis Traditionell,0.39,100 Gramm,Becher 150 Gramm,lidl,0.26,5061,0.49,100 Gramm,Becher 200 Gramm,rewe,0.25
+651,4181,Snickers Ice Cream,2.99,100 ml,"Packung 371 ml, 7 x 53ml",lidl,0.81,4884,1.29,100 Gramm,Packung 150 Gramm,rewe,0.86
+652,4237,Käsebrötchen,0.35,100 Gramm, 1 Stück,lidl,0.17,5123,0.49,100 Gramm, 1 Stück,rewe,0.0
+653,4287,Milka I love Milka Nuss-Nougat-Creme,1.99,100 Gramm,Packung 110 Gramm,lidl,1.81,5090,1.99,100 Gramm,Packung 125 Gramm,rewe,1.59
+654,4299,Freixenet Seccito de Freixenet trocken,5.29,100 ml,Flasche Glas 0.75 L,lidl,0.705,4797,3.75,100 ml,Flasche Glas 0.75 L,rewe,0.5
+655,4317,Pringles Chips Paprika,2.49,100 Gramm,Packung 250 Gramm,lidl,0.996,5064,1.99,100 Gramm,Dose 165 Gramm,rewe,1.21
+656,4323,Lipton Ice Tea Zero Sugar Lemon,1.25,100 ml,Pet-Flasche 1.5 L,lidl,0.08299999999999999,5024,7.74,100 ml,"Pack 6 x 1,5L",rewe,0.086
+657,4531,Lipton Ice Tea Zero Sugar Lemon,1.05,100 ml,Pet-Flasche 1.25 L,lidl,0.08399999999999999,5024,7.74,100 ml,"Pack 6 x 1,5L",rewe,0.086
+658,4375,Hela Curry Gewürz Ketchup scharf,2.29,100 ml,Flasche Kunststoff 800 ML,lidl,0.28600000000000003,4927,1.75,100 ml,Flasche Kunststoff 400 ML,rewe,0.43799999999999994
+659,4426,Mikado Zartherb,0.99,100 Gramm,Packung 75 Gramm,lidl,1.32,4866,1.39,100 Gramm,Packung 75 Gramm,rewe,1.85
+660,4435,Leicht & Cross Knusperbrot Roggen,1.11,100 Gramm,Vorteilspackung 250 Gramm,lidl,0.44,4889,0.59,100 Gramm,Beutel 150  Gramm,rewe,0.39
+661,4459,Haribo Mini Color-Rado,0.65,100 Gramm,Beutel 175 Gramm,lidl,0.37,4868,0.95,100 Gramm,Beutel 175 Gramm,rewe,0.54
+662,4464,Arizona Blueberry White Tea,0.99,100 ml,Flasche Kunststoff 0.5 L,lidl,0.198,4871,1.59,100 ml,Flasche Kunststoff 0.5 L,rewe,0.318
+663,4528,Funny Frisch Paprika Ecken,1.39,100 Gramm,Beutel 75 Gramm,lidl,1.85,5112,1.19,100 Gramm,Beutel 75 Gramm,rewe,1.59
+664,4774,Heinz Barbecue Sauce Classic,1.49,100 ml,Flasche Kunststoff 220 ML,lidl,0.68,5207,1.19,100 ml,Flasche Kunststoff 220 ML,rewe,0.54
+665,4833,Uncle Bens Spitzen-Langkorn-Reis 10 Minuten lose,2.99,100 Gramm,Packung 1000 Gramm,lidl,0.29900000000000004,5082,3.69,100 Gramm,Packung 1000 Gramm,rewe,0.369
+666,4843,Mazzetti Condimento Balsamico Bianco,0.59,100 ml,Pet-Flasche 0.75 L,lidl,0.079,5050,3.49,100 ml,Flasche Glas 500 ML,rewe,0.6980000000000001
+667,4851,"Exquisa Quark Genuss Erdbeere,0.2% Fett",0.39,100 Gramm,Becher 150 Gramm,lidl,0.26,2713,1.29,100 Gramm,Becher 500 Gramm,rewe,0.26
+668,4854,Odol Med3 Zahncreme Mint,2.15,100 ml,Tube 125 ML,lidl,1.72,5652,1.29,100 ml,,rewe,0.0
+669,4992,Odol Med3 Zahncreme Mint,1.95,100 ml,Tube 75 ML,lidl,2.6,5652,1.29,100 ml,,rewe,0.0
+670,5001,Wilthener Feiner alter Wilthener 36 % Vol.,6.79,100 ml,Flasche Glas 0.7 L,lidl,0.97,5545,5.99,100 ml,Flasche Glas 0.7 L,rewe,0.8560000000000001
+671,5010,Heinz Curry Mango Sauce,1.49,100 ml,Flasche Squeeze 220 ML,lidl,0.68,5624,1.55,100 ml,Flasche Squeeze 220 ML,rewe,0.7
+672,5048,Dallmayr Prodomo ganze Bohnen,6.49,100 Gramm,Packung 500 Gramm,lidl,1.298,5798,5.29,100 Gramm,Packung 500 Gramm,rewe,1.058
+673,5269,Nestle Nestea Zitrone,2.95,100 ml,Sprühflasche 1000 ML,lidl,0.29500000000000004,5211,7.74,100 ml,"Pack 6 x 1,5L",rewe,0.086
+674,5282,Nestle Nestea Waldfrucht,0.85,100 ml,Pet-Flasche 1.5 L,lidl,0.057,5648,1.29,100 ml,Pet-Flasche 1.5 L,rewe,0.086
+675,5293,Nestle Nestea Pfirsich,0.69,100 ml,Flasche Kunststoff 1.25 L,lidl,0.055000000000000014,5209,7.74,100 ml,"Pack 9 L, 6 x 1.5 L",rewe,0.086
+676,5322,Weltmeisterbrötchen,0.29,Preis pro Stück, 1 Stück,lidl,0.29,5693,0.29,Preis pro Stück, 1 Stück,rewe,0.29
+677,5323,Mondamin Pancake Teig-Mix,1.29,100 Gramm,Flasche Kunststoff 215 Gramm,lidl,0.6,5623,1.75,100 Gramm,Flasche Kunststoff 215 Gramm,rewe,0.81
+678,5329,Rotkäppchen Fruchtsecco Granatapfel,2.79,100 ml,Flasche Glas 0.75 L,lidl,0.37200000000000005,5215,4.19,100 ml,Flasche Glas 0.75 L,rewe,0.5589999999999999
+679,5366,Gillette Series Rasiergel Empfindliche Haut,4.99,100 Gramm, 165 Gramm,lidl,3.02,6132,3.49,100 ml,Dose 200 ML,rewe,1.75
+680,5446,Deutsche Zuchini,0.59,100 Gramm, 1000 Gramm,lidl,0.059000000000000004,5789,0.69,100 Gramm, 1000 Gramm,rewe,0.06899999999999999
+681,5473,Milka Choco Pause,1.59,100 Gramm,Rolle 260 Gramm,lidl,0.61,6144,1.69,100 Gramm,Rolle 260 Gramm,rewe,0.65
+682,5479,Äpfel Granny Smith grün,1.49,Preis pro Stück,1 Kg Packung,lidl,0.0,6175,0.3,Preis pro Stück,Lose 1 Stück,rewe,0.3

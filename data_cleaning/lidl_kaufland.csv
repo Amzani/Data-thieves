@@ -1,0 +1,730 @@
+,Unnamed: 0_x,Name,Price_x,Unit_x,Packet Size_x,Supermarket_x,Comparable Price_x,Unnamed: 0_y,Price_y,Unit_y,Packet Size_y,Supermarket_y,Comparable Price_y
+0,0,Coca Cola,0.99,100 ml,Pet-Flasche 1.25 L,lidl,0.079,15,11.4,100 ml,"Kasten 12 L, 12 x 1l",kaufland,0.095
+1,3,Nutella,3.99,100 Gramm,Vorteils Glas 1000 Gramm,lidl,0.39899999999999997,0,3.79,100 Gramm,Vorteils Glas 1000 Gramm,kaufland,0.379
+2,5,Iglo Fischstäbchen,3.39,100 Gramm,"15er, Packung 450 Gramm",lidl,0.753,1,3.39,100 Gramm,"15er, Packung 450 Gramm",kaufland,0.753
+3,8,Milka Alpenmilch Schokolade,1.09,100 Gramm,Tafel 100  Gramm,lidl,1.09,107,1.09,100 Gramm,Tafel 100  Gramm,kaufland,1.09
+4,15,"Landliebe Landkäse Original, 50 % Fett",1.59,100 Gramm,Packung 175 Gramm,lidl,0.91,13,1.99,100 Gramm,Packung 175 Gramm,kaufland,1.14
+5,16,Rama Margarine Classic,1.79,100 Gramm,Becher 500 Gramm + 50g mehr Inhalt,lidl,0.325,38,1.69,100 Gramm,"Familienpackung, Becher 1000 Gramm",kaufland,0.16899999999999998
+6,17,Kerrygold Original Irische Butter mildgesäuert,2.39,100 Gramm,Packung 250  Gramm,lidl,0.96,5,2.39,100 Gramm,Packung 250  Gramm,kaufland,0.96
+7,20,Zott Monte Butterkeks Zwei Kammer Becher,0.59,100 Gramm,Packung 125 Gramm,lidl,0.47,22,0.79,100 Gramm,Packung 125 Gramm,kaufland,0.63
+8,36,Lätta Halbfettmargarine Original,0.99,100 Gramm,"XXL Becher 550 Gramm, 10% mehr Inhalt",lidl,0.18,3,1.79,100 Gramm,Becher 500  Gramm,kaufland,0.358
+9,38,Iglo Schlemmer-Filet Classic a la Bordelaise,1.77,100 Gramm,Packung 380 Gramm,lidl,0.466,39,2.89,100 Gramm,Packung 380 Gramm,kaufland,0.7609999999999999
+10,41,Dr. Oetker Die Ofenfrische Pizza Speciale,2.49,100 Gramm,Packung 405 Gramm,lidl,0.61,3012,2.69,100 Gramm,Packung 405 Gramm,kaufland,0.66
+11,1491,Dr. Oetker Die Ofenfrische Pizza Speciale,2.99,100 Gramm,Packung 405 Gramm,lidl,0.74,3012,2.69,100 Gramm,Packung 405 Gramm,kaufland,0.66
+12,42,Kinder Schokolade,1.11,100 Gramm,"Tafel 125 Gramm10 Stück, 8 + 2 gratis",lidl,0.89,4,1.39,100 Gramm,"Tafel 125 Gramm10 Stück, 8 + 2 gratis",kaufland,1.11
+13,44,Danone Dany Sahne Schoko 4-er,1.79,100 Gramm,"Packung 460 Gramm, 4 x 115g",lidl,0.39,43,1.79,100 Gramm,"Packung 460 Gramm, 4 x 115g",kaufland,0.39
+14,48,Thomy Sonnenblumenöl,1.99,100 ml,Flasche Glas 750 ML,lidl,0.265,537,1.99,100 ml,Flasche Glas 750 ML,kaufland,0.265
+15,53,Funny Frisch Chipsfrisch Ungarisch,1.39,100 Gramm,Beutel 175 Gramm,lidl,0.79,290,1.99,100 Gramm,Beutel 175 Gramm,kaufland,1.14
+16,59,Danone Actimel Classic,1.99,100 Gramm,6er Packung 600 Gramm,lidl,0.332,52,2.65,100 Gramm,Packung 800 Gramm,kaufland,0.331
+17,69,Nestle Choco Crossies Classic,1.99,100 Gramm,"Packung 150 Gramm, 2 x 75 Gramm",lidl,1.33,291,0.99,100 Gramm,"Packung 160 Gramm, 2 x 80g",kaufland,0.62
+18,70,Philadelphia Doppelrahmstufe Original,1.49,100 Gramm,Packung 175 Gramm,lidl,0.85,77,1.49,100 Gramm,Packung 175 Gramm,kaufland,0.85
+19,72,Pepsi Cola Classic koffeinhaltig,0.99,100 ml,Pet-Flasche 1.5 L,lidl,0.066,83,0.99,100 ml,Pet-Flasche 1.5 L,kaufland,0.066
+20,73,"Milkana Schmelzkäse Kräuter, 50% Fett",1.99,100 Gramm,Packung 200 Gramm,lidl,1.0,939,1.99,100 Gramm,Packung 200 Gramm,kaufland,1.0
+21,75,Rotkäppchen Sekt Halbtrocken,3.99,100 ml,Flasche Glas 0.75 L,lidl,0.532,89,3.99,100 ml,Flasche Glas 0.75 L,kaufland,0.532
+22,76,Red Bull Energy Drink,1.09,100 ml,Dose 250 ML,lidl,0.4360000000000001,967,20.0,100 ml,"Karton 6 L, 24 x 0,250 L",kaufland,0.33299999999999996
+23,93,Punica Classics Nektar Multivitamin 17+4,1.59,100 ml,Pet-Flasche 1500 ML,lidl,0.106,108,1.59,100 ml,Pet-Flasche 1500 ML,kaufland,0.106
+24,94,Hela Curry Gewürz Ketchup delikat,2.29,100 ml,Flasche Kunststoff 800 ML,lidl,0.28600000000000003,110,2.39,100 ml,Flasche Kunststoff 800 ML,kaufland,0.29900000000000004
+25,94,Hela Curry Gewürz Ketchup delikat,2.29,100 ml,Flasche Kunststoff 800 ML,lidl,0.28600000000000003,5062,1.49,100 Gramm,Tube 200 Gramm,kaufland,0.75
+26,95,"Müller Müllermilch Schoko, 1,5 % Fett",0.89,100 Gramm,Flasche Kunststoff 400 Gramm,lidl,0.223,7,0.99,100 Gramm,Flasche Kunststoff 400 Gramm,kaufland,0.248
+27,96,Miracoli Spaghetti Klassiker mit Tomatensauce,1.99,100 Gramm,Packung 634 Gramm,lidl,0.314,111,1.79,100 Gramm,"Packung 397 Gramm, 2 - 3 Portionen",kaufland,0.45
+28,97,Coca Cola Zero,0.89,100 ml,Pet-Flasche 1.25 L,lidl,0.071,113,0.49,100 ml,Dose 330 ML,kaufland,0.14800000000000002
+29,98,Henkell Trocken,5.99,100 ml,Flasche Glas 0.75 L,lidl,0.799,88,4.99,100 ml,Flasche Glas 0.75 L,kaufland,0.665
+30,99,"Pepsi Max 6 x 1,5 L",0.95,100 ml,Pet-Flasche 1.5 L,lidl,0.063,274,0.82,100 ml,Pet-Flasche 1.5 L,kaufland,0.055000000000000014
+31,111,Zentis Nusspli Nuss Nougat Creme,0.99,100 Gramm,Becher 400 Gramm,lidl,0.248,53,1.59,100 Gramm,Becher 400 Gramm,kaufland,0.39799999999999996
+32,124,Mumm Extra Dry Sekt trocken,5.99,100 ml,Flasche Glas 0.75 L,lidl,0.799,3750,5.49,100 ml,Flasche Glas 0.75 L,kaufland,0.732
+33,126,"Salakis Schafskäse Natur, 50 % Fett",1.59,100 Gramm,Packung 200 Gramm,lidl,0.8,120,2.29,100 Gramm,Packung 200 Gramm,kaufland,1.15
+34,151,Golden Toast Butter Toast,1.19,100 Gramm,Packung 500  Gramm,lidl,0.23800000000000002,161,1.19,100 Gramm,Packung 500  Gramm,kaufland,0.23800000000000002
+35,152,Bertolli Extra Vergine Originale das Fruchtige,4.69,100 ml,Flasche Glas 500 ML,lidl,0.938,186,4.29,100 ml,Flasche Glas 500 ML,kaufland,0.858
+36,154,Barilla Spaghetti No.5,0.77,100 Gramm,Packung 500 Gramm,lidl,0.154,348,1.59,100 Gramm,Packung 500 Gramm,kaufland,0.318
+37,155,Dr. Quendt Echter Dresdner Christstollen,7.49,100 Gramm,Packung 1000 Gramm,lidl,0.7490000000000001,1417,0.49,100 Gramm,Becher 500 Gramm,kaufland,0.098
+38,155,Dr. Quendt Echter Dresdner Christstollen,7.49,100 Gramm,Packung 1000 Gramm,lidl,0.7490000000000001,3699,1.19,100 Gramm,Packung 500 Gramm,kaufland,0.23800000000000002
+39,161,Ehrmann Grand Dessert Plus Double-Choc,0.79,100 Gramm,Becher 190 Gramm,lidl,0.42,200,0.79,100 Gramm,Becher 190 Gramm,kaufland,0.42
+40,163,Philadelphia Joghurt,1.49,100 Gramm,Packung 175 Gramm,lidl,0.85,1004,1.19,100 Gramm,Packung 175 Gramm,kaufland,0.68
+41,180,Bahlsen Comtess Choco Chips,1.99,100 Gramm,Packung 400 Gramm,lidl,0.4980000000000001,1804,1.79,100 Gramm,Packung 400 Gramm,kaufland,0.4480000000000001
+42,181,Jacobs Krönung Original,5.99,100 Gramm,Packung 500 Gramm,lidl,1.198,204,5.99,100 Gramm,Packung 500 Gramm,kaufland,1.198
+43,184,Chantre Weinbrand 36% Vol.,6.99,100 ml,Flasche Glas 0.7 L,lidl,0.9990000000000001,219,6.99,100 ml,Flasche Glas 0.7 L,kaufland,0.9990000000000001
+44,187,Cinzano Asti,6.29,100 ml,Flasche Glas 0.75 L,lidl,0.8390000000000001,226,6.49,100 ml,Flasche Glas 0.75 L,kaufland,0.865
+45,190,Melitta Bella Crema La Crema,12.99,100 Gramm,Packung 1000 Gramm,lidl,1.2990000000000002,230,12.99,100 Gramm,Packung 1000 Gramm,kaufland,1.2990000000000002
+46,193,Melitta Cafe Auslese,5.69,100 Gramm,Vakuum 500 Gramm,lidl,1.138,233,5.69,100 Gramm,Vakuum 500 Gramm,kaufland,1.138
+47,199,"Aperol italienischer Aperitiv Bitter Spirituose, 15 % Vol.",9.99,100 ml,Flasche Glas 0.7 L,lidl,1.4269999999999998,2901,9.49,100 ml,Flasche Glas 0.7 L,kaufland,1.3559999999999999
+48,200,"Philadelphia Schnittlauch, 12% Fett",1.49,100 Gramm,Packung 175 Gramm,lidl,0.85,1489,4.99,100 Gramm,Packung 400 Gramm,kaufland,1.248
+49,236,Granatapfel frisch,0.79,Preis pro Stück,Granatapfel aus der Türkei 1 Stück,lidl,0.79,572,1.39,Preis pro Stück,Granatapfel aus der Türkei 1 Stück,kaufland,1.39
+50,239,"Müller Joghurt mit der Ecke Schlemmer Erdbeere, 3.5 % Fett",0.49,100 Gramm,Becher 150 Gramm,lidl,0.33,347,0.49,100 Gramm,Becher 150 Gramm,kaufland,0.33
+51,257,Rama mit Butter,1.29,100 Gramm,Becher 225 Gramm,lidl,0.57,1728,1.49,100 Gramm,Becher 225 Gramm,kaufland,0.66
+52,261,Leerdammer Original Scheibenkäse Classic 45 % Fett,1.99,100 Gramm,"Packung 140g, 7 Scheiben",lidl,1.42,289,1.69,100 Gramm,"Packung 140g, 7 Scheiben",kaufland,1.21
+53,262,Lorenz Crunchips Paprika,1.19,100 Gramm,Beutel 200 Gramm,lidl,0.6,27,1.39,100 Gramm,Beutel 175 Gramm,kaufland,0.79
+54,263,Ritter Sport Schokolade Voll-Nuss,1.29,100 Gramm,Tafel 100 Gramm,lidl,1.29,506,1.29,100 Gramm,Tafel 100 Gramm,kaufland,1.29
+55,264,Becks Pils,4.29,100 ml,"6 x 0,5 L, Pack 3 L",lidl,0.14300000000000002,28,16.4,100 ml,"20 x 0,5 L, Kasten 10 L",kaufland,0.16399999999999998
+56,265,Deli Reform Margarine Das Original,0.85,100 Gramm,Becher 555 Gramm,lidl,0.153,292,1.39,100 Gramm,Becher 500  Gramm,kaufland,0.278
+57,266,Dr. Oetker Bistro Baguette Salami,2.45,100 Gramm,"Multipackung 500 Gramm, 4 x 125 g",lidl,0.49,299,1.29,100 Gramm,Packung 250 Gramm,kaufland,0.52
+58,268,Kinder Bueno,2.79,100 Gramm,"Packung 258 Gramm, 12 x 21,5 g 	 ",lidl,1.08,29,1.99,100 Gramm,"Packung 129 Gramm, 6 Stück",kaufland,1.54
+59,269,Coca Cola Light,0.89,100 ml,Pet-Flasche 1.25 L,lidl,0.071,656,11.7,100 ml," 15 L, 10 x 1500 ml, Mehrwegflasche",kaufland,0.078
+60,270,Maggi Ravioli in Tomatensauce,1.39,100 Gramm,Dose 800 Gramm,lidl,0.174,55,1.15,100 Gramm,Dose 800 Gramm,kaufland,0.14400000000000002
+61,271,Hanuta Haselnuss Schnitte,1.89,100 Gramm,Packung 249.6 Gramm,lidl,0.76,31,1.99,100 Gramm,"Packung 220 Gramm, 10er",kaufland,0.9
+62,272,"Ramazzotti Amaro Kräuterbitter, 30% Vol.",8.88,100 ml,Flasche Glas 0.7 L,lidl,1.2690000000000001,312,9.99,100 ml,Flasche Glas 0.7 L,kaufland,1.4269999999999998
+63,273,Milkana Runddose Vielfalt Schmelzkäse 8 x 25 g,1.99,100 Gramm,Dose 200 Gramm,lidl,1.0,358,1.39,100 Gramm,Dose 200 Gramm,kaufland,0.7
+64,274,Raffaello Pralinen Kokos-Mandel,1.99,100 Gramm,Packung 180 Gramm,lidl,1.11,321,1.99,100 Gramm,"Packung 150  Gramm, 15 Stück",kaufland,1.33
+65,275,Rocher Pralinen,3.49,100 Gramm,"Packung 200 Gramm, 16 Stück",lidl,1.75,91,3.49,100 Gramm,"Packung 200 Gramm, 16 Stück",kaufland,1.75
+66,278,Ferrero Kinder Riegel,2.39,100 Gramm,"10 x 21 g, Packung 210 Gramm",lidl,1.14,333,3.39,100 Gramm,"Packung 378 Gramm, 18 x 21g",kaufland,0.9
+67,279,Mini Babybel rot 45% Fett,1.89,100 Gramm,"Netz 140 Gramm, 7 Stück",lidl,1.35,34,2.54,100 Gramm,"Netz 180 Gramm, 9 x 20 Gramm",kaufland,1.41
+68,281,Schwip Schwap ohne Zucker,0.89,100 ml,Pet-Flasche 1.5 L,lidl,0.059000000000000004,659,7.68,100 ml,"Kasten 12 L,  12 x 1 L",kaufland,0.064
+69,287,Maggi Würze Tischflasche,1.59,100 Gramm,Flasche Glas 250 Gramm,lidl,0.64,300,1.95,100 Gramm,Flasche 202ml,kaufland,1.41
+70,292,Ferrero Milchschnitte,1.79,100 Gramm,Beutel 200 Gramm,lidl,0.9,8,1.99,100 Gramm,"10 x 28 g, Packung 280 Gramm",kaufland,0.71
+71,296,Paprika rot,2.77,100 Gramm,Packung 396 Gramm,lidl,0.7,660,1.79,100 Gramm,Beutel 1 KG,kaufland,0.179
+72,301,Krustenbrot,1.15,100 Gramm, 1000 Gramm,lidl,0.115,3322,0.99,100 Gramm, 1000 Gramm,kaufland,0.099
+73,3828,Krustenbrot,1.29,100 Gramm, 1000 Gramm,lidl,0.129,3322,0.99,100 Gramm, 1000 Gramm,kaufland,0.099
+74,324,Milka Weisse Schokolade,0.59,100 Gramm,Packung 130 Gramm,lidl,0.45,490,0.49,100 Gramm,Tafel 100  Gramm,kaufland,0.49
+75,368,Kaki frisch,1.49,Preis pro Stück, 1 Stück,lidl,1.49,2754,0.49,Preis pro Stück, 1 Stück,kaufland,0.49
+76,369,Maronen frisch,0.99,100 Gramm,100 Gramm lose,lidl,0.99,426,1.69,100 ml,Dose 500 ML,kaufland,0.338
+77,441,Frosta Tagliatelle Wildlachs,3.49,100 Gramm,"Packung 650 Gramm, + 30% mehr Inhalt",lidl,0.537,349,3.29,100 Gramm,Packung 500 Gramm,kaufland,0.6579999999999999
+78,447,"Patros Feta Natur,  40% Fett",1.99,100 Gramm,Packung 225 Gramm,lidl,0.884,11,2.19,100 Gramm,Packung 180 Gramm,kaufland,1.217
+79,464,Weihenstephan Frische Tafelbutter 82% Fett,0.99,100 Gramm,Packung 250  Gramm,lidl,0.4,51,2.19,100 Gramm,Packung 250  Gramm,kaufland,0.88
+80,465,Landliebe Butter 82% Fett,0.99,100 Gramm,Packung 250  Gramm,lidl,0.4,518,2.69,100 Gramm,Packung 250  Gramm,kaufland,1.08
+81,466,Golden Toast Vollkorn Toast,1.19,100 Gramm,Packung 500 Gramm,lidl,0.23800000000000002,519,1.19,100 Gramm,Packung 500 Gramm,kaufland,0.23800000000000002
+82,467,Dr. Oetker Ristorante Pizza Salame,2.69,100 Gramm,Karton 320 Gramm,lidl,0.84,520,2.69,100 Gramm,Karton 320 Gramm,kaufland,0.84
+83,469,Uncle Bens Express Spitzen-Langkorn-Reis 2 Minuten,1.59,100 Gramm,Packung 250 Gramm,lidl,0.64,523,1.69,100 Gramm,Packung 250 Gramm,kaufland,0.68
+84,471,Danone Activia Classic Natur,1.99,100 Gramm,"Packung 500 Gramm, 4 x 125g",lidl,0.4,532,1.99,100 Gramm,"Packung 500 Gramm, 4 x 125g",kaufland,0.4
+85,475,Wagner herzhafter Flammkuchen Unser Original,2.59,100 Gramm,Packung 300 Gramm,lidl,0.86,540,2.29,100 Gramm,Packung 300 Gramm,kaufland,0.76
+86,477,"Müller Froop Frucht auf Joghurt Pfirsich-Maracuja, 3.5 % Fett",0.49,100 Gramm,Becher 150 Gramm,lidl,0.33,45,0.59,100 Gramm,Becher 150 Gramm,kaufland,0.39
+87,478,Teachers Scotch Whisky Highland Cream 40 % Vol.,8.99,100 ml,Flasche Glas 0.7 L,lidl,1.284,4786,10.99,100 ml,Flasche Glas 0.7 L,kaufland,1.5699999999999998
+88,480,Milka Noisette Schokolade,0.79,100 Gramm,Tafel 100  Gramm,lidl,0.79,1134,0.79,100 Gramm,Tafel 100  Gramm,kaufland,0.79
+89,484,Landliebe Sahnepudding Schokolade,1.99,100 Gramm,"Packung 500 Gramm, 4 Stück",lidl,0.4,561,1.99,100 Gramm,"Packung 500 Gramm, 4 Stück",kaufland,0.4
+90,494,Capri Sonne Orange 10-er Pack 10 x 0.2 L,1.99,100 ml,Pack 2 L,lidl,0.1,296,2.39,100 ml,Pack 2 L,kaufland,0.12
+91,495,"Danone Fruchtzwerge Erdbeere, Kirsche, Himbeere, 6 x 50 g",1.35,100 Gramm,Packung 300 Gramm,lidl,0.45,117,1.59,100 Gramm,Packung 300 Gramm,kaufland,0.53
+92,503,Milka I love Milka Erdbeer-Rahm,1.99,100 Gramm,Packung 125 Gramm,lidl,1.59,1135,1.99,100 Gramm,Packung 125 Gramm,kaufland,1.59
+93,555,"Weihenstephan Haltbare Alpenmilch 3,5% Fett",0.79,100 ml,Getränkekarton 1 L,lidl,0.079,287,0.69,100 ml,Getränkekarton 1 L,kaufland,0.06899999999999999
+94,556,Herta Knoblauchwurst,3.49,100 Gramm,Packung 500 Gramm,lidl,0.7,767,4.99,100 Gramm,Packung 500 Gramm,kaufland,1.0
+95,557,"Ehrmann Schoko Pudding Schoko,  2% Fett",1.29,100 Gramm,Becher 750 Gramm,lidl,0.17,311,1.79,100 Gramm,Becher 750 Gramm,kaufland,0.24
+96,682,Haribo Goldbären,0.89,100 Gramm,Beutel 300 Gramm,lidl,0.3,607,1.45,100 Gramm,Mini-Maxi Beutel 250 Gramm,kaufland,0.58
+97,683,Milram Paprikaquark,0.69,100 Gramm,Becher 200 Gramm,lidl,0.35,302,0.99,100 Gramm,Becher 200 Gramm,kaufland,0.5
+98,685,Pfanner Der Grüne Tee Zitrone-Kaktusfeige,0.99,100 ml,Getränkekarton 2 L,lidl,0.05,305,1.69,100 ml,Getränkekarton 2 L,kaufland,0.08499999999999999
+99,688,Miracoli Pasta Sauce Tomate Kräuter,1.29,100 ml,Glas 500 ML,lidl,0.258,610,1.99,100 ml,Glas 500 ML,kaufland,0.39799999999999996
+100,691,Schwartau Extra Wellness Multivitamin,1.69,100 Gramm,Glas 260 Gramm,lidl,0.65,768,1.79,100 Gramm,Glas 260 Gramm,kaufland,0.69
+101,696,Geti Wilba Argentinische Hasenpfanne 3 - 4 Portionen,6.99,100 Gramm,Packung 1250 Gramm,lidl,0.5589999999999999,325,9.79,100 Gramm,Packung 1250 Gramm,kaufland,0.7829999999999999
+102,699,Amicelli Waffelröllchen,1.99,100 Gramm,"Packung 225 Gramm, 18 12,5g",lidl,0.88,330,2.39,100 Gramm,"Packung 225 Gramm, 18 12,5g",kaufland,1.06
+103,700,Milka Adventskalender,4.44,100 Gramm,Packung 200 Gramm,lidl,2.22,180,5.99,100 Gramm,Packung 200 Gramm,kaufland,3.0
+104,700,Milka Adventskalender,4.44,100 Gramm,Packung 200 Gramm,lidl,2.22,6018,12.95,100 Gramm,Packung 329 Gramm,kaufland,3.94
+105,702,Cornelius Pfälzer Leberwurst im Kunstdarm,1.99,100 Gramm,Folie 400 Gramm,lidl,0.5,331,1.29,100 Gramm,Folie 200 Gramm,kaufland,0.65
+106,720,Original Wagner Steinofen Pizza Salami,0.88,100 Gramm,Packung 125 Gramm,lidl,0.7,42,2.29,100 Gramm,Packung 320  Gramm,kaufland,0.72
+107,789,Arla Kaergarden ungesalzen,1.89,100 Gramm,Becher 250 Gramm,lidl,0.76,25,2.19,100 Gramm,Becher 250 Gramm,kaufland,0.88
+108,790,Arla Kaergarden gesalzen,1.89,100 Gramm,Becher 250  Gramm,lidl,0.76,145,2.19,100 Gramm,Becher 250  Gramm,kaufland,0.88
+109,791,"Meggle die Kräuter-Butter Portionen Original portioniert, 5 x 20 g",1.39,100 Gramm,Packung 100 Gramm,lidl,1.39,1441,1.49,100 Gramm,Packung 100 Gramm,kaufland,1.49
+110,792,"Bonbel Butterkäse in Scheiben, 50% Fett",0.99,100 Gramm,Packung 100  Gramm,lidl,0.99,1143,1.69,100 Gramm,Packung 100  Gramm,kaufland,1.69
+111,793,"Geramont Weichkäse Cremig-Leicht, 16% Fett",2.29,100 Gramm,Packung 200 Gramm,lidl,1.15,848,2.19,100 Gramm,Packung 200 Gramm,kaufland,1.1
+112,794,Exquisa Der Sahnige Natur,0.99,100 Gramm,Packung 200 Gramm,lidl,0.5,850,1.15,100 Gramm,Packung 200 Gramm,kaufland,0.58
+113,796,After Eight Classic,1.99,100 Gramm,Packung 200   Gramm,lidl,1.0,851,1.95,100 Gramm,Packung 200   Gramm,kaufland,0.98
+114,797,Ritter Sport Schokolade Nugat,0.99,100 Gramm,Tafel 100  Gramm,lidl,0.99,2276,2.25,100 Gramm,Packung 250 Gramm,kaufland,0.9
+115,798,Sonnen Bassermann Hühner Nudeltopf mit buntem Gemüse,1.95,100 Gramm,Dose 800 Gramm,lidl,0.244,853,1.79,100 Gramm,Dose 800 Gramm,kaufland,0.22400000000000006
+116,799,Becel pro-activ Halbfettmargarine 40% Fett,2.99,100 Gramm,Becher 250 Gramm,lidl,1.1960000000000002,856,2.99,100 Gramm,Becher 250 Gramm,kaufland,1.1960000000000002
+117,800,Becel Classic 60% Fett,1.49,100 Gramm,"Becher 250 Gramm, Classic",lidl,0.596,857,1.49,100 Gramm,"Becher 250 Gramm, Classic",kaufland,0.596
+118,801,Deli Reform Die Leichte Halbfettmargarine,1.39,100 Gramm,Becher 500  Gramm,lidl,0.278,1446,1.39,100 Gramm,Becher 500  Gramm,kaufland,0.278
+119,802,Mazola Keimöl,1.99,100 ml,Flasche Glas 750  ML,lidl,0.265,858,3.39,100 ml,Flasche Glas 1000 ML,kaufland,0.33899999999999997
+120,803,Emmi Caffe Latte Macchiato,1.39,100 ml,Becher 230 ML,lidl,0.6,1813,1.15,100 ml,Becher 230 ML,kaufland,0.5
+121,806,Uncle Bens Express Reis Mediterran 2 Minuten,1.59,100 Gramm,Packung 250 Gramm,lidl,0.64,2290,1.69,100 Gramm,Packung 250 Gramm,kaufland,0.68
+122,807,Dallmayr Crema d Oro,8.99,100 Gramm,Beutel 1000 Gramm,lidl,0.899,867,13.99,100 Gramm,Beutel 1000 Gramm,kaufland,1.399
+123,809,Celebrations Pralinenmischung,2.79,100 Gramm,Packung 190 Gramm,lidl,1.47,868,2.79,100 Gramm,Packung 190 Gramm,kaufland,1.47
+124,811,"Müller Reine Buttermilch Pur, 0.9% Fett",0.59,100 Gramm,Becher 500 Gramm,lidl,0.11800000000000001,1146,0.59,100 Gramm,Becher 500 Gramm,kaufland,0.11800000000000001
+125,813,Nescafe Classic Original,5.99,100 Gramm,Glas 200 Gramm,lidl,3.0,869,3.99,100 Gramm,Glas 100 Gramm,kaufland,3.99
+126,814,Schwartau Fruit 2 Day Erdbeere-Orange,1.89,100 ml,Doppelpackung 400 ML,lidl,0.47,1147,1.99,100 ml,Doppelpackung 400 ML,kaufland,0.5
+127,815,Caro Landkaffee Original,2.99,100 Gramm,Dose 200 Gramm,lidl,1.5,2298,2.69,100 Gramm,Dose 200 Gramm,kaufland,1.35
+128,816,Original Wagner Steinofen Pizza Speciale,2.29,100 Gramm,Packung 350 Gramm,lidl,0.65,75,2.29,100 Gramm,Packung 350 Gramm,kaufland,0.65
+129,818,Lenor Weichspüler Aprilfrisch,1.95,100 ml,"Flasche 38 Waschladungen, 950ml",lidl,0.0,876,9.99,100 Gramm,Packung 500  Gramm,kaufland,2.0
+130,819,Miracle Whip Balance,1.29,100 ml,Glas 500 ML,lidl,0.258,1832,1.89,100 ml,Glas 500 ML,kaufland,0.37799999999999995
+131,820,Langnese Flotte Biene Wildblüten Honig,2.79,100 Gramm,Spenderflasche 250 Gramm,lidl,1.1159999999999999,2317,3.29,100 Gramm,Spenderflasche 250 Gramm,kaufland,1.3159999999999998
+132,821,"Danone Fruchtzwerge weniger süss Erdbeere, Aprikose, Banane, 6 x 50 g",1.29,100 Gramm,Packung 300 Gramm,lidl,0.43,1838,1.35,100 Gramm,Packung 300 Gramm,kaufland,0.45
+133,822,"Danone Fruchtzwerge Banane, Erdbeere, Aprikose",1.49,100 Gramm,"Packung 300 Gramm, 6 x 50g",lidl,0.5,881,1.29,100 Gramm,"Packung 300 Gramm, 6 x 50g",kaufland,0.43
+134,823,Langnese Cremissimo Bourbon Vanille,1.99,100 ml,Packung 1000 ML,lidl,0.19899999999999998,76,3.29,100 ml,Packung 1000 ML,kaufland,0.32899999999999996
+135,824,Brunch Cremiger Brotaufstrich Feine Kräuter,1.39,100 Gramm,Becher 200 Gramm,lidl,0.7,2323,1.19,100 Gramm,Becher 200 Gramm,kaufland,0.6
+136,825,Brunch Brotaufstrich Paprika-Peperoni,1.39,100 Gramm,Becher 200 Gramm,lidl,0.7,343,1.69,100 Gramm,Becher 200 Gramm,kaufland,0.85
+137,826,Brunch Cremiger Brotaufstrich Natur,1.39,100 Gramm,Becher 200 Gramm,lidl,0.7,162,1.69,100 Gramm,Becher 200 Gramm,kaufland,0.85
+138,827,Landliebe Sahne Pudding Vanille,0.65,100 Gramm,Becher 150 Gramm,lidl,0.43,882,0.69,100 Gramm,Becher 150 Gramm,kaufland,0.46
+139,828,Nestle Kit Kat Mini,1.89,100 Gramm,Beutel 250 Gramm,lidl,0.7559999999999999,1841,1.89,100 Gramm,Beutel 233 Gramm,kaufland,0.8109999999999999
+140,831,De Beukelaer Prinzen Rolle mit Kakaocreme,1.39,100 Gramm,Rolle 400 Gramm,lidl,0.35,889,1.69,100 Gramm,Rolle 400 Gramm,kaufland,0.42
+141,832,Hohes C Milde Orange 100% Saft,2.19,100 ml,Getränkekarton 1.5 L,lidl,0.146,891,1.19,100 ml,Pet-Flasche 1 L,kaufland,0.11900000000000001
+142,833,Bifi Original Minisalami 5-er 5 x 25 g,1.99,100 Gramm,Packung 125 Gramm,lidl,1.59,1281,1.99,100 Gramm,Packung 125 Gramm,kaufland,1.59
+143,834,Miracel Whip Klassik,1.29,100 ml,Glas 500 ML,lidl,0.258,897,1.59,100 ml,Glas 500 ML,kaufland,0.318
+144,838,"Rama Cremefine zum Schlagen, 19 % Fett",0.99,100 ml,XXL Flasche Kunststoff 300 ML,lidl,0.33,901,0.75,100 ml,Flasche Kunststoff 250 ML,kaufland,0.3
+145,839,Rama Cremefine zum Kochen 15 % Fett,0.99,100 ml,Flasche Kunststoff 250 ML,lidl,0.4,306,0.99,100 ml,Packung 250 ML,kaufland,0.4
+146,840,Lorenz Saltletts Sticks,1.55,100 Gramm,Packung 250 Gramm,lidl,0.62,79,1.79,100 Gramm,Packung 250 Gramm,kaufland,0.72
+147,841,Maggi Ravioli in pikanter Sauce,1.99,100 Gramm,Dose 800 Gramm,lidl,0.24900000000000005,1284,1.69,100 Gramm,Dose 800 Gramm,kaufland,0.21100000000000002
+148,842,Du darfst leichte Butter 39% Fett,1.05,100 Gramm,Packung 250  Gramm,lidl,0.42,903,1.19,100 Gramm,Packung 250  Gramm,kaufland,0.48
+149,843,"Hochland Sandwich Scheiben Gouda, 48% Fett",1.99,100 Gramm,Packung 200 Gramm,lidl,1.0,906,1.99,100 Gramm,"Packung 175 Gramm, 10 Scheiben",kaufland,1.14
+150,847,Iglo Filegro Müllerin Art,1.66,100 Gramm,Packung 250 Gramm,lidl,0.66,910,2.69,100 Gramm,Packung 250 Gramm,kaufland,1.08
+151,848,Appel Hering zarte Filets in Dill-Kräuter-Creme,1.25,100 Gramm,Dose 200 Gramm,lidl,0.63,2376,1.49,100 Gramm,Dose 200 Gramm,kaufland,0.75
+152,849,Rügen Fisch Heringsfilets in Tomaten-Creme,0.99,100 Gramm,Dose 200 Gramm,lidl,0.5,147,0.99,100 Gramm,Dose 200 Gramm,kaufland,0.5
+153,851,Herta Finesse saftiger Schinken hauchzart,1.89,100 Gramm,Packung 100 Gramm,lidl,1.89,2129,2.79,100 Gramm,"Doppelpack 300 Gramm, 2 x 150 g",kaufland,0.93
+154,852,Kinder Schoko Bons,1.95,100 Gramm,"Beutel 224 Gramm, 200 g+12 % Mehr Inhalt",lidl,0.87,1880,2.19,100 Gramm,"Beutel 200 Gramm, 34 Stück",kaufland,1.1
+155,853,Aoste Stickado Snack Classic,1.99,100 Gramm,Packung 70 Gramm,lidl,2.84,1881,1.99,100 Gramm,Packung 70 Gramm,kaufland,2.84
+156,856,Zott Monte Maxi Milchdessert + Schoko,1.49,100 Gramm,"Packung 330 Gramm, 6-er x 55g",lidl,0.45,920,1.49,100 Gramm,"Packung 330 Gramm, 6-er x 55g",kaufland,0.45
+157,858,"Eduscho Gala Mild & Elegant, Röstkaffee mit Karamell",4.29,100 Gramm,Vakuum 500 Gramm,lidl,0.858,922,3.69,100 Gramm,Vakuum 500 Gramm,kaufland,0.738
+158,859,Eduscho Gala Vollmundig & Edel,4.29,100 Gramm,Vakuum 500 Gramm,lidl,0.858,923,4.29,100 Gramm,Vakuum 500 Gramm,kaufland,0.858
+159,860,Baileys Original Irish Cream,9.99,100 ml,Flasche Glas 700 ML,lidl,1.4269999999999998,927,13.49,100 ml,Flasche Glas 700 ML,kaufland,1.9269999999999998
+160,861,Rama Culinesse Pflanzencreme,1.59,100 ml,Flasche Kunststoff 500  ML,lidl,0.318,928,1.59,100 ml,Flasche Kunststoff 500  ML,kaufland,0.318
+161,862,"Barilla Pesto alla Genovese, Basilico Fresco",2.89,100 ml,Glas 190 ML,lidl,1.52,1172,1.89,100 ml,Glas 370 ML,kaufland,0.51
+162,864,Geramont Klassik 60% Fett,1.99,100 Gramm,Packung 200 Gramm,lidl,1.0,934,2.29,100 Gramm,Packung 200 Gramm,kaufland,1.15
+163,865,Saint Albray mild & würzig 60% Fett,2.99,100 Gramm,Vorteilspack 300 Gramm,lidl,1.0,935,2.39,100 Gramm,Packung 200 Gramm,kaufland,1.2
+164,866,"Fol Epi Hauchfein Classic, 50 % Fett",2.29,100 Gramm,Packung 150 Gramm,lidl,1.53,936,1.79,100 Gramm,Packung 100 Gramm,kaufland,1.79
+165,868,Mars Ice Cream,2.99,100 ml,"Packung 357  ML, 7 Stück Family Pack",lidl,0.84,2133,2.55,100 ml,"Packung 306 ML, 6 Stück x 51ml",kaufland,0.83
+166,869,"Milkana Schmelzkäse Sahne, 50% Fett",1.99,100 Gramm,Packung 200 Gramm,lidl,1.0,938,1.99,100 Gramm,Packung 200 Gramm,kaufland,1.0
+167,871,Danone Obstgarten Erdbeere,0.35,100 Gramm,Packung 125 Gramm,lidl,0.28,1901,0.29,100 Gramm,Packung 125 Gramm,kaufland,0.23
+168,872,Ferrero Kinder Maxi King,1.09,100 Gramm,"Packung 105 Gramm, 3 x 35g",lidl,1.04,953,1.19,100 Gramm,"Packung 105 Gramm, 3 x 35g",kaufland,1.13
+169,874,Jules Mumm Medium halbtrocken,3.69,100 ml,Flasche Glas 0.75 L,lidl,0.49200000000000005,955,4.99,100 ml,Flasche Glas 0.75 L,kaufland,0.665
+170,875,Schwartau Extra Fruttissima Erdbeere,1.49,100 Gramm,Becher 250 Gramm,lidl,0.6,962,1.99,100 Gramm,Becher 250 Gramm,kaufland,0.8
+171,876,Ariel Pulver Waschmittel Color & Style,15.99,Preis pro Waschladung,XXXL Pack 110 Waschladungen ,lidl,0.15,350,8.95,Preis pro Waschladung,Packung 40 WL,kaufland,0.22
+172,877,Pepsi Cola Light,0.89,100 ml,Pet-Flasche 1.5 L,lidl,0.059000000000000004,2465,0.82,100 ml,Pet-Flasche 1.5 L,kaufland,0.055000000000000014
+173,878,Schwip Schwap Cola + Orange mit Zucker,0.89,100 ml,Pet-Flasche 1.5 L,lidl,0.059000000000000004,92,0.99,100 ml,Pet-Flasche 1.5 L,kaufland,0.066
+174,882,Dallmayr Prodomo 100 % Arabica,6.49,100 Gramm,Packung 500 Gramm,lidl,1.298,969,6.49,100 Gramm,Packung 500 Gramm,kaufland,1.298
+175,885,Lavazza  Crema e Aroma,10.99,100 Gramm,Packung 1000 Gramm,lidl,1.099,149,12.99,100 Gramm,"Packung 1100 Gramm, 10% mehr Inhalt",kaufland,1.181
+176,886,Danone Activia Cerealien,1.59,100 Gramm,"Packung 500 Gramm, 4 x 125 g",lidl,0.318,231,1.99,100 Gramm,"Packung 500 Gramm, 4 x 125 g",kaufland,0.39799999999999996
+177,890,Ariel Pulver Waschmittel Klassik,10.99,Preis pro Waschladung,"XXL Packung, 60 Wäschen",lidl,0.18,990,14.0,Preis pro Waschladung,"XXXL Pack, 100 WL",kaufland,0.14
+178,891,Bitburger Premium Pils,0.75,100 ml,Dose 0.5 L,lidl,0.15,95,14.6,100 ml,"Kasten 10 L, 20 x 0,5 L",kaufland,0.146
+179,892,Volvic Frucht Orange,1.29,100 ml,Pet-Flasche 1.5 L,lidl,0.086,2529,7.14,100 ml,"Kasten 9 L, 6 x 1,5 L",kaufland,0.079
+180,894,Dallmayr Crema d Oro Intensa Ganze Bohnen,12.79,100 Gramm,Beutel 1000 Gramm,lidl,1.2790000000000001,1199,12.49,100 Gramm,Beutel 1000 Gramm,kaufland,1.249
+181,895,Hohes C Orange 100% Saft,1.39,100 ml,Getränkekarton 1500 ML,lidl,0.09300000000000001,998,1.69,100 ml,Pet-Flasche 1 L,kaufland,0.16899999999999998
+182,897,Pringles Original,2.15,100 Gramm,Dose 190 Gramm,lidl,1.13,1003,2.15,100 Gramm,Dose 190 Gramm,kaufland,1.13
+183,898,Heinz Tomato Ketchup,1.11,100 ml,Dosierflasche 450 ML,lidl,0.24700000000000005,342,2.99,100 ml,Flasche Glas 750 ML,kaufland,0.39899999999999997
+184,898,Heinz Tomato Ketchup,1.11,100 ml,Dosierflasche 450 ML,lidl,0.24700000000000005,531,2.49,100 ml,Flasche Squeeze,kaufland,0.412
+185,1348,Heinz Tomato Ketchup,1.99,100 ml,"Flasche 875ml, + 33% mehr Inhalt",lidl,0.16999999999999998,342,2.99,100 ml,Flasche Glas 750 ML,kaufland,0.39899999999999997
+186,1348,Heinz Tomato Ketchup,1.99,100 ml,"Flasche 875ml, + 33% mehr Inhalt",lidl,0.16999999999999998,531,2.49,100 ml,Flasche Squeeze,kaufland,0.412
+187,909,Kerrygold Extra ungesalzen,0.75,100 Gramm,Becher 150 Gramm,lidl,0.5,782,3.39,100 Gramm,"Becher 400 Gramm, Vorteils Packung",kaufland,0.85
+188,911,Kerrygold Extra gesalzen,0.75,100 Gramm,Becher 150 Gramm,lidl,0.5,785,3.39,100 Gramm,Vorteilspackung 400 Gramm,kaufland,0.85
+189,914,Pringles Sour Cream & Onion,2.15,100 Gramm,Dose 190 Gramm,lidl,1.13,1219,2.15,100 Gramm,Dose 190 Gramm,kaufland,1.13
+190,916,Landliebe Grieß Pudding Traditionell,1.99,100 Gramm,Packung 500 Gramm,lidl,0.4,97,0.79,100 Gramm,Becher 150 Gramm,kaufland,0.53
+191,920,Ehrmann Obstgarten Erdbeere,0.39,100 Gramm,Packung 125 Gramm,lidl,0.31,103,0.49,100 Gramm,Packung 125 Gramm,kaufland,0.39
+192,936,Langnese Flotte Biene Gebirgsblüten Honig kalt geschleudert,2.69,100 Gramm,Spenderflasche 250 Gramm,lidl,1.0759999999999998,1400,3.29,100 Gramm,Spenderflasche 250 Gramm,kaufland,1.3159999999999998
+193,938,Erasco Hühner Nudeltopf mit frischem Gemüse,1.89,100 Gramm,Dose 800 Gramm,lidl,0.23600000000000002,44,2.59,100 Gramm,Dose 800 Gramm,kaufland,0.324
+194,939,Maggi Magic Asia Gebratene Nudeln,1.29,100 Gramm,Packung 124 Gramm,lidl,1.04,1132,1.19,100 Gramm,Packung 124 Gramm,kaufland,0.96
+195,943,"Zott Zottarella Basilikum Rolle,  45% Fett",1.49,100 Gramm,Beutel 250  Gramm,lidl,0.6,844,1.98,100 Gramm,Beutel 250  Gramm,kaufland,0.79
+196,944,Philadelphia Balance Räucherlachs mit Dill,1.39,100 Gramm,Packung 175 Gramm,lidl,0.79,2269,1.39,100 Gramm,Packung 175 Gramm,kaufland,0.79
+197,945,Danone Actimel Vanilla,1.39,100 Gramm,Packung 400 Gramm,lidl,0.348,866,1.39,100 Gramm,Packung 400 Gramm,kaufland,0.348
+198,951,Ferrero Küsschen,2.25,100 Gramm,"Packung 178 Gramm, 20 Stück",lidl,1.26,100,2.99,100 Gramm,"Packung 178 Gramm, 20 Stück",kaufland,1.68
+199,978,Krombacher Pils,0.79,100 ml,"Dose 0,5L",lidl,0.158,82,14.8,100 ml,"Kasten 10 L, 20 x 0,5 L ",kaufland,0.14800000000000002
+200,989,"Miracel Whip so leicht 4,9% Fett",0.75,100 Gramm,Beutel 125 Gramm,lidl,0.6,1930,1.89,100 ml,Glas 500 ML,kaufland,0.37799999999999995
+201,1003,"Patros Genießerwürfel Mediterrane Kräuter, 2 x 75 g",1.99,100 Gramm,Becher 150  Gramm,lidl,1.33,2532,1.79,100 Gramm,Becher 150  Gramm,kaufland,1.19
+202,1004,M&Ms Peanut,2.49,100 Gramm,Beutel 285 Gramm,lidl,0.87,1200,2.89,100 Gramm,Large Beutel 300 Gramm,kaufland,0.96
+203,1135,Zott Monte Snack Milch + Schoko + Nuss,1.79,100 Gramm,"Packung 232 Gramm, 8 Stück",lidl,0.77,1988,1.49,100 Gramm,"Packung 232 Gramm, 8 Stück",kaufland,0.64
+204,1217,Exquisa Der Sahnige Kräuter,0.66,100 Gramm,Packung 200  Gramm,lidl,0.33,1123,0.99,100 Gramm,Packung 200  Gramm,kaufland,0.5
+205,1220,Milka Sahne-Creme Schokolade von zartschmelzender Schokolade,0.79,100 Gramm,Tafel 100  Gramm,lidl,0.79,1260,0.79,100 Gramm,Tafel 100  Gramm,kaufland,0.79
+206,1221,Oro Di Parma Tomaten stückig,0.88,100 ml,Dose 425 ML,lidl,0.207,544,1.19,100 ml,Dose 425 ML,kaufland,0.28
+207,1222,Bürger Eierspätzle Original schwäbisch,1.89,100 Gramm,Packung 1000 Gramm,lidl,0.18899999999999997,548,2.89,100 Gramm,Packung 1000 Gramm,kaufland,0.28900000000000003
+208,1226,Dr. Quendt Dresdner Russisch Brot Das Original,0.77,100 Gramm,"Packung 115 Gramm, 15% mehr Inhalt ",lidl,0.67,558,0.99,100 Gramm,"Packung 115 Gramm, 15% mehr Inhalt ",kaufland,0.86
+209,1227,Geramont Kräuter leicht 16% Fett,2.29,100 Gramm,Packung 200  Gramm,lidl,1.15,1272,2.29,100 Gramm,Packung 200  Gramm,kaufland,1.15
+210,1233,Langnese Viennetta Vanille,1.49,100 ml,Packung 1000 ML,lidl,0.149,80,1.99,100 ml,"Packung 650 ML, 30 % mehr Inhalt",kaufland,0.306
+211,1236,Kinder Pingui Schoko,0.88,100 Gramm,"Packung 120 Gramm, 4 Stück",lidl,0.73,81,1.99,100 Gramm,"Family Pack 240 Gramm, 8 x 30 g",kaufland,0.83
+212,1252,Fürst von Metternich Riesling Sekt Extra Trocken,1.49,100 Gramm,Eimer 1000 Gramm,lidl,0.149,4507,8.49,100 ml,Flasche Glas 0.75 L,kaufland,1.132
+213,1345,Uncle Bens Express Chinesisch,1.59,100 Gramm,Packung 250 Gramm,lidl,0.64,1258,1.69,100 Gramm,Packung 250 Gramm,kaufland,0.68
+214,1350,Pfanner Ice Tea Pfirsich,0.95,100 ml,Getränkekarton 2 L,lidl,0.048,671,1.69,100 ml,Getränkekarton 2 L,kaufland,0.08499999999999999
+215,1351,Langnese Cremissimo Schokolade,2.89,100 ml,Packung 900 ML,lidl,0.321,801,2.89,100 ml,Packung 900 ML,kaufland,0.321
+216,1355,Frosta Bami Goreng,2.49,100 Gramm,Packung 500 Gramm,lidl,0.4980000000000001,1133,3.29,100 Gramm,Packung 500 Gramm,kaufland,0.6579999999999999
+217,1357,Gaggli Frischeier Nudeln Faden Nestchen,1.19,100 Gramm,Packung 250 Gramm,lidl,0.47600000000000003,554,1.29,100 Gramm,Packung 250 Gramm,kaufland,0.516
+218,1362,Thomy Les Sauces Hollandaise,0.97,100 ml,Getränkekarton 250 ML,lidl,0.39,562,1.09,100 ml,Getränkekarton 250 ML,kaufland,0.44
+219,1367,Naumburger Sächsischer Leberkäse,1.19,100 Gramm,Packung 200 Gramm,lidl,0.6,1423,1.09,100 Gramm,Packung 200 Gramm,kaufland,0.55
+220,1372,Schwartau Extra Samt Erdbeere,1.89,100 Gramm,Glas 270 Gramm,lidl,0.7,301,2.19,100 Gramm,Glas 270 Gramm,kaufland,0.81
+221,1373,"Mondamin Milchreis Klassische Art, für 2 - 3 Portionen",0.95,100 Gramm,Packung 130 Gramm,lidl,0.73,900,0.99,100 Gramm,Packung 130 Gramm,kaufland,0.76
+222,1376,Schogetten Alpenvollmilch-Nuss,0.69,100 Gramm,"Tafel 116.6 Gramm, + 16% mehr Inhalt",lidl,0.59,2407,4.45,100 ml,Flasche Kunststoff 750 ML,kaufland,0.593
+223,1378,Wilthener Gebirgskräuter Likör,6.49,100 ml,Flasche Glas 0.7 L,lidl,0.927,983,6.79,100 ml,Flasche Glas 0.7 L,kaufland,0.97
+224,1379,"Milkana Schmelzkäse Gouda Gouda, 45% Fett",1.99,100 Gramm,Packung 200 Gramm,lidl,1.0,2522,1.89,100 Gramm,Packung 200 Gramm,kaufland,0.95
+225,1380,Bonbel Cremig & Würzig Leicht,1.99,100 Gramm,Stange 170 Gramm,lidl,1.17,1487,1.99,100 Gramm,Becher 200 Gramm,kaufland,1.0
+226,1381,Iglo Chicken Nuggets,1.99,100 Gramm,"Packung 250 Gramm, 12 Stück",lidl,0.7959999999999999,1016,2.49,100 Gramm,"Packung 250 Gramm, 12 Stück",kaufland,0.996
+227,1382,"Danone Activia mit feinem Fruchtpüree Pfirsich Maracuja, Kirsche, 6 x 120 g",1.99,100 Gramm,Packung 720 Gramm,lidl,0.276,1965,1.99,100 Gramm,Packung 720 Gramm,kaufland,0.276
+228,1479,"Castello Höhlenkäse Dänischer Schnittkäse Classic, in Scheiben",1.59,100 Gramm,Packung 150 Gramm,lidl,1.06,1543,1.99,100 Gramm,Packung 150 Gramm,kaufland,1.33
+229,1480,Leibniz Butterkeks,0.99,100 Gramm,Packung 200 Gramm,lidl,0.5,1545,1.29,100 Gramm,Packung 200 Gramm,kaufland,0.65
+230,1481,Arla Buko Der Sahnige,0.88,100 Gramm,Packung 200  Gramm,lidl,0.44,2990,1.19,100 Gramm,Packung 200  Gramm,kaufland,0.6
+231,1483,Becel Vital,1.49,100 Gramm,Becher 250 Gramm,lidl,0.596,2199,2.19,100 Gramm,Becher 500 Gramm,kaufland,0.43799999999999994
+232,1485,Uncle Bens Spitzen-Langkorn-Reis 10 min.,2.69,100 Gramm,"Packung 750 Gramm, 6 x 125 g",lidl,0.359,1557,3.49,100 Gramm,Packung 1000 Gramm,kaufland,0.34900000000000003
+233,1486,"Müller Milchreis Zimt, 3% Fett",0.59,100 Gramm,Becher 200 Gramm,lidl,0.3,389,0.69,100 Gramm,Becher 200 Gramm,kaufland,0.35
+234,1488,Nescafe Gold Mild,9.49,100 Gramm,Glas 200 Gramm,lidl,4.75,1559,8.99,100 Gramm,Glas 200 Gramm,kaufland,4.5
+235,1489,Nescafe Gold entkoffeiniert,9.49,100 Gramm,Glas 200 Gramm,lidl,4.75,3006,8.99,100 Gramm,Glas 200 Gramm,kaufland,4.5
+236,1490,Nestle Nesquick Nachfüllbeutel,2.29,100 Gramm,Nachfüllbeutel 500 Gramm,lidl,0.45799999999999996,125,1.99,100 Gramm,Nachfüllbeutel 440 Gramm,kaufland,0.452
+237,1497,Ehrmann Almighurt Erdbeer,0.55,100 Gramm,Becher 150 Gramm,lidl,0.37,1602,0.49,100 Gramm,Becher 150 Gramm,kaufland,0.33
+238,1499,Balisto Korn Mix,1.99,100 Gramm,"Packung 185 Gramm, 9 + 1 Riegel",lidl,1.08,1604,1.99,100 Gramm,"Packung 166.5 Gramm, 9 x 18,5 g",kaufland,1.2
+239,1502,"Langnese Magnum Almond Mandel, 4 Stück",0.65,100 Gramm,Folie 20 Gramm,lidl,3.25,2727,2.59,100 ml,Packung 480 ML,kaufland,0.54
+240,1503,Ferrero Kinder Überraschung Ei,3.88,100 Gramm,Packung 500 Gramm,lidl,0.7759999999999999,153,0.79,100 Gramm,Folie 20 Gramm,kaufland,3.95
+241,1504,Mövenpick Der Himmlische Kaffee gemahlen,2.19,100 Gramm,Packung 150 Gramm,lidl,1.46,2017,6.29,100 Gramm,Packung 500 Gramm,kaufland,1.258
+242,1507,Bresso Frischkäse mit Kräutern aus der Provence,1.59,100 Gramm,Becher 150 Gramm,lidl,1.06,1624,1.59,100 Gramm,Becher 150 Gramm,kaufland,1.06
+243,1509,"President La Brique fein & aromatisch, 60% Fett i. Tr.",2.39,100 Gramm,Packung 200 Gramm,lidl,1.2,2028,2.79,100 Gramm,Packung 200 Gramm,kaufland,1.4
+244,1510,Salatgurken frisch,0.75,Preis pro Stück, 1 Stück,lidl,0.0,3636,3.19,100 Gramm,Packung 150 Gramm,kaufland,2.13
+245,1512,MM Extra halbtrocken,2.69,100 ml,Flasche Glas 0.75 L,lidl,0.359,1643,3.49,100 ml,Flasche Glas 0.75 L,kaufland,0.465
+246,1513,"Müller Froop Frucht auf Joghurt Himbeere, 3.5 % Fett",0.49,100 Gramm,Becher 150 Gramm,lidl,0.33,3100,0.49,100 Gramm,Becher 150 Gramm,kaufland,0.33
+247,1514,Milka Ganze Haselnüsse Schokolade,2.39,100 Gramm,Tafel 300 Gramm,lidl,0.8,1652,1.09,100 Gramm,Tafel 100 Gramm,kaufland,1.09
+248,1516,Appel Heringsfilets in Tomaten-Creme,1.19,100 Gramm,Dose 200 Gramm,lidl,0.6,134,1.49,100 Gramm,Dose 200 Gramm,kaufland,0.75
+249,1517,Mon Cheri Piemont Kirsche,2.59,100 Gramm,"15 Stück, Packung 157 Gramm",lidl,1.65,1659,2.99,100 Gramm,"15 Stück, Packung 157 Gramm",kaufland,1.9
+250,1521,Eduscho Gala Nr 1,4.49,100 Gramm,Packung 500 Gramm,lidl,0.898,1666,9.49,100 Gramm,Glas 200 Gramm,kaufland,4.75
+251,1522,Nescafe Gold Das Original,9.49,100 Gramm,Glas 200 Gramm,lidl,4.75,1667,0.49,100 Gramm,Becher 125 Gramm,kaufland,0.39
+252,1524,Thomy Remoulade,1.29,100 ml,Tube 200 ML,lidl,0.65,2043,1.09,100 ml,Tube 100 ML,kaufland,1.09
+253,1526,Volvic Frucht Apfel,1.29,100 ml,Pet-Flasche 1.5 L,lidl,0.086,1683,7.74,100 ml,"Kasten 9 L,  6 x 1,5 L",kaufland,0.086
+254,1527,Rügenwalder Teewurst fein,1.69,100 Gramm,Becher 125 Gramm,lidl,1.35,3148,1.79,100 Gramm,Becher 125 Gramm,kaufland,1.43
+255,1528,Ritter Sport Schokolade Alpenmilch,1.09,100 Gramm,Tafel 100 Gramm,lidl,1.09,2753,1.09,100 Gramm,Tafel 100 Gramm,kaufland,1.09
+256,1531,Zucchini,0.99,100 Gramm, 1 KG,lidl,0.099,1702,1.89,100 Gramm, 1 KG,kaufland,0.18899999999999997
+257,1532,Auberginen,2.99,100 Gramm, 1 KG,lidl,0.29900000000000004,367,2.29,100 Gramm, 1 KG,kaufland,0.22899999999999998
+258,1533,Rosenkohl,0.99,100 Gramm,Netz 1 KG,lidl,0.099,2059,1.29,100 Gramm,Netz 1 KG,kaufland,0.129
+259,1534,Feigen frisch,2.29,100 Gramm,Packung 500 Gramm,lidl,0.45799999999999996,2060,0.39,100 Gramm,1 Stück,kaufland,1.2990000000000002
+260,1541,Müller Milchreis Original,0.59,100 Gramm,Becher 200 Gramm,lidl,0.3,434,1.99,100 Gramm,Packung 100 Gramm,kaufland,1.99
+261,1549,Appel Heringsfilet in Eier-Senf-Creme,0.99,100 Gramm,Dose 200 Gramm,lidl,0.5,5458,1.49,100 Gramm,Dose 200 Gramm,kaufland,0.75
+262,3957,Appel Heringsfilet in Eier-Senf-Creme,1.15,100 Gramm,Dose 200 Gramm,lidl,0.58,5458,1.49,100 Gramm,Dose 200 Gramm,kaufland,0.75
+263,1550,Galbani Santa Lucia Mozzarella 45% Fett,0.99,100 Gramm,Beutel 220 Gramm,lidl,0.45,1796,0.99,100 Gramm,Beutel 125  Gramm,kaufland,0.79
+264,1551,Kiri mit Sahne 70% Fett,1.11,100 Gramm,"Packung 120 Gramm, 6 x 20g",lidl,0.93,845,1.39,100 Gramm,"Packung 120 Gramm, 6 x 20g",kaufland,1.16
+265,1554,"Sanella Backen ist Liebe ... Margarine, 75% Fett",1.59,100 Gramm,Becher 500 Gramm,lidl,0.318,1808,1.19,100 Gramm,Becher 500 Gramm,kaufland,0.23800000000000002
+266,1562,"Optiwell Joghurt Erdbeere,  4 x 125 g",0.69,100 Gramm,Packung 500 Gramm,lidl,0.14,885,1.15,100 Gramm,Packung 500 Gramm,kaufland,0.23
+267,1565,Ballantines Finest Scotch Whisky,9.99,100 ml,Flasche Glas 700 ML,lidl,1.4269999999999998,912,13.49,100 ml,Flasche Glas 700 ML,kaufland,1.9269999999999998
+268,1570,Ouzo 12,8.99,100 ml,Flasche Glas 0.7 L,lidl,1.284,929,10.49,100 ml,Flasche Glas 0.7 L,kaufland,1.499
+269,1573,Geramont Le Snack,2.29,100 Gramm,Becher 150 Gramm,lidl,1.53,2403,1.99,100 Gramm,Becher 150 Gramm,kaufland,1.33
+270,1579,"Ferrero Kinder Joy Mit Überaschung, 1 Stück",2.95,100 Gramm,Packung 3 x 20g,lidl,4.92,2148,2.99,100 Gramm,Dose 800 Gramm,kaufland,0.374
+271,1583,Paprika Mix frisch,1.29,100 Gramm,Folie 750 Gramm,lidl,0.172,4691,1.49,Preis pro Stück,Packung 3 Stück,kaufland,0.5
+272,1588,Philadelphia Balance Sweet Chili,1.29,100 Gramm,Packung 175 Gramm,lidl,0.74,2583,1.39,100 Gramm,Packung 175 Gramm,kaufland,0.79
+273,1591,Adler Edelcreme Sahne,1.55,100 Gramm,"Packung 150 Gramm, 6 x 25 g",lidl,1.03,1541,1.19,100 Gramm,Packung 100 Gramm,kaufland,1.19
+274,1592,Schwartau Corny Schoko,2.89,100 Gramm,Packung 380 Gramm,lidl,0.76,3357,1.55,100 Gramm,"Packung 150 Gramm, 6 x 25 g",kaufland,1.03
+275,1609,Thomy Delikatess Senf mittelscharf,0.99,100 ml,Tube 200 ML,lidl,0.5,1618,0.79,100 ml,Tube 100 ML,kaufland,0.79
+276,1621,Ehrmann Almighurt Pfirsich-Maracuja,1.79,100 Gramm,Packung 500 Gramm,lidl,0.358,2505,1.99,100 Gramm,Packung 460 Gramm,kaufland,0.433
+277,1623,Blumenkohl 1 Kopf,1.49,Preis pro Stück,"1 Stück, Frankreich, Kl. 1",lidl,1.49,2207,1.45,Preis pro Stück, 1 Stück,kaufland,1.45
+278,1633,Kopfsalat kl. I,1.49,100 Gramm,Schale 400 Gramm,lidl,0.37,1698,0.95,Preis pro Stück, 1 Stück,kaufland,0.95
+279,1650,St. Mang Rahm Limburger 50% Fett,0.59,100 Gramm,Beutel 500 Gramm,lidl,0.11800000000000001,428,1.42,100 Gramm,Packung 150 Gramm,kaufland,0.95
+280,1706,"Bergader Bergbauern Schnittkäse mild nussig, 48% Fett i. Tr.",1.99,100 Gramm,Packung 160 Gramm,lidl,1.24,1725,1.99,100 Gramm,Packung 160 Gramm,kaufland,1.24
+281,1750,Ein gutes Stück Heimat Rettich weiß frisch,0.99,100 Gramm,Packung 260 Gramm,lidl,0.38,3222,1.19,100 Gramm,Packung 167 Gramm,kaufland,0.71
+282,1898,"Kerrygold Original Irischer Cheddar herzhaft,  48 % Fett",1.49,100 Gramm,Packung 150 Gramm,lidl,0.99,1795,1.99,100 Gramm,Packung 150 Gramm,kaufland,1.33
+283,1899,Exquisa Scheiben aus Frischkäse Mediterrane Kräuter,1.39,100 Gramm,Packung 125 Gramm,lidl,1.11,2265,1.39,100 Gramm,Packung 150 Gramm,kaufland,0.93
+284,1902,Maggi Ravioli Diavolo,1.39,100 Gramm,Dose 800  Gramm,lidl,0.174,1444,1.39,100 Gramm,Dose 800  Gramm,kaufland,0.174
+285,1903,"Schwartau Fruit 2 Day  2-er Papaya Grapefruit, 2 x 200 ml",1.89,100 ml,Pack 400 ML,lidl,0.47,2303,1.89,100 ml,Pack 400 ML,kaufland,0.47
+286,1904,Knorr Fix Gulasch,0.49,100 Gramm,Beutel 54 Gramm,lidl,0.91,878,1.69,100 ml,Flasche Glas 500 ML,kaufland,0.34
+287,1907,Hohes C Multivitamin 100% Saft,1.39,100 ml,Getränkekarton 1.5 L,lidl,0.09300000000000001,2348,1.44,100 ml,Pet-Flasche 1 L,kaufland,0.14400000000000002
+288,1909,Leibniz Zoo,0.88,100 Gramm,"Bonuspack 150 Gramm, + 20 %",lidl,0.59,1852,1.15,100 Gramm,"Bonuspack 150 Gramm, + 20 %",kaufland,0.77
+289,1911,"Weihenstephan Rahmjoghurt cremig-mild Erdbeere, 10 % Fett",0.35,100 Gramm,Becher 150 Gramm,lidl,0.23,78,0.65,100 Gramm,Becher 150 Gramm,kaufland,0.43
+290,1913,Brandt Der Markenzwieback,0.93,100 Gramm,Packung 225 Gramm,lidl,0.41,2372,0.86,100 Gramm,Packung 225 Gramm,kaufland,0.38
+291,1914,"Müller Wackel Pudding Waldmeistergeschmack,  4 x 125 g",0.77,100 Gramm,Packung 500 Gramm,lidl,0.154,2373,0.89,100 Gramm,Packung 500 Gramm,kaufland,0.17800000000000002
+292,1915,President Meersalzbutter mit Meersalzkörner,1.79,100 Gramm,Becher 250 Gramm,lidl,0.72,915,2.89,100 Gramm,Becher 250 Gramm,kaufland,1.16
+293,1916,"Rügenwalder Schinkenspicker Mühlenteller, geschnitten",1.25,100 Gramm,Vakuum 100 Gramm,lidl,1.25,1876,1.49,100 Gramm,Vakuum 100 Gramm,kaufland,1.49
+294,1917,Leibniz Minis Choco,0.99,100 Gramm,"Packung 150 Gramm, + 25 Gramm Bonus",lidl,0.66,1886,1.15,100 Gramm,"Packung 150 Gramm, + 25 Gramm Bonus",kaufland,0.77
+295,1918,"Müller Frucht Buttermilch Erdbeere, 0.6% Fett",0.59,100 Gramm,Becher 500 Gramm,lidl,0.11800000000000001,102,0.99,100 Gramm,Flasche 500 Gramm,kaufland,0.198
+296,1923,Burgis Bayerischer Knödelteig fix und fertig,0.59,100 Gramm,Packung 750 Gramm,lidl,0.079,2486,0.59,100 Gramm,Packung 750 Gramm,kaufland,0.079
+297,1929,Hohes C Orange mit Fruchtfleisch 100% Saft,0.88,100 ml,Pet-Flasche 1 L,lidl,0.08800000000000001,999,1.49,100 ml,Pet-Flasche 1 L,kaufland,0.149
+298,1931,Ferrero Kinder Choco Fresh 5 x 21 g,0.99,100 ml,Dose 500 ML,lidl,0.198,96,1.59,100 Gramm,"Packung 105 Gramm, 5 Stück",kaufland,1.51
+299,1933,Thoks Zwiebel Kuchen,0.79,100 Gramm,Packung 205 Gramm,lidl,0.39,2569,2.79,100 Gramm,Packung 310 Gramm,kaufland,0.9
+300,1940,Bertolli Brotaufstrich mit mildem Olivenöl,0.59,100 Gramm,Becher 200 Gramm,lidl,0.3,1549,1.99,100 Gramm,Packung 500  Gramm,kaufland,0.4
+301,1941,"Müller Milchreis Kirsche, 3% Fett",0.69,100 Gramm,Becher 200  Gramm,lidl,0.35,1552,0.59,100 Gramm,Becher 200 Gramm,kaufland,0.3
+302,1943,Schwartau Extra Erdbeere,1.99,100 Gramm,Glas 340 Gramm,lidl,0.59,128,2.19,100 Gramm,Glas 340 Gramm,kaufland,0.64
+303,1954,Bananen ca. 6 Stück,0.69,100 Gramm, 1 KG,lidl,0.06899999999999999,131,0.99,100 Gramm, 1 KG,kaufland,0.099
+304,1956,Milka Haselnuss Schokolade,2.29,100 Gramm,Packung 320 Gramm,lidl,0.72,3108,1.09,100 Gramm,Tafel 100 Gramm,kaufland,1.09
+305,1957,"Hochland Sandwich Scheiben Butterkäse, 50% Fett",1.79,100 Gramm,Packung 200 Gramm,lidl,0.9,2743,1.99,100 Gramm,Packung 175 Gramm,kaufland,1.14
+306,1976,Trauben hell kernlos,2.99,100 Gramm,Folie 1 KG,lidl,0.29900000000000004,3170,1.99,100 Gramm,Schale 500 Gramm,kaufland,0.39799999999999996
+307,1977,Brokkoli frisch,1.29,100 Gramm,Folie 500 Gramm,lidl,0.258,136,1.19,100 Gramm,Folie 500 Gramm,kaufland,0.23800000000000002
+308,1996,Schwarz Cranz Grobe Leberwurst nach Pommersche Art,0.49,100 Gramm,Tafel 100 Gramm,lidl,0.49,3847,1.19,100 Gramm,Packung 100 Gramm,kaufland,1.19
+309,2068,Appel Fisch Minis Heringsfilet-Stücke in tomatiger Ketchup-Sauce,0.59,100 Gramm,Dose 100 Gramm,lidl,0.59,2260,1.19,100 Gramm,Dose 100 Gramm,kaufland,1.19
+310,2072,Meggle die Kräuter-Butter Original mit frischen Kräutern,1.11,100 Gramm,Rolle 125  Gramm,lidl,0.89,840,1.89,100 Gramm,Rolle 125  Gramm,kaufland,1.51
+311,2079,Milram Frühlingsquark 40 % Fett,0.69,100 Gramm,Becher 200 Gramm,lidl,0.35,865,0.99,100 Gramm,Becher 200 Gramm,kaufland,0.5
+312,2082,Weihenstephan Sahne zum Kochen 15% 50% weniger Fett,0.69,100 Gramm,"Getränkekarton 325 Gramm,  + 30 % gratis",lidl,0.21,1819,1.09,100 Gramm,Getränkekarton 250 Gramm,kaufland,0.44
+313,2083,Nescafe Espresso,3.99,100 Gramm,Glas 100 Gramm,lidl,3.99,2294,4.49,100 Gramm,Glas 100 Gramm,kaufland,4.49
+314,2084,Original Wagner Steinofen Pizza Hawaii,2.39,100 Gramm,Packung 380 Gramm,lidl,0.63,2304,2.35,100 Gramm,Packung 380 Gramm,kaufland,0.62
+315,2085,Dr. Oetker Vitalis Schoko Müsli klassisch,2.79,100 Gramm,Packung 600 Gramm,lidl,0.465,871,2.99,100 Gramm,Packung 600 Gramm,kaufland,0.4980000000000001
+316,2088,Müller Schoko Pudding mit Sauce Vanillegeschmack,0.77,100 Gramm,Becher 450 Gramm,lidl,0.17,2311,0.89,100 Gramm,Becher 450 Gramm,kaufland,0.2
+317,2090,Kinder Country,1.79,100 Gramm,Glas 340 Gramm,lidl,0.53,2316,1.49,100 Gramm,"Packung 211.5 Gramm, 9 x 23,5",kaufland,0.7
+318,2091,Schwartau Extra Kirsche aus Schattenmorellen,0.59,100 ml,Flasche Glas 250 ML,lidl,0.24,2319,2.09,100 Gramm,Glas 340 Gramm,kaufland,0.61
+319,2095,"Optiwell Joghurt Himbeere, 4 x 125 g",1.45,100 Gramm,Packung 400 Gramm,lidl,0.36,2326,0.99,100 Gramm,Packung 500 Gramm,kaufland,0.2
+320,2096,Kathi Grundmischung Hefeteig,1.45,100 Gramm,Packung 400 Gramm,lidl,0.36,2335,1.39,100 Gramm,Packung 400 Gramm,kaufland,0.35
+321,2097,Kathi Grundmischung Streuselteig,1.39,100 Gramm,"Packung 140 Gramm, 5 x 28 g",lidl,0.99,2336,1.29,100 Gramm,Packung 400 Gramm,kaufland,0.32
+322,2100,"Landliebe Naturjoghurt Mild 1,5 % Fett, im Becher gereift",1.49,100 Gramm,Packung 100 Gramm,lidl,1.49,895,0.55,100 Gramm,Becher 200 Gramm,kaufland,0.275
+323,2101,Rügenwalder Mühlen Schinken Zarter Kochschinken,1.89,100 Gramm,Packung 200 Gramm,lidl,0.95,146,1.99,100 Gramm,Packung 100 Gramm,kaufland,1.99
+324,2104,Iglo Viva Italia Feine Ricotta-Spinat-Tortelloni in Käse-Sahne-Sauce,1.75,100 Gramm,Packung 480 Gramm,lidl,0.365,1163,2.29,100 Gramm,Packung 440 Gramm,kaufland,0.52
+325,2105,Sonnen Bassermann Hacksteaks in pikanter Bratensoße,0.85,100 Gramm,Dose 200 Gramm,lidl,0.43,1164,2.89,100 Gramm,Packung 480 Gramm,kaufland,0.602
+326,2108,Miracoli Pasta Sauce Tomate und Basilikum,1.25,100 Gramm,Dose 200 Gramm,lidl,0.63,1867,1.99,100 ml,Glas 500 ML,kaufland,0.39799999999999996
+327,2109,Miracoli Pasta Sauce Arrabbiata,1.29,100 Gramm,Beutel 250 Gramm,lidl,0.52,1868,1.99,100 ml,Glas 500 ML,kaufland,0.39799999999999996
+328,2110,Appel Heringsfilets in Piri-Mango-Creme,0.39,100 Gramm,Packung 500 Gramm,lidl,0.078,2375,1.49,100 Gramm,Dose 200 Gramm,kaufland,0.75
+329,2113,Iglo Rahmspinat portionierbar,1.29,100 Gramm,Packung 150 Gramm,lidl,0.86,1460,1.36,100 Gramm,Packung 750 Gramm,kaufland,0.18100000000000002
+330,2119,Meggle die Knoblauch-Butter,1.11,100 Gramm,Rolle 125  Gramm,lidl,0.89,1286,1.89,100 Gramm,Rolle 125  Gramm,kaufland,1.51
+331,2121,Aoste Ringsalami luftgetrocknet,3.49,100 Gramm,Packung 250 Gramm,lidl,1.4,1287,4.59,100 Gramm,Packung 250 Gramm,kaufland,1.84
+332,2122,"Müller Frucht Buttermilch Kirsch-Banane, 0.6% Fett",0.29,100 Gramm,Becher 500 Gramm,lidl,0.058,2392,0.99,100 Gramm,Flasche 500 Gramm,kaufland,0.198
+333,2123,Rügenwalder Mühlen Schinken Geräucherter Kochschinken,1.49,100 Gramm,Packung 100 Gramm,lidl,1.49,346,1.99,100 Gramm,Packung 100 Gramm,kaufland,1.99
+334,2125,"Ehrmann Früchte Traum Erdbeere, mit 50 % mehr Frucht",0.22,100 Gramm,Becher 125 Gramm,lidl,0.18,926,0.39,100 Gramm,Becher 125 Gramm,kaufland,0.31
+335,2126,Granini Trinkgenuss Orange Fruchtgehalt: 100%,0.99,100 ml,Pet-Flasche 1 L,lidl,0.099,85,1.79,100 ml,Pet-Flasche 1 L,kaufland,0.179
+336,2129,Bresso Frischkäse Mediterrane Kräuter,1.49,100 Gramm,Becher 150 Gramm,lidl,0.99,2404,1.49,100 Gramm,Becher 150 Gramm,kaufland,0.99
+337,2132,"President Camembert L Original, 45% Fett i. Tr.",1.79,100 Gramm,Packung 250 Gramm,lidl,0.72,1467,2.39,100 Gramm,Packung 250 Gramm,kaufland,0.96
+338,2133,"Weihenstephan Rahmjoghurt cremig-mild Stracciatella, 10 % Fett",0.39,100 Gramm,Becher 150 Gramm,lidl,0.26,222,0.65,100 Gramm,Becher 150 Gramm,kaufland,0.43
+339,2135,Bürger Maultaschen traditionell schwäbisch,0.99,100 Gramm,Packung 360 Gramm,lidl,0.28,1902,1.29,100 Gramm,Packung 360 Gramm,kaufland,0.36
+340,2136,Bürger Krautschupfnudeln Herzhafter Genuss,1.89,100 Gramm,Packung 400 Gramm,lidl,0.0,1903,1.89,100 Gramm,Packung 400 Gramm,kaufland,0.473
+341,2141,Frosta Nasi Goreng,2.49,100 Gramm,Packung 500 Gramm,lidl,0.4980000000000001,960,3.29,100 Gramm,Packung 500 Gramm,kaufland,0.6579999999999999
+342,2142,Frosta Hähnchen Curry,2.49,100 Gramm,Packung 500 Gramm,lidl,0.4980000000000001,1293,3.29,100 Gramm,Packung 500 Gramm,kaufland,0.6579999999999999
+343,2145,Coburger Kamin Käse mild-würziger Käsegenuss,1.79,100 Gramm,Packung 250 Gramm,lidl,0.72,1475,2.19,100 Gramm,Packung 250 Gramm,kaufland,0.88
+344,2147,Bürger Maultaschen Unsere Besten,1.89,100 Gramm,Packung 400 Gramm,lidl,0.47,1190,2.69,100 Gramm,Packung 400 Gramm,kaufland,0.67
+345,2148,"Hochland Sandwich Scheiben Gouda, leicht",1.99,100 Gramm,Packung 200 Gramm,lidl,1.0,1932,1.79,100 Gramm,Packung 200 Gramm,kaufland,0.9
+346,2149,Appel Heringsfilets in Paprika-Creme,1.15,100 Gramm,Dose 200 Gramm,lidl,0.58,972,1.49,100 Gramm,Dose 200 Gramm,kaufland,0.75
+347,2149,Appel Heringsfilets in Paprika-Creme,1.15,100 Gramm,Dose 200 Gramm,lidl,0.58,4760,1.49,100 Gramm,Dose 200 Gramm,kaufland,0.75
+348,2153,"Danone Activia Ballaststoffen Müsli, 4 x 115 g",1.99,100 Gramm,Packung 460 Gramm,lidl,0.433,2506,1.49,100 Gramm,Packung 320 Gramm,kaufland,0.47
+349,2154,Mondamin Fix Soßenbinder hell,0.99,100 Gramm,"Packung 275 Gramm, + 10% mehr",lidl,0.36,980,1.09,100 Gramm,Packung 250 Gramm,kaufland,0.44
+350,2156,Havana Club Anejo 3 Anos 3 Jahre,10.99,100 ml,Flasche Glas 0.7 L,lidl,1.5699999999999998,982,12.99,100 ml,Flasche Glas 0.7 L,kaufland,1.856
+351,2159,Bahlsen Waffeletten Vollmilch,1.49,100 Gramm,Packung 100 Gramm,lidl,1.49,557,1.99,100 Gramm,Packung 100 Gramm,kaufland,1.99
+352,2162,Philadelphia Balance Pikante Kräuter,0.99,100 Gramm,Packung 200 Gramm,lidl,0.5,1943,1.35,100 Gramm,Packung 175 Gramm,kaufland,0.77
+353,2165,Wernesgrüner Pils Legende,0.49,100 ml,Flasche Glas 0.5 L,lidl,0.098,940,12.8,100 ml,Kasten 10 L,kaufland,0.128
+354,2172,Granini Trinkgenuss Orange mit Fruchtfleisch Fruchtgehalt: 100 %,0.95,100 ml,Pet-Flasche 1 L,lidl,0.095,1001,1.69,100 ml,Pet-Flasche 1 L,kaufland,0.16899999999999998
+355,2181,Uncle Bens Spitzen-Langkorn-Reis 20 Minuten im Kochbeutel,2.79,100 Gramm,"Packung 1000 Gramm, 8 x 125 g",lidl,0.27899999999999997,1957,1.89,100 Gramm,Packung 500 Gramm,kaufland,0.37799999999999995
+356,2184,"Milram Sylter kräftig-würzig, 48% Fett",1.19,100 Gramm,Packung 175 Gramm,lidl,0.68,1958,1.79,100 Gramm,Packung 175 Gramm,kaufland,1.02
+357,2185,"Milram Burlander leicht, in Scheiben",1.19,100 Gramm,Packung 175 Gramm,lidl,0.68,1960,1.79,100 Gramm,Packung 175 Gramm,kaufland,1.02
+358,2189,Milka Crispello Pudding a la Vanille Pudding,1.79,100 Gramm,Packung 150 Gramm,lidl,1.19,1210,1.99,100 Gramm,Packung 140 Gramm,kaufland,1.42
+359,2190,Milka Crispello Pudding a la Schoko Pudding,1.79,100 Gramm,Packung 150 Gramm,lidl,1.19,1020,1.99,100 Gramm,Packung 140 Gramm,kaufland,1.42
+360,2193,Hardegger Käse Fondue L Original ohne Alkohol,2.49,100 Gramm,Packung 400 Gramm,lidl,0.623,150,2.79,100 Gramm,Packung 400 Gramm,kaufland,0.6980000000000001
+361,2194,"Bergader Bonifaz Knoblauch, 70% Fett",1.49,100 Gramm,Packung 175 Gramm,lidl,0.85,1966,2.19,100 Gramm,Packung 175 Gramm,kaufland,1.25
+362,2202,Oreo Doppelkeks Vanillegeschmack,1.29,100 Gramm,Packung 154 Gramm,lidl,0.84,1495,1.99,100 Gramm,Packung 176 Gramm,kaufland,1.13
+363,2210,Kerrygold Original Irischer Butterkäse 50% Fett i. Tr.,1.59,100 Gramm,"Packung 170 Gramm, + 1 Scheibe gratis",lidl,0.94,2623,1.99,100 Gramm,Packung 150 Gramm,kaufland,1.33
+364,2224,Lätta & Butter gesalzen,1.19,100 Gramm,Becher 225 Gramm,lidl,0.529,1990,1.49,100 Gramm,Becher 225 Gramm,kaufland,0.662
+365,2225,Lätta & Butter,1.19,100 Gramm,Becher 225 Gramm,lidl,0.529,1991,1.49,100 Gramm,Becher 225 Gramm,kaufland,0.662
+366,2231,Thomy Delikatess Mayonnaise,1.29,100 ml,Tube 200 ML,lidl,0.645,1580,0.99,100 ml,Tube 200 ML,kaufland,0.495
+367,2232,"Müller Müllermilch Erdbeere, 1,5 % Fett",0.79,100 Gramm,Flasche Kunststoff 400 Gramm,lidl,0.198,393,0.99,100 Gramm,Flasche Kunststoff 400 Gramm,kaufland,0.248
+368,2233,"Weihenstephan Frischer Joghurt mild 3,5% Fett",0.79,100 Gramm,Becher 500 Gramm,lidl,0.158,1584,1.15,100 Gramm,Becher 500 Gramm,kaufland,0.23
+369,2235,Herta Finesse zarte Putenbrust mit Honig,1.89,100 Gramm,Packung 150 Gramm,lidl,1.26,3592,2.19,100 Gramm,Packung 150 Gramm,kaufland,1.46
+370,2237,"Milka I love Milka Creme a la Vanille, zartherb",1.99,100 Gramm,Packung 125 Gramm,lidl,1.59,3674,2.29,100 Gramm,Packung 440 Gramm,kaufland,0.52
+371,2238,Ferrero Rondnoir,2.99,100 Gramm,Packung 120 Gramm,lidl,2.49,3116,2.79,100 Gramm,Packung 120 Gramm,kaufland,2.33
+372,2239,"Danone Actimel Classic, 0,1% Fett",1.99,100 Gramm,"Packung 800 Gramm, 8 x 100 g",lidl,0.24900000000000005,3133,1.39,100 Gramm,Packung 400 Gramm,kaufland,0.348
+373,2240,"Müller Joghurt mit der Ecke Schoko Flakes, 3.8 % Fett",0.59,100 Gramm,Becher 150 Gramm,lidl,0.39,3136,0.59,100 Gramm,Becher 150 Gramm,kaufland,0.39
+374,2245,Paprika gelb,2.45,100 Gramm,Packung 280 Gramm,lidl,0.88,3783,2.09,100 Gramm, 1 KG,kaufland,0.209
+375,2249,Zott Bayerntaler Original,1.29,100 Gramm,Packung 150 Gramm,lidl,0.86,3209,1.99,100 Gramm,Packung 150 Gramm,kaufland,1.0
+376,2250,Rama mit Butter mit Meersalz,1.19,100 Gramm,Becher 225 Gramm,lidl,0.53,3916,3.39,100 Gramm,Spenderflasche 250 Gramm,kaufland,1.3559999999999999
+377,2251,"Dr Oetker Pizzaburger Salami, 2 Burger",2.22,100 Gramm,Packung  265 Gramm,lidl,0.84,3918,1.59,100 Gramm,Beutel 250 Gramm,kaufland,0.64
+378,2305,Lorenz Erdnuss Locken Classic,1.89,100 Gramm,Beutel 250 Gramm,lidl,0.76,3245,1.89,100 Gramm,Beutel 250 Gramm,kaufland,0.76
+379,2306,Ferrero Garden Mix 18 Pralinen,3.79,100 Gramm,Box 152 Gramm,lidl,2.49,4333,3.79,100 Gramm,Box 152 Gramm,kaufland,2.49
+380,2307,Holsten Pilsener 20-er,0.49,100 ml,Pet-Flasche 0.5 L,lidl,0.098,2792,12.0,100 ml,"Kasten 10 L, 20 x 0,5 L / Flasche",kaufland,0.12
+381,2308,Vernel Classic Wild-Rose,2.89,100 ml,"Flasche Kunststoff 2 L, 56 WL",lidl,0.145,4341,1.15,100 ml,Flasche Kunststoff 750  ML,kaufland,0.153
+382,2309,Dallmayr Prodomo Naturmild,5.49,100 Gramm,Packung 500 Gramm,lidl,1.0979999999999999,4345,5.49,100 Gramm,Packung 500 Gramm,kaufland,1.0979999999999999
+383,2310,Dallmayr Kaffee Classic,3.88,100 Gramm,Packung 500 Gramm,lidl,0.7759999999999999,202,5.99,100 Gramm,Packung 500 Gramm,kaufland,1.198
+384,2311,Melitta Cafe Montana Premium,3.69,100 Gramm,Packung 500 Gramm,lidl,0.738,2804,5.69,100 Gramm,Packung 500 Gramm,kaufland,1.138
+385,2312,Melitta Cafe Harmonie naturmild,5.69,100 Gramm,Packung 500 Gramm,lidl,1.138,2805,5.69,100 Gramm,Packung 500 Gramm,kaufland,1.138
+386,2313,Melitta Cafe Auslese Mild,4.95,100 Gramm,Packung 500 Gramm,lidl,0.99,203,5.69,100 Gramm,Packung 500 Gramm,kaufland,1.138
+387,2314,Melitta Cafe Harmonie entcoffeiniert,4.29,100 Gramm,Packung 500 Gramm,lidl,0.858,4717,2.95,100 Gramm,Packung 500 Gramm,kaufland,0.5900000000000001
+388,2316,Sprite,0.89,100 ml,Pet-Flasche 1.25 L,lidl,0.071,206,12.48,100 ml,Kasten 12 L,kaufland,0.104
+389,2317,Fanta Orange,0.89,100 ml,Pet-Flasche 1.25 L,lidl,0.071,207,12.48,100 ml,"Kasten 12 L, 12 x 1l",kaufland,0.104
+390,2318,Volvic Mineralwasser Naturelle,0.59,100 ml,Pet-Flasche 1.5 L,lidl,0.039,2814,0.85,100 ml,Pet-Flasche 1.5 L,kaufland,0.057
+391,2319,Vittel Natürliches Mineralwasser ohne Kohlensäure,0.75,100 ml,Pet-Flasche 2 L,lidl,0.038,2816,0.59,100 ml,Pet-Flasche 1.5 L,kaufland,0.039
+392,2322,Rotkäppchen Sekt Trocken,3.99,100 ml,Flasche Glas 0.75 L,lidl,0.532,2818,3.99,100 ml,Flasche Glas 0.75 L,kaufland,0.532
+393,2323,"Dallmayr Prodomo Kaffee Pads 16 Pads x 7,25 g = 116g",1.99,Preis pro Stück,Packung 16 Stück,lidl,0.12,2819,1.99,Preis pro Stück,Packung 16 Stück,kaufland,0.12
+394,2324,Listerine Mundspülung Coolmint Minzstark,3.95,100 ml,Flasche Glas 500 ML,lidl,0.79,4744,3.35,100 ml,Flasche Glas 500 ML,kaufland,0.67
+395,2326,Cilit Bang Kraftreiniger Multi-Fett,3.85,100 ml,Sprühflasche 750 ML,lidl,0.513,4365,3.75,100 ml,Sprühflasche 750 ML,kaufland,0.5
+396,2327,"Dallmayr Crema d Oro Kaffee Pads mild & fein, 16 Pads x 7,25 g",1.99,Preis pro Stück,Packung 116 Gramm,lidl,0.12,4372,2.19,Preis pro Stück,Packung 116 Gramm,kaufland,0.08
+397,2329,Averna Amaro Siciliano,8.99,100 ml,Flasche Glas 700 ML,lidl,1.284,2829,10.99,100 ml,Flasche Glas 700 ML,kaufland,1.5699999999999998
+398,2330,Jim Beam Bourbon Whisky Kentucky Straight Bourbon Whiskey,9.99,100 ml,Flasche Glas 700 ML,lidl,1.4269999999999998,2830,12.49,100 ml,Flasche Glas 700 ML,kaufland,1.784
+399,2331,Metaxa 5 Sterne Classic,8.99,100 ml,Flasche Glas 0.7 L,lidl,1.284,2832,11.99,100 ml,Flasche Glas 0.7 L,kaufland,1.713
+400,2332,"Campari Bitter Aperitif, 25 % Vol.",10.99,100 ml,Flasche Glas 700 ML,lidl,1.5699999999999998,2838,10.99,100 ml,Flasche Glas 700 ML,kaufland,1.5699999999999998
+401,2333,Mumm Dry Sekt trocken,3.99,100 ml,Flasche Glas 0.75 L,lidl,0.532,2839,5.79,100 ml,Flasche Glas 0.75 L,kaufland,0.772
+402,2334,Lipton Ice Tea Peach,1.25,100 ml,Pet-Flasche 1.5 L,lidl,0.08299999999999999,2840,1.25,100 ml,Pet-Flasche 1.5 L,kaufland,0.08299999999999999
+403,2334,Lipton Ice Tea Peach,1.25,100 ml,Pet-Flasche 1.5 L,lidl,0.08299999999999999,8108,0.75,100 ml,Pet-Flasche 500 ML,kaufland,0.15
+404,2335,Deli Reform Sommerfrische 28 % Fett,0.85,100 Gramm,Becher 500  Gramm,lidl,0.16999999999999998,4787,1.39,100 Gramm,Becher 500  Gramm,kaufland,0.278
+405,2336,"Chaumes Weichkäse mit roter Rinde, 55% Fett",2.49,100 Gramm,Packung 200 Gramm,lidl,1.25,4788,2.59,100 Gramm,Packung 200 Gramm,kaufland,1.3
+406,2337,Duplo,1.75,100 Gramm,"Packung 180 Gramm, 10 x 18g",lidl,0.97,2845,1.99,100 Gramm,"Packung 180 Gramm, 10 x 18g",kaufland,1.11
+407,2338,"Smirnoff Vodka Red Label 37,5 % Vol.",8.99,100 ml,Flasche Glas 0.7 L,lidl,1.284,2846,12.99,100 ml,Flasche Glas 0.7 L,kaufland,1.856
+408,2340,Kupferberg Gold Weiss Trocken,3.89,100 ml,Flasche Glas 0.75 L,lidl,0.519,2848,3.89,100 ml,Flasche Glas 0.75 L,kaufland,0.519
+409,2341,Jules Mumm Sekt Rose Dry trocken,3.69,100 ml,Flasche Glas 0.75 L,lidl,0.49200000000000005,224,5.79,100 ml,Flasche Glas 0.75 L,kaufland,0.772
+410,2342,MM Extra trocken,2.69,100 ml,Flasche Glas 0.75 L,lidl,0.359,225,1.15,100 ml,"Pikkolo Flasche 0,2L",kaufland,0.575
+411,2343,Lenor Weichspüler Sensitiv,1.85,100 ml,Flasche Kunststoff 1 L,lidl,0.185,4095,3.55,100 ml,"Flasche Kunststoff 2 L,  57 Wäschen",kaufland,0.28300000000000003
+412,2344,"Rotkäppchen Riesling Sekt Flaschengärung, trocken",3.99,100 ml,Flasche Glas 0.75 L,lidl,0.532,805,5.99,100 ml,,kaufland,0.799
+413,2349,Cinzano Bianco,2.99,100 ml,Flasche Glas 0.75 L,lidl,0.39899999999999997,2876,4.89,100 ml,Flasche Glas 0.75 L,kaufland,0.6519999999999999
+414,2350,"Signal Zahncreme Kariesschutz, starke Zähne",0.75,100 ml,Tube 75 ML,lidl,1.0,4410,0.75,100 ml,Tube 75 ML,kaufland,1.0
+415,2361,Persil Universal Pulver,16.99,Preis pro Waschladung,Packung 100 Wäschen,lidl,0.17,2898,10.99,Preis pro Waschladung,XL Pack 44 Wäschen,kaufland,0.0
+416,2363,Chantre Cuvee Rouge 30 % Vol.,5.99,100 ml,Flasche Glas 0.7 L,lidl,0.8560000000000001,4431,7.49,100 ml,Flasche Glas 0.7 L,kaufland,1.0699999999999998
+417,2364,Nestle Aquarel Medium,0.37,100 ml,Flasche Kunststoff 1.25 L,lidl,0.03,4929,0.39,100 ml,Pet-Flasche 1.5 L,kaufland,0.026
+418,2373,Grünländer Das Original mild & nussig,1.99,100 Gramm,"Packung 175 Gramm, 8 Scheiben",lidl,1.14,2925,1.99,100 Gramm,"Packung 175 Gramm, 8 Scheiben",kaufland,1.14
+419,2380,Iglo Veggie Love mit Brokkoli Buchweizen,2.49,100 Gramm,Packung 400 Gramm,lidl,0.623,1357,2.99,100 Gramm,Packung 400 Gramm,kaufland,0.748
+420,2393,"Adler Edelcreme Kräuter,  2 x 50 g, 60% Fett",1.89,100 Gramm,Dose 800 Gramm,lidl,0.23600000000000002,1542,1.19,100 Gramm,Packung 100 Gramm,kaufland,1.19
+421,2397,"Weihenstephan Frischer Joghurt mild 0,1 % Fett",0.79,100 Gramm,Becher 500 Gramm,lidl,0.158,1563,0.85,100 Gramm,Becher 500 Gramm,kaufland,0.16999999999999998
+422,2398,Dr. Oetker Süße Mahlzeit Milchreis nach klassischer Art,1.03,100 Gramm,Packung 125 Gramm,lidl,0.82,1565,0.99,100 Gramm,Packung 125 Gramm,kaufland,0.79
+423,2401,Knorr Fix Spaghetti Napoli,0.75,100 Gramm,Beutel 46 Gramm,lidl,1.63,2002,0.75,100 Gramm,Beutel 46 Gramm,kaufland,1.63
+424,2403,Maggi fix & frisch Spaghetti Bolognese,0.79,100 Gramm,Beutel 46 Gramm,lidl,1.72,1577,0.75,100 Gramm,Beutel 46 Gramm,kaufland,1.63
+425,2406,Eduscho Gala Sanft & Verträglich,4.99,100 Gramm,Packung 500 Gramm,lidl,0.998,1597,4.99,100 Gramm,Packung 500 Gramm,kaufland,0.998
+426,2414,Knorr Sauce Hollandaise tafelfertig,0.99,100 ml,Getränkekarton 250 ML,lidl,0.4,3057,0.99,100 ml,Getränkekarton 250 ML,kaufland,0.4
+427,2416,Knorr Braten Soße Extra 3-er ergibt 3 x 250 ml,1.49,100 Gramm,Packung 150 Gramm,lidl,0.99,3058,1.69,100 Gramm,Packung 320 Gramm,kaufland,0.53
+428,2417,"Knorr Salat Krönung Dill-Kräuter, ergibt 90 ml",2.79,100 Gramm,Packung 600 Gramm,lidl,0.465,2018,0.99,Preis pro Stück,Beutel 5 Stück,kaufland,0.2
+429,2422,Bresso Weichkäse Natur,1.89,100 Gramm,Packung 200 Gramm,lidl,0.95,2020,1.99,100 Gramm,Packung 200 Gramm,kaufland,1.0
+430,2423,"Milkana Schmelzkäse Salami, 50% Fett",1.49,100 Gramm,Packung 200 Gramm,lidl,0.75,3619,1.89,100 Gramm,Packung 200 Gramm,kaufland,0.95
+431,2424,Schogetten Nugat,0.69,100 Gramm,"Tafel 116.6 Gramm,  + 16% mehr Inhalt",lidl,0.59,359,0.99,100 Gramm,Tafel 100 Gramm,kaufland,0.99
+432,2425,Maggi Magic Asia Gebratene Nudeln Ente,1.29,100 Gramm,Packung 119 Gramm,lidl,1.08,1642,1.29,100 Gramm,Packung 119 Gramm,kaufland,1.08
+433,2433,Chinakohl Deutschland Kl.1,0.89,100 Gramm, 1 KG,lidl,0.08900000000000001,1681,1.15,100 Gramm, 1 KG,kaufland,0.115
+434,2436,Zott Zottarella Classic Rolle Classic 45 % Fett,1.49,100 Gramm,Beutel 250  Gramm,lidl,0.6,3161,1.98,100 Gramm,Beutel 250  Gramm,kaufland,0.79
+435,2438,Kohlrabi Deutschland,0.39,Preis pro Stück, 1 Stück,lidl,0.39,1699,0.65,Preis pro Stück, 1 Stück,kaufland,0.65
+436,2439,Feldsalat küchenfertig,0.59,100 Gramm,Packung 150 Gramm,lidl,0.39,336,0.77,100 Gramm,Packung 150 Gramm,kaufland,0.51
+437,2440,Deutscher Spargel weiss frisch,2.99,100 Gramm,Packung 500 Gramm,lidl,0.5980000000000001,3418,3.99,100 Gramm,Packung 500 Gramm,kaufland,0.7979999999999999
+438,2441,Knorr Bouillon Pur Gemüse,1.79,100 Gramm,Packung 168 Gramm,lidl,1.07,2062,1.79,100 Gramm,Packung 168 Gramm,kaufland,1.07
+439,2447,Freixenet Carta Nevada Semi Seco halbtrocken,4.44,100 ml,Flasche Glas 750 ML,lidl,0.5920000000000001,201,5.99,100 ml,Flasche Glas 750 ML,kaufland,0.799
+440,2447,Freixenet Carta Nevada Semi Seco halbtrocken,4.44,100 ml,Flasche Glas 750 ML,lidl,0.5920000000000001,7959,2.69,100 ml,Flasche Glas 0.2 L,kaufland,1.345
+441,2448,Lavazza Caffe Crema Classico,9.99,100 Gramm,Beutel 1000 Gramm,lidl,0.9990000000000001,2802,13.99,100 Gramm,Beutel 1000 Gramm,kaufland,1.399
+442,2451,Barilla Pesto Rosso,2.89,100 ml,Glas 190 ML,lidl,1.52,4355,2.89,100 ml,Glas 190 ML,kaufland,1.52
+443,2466,Wilthener Goldkrone 28 % Vol.,5.29,100 ml,Flasche Glas 0.7 L,lidl,0.7559999999999999,2824,5.29,100 ml,Flasche Glas 0.7 L,kaufland,0.7559999999999999
+444,2467,Nestle Aquarel ohne Kohlensäure,0.37,100 ml,Pet-Flasche 1.5 L,lidl,0.025,4772,0.39,100 ml,Pet-Flasche 1.5 L,kaufland,0.026
+445,2468,Der General Univeral Allzweckreiniger Bergfrühling,1.65,100 ml,Flasche Kunststoff 500 ML,lidl,0.33,1130,1.45,100 ml,Flasche Kunststoff 750 ML,kaufland,0.193
+446,2470,Osborne Veterano,8.99,100 ml,Flasche Glas 0.7 L,lidl,1.284,4388,11.99,100 ml,Flasche Glas 0.7 L,kaufland,1.713
+447,2512,Captain Morgan Original Spiced Gold 35 % Vol.,9.99,100 ml,Flasche Glas 0.7 L,lidl,1.4269999999999998,2906,11.49,100 ml,Flasche Glas 0.7 L,kaufland,1.641
+448,2672,"Weihenstephan Haltbare Alpenmilch fettarm, 1,5% Fett",0.79,100 ml,Getränkekarton 1 L,lidl,0.079,2198,0.69,100 ml,Getränkekarton 1 L,kaufland,0.06899999999999999
+449,2674,"Müller Milchreis Apfel, 3% Fett",0.49,100 Gramm,Becher 200 Gramm,lidl,0.25,3526,0.59,100 Gramm,Becher 200 Gramm,kaufland,0.3
+450,2675,"Teekanne Heiße Liebe mit Himbeer-Vanille-Aroma, 20 x 3 g",1.69,100 Gramm,Packung 60 Gramm,lidl,2.82,3002,1.74,100 Gramm,Packung 60 Gramm,kaufland,2.9
+451,2676,Uncle Bens Sauce Chinesisch Süß-Sauer Extra Gemüse,1.99,100 Gramm,"Glas 750 Gramm, XXL",lidl,0.265,1581,1.69,100 Gramm,Glas 400 Gramm,kaufland,0.423
+452,2682,Milka Trauben Nuss Schokolade,0.79,100 Gramm,Tafel 100  Gramm,lidl,0.79,3585,1.09,100 Gramm,Tafel 100  Gramm,kaufland,1.09
+453,2683,Milka Zartherb Schokolade,0.79,100 Gramm,Tafel 100  Gramm,lidl,0.79,3586,1.09,100 Gramm,Tafel 100  Gramm,kaufland,1.09
+454,2686,Schwartau Extra Samt Himbeere,1.79,100 Gramm,Glas 270 Gramm,lidl,0.66,1609,2.19,100 Gramm,Glas 270 Gramm,kaufland,0.81
+455,2687,Schwartau Extra Samt Mango,1.79,100 Gramm,Glas 270 Gramm,lidl,0.66,1610,2.19,100 Gramm,Glas 270 Gramm,kaufland,0.81
+456,2691,Geramont Cremig-Würzig 56% Fett,2.29,100 Gramm,Packung 200 Gramm,lidl,1.15,3074,1.79,100 Gramm,Packung 300 Gramm,kaufland,0.6
+457,2696,Milka Luflee Schokolade,0.79,100 Gramm,Tafel 100 Gramm,lidl,0.79,3671,1.09,100 Gramm,Tafel 100 Gramm,kaufland,1.09
+458,2699,Nestle Yes Cacao 3-er,1.39,100 Gramm,"Packung 96 Gramm, 3 x 32",lidl,1.45,1677,1.79,100 Gramm,"Packung 96 Gramm, 3 x 32",kaufland,1.86
+459,2700,Underberg Kräuterlikör,6.99,100 ml,Packung 0.24 L,lidl,2.9130000000000003,2749,8.59,100 ml,Packung 0.24 L,kaufland,3.579
+460,2702,Bresso Antipasti Frischkäse-Häppchen mit Kräutern der Provence,1.89,100 Gramm,Packung 100 Gramm,lidl,1.89,3749,2.19,100 Gramm,Packung 100 Gramm,kaufland,2.19
+461,2704,"Zott Sahne Joghurt mild Erdbeer, 1,5 % Fett",0.33,100 Gramm,Becher 150  Gramm,lidl,0.22,1684,0.59,100 Gramm,Becher 150  Gramm,kaufland,0.39
+462,2705,Hohes C Milder Multivitamin 100% Saft,1.49,100 ml,Getränkekarton 1.5 L,lidl,0.099,3760,1.65,100 ml,Getränkekarton 1.5 L,kaufland,0.11
+463,2706,Zuckermais,0.99,Preis pro Stück,Packung 2 Stück,lidl,0.5,1697,1.39,Preis pro Stück,Packung 2 Stück,kaufland,0.7
+464,2707,Wirsing Deutschland,0.99,100 Gramm, 1 KG,lidl,0.099,2055,1.15,Preis pro Stück,1 kg,kaufland,0.29
+465,2708,Knoblauch,1.29,100 Gramm,Netz 200 Gramm,lidl,0.65,3782,1.39,100 Gramm,Netz 200 Gramm,kaufland,0.7
+466,2709,Buschbohnen,1.19,100 Gramm,Netz 500 Gramm,lidl,0.23800000000000002,4690,1.05,100 Gramm,"Folie 500 Gramm, Spanien Kl. 1",kaufland,0.21
+467,2713,Eduscho Gala Caffe Crema,8.99,100 Gramm,Packung 1000 Gramm,lidl,0.899,618,7.77,100 Gramm,Packung 1000 Gramm,kaufland,0.7769999999999999
+468,2715,"Zott Jogole fruchtig & cremig Erdbeere, 1,5 % Fett",0.29,100 Gramm,Becher 150 Gramm,lidl,0.19,3201,0.37,100 Gramm,Becher 150 Gramm,kaufland,0.25
+469,2722,Iglo Gold Chicken Nuggets,4.29,100 Gramm,Packung 500 Gramm,lidl,0.858,3238,2.59,100 Gramm,Packung 250 Gramm,kaufland,1.036
+470,2722,Iglo Gold Chicken Nuggets,4.29,100 Gramm,Packung 500 Gramm,lidl,0.858,8052,2.59,100 Gramm,Packung 230 Gramm,kaufland,1.126
+471,2724,Jacobs Krönung Balance,9.99,100 ml,Flasche Glas 700 ML,lidl,1.4269999999999998,4076,4.79,100 Gramm,Packung 500 Gramm,kaufland,0.958
+472,2731,Jacobs Crema d Aroma,0.39,100 Gramm,Beutel 300 Gramm,lidl,0.13,4461,12.79,100 Gramm,Packung 1000 Gramm,kaufland,1.2790000000000001
+473,2813,Oro Di Parma Tomatenmark Classic 3-fach konzentriert,0.89,100 Gramm,Tube 200 Gramm,lidl,0.45,1536,1.39,100 Gramm,Tube 200 Gramm,kaufland,0.7
+474,2814,Erasco Gemüse-Putentopf mit Schmetterlingsnudeln,2.19,100 Gramm,Dose 800 Gramm,lidl,0.27399999999999997,3523,1.89,100 Gramm,Dose 800 Gramm,kaufland,0.23600000000000002
+475,2816,Ehrmann Grand Dessert Schoko,0.37,100 Gramm,Becher 200 Gramm,lidl,0.19,124,0.79,100 Gramm,Becher 200 Gramm,kaufland,0.4
+476,2817,Ehrmann Grand Dessert Vanille,0.37,100 Gramm,Becher 200 Gramm,lidl,0.19,2996,0.55,100 Gramm,Becher 200 Gramm,kaufland,0.28
+477,2818,"Milram Frühlingsquark leicht, 2,4% Fett",0.69,100 Gramm,Becher 200 Gramm,lidl,0.35,1553,0.89,100 Gramm,Becher 200 Gramm,kaufland,0.45
+478,2820,Birkel No.1 Hartweizen Eiernudeln Spaghetti,0.77,100 Gramm,Packung 500 Gramm,lidl,0.154,1554,1.29,100 Gramm,Packung 500 Gramm,kaufland,0.258
+479,2821,Birkel No.1 Hartweizen Eiernudeln Hörnchen,0.77,100 Gramm,Packung 500 Gramm,lidl,0.154,2998,1.29,100 Gramm,Packung 500 Gramm,kaufland,0.258
+480,2823,"Müller Froop Frucht auf Joghurt Heidelbeere, 3.5 % Fett",0.49,100 Gramm,Becher 150 Gramm,lidl,0.33,3532,0.45,100 Gramm,Becher 150 Gramm,kaufland,0.3
+481,2825,Teekanne Pure Lust mit Erdbeer-Rharbarber-Sahne Aroma,1.69,100 Gramm,Packung 60 Gramm,lidl,2.82,3001,1.74,100 Gramm,Packung 60 Gramm,kaufland,2.9
+482,2826,Teekanne Sweet Kiss mit Kirsch-Erdbeer-Aroma,1.69,100 Gramm,"Packung 60 Gramm, 20 x 3 g",lidl,2.82,3003,1.74,100 Gramm,Packung 20 Beutel,kaufland,2.9
+483,2827,"Zentis Belfrutta Auslese Erdbeere, mit 50% Fruchtgehalt",1.29,100 Gramm,Glas 340 Gramm,lidl,0.38,1566,1.79,100 Gramm,Glas 340 Gramm,kaufland,0.53
+484,2829,"Landliebe Haltbare fettarme Landmilch 1,5% Fett",0.85,100 ml,Getränkekarton 1 L,lidl,0.08499999999999999,1999,0.85,100 ml,Getränkekarton 1 L,kaufland,0.08499999999999999
+485,2830,Müller Grieß Pudding mit Kirsch Sauce,0.77,100 Gramm,Becher 450 Gramm,lidl,0.17,3360,4.49,100 Gramm,Glas 500 Gramm,kaufland,0.898
+486,2832,Maggi Meisterklasse Spargel-Cremesuppe,0.59,100 Gramm,Beutel 46 Gramm,lidl,1.28,1576,0.85,100 Gramm,Beutel 46 Gramm,kaufland,1.85
+487,2835,Schwartau Extra Schwarz-Kirsche,1.79,100 Gramm,Glas 340 Gramm,lidl,0.53,3543,2.09,100 Gramm,Glas 340 Gramm,kaufland,0.61
+488,2837,Schwartau Extra Waldfrucht,1.79,100 Gramm,Glas 340 Gramm,lidl,0.53,3546,2.09,100 Gramm,Glas 340 Gramm,kaufland,0.61
+489,2838,Zentis Aachener Pflümli Pflaumenmus,0.88,100 Gramm,Becher 450 Gramm,lidl,0.2,1582,1.79,100 Gramm,Becher 450 Gramm,kaufland,0.4
+490,2839,Zott Sahne Joghurt mild Kirsch,0.27,100 Gramm,Becher 150  Gramm,lidl,0.18,2010,0.49,100 Gramm,Becher 150  Gramm,kaufland,0.33
+491,2840,Landliebe Grieß Pudding mit feinem Zimt,0.65,100 Gramm,Becher 150 Gramm,lidl,0.43,1585,0.65,100 Gramm,Becher 150 Gramm,kaufland,0.43
+492,2841,Ferrero Kinder Happy Hippo Cacao,0.99,100 Gramm,Packung 103.5 Gramm,lidl,0.96,2718,1.49,100 Gramm,Packung 103.5 Gramm,kaufland,1.44
+493,2845,Hohes C Milder Apfel 100% Saft,0.99,100 ml,Pet-Flasche 1 L,lidl,0.099,3553,2.39,100 ml,Getränkekarton 1.5 L,kaufland,0.159
+494,2848,Becel Omega 3 Pflanzenöl,1.99,100 ml,Flasche Glas 500 ML,lidl,0.39799999999999996,3034,2.39,100 ml,Flasche Glas 500 ML,kaufland,0.478
+495,2849,"Patros Feta in Öl, 45% Fett",1.99,100 Gramm,Glas 300 Gramm,lidl,0.6629999999999999,3558,2.59,100 Gramm,Glas 300 Gramm,kaufland,0.8630000000000001
+496,2850,Wagner Big Pizza Supreme,1.88,100 Gramm,Packung 410 Gramm,lidl,0.459,1592,2.39,100 Gramm,Packung 410 Gramm,kaufland,0.583
+497,2851,"Wagner Original Piccolinis Salami,",2.39,100 Gramm,"Packung 270 Gramm, 9 x 30g",lidl,0.89,130,2.69,100 Gramm,"Packung 270 Gramm, 9 x 30g",kaufland,1.0
+498,2856,Iglo Gemüsestäbchen,1.29,100 Gramm,Packung 250 Gramm,lidl,0.52,3051,2.79,Preis pro Stück,"Packung 426 Gramm, 15 Stück",kaufland,0.19
+499,2857,"Pfanni Kartoffel Püree das Lockere, 3 x 3 Portionen",0.25,100 Gramm,Becher 150 Gramm,lidl,0.17,2725,1.39,100 Gramm,Packung 250 Gramm,kaufland,0.56
+500,2873,Schwartau Extra Samt Erdbeer Vanille,1.79,100 Gramm,Glas 270 Gramm,lidl,0.66,1261,2.19,100 Gramm,Glas 270 Gramm,kaufland,0.81
+501,2875,Schwartau Extra Samt Waldfrucht,1.79,100 Gramm,Glas 270 Gramm,lidl,0.66,1611,2.19,100 Gramm,Glas 270 Gramm,kaufland,0.81
+502,2876,Schwartau Extra Samt Aprikose,1.79,100 Gramm,Glas 270 Gramm,lidl,0.66,1131,2.19,100 Gramm,Glas 270 Gramm,kaufland,0.81
+503,2877,Schwartau Extra Samt Brombeere,1.79,100 Gramm,Glas 270 Gramm,lidl,0.66,1612,2.19,100 Gramm,Glas 270 Gramm,kaufland,0.81
+504,2880,Schwartau Extra Wildbeeren Gelee,1.79,100 Gramm,Glas 340 Gramm,lidl,0.53,3600,2.09,100 Gramm,Glas 340 Gramm,kaufland,0.61
+505,2881,Schwartau Dessert Sauce Schokolade,0.89,100 ml,Flasche Glas 125 ML,lidl,0.71,3373,1.09,100 ml,Flasche Glas 125 ML,kaufland,0.87
+506,2892,Herta Farmerschinken Virginia,0.99,100 Gramm,Packung 100 Gramm,lidl,0.99,1633,1.49,100 Gramm,Packung 100 Gramm,kaufland,1.49
+507,2893,Ehrmann Almighurt Nektarine-Wildorange,0.45,100 Gramm,Becher 150 Gramm,lidl,0.3,3627,0.45,100 Gramm,Becher 150 Gramm,kaufland,0.3
+508,2895,Emmi Swiss Müsli Classic 2 x 150 g,1.49,100 Gramm,Packung 300 Gramm,lidl,0.5,1634,169.0,100 Gramm,Packung 300 Gramm,kaufland,56.33
+509,2900,"MinusL fettarme H Milch 1,5% Fett",0.99,100 ml,Getränkekarton 1 L,lidl,0.099,315,1.39,100 ml,Getränkekarton 1 L,kaufland,0.13899999999999998
+510,2905,"Müller Müllermilch Coffee Cappuccino, 1.5% Fett",3.33,100 Gramm,"Packung 650 Gramm, + 30% mehr Inhalt",lidl,0.512,2740,0.99,100 Gramm,Flasche Kunststoff 250 Gramm,kaufland,0.4
+511,2906,Frosta Paella,1.99,100 ml,Dose Weißblech 1000 ML,lidl,0.19899999999999998,1645,3.29,100 Gramm,Packung 500 Gramm,kaufland,0.6579999999999999
+512,2910,Wagner Big Pizza Texas,1.88,100 Gramm,Packung 420 Gramm,lidl,0.4480000000000001,1653,2.49,100 Gramm,Packung 420 Gramm,kaufland,0.593
+513,2912,Bürger Schupfnudeln Original schwäbisch,1.79,100 Gramm,Packung 1000 Gramm,lidl,0.179,2034,1.59,100 Gramm,Packung 500 Gramm,kaufland,0.318
+514,2917,"Müller Joghurt mit der Ecke Schoko Stars, 3.8 % Fett",0.49,100 Gramm,Becher 150 Gramm,lidl,0.33,3736,1.95,100 Gramm,Glas 340 Gramm,kaufland,0.57
+515,2920,Herta Saftiger Genuss Saftschinken gegart,1.29,100 Gramm,"Packung 125 Gramm, 5 Scheiben ",lidl,1.03,3137,2.49,100 Gramm,Packung 200 Gramm,kaufland,1.25
+516,2921,Nestle Yes Caramel 3-er 3 x 32 g,1.39,100 Gramm,Packung 96 Gramm,lidl,1.45,2206,1.79,100 Gramm,Packung 96 Gramm,kaufland,1.86
+517,2925,"Müller Milchreis natur, 3% Fett",0.49,100 Gramm,Becher 200 Gramm,lidl,0.25,3747,0.49,100 Gramm,Becher 200 Gramm,kaufland,0.25
+518,2926,Kiwi,0.08,Preis pro Stück, 1 Stück,lidl,0.08,1682,0.25,Preis pro Stück, 1 Stück,kaufland,0.25
+519,2927,"Volvic Landfrucht Roter Apfel, 6 x 1,5 L",1.19,100 ml,Pet-Flasche 1.5 L,lidl,0.079,3754,7.14,100 ml,Kasten 9 L,kaufland,0.079
+520,2928,Volvic Tee Pfirsich Tee & Pfirsich,0.99,100 ml,Pet-Flasche 1.5 L,lidl,0.066,414,1.39,100 ml,Pet-Flasche 1.5 L,kaufland,0.09300000000000001
+521,2931,Müller Fructiv Multivitamin,0.69,100 Gramm,Pet-Flasche 440 Gramm,lidl,0.157,3149,0.89,100 Gramm,Pet-Flasche 440 Gramm,kaufland,0.20199999999999999
+522,2949,Speisekartoffeln Deutschland vorwiegend festkochend,0.85,100 Gramm,"Netz 2,5 kg",lidl,0.034,3781,2.99,100 Gramm,"Netz 2,5 kg",kaufland,0.12
+523,2950,Lauch / Poree,1.79,100 Gramm, 1 KG,lidl,0.179,1700,1.39,100 Gramm, 1 KG,kaufland,0.13899999999999998
+524,2951,Speisekürbis Hokaido Deutschland,1.99,Preis pro Stück,1 kg,lidl,0.0,2056,0.45,Preis pro Stück, 1 Stück,kaufland,0.45
+525,2952,Ingwer frisch,1.49,100 Gramm,Packung 200 Gramm,lidl,0.75,1703,6.9,100 Gramm, 1 KG,kaufland,0.0
+526,2956,Trauben dunkel,0.99,100 Gramm,Packung 1 KG,lidl,0.099,3175,2.99,100 Gramm,Packung 1 KG,kaufland,0.29900000000000004
+527,2958,Paprika orange,2.89,100 Gramm,Folie 250 Gramm,lidl,1.16,3789,2.69,100 Gramm, 1 KG,kaufland,0.26899999999999996
+528,2959,Wiesenhof Puten-Salami halal,1.59,Preis pro Stück,Folie 2 Stück,lidl,0.8,3415,3.99,100 Gramm,Folie 250 Gramm,kaufland,1.6
+529,2961,Zuckermais frisch,5.99,100 Gramm,Glas 200 Gramm,lidl,3.0,3177,1.15,Preis pro Stück,Folie 2 Stück,kaufland,0.58
+530,2962,Weight Watchers Frühlingsgemüsesuppe mit Geflügelfleischklößchen,0.69,100 Gramm,Netz 2 kg,lidl,0.035,3791,2.29,100 ml,Dose 800 ML,kaufland,0.28600000000000003
+531,2964,Deutsche Speisekartoffeln festkochend Kl. I,2.22,100 Gramm,Karton 345 Gramm,lidl,0.64,1710,2.99,100 Gramm,"Beutel 2,5kg",kaufland,0.12
+532,2965,"Knorr Sauce Pur Feine Sauce,  4 x 0,25 L",1.39,100 ml,Packung 100 ML,lidl,1.39,3186,2.39,100 ml,Packung 100 ML,kaufland,2.39
+533,2966,"Knorr Sauce Pur Bratensauce, 4 x 28 g, Portionen:  4",1.39,100 Gramm,Packung 112 Gramm,lidl,1.24,3797,1.79,100 Gramm,4 und 2 gratis! 6 Stück Packung,kaufland,0.0
+534,2967,Milka Choco Cookies,1.59,100 Gramm,Packung 168 Gramm,lidl,0.95,3188,2.19,100 Gramm,Packung 168 Gramm,kaufland,1.3
+535,2970,Schwartau Extra Fruttissima Limited Edition Rote Früchte,1.49,100 Gramm,Becher 250 Gramm,lidl,0.6,3802,1.99,100 Gramm,Becher 250 Gramm,kaufland,0.8
+536,2971,Dreistern Schweinskopf Sülze,1.99,100 Gramm,Packung 400 Gramm,lidl,0.4980000000000001,3816,1.99,100 Gramm,Packung 400 Gramm,kaufland,0.4980000000000001
+537,2975,Halloren Nougatissimo,1.49,100 ml,"Packung, 2 x Becher 230 ML",lidl,0.32,2747,1.95,100 Gramm,Packung 115 Gramm,kaufland,1.7
+538,2977,Schwartau Rodelkönig Konfitüre Pflaume Apfel Zimt,1.49,100 Gramm,Glas 340 Gramm,lidl,0.44,370,2.19,100 Gramm,Glas 340 Gramm,kaufland,0.64
+539,2979,Speisezwiebeln,1.19,100 Gramm,Beutel 1.0 KG,lidl,0.11900000000000001,3846,1.35,100 Gramm,Packung 200 Gramm,kaufland,0.68
+540,2981,Ehrmann Almighurt nach Herzenslust Herz Kirsche & Schoko Wellen,0.66,100 Gramm,Becher 150 Gramm,lidl,0.44,3205,0.99,100 Gramm,Becher 150 Gramm,kaufland,0.66
+541,3007,Jacobs Auslese Klassisch,3.49,100 Gramm,Packung 500 Gramm,lidl,0.6980000000000001,3234,4.99,100 Gramm,Packung 500 Gramm,kaufland,0.998
+542,3014,Onko Kaffee klassisch,2.45,100 ml,Flasche Kunststoff 200 ML,lidl,1.23,2806,4.59,100 Gramm,Packung 500 Gramm,kaufland,0.918
+543,3015,Jacobs Meisterröstung,3.49,100 Gramm,Glas 375 Gramm,lidl,0.9309999999999999,2807,4.79,100 Gramm,Packung 500 Gramm,kaufland,0.958
+544,3017,Appel Hering zarte Filets Tomate-Barbecue,1.25,100 Gramm,Dose 200 Gramm,lidl,0.63,4757,1.49,100 Gramm,Dose 200 Gramm,kaufland,0.75
+545,3018,Moskovskaya Russischer Wodka,5.79,100 ml,Flasche Glas 0.5 L,lidl,1.158,2821,7.79,100 ml,Flasche Glas 0.5 L,kaufland,1.558
+546,3019,Persil Color Pulver,19.99,Preis pro Waschladung,Packung 130 Wäschen,lidl,0.15,3257,11.99,Preis pro Waschladung,"Packung 45 WL, 3,6 kg",kaufland,0.0
+547,3021,Bacardi Superior Rum,9.99,100 ml,Flasche Glas 700 ML,lidl,1.4269999999999998,2885,12.99,100 ml,Flasche Glas 700 ML,kaufland,1.856
+548,3027,Milka Tender a la Schwarzwälder Kirsch,1.69,100 Gramm,"Packung 185 Gramm, 5 x 37 g",lidl,0.914,4441,1.89,100 Gramm,"Packung 185 Gramm, 5 x 37 g",kaufland,1.022
+549,3162,Schauma Shampoo 7 Kräuter,1.95,100 ml,Flasche Kunststoff 400 ML,lidl,0.488,4186,1.75,100 ml,Flasche Kunststoff 400 ML,kaufland,0.43799999999999994
+550,3163,Melitta Cafe Auslese Pads,1.79,100 Gramm,"Packung 112 Gramm, 16 Kaffeepads",lidl,0.0,4188,1.99,100 Gramm,"Packung 112 Gramm, 16 Kaffeepads",kaufland,1.2
+551,3164,Lorenz Snack-Hits,2.29,100 Gramm,Packung 320 Gramm,lidl,0.72,5159,2.29,100 Gramm,Packung 320 Gramm,kaufland,0.72
+552,3170,Pril Spülmittel Kraftgel,1.35,100 ml,Flasche 500ml,lidl,0.27,5241,1.75,100 ml,Flasche Kunststoff 600 ML,kaufland,0.292
+553,3171,Pril Spülmittel Lemon,1.75,100 ml,Flasche Kunststoff 600 ML,lidl,0.292,5242,1.75,100 ml,Flasche Kunststoff 600 ML,kaufland,0.292
+554,3175,"President Snacking französische Käserolle mild cremig,  55% Fett",2.39,100 Gramm,Rolle 180 Gramm,lidl,1.33,5805,2.39,100 Gramm,Rolle 180 Gramm,kaufland,1.33
+555,3178,Cinzano Rosso,4.89,100 ml,Flasche Glas 0.75 L,lidl,0.6519999999999999,5402,4.79,100 ml,Flasche Glas 0.75 L,kaufland,0.639
+556,3181,Weißer Riese Kraft Pulver 5,1.59,100 Gramm,Packung 460 Gramm,lidl,0.35,5117,7.49,Preis pro Waschladung,XL Packung 44 Wäschen,kaufland,0.0
+557,3191,Jacobs Krönung Mild,4.29,100 Gramm,Packung 500 Gramm,lidl,0.858,3248,5.69,100 Gramm,Packung 500 Gramm,kaufland,1.138
+558,3191,Jacobs Krönung Mild,4.29,100 Gramm,Packung 500 Gramm,lidl,0.858,7753,4.59,100 Gramm,Packung 500 Gramm,kaufland,0.918
+559,5342,Jacobs Krönung Mild,4.59,100 Gramm,Packung 500 Gramm,lidl,0.918,3248,5.69,100 Gramm,Packung 500 Gramm,kaufland,1.138
+560,5342,Jacobs Krönung Mild,4.59,100 Gramm,Packung 500 Gramm,lidl,0.918,7753,4.59,100 Gramm,Packung 500 Gramm,kaufland,0.918
+561,3192,Martini Bianco 15 % Vol.,5.49,100 ml,Flasche Glas 750 ML,lidl,0.732,623,9.99,100 ml,Flasche Glas 1.5 L,kaufland,0.6659999999999999
+562,3193,dusch das Duschgel For Men,1.79,100 ml,Vorteilspack 3 x 250ml,lidl,0.24,4720,1.59,100 ml,Doppelpackung 500 ML,kaufland,0.32
+563,3194,Jacobs Krönung Gold,6.66,100 Gramm,Glas 200 Gramm,lidl,3.33,2811,4.99,100 Gramm,Glas 100 Gramm,kaufland,4.99
+564,3200,Lipton Ice Tea Lemon,9.99,100 ml,Flasche Glas 0.7 L,lidl,1.4269999999999998,211,1.39,100 ml,Pet-Flasche 1.5 L,kaufland,0.09300000000000001
+565,3201,Fernet Branca,1.45,100 ml,Packung 400 ml,lidl,0.36,2826,13.99,100 ml,Flasche Glas 0.7 L,kaufland,1.999
+566,3204,Warsteiner Premium Verum Partydose,6.99,100 ml,Dose 5 L,lidl,0.14,2834,9.49,100 ml,Dose 5 L,kaufland,0.19
+567,3205,Amarula Wild Fruit Cream Liqueur,9.99,100 ml,Flasche Glas 0.7 L,lidl,1.4269999999999998,220,12.99,100 ml,Flasche Glas 0.7 L,kaufland,1.856
+568,3210,Pepsi Max Energy cola,0.89,100 ml,Pet-Flasche 1.5 L,lidl,0.059000000000000004,4817,0.82,100 ml,Pet-Flasche 1.5 L,kaufland,0.055000000000000014
+569,3213,Sierra Tequila Silver,9.99,100 ml,Flasche Glas 0.7 L,lidl,1.4269999999999998,232,13.99,100 ml,Flasche Glas 0.7 L,kaufland,1.999
+570,3214,Malibu Caribbean Rum mit Kokosnuss,9.99,100 ml,Flasche Glas 0.7 L,lidl,1.4269999999999998,2881,11.99,100 ml,Flasche Glas 0.7 L,kaufland,1.713
+571,3223,Persil Color Gel Leuchtkraftformel,16.99,Preis pro Waschladung,"Pack 2 x 50 Wäschen Fläschen, 2 x 3,65l",lidl,0.17,4667,5.25,Preis pro Waschladung,"Flasche Kunststoff 18 WL, 16 + 2 WL + 10% mehr Inhalt",kaufland,0.29
+572,3227,Jacobs Balance,2.79,100 Gramm,"Packung 220 Gramm, +10% mehr Inhalt",lidl,1.268,5070,4.59,100 Gramm,Packung 500 Gramm,kaufland,0.918
+573,3228,Ferrero Kinder Friends,1.99,Preis pro 100 Stück,Packung 80 Stück,lidl,2.49,5474,2.65,100 Gramm,Packung 200 Gramm,kaufland,1.325
+574,3331,Coral Feinwaschmittel Wolle & Seide 20 WL,4.45,100 ml,Flasche Kunststoff 1500 ML,lidl,0.29700000000000004,5252,4.45,100 ml,Flasche Kunststoff 1500 ML,kaufland,0.29700000000000004
+575,3656,Melitta Mein Cafe Dark Roast,9.99,100 Gramm,Packung 1000 Gramm,lidl,0.9990000000000001,5126,13.99,100 Gramm,Packung 1000 Gramm,kaufland,1.399
+576,3704,Ferrero Giotto Haselnuss Gebäckspezialität,8.88,Preis pro Waschladung,"Flasche Kunststoff 45 WL, 3,375 L",lidl,0.0,2787,1.99,100 Gramm,"Packung 154.8 Gramm, 4 x 38,7, 36 Stück",kaufland,1.29
+577,3705,Persil Color-Gel,1.49,100 Gramm,Packung 180 Gramm,lidl,0.83,4350,10.95,Preis pro Waschladung,"Flasche Kunststoff 45 WL, 3,375 L",kaufland,0.0
+578,3706,"Salakis Schafskäse Leicht, 9% Fett",5.99,Preis pro Waschladung,Flasche Kunststoff 3000 ML,lidl,0.0,478,2.49,100 Gramm,Packung 180 Gramm,kaufland,1.38
+579,3707,Pril Spülmittel Apple Fresh,1.15,100 ml,Flasche Kunststoff 500 ML,lidl,0.23,4625,1.15,100 ml,Flasche Kunststoff 500 ML,kaufland,0.23
+580,3710,Nivea for Men Deodorant Roll-on Dry Impact,1.55,100 ml,Dose 50 ML,lidl,3.1,4628,1.55,100 ml,Dose 50 ML,kaufland,3.1
+581,3711,Valensina 100% Saft aus Fruchtsaftkonzentrat Apfelsine,0.89,100 ml,Pet-Flasche 1 L,lidl,0.08900000000000001,3255,1.49,100 ml,Pet-Flasche 1 L,kaufland,0.149
+582,3713,Bref Power Reiniger Kalk & Schmutz,2.45,100 ml,"Sprühflasche 900 ML, + 20% gratis",lidl,0.272,3259,3.25,100 ml,Sprühflasche 750 ML,kaufland,0.433
+583,3718,Henkell Rose,3.79,100 ml,Flasche Glas 0.75 L,lidl,0.505,4800,5.49,100 ml,Flasche Glas 0.75 L,kaufland,0.732
+584,3719,Karamalz Classic Alkoholfrei,4.95,100 ml,"Pack 6 x 0,75l",lidl,0.11,3467,2.94,100 ml,"Pack 1.98 L, 6 x 0,33l",kaufland,0.14800000000000002
+585,3720,o.b. Tampons Normal,4.45,Preis pro 100 Stück,Packung 64 Stück,lidl,6.95,4908,3.79,Preis pro 100 Stück,Packung 56 Stück,kaufland,6.77
+586,3721,Disaronno Originale Amaretto,7.99,100 ml,Flasche Glas 0.5 L,lidl,1.598,683,14.49,100 ml,Flasche Glas 0.7 L,kaufland,2.07
+587,3723,Tullamore Dew 12 years old Whisky,11.99,100 ml,Flasche Glas 700 ML,lidl,1.713,4923,16.99,100 ml,Flasche Glas 700 ML,kaufland,2.427
+588,3724,Tullamore Dew Irish Whisky,11.99,100 ml,Flasche Glas 700 ML,lidl,1.713,276,16.99,100 ml,Flasche Glas 700 ML,kaufland,2.427
+589,3726,Nutella & Go,1.59,100 Gramm,Pack 104 Gramm,lidl,1.5290000000000001,4430,0.99,100 Gramm,Becher 52 Gramm,kaufland,1.9040000000000001
+590,3727,Pitu Do Brasil Cachaca 40 % Vol.,8.99,100 ml,Flasche Glas 700 ML,lidl,1.284,2902,10.99,100 ml,Flasche Glas 700 ML,kaufland,1.5699999999999998
+591,3732,Milka Osterbecher mit Tasse,3.99,100 Gramm,Folie 130 Gramm,lidl,3.07,4449,3.99,100 Gramm,Folie 130 Gramm,kaufland,3.07
+592,3735,Listerine Mundspülung Zahn & Zahnfleischschutz,2.95,100 ml,Flasche Glas 500 ML,lidl,0.5900000000000001,5021,4.25,100 ml,,kaufland,0.85
+593,3736,Meggle Alpenzart gesalzen,0.99,100 Gramm,Becher 250  Gramm,lidl,0.4,4676,2.69,100 Gramm,Becher 250  Gramm,kaufland,1.08
+594,3742,Jules Mumm Dry Sekt,3.69,100 ml,Flasche Glas 0.75 L,lidl,0.49200000000000005,5077,4.79,100 ml,Flasche Glas 0.75 L,kaufland,0.639
+595,3745,Jacobs Krönung Cafe Crema Kräftig,9.99,100 Gramm,Packung 1000 Gramm,lidl,0.9990000000000001,4253,12.79,100 Gramm,Packung 1000 Gramm,kaufland,1.2790000000000001
+596,3756,"Campina Puddis Milchpudding Vanille 4-er mit Schokoladensosse, 4 x 125 g",0.79,100 Gramm,Packung 500 Gramm,lidl,0.16,3249,1.09,100 Gramm,Packung 500 Gramm,kaufland,0.22
+597,3762,Jacobs Carismo Caffe Crema Classico,0.69,100 Gramm,Beutel 250  Gramm,lidl,0.28,4838,2.25,100 Gramm,Packung 250 Gramm,kaufland,0.9
+598,3764,Nestle Lion Mini,0.99,100 ml,Getränkekarton 2 L,lidl,0.05,3252,1.99,100 Gramm,Packung 198 Gramm,kaufland,1.005
+599,3765,Atco Kokosraspeln,0.95,100 ml,Getränkekarton 2 L,lidl,0.048,4621,0.45,100 Gramm,Beutel 200 Gramm,kaufland,0.23
+600,3766,Pfanner Der Gelbe Tee,1.69,100 ml,Becher 750  ML,lidl,0.225,4737,1.79,100 Gramm,Packung 500 Gramm,kaufland,0.358
+601,3768,Landliebe Eiscreme Bourbon Vanille,3.45,100 ml,Flasche Kunststoff 400 ML,lidl,0.8630000000000001,672,2.89,100 ml,Becher 750  ML,kaufland,0.385
+602,3769,Head & Shoulders Anti-Schuppen-Shampoo Classic Clean,3.85,100 ml,Flasche Kunststoff 300 ML,lidl,1.28,4626,4.35,100 ml,Flasche Kunststoff 300 ML,kaufland,1.45
+603,3776,Johnny Walker Red Label,4.44,100 ml,Flasche Glas 700 ML,lidl,0.634,212,13.99,100 ml,Flasche Glas 700 ML,kaufland,1.999
+604,3778,Berentzen Fruchtige 20 % Vol.,4.44,100 ml,Flasche Glas 700 ML,lidl,0.634,4088,6.49,100 ml,Flasche Glas 700 ML,kaufland,0.927
+605,3779,Berentzen Fruchtige Saurer Apfel 16% Vol.,1.49,100 Gramm,Packung 500 Gramm,lidl,0.3,213,6.49,100 ml,Flasche Glas 700 ML,kaufland,0.927
+606,3780,Berentzen Fruchtige Waldfrucht,2.49,100 ml,Sprühflasche 750 ML,lidl,0.332,676,6.49,100 ml,Flasche Glas 700 ML,kaufland,0.927
+607,3781,"Uncle Bens Express Spitzen-Langkorn-Reis, 4 x 125 g",1.69,100 Gramm,Packung 200 Gramm,lidl,0.85,3462,1.49,100 Gramm,Packung 500 Gramm,kaufland,0.3
+608,3783,Kümmerling Kräuterlikör,4.99,100 ml,Flasche Glas 500 ML,lidl,0.998,2835,10.99,100 ml,"Karton 500 ML, 25 x 20 ml ",kaufland,2.198
+609,3784,"Chivas Regal Whisky 12 Years Blended Scotch Whisky, 12 Jahre, 40% Vol.",19.99,100 ml,Flasche Glas 700 ML,lidl,2.8560000000000003,382,25.99,100 ml,Flasche Glas 700 ML,kaufland,3.713
+610,3785,Lorenz Tacitos Tomato + Chili,0.99,100 Gramm,Beutel 125 Gramm,lidl,0.79,4386,1.49,100 Gramm,Beutel 125 Gramm,kaufland,1.19
+611,3790,Henkell Halbtrocken,0.99,100 Gramm,Packung 300 Gramm,lidl,0.33,4801,5.49,100 ml,Flasche Glas 0.75 L,kaufland,0.732
+612,3792,Quisit Gemüse Sticks 8 Stück - in Backofenpanade,2.79,100 Gramm,Packung 250 Gramm,lidl,1.1159999999999999,4098,0.99,100 Gramm,Packung 300 Gramm,kaufland,0.33
+613,3794,Coeur de Lion Coulommiers Käse 50 % Fett,2.22,100 Gramm,Packung 350 Gramm,lidl,0.63,3293,2.45,Preis pro 1000 Blatt,"Packung 1200 Blatt,  8 x 150 Blatt",kaufland,2.04
+614,3797,Rotkäppchen Sekt Extra Trocken,3.99,100 ml,Flasche Glas 0.75 L,lidl,0.532,4914,3.99,100 ml,Flasche Glas 0.75 L,kaufland,0.532
+615,3799,Mumm Sekt Dry,3.45,100 ml,Flasche Kunststoff 200 ML,lidl,1.73,4417,5.69,100 ml,Flasche Glas 0.2 L,kaufland,2.845
+616,3804,Söhnlein Brillant Jahrgangssekt Trocken,2.29,100 ml,Flasche Glas 0.75 L,lidl,0.305,2892,3.79,100 ml,Flasche Glas 0.75 L,kaufland,0.505
+617,3807,Ouzo Plomari 40 % Vol.,8.99,100 ml,Flasche Glas 0.7 L,lidl,1.284,275,10.99,100 ml,Flasche Glas 0.7 L,kaufland,1.5699999999999998
+618,3811,Ferrero Kinder Paradiso,1.59,Preis pro 100 Stück,Doppelpackung 200 Stück,lidl,0.8,4116,1.89,100 Gramm,"Packung 116 Gramm, 4 x 29g",kaufland,1.63
+619,3814,Yeni Raki,1.99,100 Gramm,Packung 750 Gramm,lidl,0.265,565,16.49,100 ml,Flasche Glas 700 ML,kaufland,2.356
+620,3820,Alpia Alpenmilch Schokolade,4.99,100 Gramm,Packung 400 Gramm,lidl,1.248,902,0.59,100 Gramm,Tafel 100 Gramm,kaufland,0.59
+621,3827,Baguette nach französischer Art,1.15,100 Gramm, 1000 Gramm,lidl,0.115,2931,0.65,100 Gramm, 250 Gramm,kaufland,0.26
+622,3829,Weizenmischbrot,2.59,100 Gramm,Packung 250 Gramm,lidl,1.04,2257,1.29,100 Gramm, 1000 Gramm,kaufland,0.129
+623,3829,Weizenmischbrot,2.59,100 Gramm,Packung 250 Gramm,lidl,1.04,7428,1.29,100 Gramm, 1000 Gramm,kaufland,0.129
+624,3839,Jacobs Espresso d Aroma,8.88,100 Gramm,Packung 1000 Gramm,lidl,0.8880000000000001,4670,12.99,100 Gramm,Packung 1000 Gramm,kaufland,1.2990000000000002
+625,3852,"Südzucker Puder Zucker hauchzart locker, pudrig leicht",0.39,100 Gramm,Packung 250 Gramm,lidl,0.16,748,0.29,100 Gramm,Packung 250 Gramm,kaufland,0.12
+626,3853,Cilit Bang Kraftreiniger Kalk & Schmutz,2.99,100 ml,"Sprühflasche 1L, gratis + 33%",lidl,0.29900000000000004,4503,3.45,100 ml,Sprühflasche 750 ML,kaufland,0.46
+627,3858,Sprite Zero,0.95,100 ml,Pet-Flasche 1.25 L,lidl,0.076,4509,1.05,100 ml,Pet-Flasche 1.5 L,kaufland,0.06999999999999999
+628,3860,Eisbergsalat,0.65,Preis pro Stück, 1 Stück,lidl,0.65,4689,2.15,100 Gramm,Netz 500 Gramm,kaufland,0.43
+629,3862,Himbeeren frisch,1.79,100 Gramm,Schale 125 Gramm,lidl,1.43,1317,1.99,100 Gramm,Schale 125 Gramm,kaufland,1.59
+630,3867,Felix Häppchen in Gelee Rind & Huhn,0.59,100 Gramm,Dose 400  Gramm,lidl,0.15,5133,0.65,100 Gramm,Dose 400  Gramm,kaufland,0.16
+631,3874,Melitta Cafe Harmonie Pads naturmild,1.49,100 Gramm,"Packung 112 Gramm, 6 Kaffeepads",lidl,1.33,4196,1.99,100 Gramm,"Packung 112 Gramm, 6 Kaffeepads",kaufland,1.78
+632,3881,Dallmayr Standard,4.29,100 Gramm,Packung 500 Gramm,lidl,0.858,5611,0.55,100 Gramm,Tafel 100 Gramm,kaufland,0.55
+633,3889,Light Life alkoholfreier Sekt weiß,2.49,100 ml,Flasche Glas 0.75 L,lidl,0.332,1201,2.99,100 ml,Flasche Glas 0.75 L,kaufland,0.39899999999999997
+634,3890,"Hilcona Tortelloni Ricotta e Spinaci,  500 g + 250 g Gratis",2.99,100 Gramm,Vorteilspack 750 Gramm,lidl,0.39899999999999997,5271,2.99,100 Gramm,Packung 500 Gramm,kaufland,0.5980000000000001
+635,3891,Pampers Feuchttücher Sensitive,6.45,Preis pro 100 Stück," 4 x 54 Tücher, Packung 216 Stück",lidl,2.99,5404,4.25,Preis pro 100 Stück,"2 x 54 Tücher, Packung 108 Stück",kaufland,3.94
+636,3892,Dattel Cherrytomaten,1.29,100 Gramm,Schale 250 Gramm,lidl,0.52,4536,0.79,100 Gramm,Packung 100 Gramm,kaufland,0.79
+637,3893,Honigmelone gelb,1.79,Preis pro Stück, 1 Stück,lidl,1.79,5881,2.99,Preis pro Stück, 1 Stück,kaufland,2.99
+638,3895,Erdbeeren frisch,1.49,100 Gramm,Schale 500 Gramm,lidl,0.298,5911,14.99,100 ml,Flasche Glas 0.7 L,kaufland,2.141
+639,3911,Kerrygold Original Irische Butter gesalzen,1.79,100 Gramm,Packung 250 Gramm,lidl,0.72,6199,2.29,100 Gramm,Packung 250 Gramm,kaufland,0.92
+640,3914,Ritter Sport Edel Vollmilch,0.99,100 Gramm,Tafel 100 Gramm,lidl,0.99,5130,1.09,100 Gramm,Tafel 100 Gramm,kaufland,1.09
+641,3918,Reinert Chambelle Salami mit französischem Camembert,1.39,100 Gramm,Vakuum 80 Gramm,lidl,1.74,4180,1.99,100 Gramm,Vakuum 80 Gramm,kaufland,2.49
+642,3919,Landliebe Milch Schoko,0.88,100 Gramm,Flasche Kunststoff 500 Gramm,lidl,0.17600000000000002,5366,1.09,100 Gramm,Flasche Kunststoff 500 Gramm,kaufland,0.21800000000000005
+643,3920,Pril Anti-Fett Spülmittel Kraft-Gel,1.15,100 ml,Flasche Kunststoff 500 ML,lidl,0.23,5483,0.88,100 ml,Flasche Kunststoff 500 ML,kaufland,0.17600000000000002
+644,3925,Pril Spülmittel Balance,1.15,100 ml,Flasche Kunststoff 500 ML,lidl,0.23,5189,1.15,100 ml,Flasche Kunststoff 500 ML,kaufland,0.23
+645,3928,Lavazza Crema Gustoso ganze Bohne,10.99,100 Gramm,Packung 1000 Gramm,lidl,1.099,5224,13.49,100 Gramm,Packung 1000 Gramm,kaufland,1.349
+646,3931,Pril Spülmittel Original,1.25,100 ml,Flasche Kunststoff 900 ML,lidl,0.13899999999999998,4225,1.45,100 ml,Flasche Kunststoff 750 ML,kaufland,0.193
+647,3932,Osborne Veterano Solera-Brandy 30 % Vol.,8.88,100 ml,Flasche Glas 0.7 L,lidl,1.2690000000000001,5259,10.99,100 ml,Flasche Glas 0.7 L,kaufland,1.5699999999999998
+648,3933,Ferrero Die Besten,4.44,100 Gramm,"Karton 269 Gramm,  26 Stück",lidl,1.65,1306,5.39,100 Gramm,"Karton 269 Gramm,  26 Stück",kaufland,2.0
+649,3934,Le Rustique Camembert 45% Fett i. Tr.,1.99,100 Gramm,Packung 250 Gramm,lidl,0.8,4227,2.89,100 Gramm,Packung 250 Gramm,kaufland,1.16
+650,3935,Eduscho Gala Espresso,8.99,100 Gramm,Packung 1000 Gramm,lidl,0.899,5268,10.99,100 Gramm,Packung 1000 Gramm,kaufland,1.099
+651,3937,Zwetschgen frisch,0.79,100 Gramm, 1 KG,lidl,0.079,5281,1.49,100 Gramm, 1 KG,kaufland,0.149
+652,3938,Mandarinen,2.99,100 Gramm,2300 Gramm,lidl,0.13,5285,2.29,100 Gramm,Netz 1 KG,kaufland,0.22899999999999998
+653,3941,Clementinen frisch,0.79,100 Gramm, 1 KG,lidl,0.079,4238,2.29,100 Gramm,"1,5kg Netz, Kl. II",kaufland,0.153
+654,3942,Litschi frisch,0.49,100 Gramm, 100 Gramm,lidl,0.49,5294,0.59,100 Gramm, 100 Gramm,kaufland,0.59
+655,3943,Basilikum im Topf,0.85,Preis pro Stück, 1 Stück,lidl,0.85,4539,1.09,100 ml,Flasche Kunststoff 1.5 L,kaufland,0.073
+656,3946,Ostsee Fisch Makrele geräuchert,2.94,100 Gramm,Packung 392 Gramm,lidl,0.75,6047,7.45,100 Gramm,Packung 1000 Gramm,kaufland,0.75
+657,3948,Milka Schmunzelhase Alpenmilch,0.89,100 Gramm,Lose 60 Gramm,lidl,1.48,5263,1.89,100 Gramm,Lose 130 Gramm,kaufland,1.45
+658,3949,Bonbel Cremig,1.99,100 Gramm,Rolle 180 Gramm,lidl,1.11,5342,2.49,100 Gramm,Rolle 180 Gramm,kaufland,1.38
+659,3951,Jacobs momente caffe crema classico,7.99,100 Gramm,Beutel 1000 Gramm,lidl,0.799,5343,11.99,100 Gramm,Beutel 1000 Gramm,kaufland,1.199
+660,3954,Meggle Alpenzart ungesalzen,0.99,100 Gramm,Becher 250  Gramm,lidl,0.4,5450,2.69,100 Gramm,Becher 250  Gramm,kaufland,1.08
+661,3962,Emmi Caffee Latte Marocchino,1.44,100 Gramm,Packung 1000 Gramm,lidl,0.14400000000000002,5139,1.15,100 ml,Becher 230 ML,kaufland,0.5
+662,3965,Langnese Flotte Biene Akazien mit Frühlingsblütenhonig,0.99,100 ml,Getränkekarton 2 L,lidl,0.05,5470,3.99,100 Gramm,Spenderflasche 500 Gramm,kaufland,0.7979999999999999
+663,3968,Landliebe Grieß Pudding Milchschokolade,1.79,100 ml,Spraydose 250 ML,lidl,0.72,1282,0.79,100 Gramm,Becher 150 Gramm,kaufland,0.53
+664,3974,"Landliebe Joghurt mit erlesenen Erdbeeren, 3.8 % Fett",0.33,100 Gramm,Becher 150 Gramm,lidl,0.22,4191,0.59,100 Gramm,Becher 150 Gramm,kaufland,0.39
+665,3975,"Jacobs Carismo Kaffeepads Vollmundig intensiv, 18 Kaffeepads",1.75,100 Gramm,Packung 125 Gramm,lidl,1.4,5173,2.19,100 Gramm,Packung 125 Gramm,kaufland,1.75
+666,3977,Jacobs Krönung Bohnen,4.44,100 Gramm,Packung 500 Gramm,lidl,0.8880000000000001,4466,4.29,100 Gramm,Packung 500 Gramm,kaufland,0.858
+667,3979,Göbber 100 Frucht Sauerkirsche,1.99,100 Gramm,Glas 430 Gramm,lidl,0.46,5517,2.45,100 Gramm,Glas 430 Gramm,kaufland,0.57
+668,3982,Linco Frische Backhefe,0.09,100 Gramm,Packung 42 Gramm,lidl,0.21,5204,0.09,100 Gramm,Packung 42 Gramm,kaufland,0.21
+669,4000,Coral Optimal Color Maxi Pack 40 WL,1.09,100 Gramm,Packung 100 Gramm,lidl,1.09,5253,7.79,100 ml,Flasche Kunststoff 3000 ML,kaufland,0.26
+670,4002,"Meggle Butter Boutique Mix mit frischen Kräutern,  5 x 20 g",1.39,100 Gramm,Doppelpackung 200 Gramm,lidl,0.7,5798,1.49,100 Gramm,Packung 100 Gramm,kaufland,1.49
+671,4006,Blend-a-Dent Reinigungs-Tabs Complete,2.49,Preis pro 100 Stück,Packung 60 Stück,lidl,4.15,5823,2.75,Preis pro 100 Stück,Packung 60 Stück,kaufland,4.58
+672,4012,Loch Lomond  Scotch Whisky Single Malt Highland Malt,12.99,100 ml,Flasche Glas 0.7 L,lidl,1.856,5279,12.99,100 ml,Flasche Glas 0.7 L,kaufland,1.856
+673,4013,Galia Melonen Kl. 1,1.11,Preis pro Stück, 1 Stück,lidl,1.11,4532,1.49,100 Gramm,Schale 100 Gramm,kaufland,1.49
+674,4017,Punica Tea & Fruit Exotic,0.49,100 Gramm,Dose 400 Gramm,lidl,0.12,5853,1.49,100 ml,Getränkekarton 1.5 L,kaufland,0.099
+675,4019,Physalis,1.09,100 Gramm,Netz 500 Gramm,lidl,0.21800000000000005,4534,0.99,100 Gramm,Schale 250 Gramm,kaufland,0.4
+676,4020,Sellerie frisch,0.79,100 Gramm, 1 KG,lidl,0.079,5290,1.29,100 Gramm, 1 KG,kaufland,0.129
+677,4021,Schnittlauch im Topf,0.85,Preis pro Stück, 1 Stück,lidl,0.85,4241,1.19,Preis pro Stück, 1 Stück,kaufland,1.19
+678,4026,Underberg Kräuterlikör 12 x 20 ml,6.99,100 ml,Packung 240 ML,lidl,2.9130000000000003,4244,8.79,100 ml,Packung 240 ML,kaufland,3.663
+679,4030,Spargel grün frisch,0.99,100 Gramm,Packung 139 Gramm,lidl,0.71,5416,2.99,100 Gramm,Packung 500 Gramm,kaufland,0.5980000000000001
+680,4064,Tafeläpfel grün,1.79,100 Gramm,Lose 1 kg,lidl,0.179,4587,1.25,100 Gramm,Schale 1kg,kaufland,0.125
+681,4077,Süßkartoffeln frisch,1.99,100 Gramm, 1 KG,lidl,0.19899999999999998,6145,1.69,100 Gramm, 1 KG,kaufland,0.16899999999999998
+682,4092,Arizona Green Tee Pomegranate,0.99,100 ml,Flasche Kunststoff 0.5 L,lidl,0.198,5440,0.99,100 ml,Flasche Kunststoff 0.5 L,kaufland,0.198
+683,4093,Petersilie im Topf,0.85,Preis pro Stück, 1 Stück,lidl,0.85,4261,1.19,Preis pro Stück, 1 Stück,kaufland,1.19
+684,4096,Müller Milchreis a la Kompott Aprikose,0.49,100 Gramm,Becher 160 Gramm,lidl,0.31,5353,0.69,100 Gramm,Becher 160 Gramm,kaufland,0.43
+685,4099,Fleischtomaten,2.19,100 Gramm,"Lose 1 KG, Belgien, Klasse 1",lidl,0.22,5360,1.25,100 Gramm,"Lose 1 KG, Belgien, Klasse 1",kaufland,0.0
+686,4100,Mövenpick Kaffee El Autentico gemahlen,3.88,100 Gramm,Packung 500 Gramm,lidl,0.7759999999999999,5127,6.49,100 Gramm,Packung 500 Gramm,kaufland,1.298
+687,4101,Knorr Hühner Nudeltopf mit Speck,0.99,100 Gramm,Beutel 390 Gramm,lidl,0.254,6304,1.89,100 Gramm,Beutel 390 Gramm,kaufland,0.485
+688,4102,Knorr Gulaschtopf,0.99,100 Gramm,Beutel 390 Gramm,lidl,0.254,5129,1.89,100 Gramm,Beutel 390 Gramm,kaufland,0.485
+689,4122,7up,0.49,100 Gramm,Packung 175 Gramm,lidl,0.28,8116,7.68,100 ml," 12 L, 12 x 1 L",kaufland,0.064
+690,4131,G. A. Müller Original Frankfurter Rindswurst,2.29,100 Gramm,Packung 400 Gramm,lidl,0.5730000000000001,6446,2.59,100 Gramm,Packung 400 Gramm,kaufland,0.648
+691,4165,Landliebe Milchreis Traditionell,0.39,100 Gramm,Becher 150 Gramm,lidl,0.26,6683,0.59,100 Gramm,Becher 150 Gramm,kaufland,0.39
+692,4181,Snickers Ice Cream,2.99,100 ml,"Packung 371 ml, 7 x 53ml",lidl,0.81,6719,2.55,100 ml,"Packung 318 ML, 6 x 53ml",kaufland,0.8
+693,4185,Valensina Frühstücks Orange Orange 100% Saft,0.79,100 ml,Pet-Flasche 1 L,lidl,0.079,6352,1.59,100 ml,Pet-Flasche 1 L,kaufland,0.159
+694,4287,Milka I love Milka Nuss-Nougat-Creme,1.99,100 Gramm,Packung 110 Gramm,lidl,1.81,6595,1.99,100 Gramm,Packung 125 Gramm,kaufland,1.59
+695,4299,Freixenet Seccito de Freixenet trocken,5.29,100 ml,Flasche Glas 0.75 L,lidl,0.705,6473,3.99,100 ml,Flasche Glas 0.75 L,kaufland,0.532
+696,4373,Campina Puddis in Love Nuss-Mousse mit Vollmilch- & dunkler Schokoladensoße,0.39,100 Gramm,Becher 80 Gramm,lidl,0.49,6643,0.49,100 Gramm,Becher 80 Gramm,kaufland,0.61
+697,4375,Hela Curry Gewürz Ketchup scharf,2.29,100 ml,Flasche Kunststoff 800 ML,lidl,0.28600000000000003,2699,1.49,100 Gramm,Tube 172 ML,kaufland,0.0
+698,4431,Kraft Dressing French,1.99,100 ml,Flasche Glas 1000 ML,lidl,0.2,6610,1.89,100 ml,Flasche Kunststoff 500 ML,kaufland,0.38
+699,4434,Philadelphia Kräuter,2.27,100 Gramm,Packung 200  Gramm,lidl,1.14,6776,2.99,100 Gramm,Schale 350 Gramm,kaufland,0.85
+700,4438,"Pfanni Semmelknödel Speck Knödel , 6 Knödel",0.99,100 Gramm,Packung 200 Gramm,lidl,0.5,6613,1.29,100 Gramm,Packung 200 Gramm,kaufland,0.65
+701,4444,Campina Puddis in Love Schokoladen-Mousse mit Karamell- & Schokoladensoße,0.39,100 Gramm,Becher 80 Gramm,lidl,0.49,6475,0.55,100 Gramm,Becher 80 Gramm,kaufland,0.69
+702,4445,Müllers Hausmacher Leberwurst,0.89,100 Gramm,Dose 200 Gramm,lidl,0.45,4834,0.99,100 Gramm,Glas 200 Gramm,kaufland,0.5
+703,4513,Mirinda Orange,0.89,100 ml,Pet-Flasche 1.5 L,lidl,0.059000000000000004,6364,0.99,100 ml,Pet-Flasche 1.5 L,kaufland,0.066
+704,4833,Uncle Bens Spitzen-Langkorn-Reis 10 Minuten lose,2.99,100 Gramm,Packung 1000 Gramm,lidl,0.29900000000000004,6892,3.49,100 Gramm,Packung 1000 Gramm,kaufland,0.34900000000000003
+705,4839,Göbber 100 Frucht Erdbeer,1.99,100 Gramm,Glas 430 Gramm,lidl,0.46,6665,1.99,100 Gramm,Packung 250 Gramm,kaufland,0.7959999999999999
+706,4849,Frosta Spätzle Pfanne,3.33,100 Gramm,Beutel 650 Gramm,lidl,0.512,6728,0.99,100 Gramm,Flasche Kunststoff 750 Gramm,kaufland,0.132
+707,4851,"Exquisa Quark Genuss Erdbeere,0.2% Fett",0.39,100 Gramm,Becher 150 Gramm,lidl,0.26,3535,1.79,100 Gramm,Becher 500 Gramm,kaufland,0.36
+708,4852,Valensina Mildes Frühstück Milde Orange,0.99,100 ml,Pet-Flasche 1 L,lidl,0.099,6682,1.59,100 ml,Pet-Flasche 1 L,kaufland,0.159
+709,5001,Wilthener Feiner alter Wilthener 36 % Vol.,6.79,100 ml,Flasche Glas 0.7 L,lidl,0.97,7184,7.49,100 ml,Flasche Glas 0.7 L,kaufland,1.0699999999999998
+710,5008,"Senseo Kaffee Pads Classic, dunkle Röstung",2.39,Preis pro Stück,Packung 16 Stück,lidl,0.15,6987,2.39,Preis pro Stück,Packung 16 Stück,kaufland,0.15
+711,5010,Heinz Curry Mango Sauce,1.49,100 ml,Flasche Squeeze 220 ML,lidl,0.68,6890,1.49,100 ml,Flasche Squeeze 220 ML,kaufland,0.68
+712,5248,Pril Spülmittel Balsam,1.15,100 ml,Flasche Kunststoff 500 ML,lidl,0.23,7704,0.88,100 ml,Flasche Kunststoff 500 ML,kaufland,0.17600000000000002
+713,5269,Nestle Nestea Zitrone,2.95,100 ml,Sprühflasche 1000 ML,lidl,0.29500000000000004,6862,1.29,100 ml,Pet-Flasche 1.5 L,kaufland,0.086
+714,5270,DanKlorix Kraft-Reiniger + 33 % gratis,3.99,100 Gramm,Beutel 646 Gramm,lidl,0.618,7703,3.49,100 ml,Sprühflasche 1000 ML,kaufland,0.34900000000000003
+715,5287,Kuchenmeister Herzwaffeln mit einem Stich Butter,0.79,100 Gramm,Packung 175 Gramm,lidl,0.45,6870,1.09,100 Gramm,Packung 175 Gramm,kaufland,0.62
+716,5293,Nestle Nestea Pfirsich,0.69,100 ml,Flasche Kunststoff 1.25 L,lidl,0.055000000000000014,6876,1.19,100 ml,Pet-Flasche 1.5 L,kaufland,0.079
+717,5309,Ouzo 12 Gold,8.99,100 ml,Flasche Glas 0.7 L,lidl,1.284,7385,9.99,100 ml,Flasche Glas 0.7 L,kaufland,1.4269999999999998
+718,5313,Alpia Haselnuss Schokolade mit knackigen Nüssen,1.11,100 Gramm,Tafel 300 Gramm,lidl,0.37,4413,0.59,100 Gramm,Tafel 100 Gramm,kaufland,0.59
+719,5332,Frico Landkaas Zart würzig,1.69,100 Gramm,Packung 170 Gramm,lidl,0.99,7490,1.99,100 Gramm,Packung 170 Gramm,kaufland,1.17
+720,5339,Heinz 57 Tomato-Ketchup 875 ml + 33 % mehr Inhalt,1.79,100 ml,Flasche Glas 1170 ML,lidl,0.153,7842,3.19,100 ml,Flasche Glas 1170 ML,kaufland,0.273
+721,5380,"Ariel Vollwaschmittel Pulver Universal, 3,6 kg",7.77,Preis pro Waschladung,Packung 45 Waschladungen,lidl,0.0,7536,10.49,Preis pro Waschladung,Packung 45 Waschladungen,kaufland,0.0
+722,5381,Valensina 100% Saft Multivitamin fruchtig mild,0.99,100 ml,Pet-Flasche 1 L,lidl,0.099,6539,1.59,100 ml,Pet-Flasche 1 L,kaufland,0.159
+723,5388,HP BBQ Sauce Classic,2.49,100 Gramm,Flasche Glas 430 Gramm,lidl,0.579,7578,2.99,100 Gramm,Flasche 465 Gramm,kaufland,0.643
+724,5397,Exquisa Frischkäse Trendgenuss Mediterrane Kräuter,0.99,100 Gramm,Packung 200 Gramm,lidl,0.5,8076,0.99,100 Gramm,Packung 200 Gramm,kaufland,0.5
+725,5398,Sonnen Bassermann Kartoffeleintopf nach Ratsherren-Art,1.89,100 Gramm,Dose 800 Gramm,lidl,0.23600000000000002,8077,1.89,100 Gramm,Dose 800 Gramm,kaufland,0.23600000000000002
+726,5406,Sonnen Bassermann Tomaten Cremesuppe mit Sahne verfeinert,0.95,100 ml,Dose 425 ML,lidl,0.22400000000000006,7236,1.39,100 ml,Dose 425 ML,kaufland,0.327
+727,5418,Jules Mumm Sekt Medium Dry trocken,3.49,100 ml,Flasche Glas 0.75 L,lidl,0.465,8104,4.79,100 ml,Flasche Glas 0.75 L,kaufland,0.639
+728,5420,Herta Finesse Hähnchenbrust geräuchert,1.49,Preis pro Stück,Packung 3 Stück,lidl,0.5,7535,1.89,100 Gramm,Packung 100 Gramm,kaufland,1.89

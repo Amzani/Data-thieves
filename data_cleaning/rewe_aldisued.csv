@@ -1,0 +1,119 @@
+,Unnamed: 0_x,Name,Price_x,Unit_x,Packet Size_x,Supermarket_x,Comparable Price_x,Unnamed: 0_y,Price_y,Unit_y,Packet Size_y,Supermarket_y,Comparable Price_y
+0,4,Nutella,3.79,100 Gramm,Glas 750 Gramm,rewe,0.505,4,3.89,100 Gramm,"Glas 880 Gramm, + 80 g Gratis",aldi-sued,0.442
+1,5,Coca Cola,0.99,100 ml,Pet-Flasche 1.5 L,rewe,0.066,1,0.99,100 ml,Pet-Flasche 1.25 L,aldi-sued,0.079
+2,70,Iglo Schlemmer-Filet Classic a la Bordelaise,1.79,100 Gramm,Packung 380 Gramm,rewe,0.47100000000000003,7,2.99,100 Gramm,Packung 380 Gramm,aldi-sued,0.787
+3,109,Coca Cola Zero,1.65,100 ml,Pet-Flasche 2 L,rewe,0.08299999999999999,158,0.89,100 ml,Pet-Flasche 1.25 L,aldi-sued,0.071
+4,127,Dr. Oetker Rote Grütze herrlich fruchtig,2.29,100 Gramm,Becher 500 Gramm,rewe,0.45799999999999996,27,1.99,100 Gramm,Becher 500 Gramm,aldi-sued,0.39799999999999996
+5,159,Milka Alpenmilch Schokolade,1.69,100 Gramm,Tafel 300 Gramm,rewe,0.56,255,0.95,100 Gramm,Tafel 100  Gramm,aldi-sued,0.95
+6,182,Coppenrath & Wiese Unsere Goldstücke Weizenbrötchen,0.79,100 ml,Getränkekarton 1 L,rewe,0.079,42,1.39,100 Gramm,"Packung 450 Gramm, 9 Stück",aldi-sued,0.309
+7,223,Bertolli Extra Vergine Originale das Fruchtige,4.49,100 ml,Flasche Glas 500 ML,rewe,0.898,151,5.69,100 ml,Flasche Glas 500 ML,aldi-sued,1.138
+8,235,"Ramazzotti Amaro Kräuterbitter, 30% Vol.",12.59,100 ml,Flasche Glas 0.7 L,rewe,1.7990000000000002,35,12.99,100 ml,Flasche Glas 0.7 L,aldi-sued,1.856
+9,238,Coca Cola Light,1.65,100 ml,Pet-Flasche 2 L,rewe,0.08299999999999999,480,0.89,100 ml,Pet-Flasche 1.25 L,aldi-sued,0.071
+10,267,Lavazza Caffe Crema Classico,9.99,100 Gramm,Beutel 1000 Gramm,rewe,0.9990000000000001,580,12.99,100 Gramm,Beutel 1000 Gramm,aldi-sued,1.2990000000000002
+11,281,Jack Daniels Whisky Old Time No. 7 40 % Vol.,15.99,100 ml,Flasche Glas 0.7 L,rewe,2.2840000000000003,425,17.99,100 ml,Flasche Glas 0.7 L,aldi-sued,2.57
+12,283,Tillmans Toasty Geflügelsnack,2.79,100 Gramm,Packung 280 Gramm,rewe,1.0,647,2.99,100 Gramm,"Packung 350 Gramm, 5 Stück x 70 g",aldi-sued,0.85
+13,314,"Weihenstephan Frischer Kakao 3,5 % Fett, aus guter Alpenmilch",0.95,100 ml,"Getränkekarton 0,5l",rewe,0.19,745,1.11,100 ml,Getränkekarton 1 L,aldi-sued,0.11100000000000003
+14,322,Haribo Goldbären,1.75,100 Gramm,Mini-Maxi Beutel 250 Gramm,rewe,0.7,648,0.89,100 Gramm,Beutel 300 Gramm,aldi-sued,0.3
+15,324,Funny Frisch Chipsfrisch Ungarisch,1.39,100 Gramm,Beutel 175 Gramm,rewe,0.79,652,1.19,100 Gramm,Beutel 175 Gramm,aldi-sued,0.68
+16,386,Weihenstephan Frische Tafelbutter 82% Fett,0.77,100 Gramm,Becher 150  Gramm,rewe,0.51,279,1.49,100 Gramm,Packung 250  Gramm,aldi-sued,0.6
+17,407,Ferrero Milchschnitte,0.99,100 Gramm,"5 x 28 g, Packung 140 Gramm",rewe,0.71,646,1.79,100 Gramm,"10 x 28 g, Packung 280 Gramm",aldi-sued,0.64
+18,412,Pfanner Der Grüne Tee Zitrone-Kaktusfeige,1.11,100 ml,Getränkekarton 2 L,rewe,0.056000000000000015,649,0.99,100 ml,Getränkekarton 2 L,aldi-sued,0.05
+19,583,Ferrero Küsschen,2.25,100 Gramm,"Packung 124 Gramm, 14 Pralinen",rewe,1.81,280,2.99,100 Gramm,"Packung 178 Gramm, 20 Stück",aldi-sued,1.68
+20,589,Schwartau Extra Samt Erdbeere,1.49,100 Gramm,Glas 270 Gramm,rewe,0.55,1317,1.39,100 Gramm,Glas 270 Gramm,aldi-sued,0.51
+21,600,Krombacher Pils,10.79,100 ml,"Kasten 10 L, 20 x 0,5 L ",rewe,0.108,1181,0.79,100 ml,"Dose 0,5L",aldi-sued,0.158
+22,601,Red Bull Energy Drink,0.85,100 ml,Dose 250 ML,rewe,0.34,1311,1.69,100 Gramm,Packung 420 Gramm,aldi-sued,0.4
+23,602,Havana Club Anejo 3 Anos 3 Jahre,10.99,100 ml,Flasche Glas 0.7 L,rewe,1.5699999999999998,474,4.99,100 Gramm,Beutel 450 Gramm,aldi-sued,1.109
+24,604,Rotkäppchen Sekt Halbtrocken,2.69,100 ml,Flasche Glas 0.75 L,rewe,0.359,218,3.99,100 ml,Flasche Glas 0.75 L,aldi-sued,0.532
+25,656,Rocher Pralinen,2.29,100 Gramm,"Packung 200 Gramm, 16 Stück",rewe,1.15,257,3.49,100 Gramm,"Packung 200 Gramm, 16 Stück",aldi-sued,1.75
+26,708,Wassermelone,1.99,100 Gramm, 1 Stück,rewe,0.0,1022,2.55,100 Gramm, 1 Stück,aldi-sued,0.0
+27,710,Bürger Eierspätzle Original schwäbisch,1.99,100 Gramm,Packung 1000 Gramm,rewe,0.19899999999999998,120,3.29,100 Gramm,Packung 1000 Gramm,aldi-sued,0.32899999999999996
+28,731,"W. Brandenburg Rippchen ohne Grat, gekocht",2.79,100 Gramm,Becher 250 Gramm,rewe,1.12,1297,2.59,100 Gramm,Packung 730 Gramm,aldi-sued,0.355
+29,836,Äpfel Braeburn,0.3,100 Gramm,1 Stück,rewe,0.0,1020,0.89,100 Gramm, 1 KG,aldi-sued,0.08900000000000001
+30,868,Baileys Original Irish Cream,9.99,100 ml,Flasche Glas 700 ML,rewe,1.4269999999999998,733,6.99,100 ml,"Flasche Sondergröße 0,5 Liter",aldi-sued,1.398
+31,949,Mon Cheri Piemont Kirsche,2.89,100 Gramm,"15 Stück, Packung 157 Gramm",rewe,1.84,278,2.99,100 Gramm,"15 Stück, Packung 157 Gramm",aldi-sued,1.9
+32,1006,Ouzo 12,8.99,100 ml,Flasche Glas 0.7 L,rewe,1.284,1180,9.99,100 ml,Flasche Glas 0.7 L,aldi-sued,1.4269999999999998
+33,1015,Kinder Country,1.85,100 Gramm,"Packung 211.5 Gramm, 9 x 23,5",rewe,0.87,1084,2.99,100 Gramm,Packung 420 Gramm,aldi-sued,0.7120000000000001
+34,1121,Ernst Wagners Original Pizza Diavola,2.49,100 Gramm,Packung 350 Gramm,rewe,0.7110000000000001,734,2.99,100 Gramm,Packung Ernst Wagners,aldi-sued,0.6950000000000001
+35,1139,Kinder Pingui Schoko,0.99,100 Gramm,"Packung 120 Gramm, 4 Stück",rewe,0.83,1178,1.89,100 Gramm,"Family Pack 240 Gramm, 8 x 30 g",aldi-sued,0.79
+36,1239,Brandt Der Markenzwieback,0.99,100 Gramm,Packung 225 Gramm,rewe,0.44,1312,1.59,100 Gramm,Packung 125 Gramm,aldi-sued,1.27
+37,1258,Snickers Schokoriegel mit Erdnüsse und Karamel,0.99,100 Gramm,Packung 80 Gramm. 2er,rewe,1.24,1179,2.29,100 Gramm,"Packung 309 Gramm, 9er",aldi-sued,0.74
+38,1414,Tuc Classic Cräcker,0.69,100 Gramm,Packung 100 Gramm,rewe,0.69,1314,1.19,100 Gramm,Beutel 175 Gramm,aldi-sued,0.68
+39,1451,"Südzucker Fein Zucker feinkörnig, rasch löslich",1.19,100 Gramm,Packung 1000 Gramm,rewe,0.11900000000000001,1173,0.85,100 Gramm,Packung 1000 Gramm,aldi-sued,0.08499999999999999
+40,1549,Wagner Big Pizza BBQ Chicken,2.59,100 Gramm,Packung 420 Gramm,rewe,0.62,1315,1.79,100 Gramm,"Packung 320 Gramm, 8 x 2 Stück",aldi-sued,0.56
+41,1608,Funny Frisch Chipsfrisch gesalzen,1.89,100 Gramm,Beutel 175 Gramm,rewe,1.08,1316,0.99,100 Gramm,Beutel 175 Gramm,aldi-sued,0.57
+42,1630,Miracoli Pasta Sauce Tomate und Basilikum,1.99,100 ml,Glas 500 ML,rewe,0.39799999999999996,1025,0.75,100 ml,Glas 500 ML,aldi-sued,0.15
+43,1789,Paprika rot,1.19,100 Gramm,Beutel 500 Gramm,rewe,0.23800000000000002,1207,1.79,100 Gramm,Beutel 500 Gramm,aldi-sued,0.358
+44,1802,Rispentomaten frisch,1.19,100 Gramm,Packung 1 KG,rewe,0.11900000000000001,1415,0.65,100 Gramm,Packung 150 Gramm,aldi-sued,0.43
+45,1828,Rotkäppchen Sekt Trocken,2.65,100 ml,Flasche Glas 0.75 L,rewe,0.353,576,3.99,100 ml,Flasche Glas 0.75 L,aldi-sued,0.532
+46,1838,"Wodka Gorbatschow 37,5% Vol.",6.66,100 ml,Flasche Glas 700 ML,rewe,0.951,2014,4.79,100 Gramm,Beutel 1000 Gramm,aldi-sued,0.479
+47,1839,Moskovskaya Russischer Wodka,5.99,100 ml,Flasche Glas 0.5 L,rewe,1.198,575,8.49,100 ml,Flasche Glas 0.5 L,aldi-sued,1.6980000000000002
+48,1842,Fanta Orange,1.65,100 ml,Pet-Flasche 2 L,rewe,0.08299999999999999,1761,0.89,100 ml,Pet-Flasche 1.25 L,aldi-sued,0.071
+49,1849,"Aperol italienischer Aperitiv Bitter Spirituose, 15 % Vol.",10.59,100 ml,Flasche Glas 0.7 L,rewe,1.513,2036,8.79,100 ml,Flasche Glas 0.7 L,aldi-sued,1.256
+50,1862,Mezzo Mix Cola küsst Orange,1.11,100 ml,Pet-Flasche 2 L,rewe,0.056000000000000015,1762,0.89,100 ml,Pet-Flasche 1.25 L,aldi-sued,0.071
+51,1863,Sprite,1.65,100 ml,Pet-Flasche 2 L,rewe,0.08299999999999999,1763,0.89,100 ml,Pet-Flasche 1.25 L,aldi-sued,0.071
+52,1872,Jacobs Barista Editions Espresso,10.99,100 Gramm,Packung 1 KG + 10%,rewe,0.9990000000000001,1411,7.99,100 Gramm,Packung 1 KG,aldi-sued,0.799
+53,1874,Ernst Wagners Original Pizza Pizza Margherita,3.49,100 Gramm,Packung 350 Gramm,rewe,1.0,1748,2.99,100 Gramm,Packung 350 Gramm,aldi-sued,0.85
+54,1877,Bananen ca. 6 Stück,1.59,100 Gramm,Packung 150 Gramm,rewe,1.06,1621,0.99,100 Gramm, 1 KG,aldi-sued,0.099
+55,1888,Nektarinen gelbfleischig,1.79,100 Gramm, 1 KG,rewe,0.179,1624,0.69,100 Gramm, 1 KG,aldi-sued,0.06899999999999999
+56,1898,Schwartau Extra Samt Himbeere,1.49,100 Gramm,Glas 270 Gramm,rewe,0.55,1639,1.39,100 Gramm,Glas 270 Gramm,aldi-sued,0.51
+57,1917,Karotten,0.99,100 Gramm, 1 KG,rewe,0.099,1319,0.79,100 Gramm,Beutel 2 KG,aldi-sued,0.04
+58,1918,Mango frisch,0.99,Preis pro Stück, 1 Stück,rewe,0.99,1118,1.49,100 Gramm,Packung 400 Gramm,aldi-sued,0.373
+59,1924,Weiße Champignon frisch,1.49,100 Gramm,Schale 550 Gramm,rewe,0.271,1633,5.49,100 Gramm,Packung 500 Gramm,aldi-sued,1.1
+60,1926,Aprikosen frisch Kl. 1,4.99,100 Gramm,Packung 1000 Gramm,rewe,0.499,1617,1.89,100 Gramm,Packung 1000 Gramm,aldi-sued,0.18899999999999997
+61,2071,"Danone Actimel Classic, 0,1% Fett",1.79,100 Gramm,Packung 400 Gramm,rewe,0.4480000000000001,1632,1.69,100 Gramm,Packung 410 Gramm,aldi-sued,0.412
+62,2079,Wagner Big Pizza Supreme,2.59,100 Gramm,Packung 410 Gramm,rewe,0.632,1634,1.19,100 Gramm,Beutel 175 Gramm,aldi-sued,0.68
+63,2105,Wirsing Deutschland,0.79,100 Gramm, 1 KG,rewe,0.079,268,0.99,100 Gramm, 1 KG,aldi-sued,0.099
+64,2110,Grapefruit,0.59,Preis pro Stück, 1 Stück,rewe,0.59,1531,0.29,Preis pro Stück, 1 Stück,aldi-sued,0.29
+65,2114,Knoblauch,0.69,100 Gramm,Netz 250 Gramm,rewe,0.28,1532,0.65,100 Gramm,Netz 200 Gramm,aldi-sued,0.33
+66,2119,Avocado,0.99,Preis pro Stück, 1 Stück,rewe,0.99,1418,0.45,Preis pro Stück, 1 Stück,aldi-sued,0.45
+67,2142,Speisezwiebeln,0.49,100 Gramm,Beutel 1.0 KG,rewe,0.049,1534,1.19,100 Gramm,Beutel 1.0 KG,aldi-sued,0.11900000000000001
+68,2177,Funny Frisch Chipsfrisch Oriental,1.19,100 Gramm,Beutel 175 Gramm,rewe,0.68,1636,3.99,100 ml,Flasche Glas 0.75 L,aldi-sued,0.532
+69,2198,fit For Fun Vollkornbrot vollkorn plus,1.99,100 Gramm,Packung 500 Gramm,rewe,0.39799999999999996,1620,1.39,100 Gramm,Packung 500 Gramm,aldi-sued,0.278
+70,2283,Salatgurken frisch,0.39,Preis pro Stück, 1 Stück,rewe,0.39,1416,0.45,Preis pro Stück, 1 Stück,aldi-sued,0.45
+71,2307,Balisto Müsli Mix,1.99,100 Gramm,"Packung 166.5 Gramm, 9 x 18,5 g",rewe,1.2,1630,2.45,100 Gramm,"Packung 800 Gramm, 8 x 100 g",aldi-sued,0.306
+72,2355,Brokkoli frisch,1.29,100 Gramm,Folie 500 Gramm,rewe,0.258,110,0.99,100 Gramm,Folie 500 Gramm,aldi-sued,0.198
+73,2430,Kaki frisch,0.39,Preis pro Stück, 1 Stück,rewe,0.39,1529,0.39,Preis pro Stück, 1 Stück,aldi-sued,0.39
+74,2466,Zentis Marzipanbrot mit Schokoladenüberzug,1.05,100 Gramm,Folie 100 Gramm,rewe,1.05,1612,0.55,100 Gramm,Beutel 200 Gramm,aldi-sued,0.28
+75,2574,Dr. Oetker Paradies Creme Vanille Geschmack,0.85,100 Gramm,Packung 63 Gramm,rewe,1.35,378,0.89,100 Gramm,Packung 63 Gramm,aldi-sued,1.41
+76,2632,Balisto Korn Mix,1.99,100 Gramm,"Packung 166.5 Gramm, 9 x 18,5 g",rewe,1.2,1631,1.19,100 Gramm,Schale 500 Gramm,aldi-sued,0.23800000000000002
+77,2826,Radieschen Bund,1.79,100 Gramm,Packung 150 Gramm,rewe,1.19,1533,0.19,Preis pro Stück, 1 Stück,aldi-sued,0.19
+78,2830,Zucchini,0.89,100 Gramm,Becher 450 Gramm,rewe,0.2,1210,0.69,100 Gramm, 1 KG,aldi-sued,0.06899999999999999
+79,2863,Yeni Raki,13.99,100 ml,Flasche Glas 700 ML,rewe,1.999,2037,10.49,100 ml,Flasche Glas 700 ML,aldi-sued,1.499
+80,2870,Johnny Walker Black Label 12 years,25.99,100 ml,Flasche Glas 0.7 L,rewe,3.713,581,24.99,100 ml,Flasche Glas 0.7 L,aldi-sued,3.5700000000000003
+81,2873,Ferrero Giotto Haselnuss Gebäckspezialität,15.08,100 Gramm,"Packung 154.8 Gramm, 4 x 38,7, 36 Stück",rewe,9.74,2023,1.85,100 Gramm,"Packung 154.8 Gramm, 4 x 38,7, 36 Stück",aldi-sued,1.2
+82,3029,Chantre Weinbrand 36% Vol.,5.99,100 ml,Flasche Glas 0.7 L,rewe,0.8560000000000001,1640,6.99,100 ml,Flasche Glas 0.7 L,aldi-sued,0.9990000000000001
+83,3030,Fernet Branca,9.99,100 ml,Flasche Glas 0.7 L,rewe,1.4269999999999998,500,13.99,100 ml,Flasche Glas 0.7 L,aldi-sued,1.999
+84,3048,Knack & Back 8 Knoblauch Ecken,1.69,100 Gramm,Packung 340 Gramm,rewe,0.49700000000000005,577,2.29,100 Gramm,Packung 340 Gramm,aldi-sued,0.674
+85,3071,Baileys Chocolat Luxe,16.99,100 ml,Flasche Glas 0.7 L,rewe,2.427,582,12.99,100 ml,Flasche Glas 0.7 L,aldi-sued,1.856
+86,3219,Zitronen frisch,0.59,100 Gramm,Netz 500 Gramm,rewe,0.11800000000000001,2054,0.29,100 Gramm, 1 Stück,aldi-sued,0.0
+87,3333,Linie Aquavit,16.99,100 ml,Flasche Glas 700 ML,rewe,2.427,572,18.99,100 ml,Flasche Glas 700 ML,aldi-sued,2.713
+88,3335,Osborne Veterano,8.99,100 ml,Flasche Glas 0.7 L,rewe,1.284,573,11.99,100 ml,Flasche Glas 0.7 L,aldi-sued,1.713
+89,3344,Ouzo Plomari 40 % Vol.,10.99,100 ml,Flasche Glas 0.7 L,rewe,1.5699999999999998,579,11.99,100 ml,Geschenkpackung + Glas,aldi-sued,1.713
+90,3387,Osborne 103 Solera Brandy,8.99,100 ml,Flasche Glas 700 ML,rewe,1.284,574,11.99,100 ml,Flasche Glas 700 ML,aldi-sued,1.713
+91,3518,Gerolsteiner Sprudel Medium,4.49,100 ml,"Kasten 6L, 6 x 1L",rewe,0.075,2015,0.79,100 ml,"Pet-Flasche 1,5 L 	",aldi-sued,0.053000000000000005
+92,3545,Coca Cola Adventskalender Mini Can,14.99,100 ml,Packung 3.5 L,rewe,0.4280000000000001,1075,14.99,100 ml,Packung 6L,aldi-sued,0.25
+93,3615,Pfanner Der Gelbe Tee,1.59,100 ml,Getränkekarton 2 L,rewe,0.08,2035,0.99,100 ml,Getränkekarton 2 L,aldi-sued,0.05
+94,3766,Nordsee Matjesfilets,2.99,100 Gramm,Packung 200 Gramm,rewe,1.5,578,2.99,100 Gramm,Packung 200 Gramm,aldi-sued,1.5
+95,3796,Birnen frisch,2.49,100 Gramm,Folie 1 KG,rewe,0.24900000000000005,2044,1.7,100 Gramm,Folie 1 KG,aldi-sued,0.16999999999999998
+96,3806,Paprika Mix frisch,0.99,100 Gramm,"Folie 500 Gramm, Spanien Kl. 1",rewe,0.198,2041,0.99,100 Gramm,"Folie 500 Gramm, Spanien Kl. 1",aldi-sued,0.198
+97,3807,Salatherzen frisch Mini Romana,0.99,Preis pro Stück,Packung 3 Stück,rewe,0.33,2084,1.59,100 Gramm,Packung 185 Gramm,aldi-sued,0.86
+98,3812,Eisbergsalat,0.59,Preis pro Stück, 1 Stück,rewe,0.59,2070,0.35,Preis pro Stück, 1 Stück,aldi-sued,0.35
+99,3815,Heidelbeeren frisch,1.0,100 Gramm,Schale 200 Gramm,rewe,0.5,2072,0.83,100 Gramm,Packung 125 Gramm,aldi-sued,0.66
+100,3817,Pfirsich,1.99,100 Gramm,Packung 1 KG,rewe,0.19899999999999998,2048,0.85,100 Gramm,Packung 1 KG,aldi-sued,0.08499999999999999
+101,3826,Biskin Gold Pflanzenfett,2.95,100 Gramm,Stange 1000 Gramm,rewe,0.29500000000000004,1401,0.99,100 Gramm,Packung 250 Gramm,aldi-sued,0.4
+102,3839,Pril Spülmittel Kraftgel,1.89,100 ml,Flasche Kunststoff 600 ML,rewe,0.315,2088,1.35,100 ml,Flasche 500ml,aldi-sued,0.27
+103,3843,Pril Spülmittel Sensitive,1.89,100 ml,Flasche Kunststoff 600 ML,rewe,0.315,2089,1.35,100 ml,Flasche 500 ML,aldi-sued,0.27
+104,3847,Bertolli Extra Vergine Gentile,4.49,100 ml,Flasche Glas 500  ML,rewe,0.898,1750,5.69,100 ml,Flasche Glas 500  ML,aldi-sued,1.138
+105,3873,Orangen,1.22,100 Gramm,Netz 2 KG,rewe,0.061,708,2.39,100 Gramm,Netz 2 KG,aldi-sued,0.12
+106,3883,Galia Melonen Kl. 1,1.49,Preis pro Stück, 1 Stück,rewe,1.49,2077,0.89,Preis pro Stück, 1 Stück,aldi-sued,0.89
+107,3945,Rucola frisch,0.99,100 Gramm,Schale 125 Gramm,rewe,0.79,2055,0.69,100 Gramm,Schale 150 Gramm,aldi-sued,0.46
+108,3952,Basilikum im Topf,0.99,Preis pro Stück, 1 Stück,rewe,0.99,2018,0.79,Preis pro Stück, 1 Stück,aldi-sued,0.79
+109,4013,Ananas frisch,0.88,Preis pro Stück, 1 Stück,rewe,0.88,416,1.79,Preis pro Stück, 1 Stück,aldi-sued,1.79
+110,4156,Physalis,0.79,100 Gramm,Schale 100 Gramm,rewe,0.79,2074,0.59,100 Gramm,Schale 100 Gramm,aldi-sued,0.59
+111,4289,Ferrero Küsschen weiß,2.65,100 Gramm,"Packung 178 Gramm, 20 Stück",rewe,1.49,1413,0.69,100 Gramm,Becher 180 Gramm,aldi-sued,0.38
+112,4454,Honigmelone gelb,1.29,Preis pro Stück, 1 Stück,rewe,1.29,2052,0.89,Preis pro Stück, 1 Stück,aldi-sued,0.89
+113,4496,Bio Bananen,1.79,100 Gramm,Folie 1 KG,rewe,0.179,2043,1.19,100 Gramm,Folie 1 KG,aldi-sued,0.11900000000000001
+114,4503,Schnittlauch im Topf,0.99,Preis pro Stück, 1 Stück,rewe,0.99,2019,0.79,Preis pro Stück, 1 Stück,aldi-sued,0.79
+115,4530,Himbeeren frisch,1.49,100 Gramm,Schale 125 Gramm,rewe,1.19,958,1.99,100 Gramm,Packung 100 Gramm,aldi-sued,1.99
+116,4583,Funny Frisch Chipsfrisch Sour Cream & Wild Onion,1.19,100 Gramm,Beutel 175  Gramm,rewe,0.68,2087,0.99,100 Gramm,Beutel 175  Gramm,aldi-sued,0.57
+117,4745,"Kupfer Original Fränkische Rostbratwurst Spitzenqualität, 5 Stück",2.49,100 Gramm,Packung 350 Gramm,rewe,0.71,2141,1.29,100 Gramm,Packung 200 Gramm,aldi-sued,0.65

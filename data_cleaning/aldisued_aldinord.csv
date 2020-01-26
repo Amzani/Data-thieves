@@ -1,0 +1,138 @@
+,Unnamed: 0_x,Name,Price_x,Unit_x,Packet Size_x,Supermarket_x,Comparable Price_x,Unnamed: 0_y,Price_y,Unit_y,Packet Size_y,Supermarket_y,Comparable Price_y
+0,1,Coca Cola,0.99,100 ml,Pet-Flasche 1.25 L,aldi-sued,0.079,2,2.89,100 ml,"6 x 0,33 L, 1.98 L",aldi-nord,0.146
+1,4,Nutella,3.89,100 Gramm,"Glas 880 Gramm, + 80 g Gratis",aldi-sued,0.442,1,3.79,100 Gramm,Glas 750 Gramm,aldi-nord,0.505
+2,7,Iglo Schlemmer-Filet Classic a la Bordelaise,2.99,100 Gramm,Packung 380 Gramm,aldi-sued,0.787,19,3.19,100 Gramm,Packung 380 Gramm,aldi-nord,0.8390000000000001
+3,31,rio d oro Apfelsaft aus Apfelsaftkonzentrat,0.59,100 ml,Getränkekarton 1 L,aldi-sued,0.059000000000000004,1047,0.79,100 ml,Getränkekarton 1 L,aldi-nord,0.079
+4,38,alio Geschirr Reiniger Tabs All in One,2.95,Preis pro 100 Stück,Packung 40 Stück,aldi-sued,7.38,299,2.95,Preis pro 100 Stück,Packung 40 Stück,aldi-nord,7.38
+5,66,rio d oro Orangensaft,0.95,100 ml,Pet-Flasche 1 L,aldi-sued,0.095,1028,0.79,100 ml,Pet-Flasche 1 L,aldi-nord,0.079
+6,101,"Kokett Küchenrollen 3-lagig, 4 x 51 Blatt",1.35,Preis pro 1000 Blatt,Packung 204 Blatt,aldi-sued,6.62,175,0.79,100 Gramm,Becher 500  Gramm,aldi-nord,0.158
+7,105,"Kokett Toilettenpapier 4-lagig, 10 x 160 Blatt",2.95,Preis pro 1000 Blatt,Packung 1600 Blatt,aldi-sued,1.84,174,1.55,Preis pro 1000 Blatt,Packung 204 Blatt,aldi-nord,7.6
+8,110,Brokkoli frisch,0.99,100 Gramm,Folie 500 Gramm,aldi-sued,0.198,617,0.59,100 Gramm,Folie 500 Gramm,aldi-nord,0.11800000000000001
+9,129,Raffaello Pralinen Kokos-Mandel,2.99,100 Gramm,Packung 260 Gramm,aldi-sued,1.15,145,2.99,100 Gramm,Packung 230 Gramm,aldi-nord,1.3
+10,131,Choceur Schoko Knusper Riegel Vollmilch,1.19,100 Gramm,Packung 180 Gramm,aldi-sued,0.66,522,1.15,100 Gramm,Packung 180 Gramm,aldi-nord,0.64
+11,159,Wonnemayer Feinkost Salat Delikatess Fleischsalat,0.79,100 Gramm,Becher 400 Gramm,aldi-sued,0.2,405,0.79,100 Gramm,Becher 400 Gramm,aldi-nord,0.2
+12,172,Le Gusto Basmati Reis Spitzenqualität,1.99,100 Gramm,Packung 1000 Gramm,aldi-sued,0.19899999999999998,859,2.39,100 Gramm,Packung 1000 Gramm,aldi-nord,0.239
+13,190,Bellasan Raps Vitalöl Nativ kaltgepresst,1.49,100 ml,Flasche Glas 0.5 L,aldi-sued,0.298,1424,1.69,100 ml,Flasche Glas 0.5 L,aldi-nord,0.338
+14,196,Gourmet Ziegenfrischkäse im Speckmantel,2.99,100 Gramm,Dose 350 Gramm,aldi-sued,0.85,232,1.69,100 Gramm,Packung 90 Gramm,aldi-nord,1.88
+15,218,Rotkäppchen Sekt Halbtrocken,3.99,100 ml,Flasche Glas 0.75 L,aldi-sued,0.532,219,3.99,100 ml,Flasche Glas 0.75 L,aldi-nord,0.532
+16,232,Moser-Roth Hochfeine Pralines Marc de Champagne,1.15,100 Gramm,Packung 200 Gramm,aldi-sued,0.58,613,1.79,100 Gramm,Packung 129 Gramm,aldi-nord,1.39
+17,257,Rocher Pralinen,3.49,100 Gramm,"Packung 200 Gramm, 16 Stück",aldi-sued,1.75,413,3.49,100 Gramm,"Packung 200 Gramm, 16 Stück",aldi-nord,1.75
+18,278,Mon Cheri Piemont Kirsche,2.99,100 Gramm,"15 Stück, Packung 157 Gramm",aldi-sued,1.9,715,2.99,100 Gramm,"15 Stück, Packung 157 Gramm",aldi-nord,1.9
+19,280,Ferrero Küsschen,2.99,100 Gramm,"Packung 178 Gramm, 20 Stück",aldi-sued,1.68,470,2.99,100 Gramm,"Packung 178 Gramm, 20 Stück",aldi-nord,1.68
+20,322,Alpenmark Sahne Schmelzkäsezubereitung,0.79,100 Gramm,Becher 200 Gramm,aldi-sued,0.4,1048,0.85,100 Gramm,Becher 200 Gramm,aldi-nord,0.43
+21,334,"Kokett Toilettenpapier 3-lagig, 10 x 200 Blatt",2.75,Preis pro 1000 Blatt,Packung 2000 Blatt,aldi-sued,1.38,457,2.95,Preis pro 1000 Blatt,Packung 2000 Blatt,aldi-nord,1.48
+22,377,Cucina Mortadella Bologna,0.99,100 Gramm,Packung 200 Gramm,aldi-sued,0.5,693,1.69,100 Gramm,Packung 150 Gramm,aldi-nord,1.13
+23,378,Dr. Oetker Paradies Creme Vanille Geschmack,0.89,100 Gramm,Packung 63 Gramm,aldi-sued,1.41,713,0.89,100 Gramm,Packung 63 Gramm,aldi-nord,1.41
+24,404,"Kokett Taschentücher 4-lagig, 30 x10 Tücher",1.75,Preis pro Stück,Packung 30 Stück,aldi-sued,0.06,458,1.85,Preis pro Stück,Packung 30 Stück,aldi-nord,0.06
+25,416,Ananas frisch,1.79,Preis pro Stück, 1 Stück,aldi-sued,1.79,1768,1.89,100 Gramm,,aldi-nord,0.18899999999999997
+26,418,Ofterdinger Aldi Nord Delikatess Fleischsalat,0.59,100 Gramm,Schale 250 Gramm,aldi-sued,0.24,33,0.99,100 Gramm,Glas 450 Gramm,aldi-nord,0.22
+27,424,Bachmeier Bayerische Brezen,1.29,100 Gramm,Karton 850 Gramm,aldi-sued,0.152,612,1.19,100 Gramm,Karton 850 Gramm,aldi-nord,0.14
+28,466,Schneekoppe Bio Agaven Dicksaft,2.59,100 ml,Flasche Kunststoff 360 ML,aldi-sued,0.72,453,2.59,100 ml,Flasche Kunststoff 360 ML,aldi-nord,0.72
+29,470,Gourmet Finest Cuicine Käsefondue,1.79,100 Gramm,Beutel 400 Gramm,aldi-sued,0.45,915,0.85,100 Gramm,Beutel 500 Gramm,aldi-nord,0.16999999999999998
+30,471,Gourmet Finest Cuicine Prosciutto Cotto al Tartufo,6.99,100 Gramm,Packung 650 Gramm,aldi-sued,1.075,916,2.29,100 Gramm,Packung 500 Gramm,aldi-nord,0.45799999999999996
+31,475,Gourmet Finest Cuicine Vitel Tonne,9.98,100 Gramm,Glas 15 Gramm,aldi-sued,66.53,917,0.89,100 ml,Getränkekarton 300 ML,aldi-nord,0.3
+32,476,Gourmet Finest Cucine Zanderfilets,0.69,100 Gramm,Becher 180 Gramm,aldi-sued,0.38,918,1.45,100 Gramm,Becher 500 Gramm,aldi-nord,0.29
+33,477,Gourmet Finest Cuicine Echter Kaviar,1.59,100 Gramm,Packung 420 Gramm,aldi-sued,0.379,919,1.39,100 Gramm,Packung 200 Gramm,aldi-nord,0.7
+34,518,Moser-Roth Hochfeine Pralines Edel - Vollmilch,1.99,100 Gramm,Packung 146 Gramm,aldi-sued,1.36,1257,1.79,100 Gramm,Packung 129 Gramm,aldi-nord,1.39
+35,539,"Kokett Recycling Toilettenpapier 3-lagig,  8 x 200 Blatt",1.85,Preis pro 1000 Blatt,Packung 1600 Blatt,aldi-sued,1.16,699,2.15,Preis pro 1000 Blatt,Packung 1600 Blatt,aldi-nord,1.34
+36,551,Almare Pazifik Wildlachsfilet 2 Stück,1.99,100 Gramm,Packung 250 Gramm,aldi-sued,0.8,1423,2.89,100 Gramm,Packung 250 Gramm,aldi-nord,1.16
+37,576,Rotkäppchen Sekt Trocken,3.99,100 ml,Flasche Glas 0.75 L,aldi-sued,0.532,547,6.6,100 Gramm,Folie 264 Gramm,aldi-nord,2.5
+38,591,Butarina Butterschmalz,2.99,100 Gramm,Becher 500 Gramm,aldi-sued,0.5980000000000001,455,4.29,100 Gramm,Becher 500 Gramm,aldi-nord,0.858
+39,623,Akropolis Weinbrand,6.59,100 ml,Flasche Glas 0.7 L,aldi-sued,0.941,1258,6.59,100 ml,Flasche Glas 0.7 L,aldi-nord,0.941
+40,646,Ferrero Milchschnitte,1.79,100 Gramm,"10 x 28 g, Packung 280 Gramm",aldi-sued,0.64,177,1.99,100 Gramm,"10 x 28 g, Packung 280 Gramm",aldi-nord,0.71
+41,648,Haribo Goldbären,0.89,100 Gramm,Beutel 300 Gramm,aldi-sued,0.3,56,0.99,100 Gramm,Beutel 200 Gramm,aldi-nord,0.5
+42,652,Funny Frisch Chipsfrisch Ungarisch,1.19,100 Gramm,Beutel 175 Gramm,aldi-sued,0.68,79,1.39,100 Gramm,Beutel 175 Gramm,aldi-nord,0.79
+43,653,Bäcker Bachmeier Bayerische Laugenstangerl,1.29,100 Gramm,Karton 818 Gramm,aldi-sued,0.158,961,1.19,100 Gramm,Karton 818 Gramm,aldi-nord,0.145
+44,708,Orangen,2.39,100 Gramm,Netz 2 KG,aldi-sued,0.12,1770,0.69,100 Gramm,Schale 600 Gramm,aldi-nord,0.115
+45,734,Ernst Wagners Original Pizza Diavola,2.99,100 Gramm,Packung Ernst Wagners,aldi-sued,0.6950000000000001,464,2.99,100 Gramm,Packung Ernst Wagners,aldi-nord,0.6950000000000001
+46,736,Milsani Deutsche Markenbutter,1.29,100 Gramm,Packung 250 Gramm,aldi-sued,0.52,74,1.39,100 Gramm,Packung 250 Gramm,aldi-nord,0.56
+47,741,Schneekoppe Bio Dinkelmehl Vollkorn,1.75,100 Gramm,Packung 1 KG,aldi-sued,0.175,696,1.75,100 Gramm,Packung 1 KG,aldi-nord,0.175
+48,748,Gourmet Finest Cuisine Pesto Spinat und Käse,1.49,100 Gramm,Glas 190 Gramm,aldi-sued,0.78,1222,0.95,100 Gramm,Packung 75 Gramm,aldi-nord,1.27
+49,749,Gourmet Finest Cuisine Pesto Pilz und Trüffel,1.49,100 Gramm,Glas 190 Gramm,aldi-sued,0.78,1223,1.09,100 Gramm,Packung 100 Gramm,aldi-nord,1.09
+50,751,Gourmet Finest Cuicine Griebenschmalz Klassik,0.35,100 Gramm,Becher 180 Gramm,aldi-sued,0.19,1224,0.49,100 ml,Becher 250 ML,aldi-nord,0.2
+51,756,Gourmet Finest Cuicine Forellenkaviar,3.99,100 Gramm,,aldi-sued,2.66,1225,0.85,Preis pro 100 Stück,Beutel 60 Stück,aldi-nord,1.42
+52,757,Gourmet Finest Cuicine Preiselbeeren mit Cranberry,5.99,100 Gramm,,aldi-sued,1.664,1226,0.85,Preis pro 100 Stück,Beutel 60 Stück,aldi-nord,1.42
+53,758,Gourmet Finest Cuisine Lachsrückenfilet,0.69,100 Gramm,Becher 180 Gramm,aldi-sued,0.38,1227,1.99,100 Gramm,Packung 360 Gramm,aldi-nord,0.55
+54,881,Goldland Sommerblüten Honig mit Wildblüte,2.99,100 Gramm,Spenderflasche 500 Gramm,aldi-sued,0.5980000000000001,1428,2.39,100 Gramm,,aldi-nord,0.478
+55,2147,Goldland Sommerblüten Honig mit Wildblüte,1.79,100 Gramm,Spenderflasche 500 Gramm,aldi-sued,0.358,1428,2.39,100 Gramm,,aldi-nord,0.478
+56,954,Meine Metzgerei Fettreduziertes Rinderhackfleisch,2.99,100 Gramm,Packung 400 Gramm,aldi-sued,0.748,1330,2.99,100 Gramm,Packung 400 Gramm,aldi-nord,0.748
+57,955,Schmälzle Bayerischer Geflügel Leberkäse,1.79,100 Gramm,"Packung 400gr, aus Polen",aldi-sued,0.4480000000000001,459,2.39,100 Gramm,Doppelpackung 400 Gramm,aldi-nord,0.5980000000000001
+58,956,Mein Veggie Tag Veggie Fischstäbchen,1.69,100 Gramm,Schale 125 Gramm,aldi-sued,1.35,460,1.99,100 Gramm,Packung 190 Gramm,aldi-nord,1.05
+59,958,Himbeeren frisch,1.99,100 Gramm,Packung 100 Gramm,aldi-sued,1.99,1764,1.55,100 Gramm,Schale 200 Gramm,aldi-nord,0.78
+60,1017,Topstar Cola,0.39,100 ml,Pet-Flasche 1.5 L,aldi-sued,0.026,1712,0.39,100 ml,Pet-Flasche 1.5 L,aldi-nord,0.026
+61,1020,Äpfel Braeburn,0.89,100 Gramm, 1 KG,aldi-sued,0.08900000000000001,964,0.45,100 Gramm,Glas 680 Gramm,aldi-nord,0.066
+62,1024,Dr. Quendt Echter Dresdner Christstollen,6.99,100 Gramm,Packung 1000 Gramm,aldi-sued,0.6990000000000001,264,6.99,100 Gramm,Packung 1000 Gramm,aldi-nord,0.6990000000000001
+63,1057,Meine Metzgerei Frisches Hackfleisch gemischt,2.19,100 Gramm,Packung 500 Gramm,aldi-sued,0.43799999999999994,698,2.49,100 Gramm,Packung 500 Gramm,aldi-nord,0.4980000000000001
+64,1068,Schneekoppe bio Kokosöl,2.69,100 ml,Glas 250 ML,aldi-sued,1.08,697,2.69,100 ml,Glas 250 ML,aldi-nord,1.08
+65,1070,Ami Hafermast polnische Gänsekeule,8.54,100 Gramm,Folie 950 Gramm,aldi-sued,0.899,616,6.79,100 Gramm,Folie 850 Gramm,aldi-nord,0.799
+66,1073,Ofterdinger Aldi Guacamole Avocadocreme scharf,1.79,100 Gramm,Becher 150 Gramm,aldi-sued,1.19,379,1.79,100 Gramm,Becher 150 Gramm,aldi-nord,1.19
+67,1074,Ofterdinger Aldi Guacamole Avocadocreme mild,1.79,100 Gramm,Becher 150 Gramm,aldi-sued,1.19,380,1.79,100 Gramm,Becher 150 Gramm,aldi-nord,1.19
+68,1084,Kinder Country,2.99,100 Gramm,Packung 420 Gramm,aldi-sued,0.7120000000000001,471,1.99,100 Gramm,"Packung 211.5 Gramm, 9 x 23,5",aldi-nord,0.94
+69,1118,Mango frisch,1.49,100 Gramm,Packung 400 Gramm,aldi-sued,0.373,1488,1.89,100 Gramm,Packung 400 Gramm,aldi-nord,0.473
+70,1158,"Moser Roth Hochfeine Pralines Edel-Bitter, 70% Kakao",1.99,100 Gramm,Packung 146 Gramm,aldi-sued,1.36,1719,1.79,100 Gramm,Packung 129 Gramm,aldi-nord,1.39
+71,1169,Aurelia Amaretto,4.29,100 ml,Flasche Glas 0.7 L,aldi-sued,0.613,1726,1.59,100 Gramm,Packung 125 Gramm,aldi-nord,1.27
+72,1176,Milsa Fettarmer Joghurt mild 1.5% Fett,0.49,100 Gramm,Becher 500 Gramm,aldi-sued,0.098,357,0.45,100 Gramm,Becher 500 Gramm,aldi-nord,0.09
+73,1178,Kinder Pingui Schoko,1.89,100 Gramm,"Family Pack 240 Gramm, 8 x 30 g",aldi-sued,0.79,472,1.99,100 Gramm,"Family Pack 240 Gramm, 8 x 30 g",aldi-nord,0.83
+74,1181,Krombacher Pils,0.79,100 ml,"Dose 0,5L",aldi-sued,0.158,218,0.79,100 ml,"Dose 0,5L",aldi-nord,0.158
+75,1202,Sun Snacks Stängli Käse,0.99,100 Gramm,Packung 150 Gramm,aldi-sued,0.66,1731,0.99,100 Gramm,Packung 150 Gramm,aldi-nord,0.66
+76,1214,Alpenmark Allgäuer Schmelzkäsescheiben,0.89,100 Gramm,Packung 250 Gramm,aldi-sued,0.36,1729,0.69,100 Gramm,Packung 200 Gramm,aldi-nord,0.35
+77,1241,"Schmälzle Aldi Nord Premium Fleischwurst Knoblauch,  2 x 175 g",2.49,100 ml,Pack 3 L,aldi-sued,0.08299999999999999,1470,1.49,100 Gramm,Packung 350 Gramm,aldi-nord,0.426
+78,1286,Original Weins Schwarzwälder Schinken,1.89,100 Gramm,Packung 200 Gramm,aldi-sued,0.95,398,1.89,100 Gramm,Packung 200 Gramm,aldi-nord,0.95
+79,1291,Haribo Big Kiddies Box,4.59,100 Gramm,Dose 1.3 KG,aldi-sued,0.0,302,4.79,100 Gramm,Dose 1.3 KG,aldi-nord,0.37
+80,1309,Haribo Party-Spass,2.09,100 Gramm,"Packung 300 Gramm, 14 Stück",aldi-sued,0.7,1246,1.79,100 Gramm,Beutel 425 Gramm,aldi-nord,0.42
+81,1311,Red Bull Energy Drink,1.69,100 Gramm,Packung 420 Gramm,aldi-sued,0.4,446,1.09,100 ml,Dose 250 ML,aldi-nord,0.4360000000000001
+82,1396,Gourmet Schweizer Raclettekäse in Scheiben mit Chili,1.99,100 Gramm,Packung 180 Gramm,aldi-sued,1.11,1714,0.99,100 Gramm,Dose 290 Gramm,aldi-nord,0.34
+83,1397,Gourmet Finest Cuisine Neuseeländische Hirschsteaks,0.99,100 ml,Glas 150 ML,aldi-sued,0.66,1715,0.95,100 Gramm,Glas 380 Gramm,aldi-nord,0.25
+84,1398,Gourmet Finest Cuicine Meerrettich,2.69,100 Gramm,Packung 520 Gramm,aldi-sued,0.52,1716,0.99,100 Gramm,Packung 200 Gramm,aldi-nord,0.495
+85,1413,Ferrero Küsschen weiß,0.69,100 Gramm,Becher 180 Gramm,aldi-sued,0.38,1336,2.99,100 Gramm,"Packung 178 Gramm, 20 Stück",aldi-nord,1.68
+86,1417,Blumenkohl 1 Kopf,0.69,Preis pro Stück, 1 Stück,aldi-sued,0.69,1487,1.95,100 Gramm,Packung 500 Gramm,aldi-nord,0.39
+87,1423,Moser-Roth Premium-Schokolade Edel-Bitter 85% Kakao,0.95,100 Gramm,Tafel 125 Gramm,aldi-sued,0.76,1723,0.49,100 ml,Packung 200 ML,aldi-nord,0.25
+88,1433,"Kokett Feuchte Tücher 150 Stück,  Dose",0.75,100 ml,Flasche Kunststoff 250 ML,aldi-sued,0.3,1040,1.15,Preis pro Stück,Dose 150 Stück,aldi-nord,0.01
+89,1468,Moser-Roth Hochfeine Pralines Noisette,1.79,100 Gramm,Packung 129 Gramm,aldi-sued,1.39,1720,1.79,100 Gramm,Packung 129 Gramm,aldi-nord,1.39
+90,1530,Rosenkohl,0.49,100 Gramm,Netz 1 KG,aldi-sued,0.049,289,0.99,100 Gramm,Netz 750 Gramm,aldi-nord,0.132
+91,1535,Moc Scheuermilch mit Citrus-Kraft,1.99,100 Gramm,Packung 200 Gramm,aldi-sued,1.0,1493,1.89,100 Gramm,Packung 350 Gramm,aldi-nord,0.54
+92,1538,"Alpenmark Schmelzkäsescheiben Chester, 45% Fett i. Tr.",1.79,100 Gramm,Packung 750 Gramm,aldi-sued,0.239,1354,0.89,100 Gramm,Packung 250 Gramm,aldi-nord,0.36
+93,1629,Balisto Joghurt-Beeren-Mix,1.89,100 Gramm,"Packung 820 Gramm, 20 x 41 g ",aldi-sued,0.23,719,1.79,100 Gramm,"Packung 166.5 Gramm, 9",aldi-nord,1.08
+94,1630,Balisto Müsli Mix,2.45,100 Gramm,"Packung 800 Gramm, 8 x 100 g",aldi-sued,0.306,717,1.79,100 Gramm,"Packung 166.5 Gramm, 9 x 18,5 g",aldi-nord,1.08
+95,1631,Balisto Korn Mix,1.19,100 Gramm,Schale 500 Gramm,aldi-sued,0.23800000000000002,718,1.79,100 Gramm,"Packung 166.5 Gramm, 9 x 18,5 g",aldi-nord,1.08
+96,1636,Funny Frisch Chipsfrisch Oriental,3.99,100 ml,Flasche Glas 0.75 L,aldi-sued,0.532,384,1.39,100 Gramm,Beutel 175 Gramm,aldi-nord,0.79
+97,1718,Aldi Nord Schwäbische Frischei-Nudeln,0.59,100 Gramm,Packung 500 Gramm,aldi-sued,0.11800000000000001,1733,0.69,100 Gramm,Packung 500 Gramm,aldi-nord,0.13799999999999998
+98,1743,Meine Metzgerei Frisches Rinderhackfleisch,2.59,100 Gramm,Packung 500 Gramm,aldi-sued,0.518,1322,2.99,100 Gramm,Packung 500 Gramm,aldi-nord,0.5980000000000001
+99,1747,Wonnemayer Feinkost Tzatziki,1.19,100 Gramm,Schale 500 Gramm,aldi-sued,0.23800000000000002,1774,1.29,100 Gramm,Schale 500 Gramm,aldi-nord,0.258
+100,1748,Ernst Wagners Original Pizza Pizza Margherita,2.99,100 Gramm,Packung 350 Gramm,aldi-sued,0.85,1334,2.99,100 Gramm,Packung 350 Gramm,aldi-nord,0.85
+101,1755,Schneekoppe Bio Chia Samen,2.75,100 Gramm,Beutel 300 Gramm,aldi-sued,0.92,1320,2.75,100 Gramm,Beutel 300 Gramm,aldi-nord,0.92
+102,1756,Schneekoppe Bio Quinoa Mix,2.75,100 Gramm,Beutel 400 Gramm,aldi-sued,0.688,1321,2.75,100 Gramm,Beutel 400 Gramm,aldi-nord,0.688
+103,1759,Cava Delmora Spanischer Sekt,3.59,100 ml,Flasche Glas 0.75 L,aldi-sued,0.479,262,3.69,100 ml,Flasche Glas 0.75 L,aldi-nord,0.49200000000000005
+104,3049,Cava Delmora Spanischer Sekt,3.79,100 ml,Flasche Glas 0.75 L,aldi-sued,0.505,262,3.69,100 ml,Flasche Glas 0.75 L,aldi-nord,0.49200000000000005
+105,1761,Fanta Orange,0.89,100 ml,Pet-Flasche 1.25 L,aldi-sued,0.071,552,0.99,100 Gramm,Beutel 150 Gramm,aldi-nord,0.66
+106,1762,Mezzo Mix Cola küsst Orange,0.89,100 ml,Pet-Flasche 1.25 L,aldi-sued,0.071,553,1.99,100 Gramm,Folie 650 Gramm,aldi-nord,0.306
+107,1763,Sprite,0.89,100 ml,Pet-Flasche 1.25 L,aldi-sued,0.071,551,0.89,100 ml,"Pet-Flasche 1,5 L 	",aldi-nord,0.059000000000000004
+108,2023,Ferrero Giotto Haselnuss Gebäckspezialität,1.85,100 Gramm,"Packung 154.8 Gramm, 4 x 38,7, 36 Stück",aldi-sued,1.2,1045,2.69,100 Gramm,"Packung 154.8 Gramm, 4 x 38,7, 36 Stück",aldi-nord,1.74
+109,2030,"Golden Seafood / Aldi Nord Scampi Spieße Riesengarnelen, 5 Spieße",3.99,100 Gramm,Packung 440 Gramm,aldi-sued,0.907,1031,3.99,100 Gramm,Packung 440 Gramm,aldi-nord,0.907
+110,2047,Erdbeeren frisch,1.11,100 Gramm,Schale 500 Gramm,aldi-sued,0.22200000000000006,1761,1.99,100 Gramm,Packung 500 Gramm,aldi-nord,0.39799999999999996
+111,2054,Zitronen frisch,0.29,100 Gramm, 1 Stück,aldi-sued,0.0,1767,1.09,Preis pro Stück, 1 Stück,aldi-nord,1.09
+112,2059,Citrovin bio Zitrone für Fischgerichte und Marinaden,0.49,100 ml,Packung 200 ML,aldi-sued,0.25,1763,1.89,100 Gramm,Schale 125 Gramm,aldi-nord,1.51
+113,2072,Heidelbeeren frisch,0.83,100 Gramm,Packung 125 Gramm,aldi-sued,0.66,1765,0.22,Preis pro Stück,,aldi-nord,0.22
+114,2078,Weißkohl frisch,0.39,Preis pro Stück, 1 Stück,aldi-sued,0.39,1766,0.69,100 Gramm,Netz 500 Gramm,aldi-nord,0.13799999999999998
+115,2101,Tillmans  Zwiebelmettwurst 2 Stück,1.39,100 Gramm,Packung 200 Gramm,aldi-sued,0.7,1789,1.65,Preis pro Stück,Packung 30 Stück,aldi-nord,0.06
+116,2105,Meine Metzgerei / Aldi Rinderrouladen,4.99,100 Gramm,Packung 500 Gramm,aldi-sued,0.998,1994,4.99,100 Gramm,Packung 500 Gramm,aldi-nord,0.998
+117,2235,Alpenmark Kräuter Schmelzkäsezubereitung,0.89,100 Gramm,Becher 200 Gramm,aldi-sued,0.45,2862,0.85,100 Gramm,Becher 200 Gramm,aldi-nord,0.43
+118,2385,"Sinnack Roggenkrüstchen Weizenbrötchen, 8 Stück",0.85,Preis pro Stück,Beutel 8 Stück,aldi-sued,0.11,2074,0.79,Preis pro Stück,Beutel 8 Stück,aldi-nord,0.1
+119,2434,"Alpenmark Käsescheiben Allgäuer, 10 Scheiben",0.89,100 Gramm,Packung 250 Gramm,aldi-sued,0.36,2861,0.89,100 Gramm,Packung 250 Gramm,aldi-nord,0.36
+120,2439,Tandil Ultra Plus Vollwaschmittel,3.49,Preis pro Waschladung,Beutel 30 Waschladungen,aldi-sued,0.0,2865,3.59,Preis pro Waschladung,Beutel 30 Waschladungen,aldi-nord,0.12
+121,2454,Apice / Aldi Süd,3.99,100 ml,Flasche Glas 0.7 L,aldi-sued,0.5700000000000001,2353,1.29,Preis pro Stück,Packung 2 Stück,aldi-nord,0.65
+122,2841,Meine Metzgerei / Aldi Suppenfleisch,1.19,100 Gramm,Packung 40 Gramm,aldi-sued,2.98,1828,3.59,100 Gramm,Packung 500 Gramm,aldi-nord,0.718
+123,2842,Meine Metzgerei / Aldi Rinder Beinscheibe,0.39,100 Gramm,Becher 150 Gramm,aldi-sued,0.26,1829,4.49,100 Gramm,Packung 700 Gramm,aldi-nord,0.6409999999999999
+124,2843,Meine Metzgerei / Aldi Marinierter Lammlachs,1.99,100 Gramm,Packung 330 Gramm,aldi-sued,0.603,1995,5.4,100 Gramm,Folie 200 Gramm,aldi-nord,2.7
+125,2844,Meine Metzgerei / Aldi Rumpsteaks,1.99,100 Gramm,Packung 330 Gramm,aldi-sued,0.603,1996,5.7,100 Gramm,Folie 300 Gramm,aldi-nord,1.9
+126,2845,Meine Metzgerei / Aldi Hüftsteaks,5.59,100 Gramm,Packung 400 Gramm,aldi-sued,1.398,1997,5.99,100 Gramm,Folie 375 Gramm,aldi-nord,1.6
+127,2917,Haribo Maoam Kracher,1.99,100 Gramm,Packung 1000 Gramm,aldi-sued,0.19899999999999998,2398,1.49,100 Gramm,Beutel 400 Gramm,aldi-nord,0.37
+128,3028,Tom Elektronisches Feuerzeug mit Kindersicherung - 3 Stück,0.99,Preis pro Stück,Packung 3 Stück,aldi-sued,0.33,2918,0.99,Preis pro Stück,Packung 3 Stück,aldi-nord,0.33
+129,3318,"American Tortilla Wraps Natur, 8 Stück",0.99,100 Gramm,Packung 340 Gramm,aldi-sued,0.29,2957,0.99,100 Gramm,Packung 340 Gramm,aldi-nord,0.29
+130,3418,Aldi Süd Grüner Veltliner trocken,2.89,100 ml,Flasche Glas 1 L,aldi-sued,0.28900000000000003,2921,2.89,100 ml,Flasche Glas 1 L,aldi-nord,0.28900000000000003
+131,3464,Goldfit My Sprizz Apfel Rhabarber,1.59,100 ml,"Pack 3 L, 6 x 0,5L",aldi-sued,0.053000000000000005,2920,1.79,100 ml,"Pack 3 L, 6 x 0,5L",aldi-nord,0.06
+132,3531,Kölner Gelierzucker 2:1,0.79,100 Gramm,Packung 500 Gramm,aldi-sued,0.158,2187,0.79,100 Gramm,Packung 500 Gramm,aldi-nord,0.158
+133,3534,Moser Roth Feine Ostereier Edel Nougat,0.99,100 Gramm,Glas 250 Gramm,aldi-sued,0.4,2988,1.49,100 Gramm,Dose 300 Gramm,aldi-nord,0.5
+134,3535,Moser Roth Feine Ostereier Praline,1.49,100 ml,Packung 400 ML,aldi-sued,0.37,2989,0.99,100 Gramm,Schale 300 gramm,aldi-nord,0.33
+135,3536,Moser Roth Feine Ostereier Edel Collection mit 3 feinen Sorten,1.49,100 ml,Packung 400 ML,aldi-sued,0.37,2990,1.15,100 Gramm,Packung 200 Gramm,aldi-nord,0.58
+136,3582,Mümmelmann Jagdbitter Kräuterlikör,4.99,100 ml,Flasche Glas 0.7 L,aldi-sued,0.713,1872,4.99,100 ml,Flasche Glas 0.7 L,aldi-nord,0.713

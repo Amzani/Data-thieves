@@ -1,0 +1,770 @@
+,Unnamed: 0_x,Name,Price_x,Unit_x,Packet Size_x,Supermarket_x,Comparable Price_x,Unnamed: 0_y,Price_y,Unit_y,Packet Size_y,Supermarket_y,Comparable Price_y
+0,0,Coca Cola,0.99,100 ml,Pet-Flasche 1.25 L,lidl,0.079,0,1.39,100 ml,Pet-Flasche 1.5 L,edeka,0.09300000000000001
+1,3,Nutella,3.99,100 Gramm,Vorteils Glas 1000 Gramm,lidl,0.39899999999999997,1,1.77,100 Gramm,"Glas 500 Gramm, + 50 g Gratis",edeka,0.354
+2,5,Iglo Fischstäbchen,3.39,100 Gramm,"15er, Packung 450 Gramm",lidl,0.753,3,2.99,100 Gramm,"15er, Packung 450 Gramm",edeka,0.6639999999999999
+3,8,Milka Alpenmilch Schokolade,1.09,100 Gramm,Tafel 100  Gramm,lidl,1.09,43,0.79,100 Gramm,Tafel 100  Gramm,edeka,0.79
+4,15,"Landliebe Landkäse Original, 50 % Fett",1.59,100 Gramm,Packung 175 Gramm,lidl,0.91,5,2.29,100 Gramm,Packung 175 Gramm,edeka,1.31
+5,16,Rama Margarine Classic,1.79,100 Gramm,Becher 500 Gramm + 50g mehr Inhalt,lidl,0.325,70,1.59,100 Gramm,Becher 500  Gramm,edeka,0.318
+6,17,Kerrygold Original Irische Butter mildgesäuert,2.39,100 Gramm,Packung 250  Gramm,lidl,0.96,65,1.11,100 Gramm,Packung 250  Gramm,edeka,0.44
+7,36,Lätta Halbfettmargarine Original,0.99,100 Gramm,"XXL Becher 550 Gramm, 10% mehr Inhalt",lidl,0.18,13,0.99,100 Gramm,Becher 500  Gramm,edeka,0.198
+8,38,Iglo Schlemmer-Filet Classic a la Bordelaise,1.77,100 Gramm,Packung 380 Gramm,lidl,0.466,12,1.77,100 Gramm,Packung 380 Gramm,edeka,0.466
+9,41,Dr. Oetker Die Ofenfrische Pizza Speciale,2.49,100 Gramm,Packung 405 Gramm,lidl,0.61,34,2.19,100 Gramm,Packung 405 Gramm,edeka,0.54
+10,1491,Dr. Oetker Die Ofenfrische Pizza Speciale,2.99,100 Gramm,Packung 405 Gramm,lidl,0.74,34,2.19,100 Gramm,Packung 405 Gramm,edeka,0.54
+11,42,Kinder Schokolade,1.11,100 Gramm,"Tafel 125 Gramm10 Stück, 8 + 2 gratis",lidl,0.89,30,0.77,100 Gramm,"Tafel 100 Gramm, 8 Riegel",edeka,0.77
+12,44,Danone Dany Sahne Schoko 4-er,1.79,100 Gramm,"Packung 460 Gramm, 4 x 115g",lidl,0.39,912,1.78,100 Gramm,Dose 160 Gramm,edeka,1.11
+13,48,Thomy Sonnenblumenöl,1.99,100 ml,Flasche Glas 750 ML,lidl,0.265,542,1.99,100 ml,Flasche Glas 750 ML,edeka,0.265
+14,53,Funny Frisch Chipsfrisch Ungarisch,1.39,100 Gramm,Beutel 175 Gramm,lidl,0.79,139,1.29,100 Gramm,Beutel 175 Gramm,edeka,0.74
+15,57,"Iglo Filegro Backfisch Traditioneller Ofen-Backfisch, 2 Stück",1.66,100 Gramm,Packung 240 Gramm,lidl,0.69,37,2.99,100 Gramm,Packung 240 Gramm,edeka,1.25
+16,59,Danone Actimel Classic,1.99,100 Gramm,6er Packung 600 Gramm,lidl,0.332,58,1.69,100 Gramm,"Packung 400 Gramm, 4 x 100 g",edeka,0.423
+17,70,Philadelphia Doppelrahmstufe Original,1.49,100 Gramm,Packung 175 Gramm,lidl,0.85,994,0.88,100 Gramm,Packung 175 Gramm,edeka,0.5
+18,72,Pepsi Cola Classic koffeinhaltig,0.99,100 ml,Pet-Flasche 1.5 L,lidl,0.066,651,0.69,100 ml,Pet-Flasche 6 x 1.0 L,edeka,0.06899999999999999
+19,73,"Milkana Schmelzkäse Kräuter, 50% Fett",1.99,100 Gramm,Packung 200 Gramm,lidl,1.0,1917,1.89,100 Gramm,Packung 200 Gramm,edeka,0.95
+20,75,Rotkäppchen Sekt Halbtrocken,3.99,100 ml,Flasche Glas 0.75 L,lidl,0.532,657,2.69,100 ml,Flasche Glas 0.75 L,edeka,0.359
+21,76,Red Bull Energy Drink,1.09,100 ml,Dose 250 ML,lidl,0.4360000000000001,998,0.99,100 ml,Dose 250 ML,edeka,0.396
+22,90,Light Live hugo Alcohol Free,2.49,100 ml,Flasche Glas 0.75 L,lidl,0.332,39,2.49,100 ml,Flasche Glas 0.75 L,edeka,0.332
+23,93,Punica Classics Nektar Multivitamin 17+4,1.59,100 ml,Pet-Flasche 1500 ML,lidl,0.106,86,0.95,100 ml,Pet-Flasche 1500 ML,edeka,0.063
+24,94,Hela Curry Gewürz Ketchup delikat,2.29,100 ml,Flasche Kunststoff 800 ML,lidl,0.28600000000000003,85,2.49,100 ml,Flasche Kunststoff 800 ML,edeka,0.311
+25,95,"Müller Müllermilch Schoko, 1,5 % Fett",0.89,100 Gramm,Flasche Kunststoff 400 Gramm,lidl,0.223,73,0.89,100 Gramm,Flasche Kunststoff 400 Gramm,edeka,0.223
+26,96,Miracoli Spaghetti Klassiker mit Tomatensauce,1.99,100 Gramm,Packung 634 Gramm,lidl,0.314,87,1.29,100 Gramm,"Packung 397 Gramm, 2 - 3 Portionen",edeka,0.32
+27,97,Coca Cola Zero,0.89,100 ml,Pet-Flasche 1.25 L,lidl,0.071,113,0.95,100 ml,Pet-Flasche 1.5 L,edeka,0.063
+28,99,"Pepsi Max 6 x 1,5 L",0.95,100 ml,Pet-Flasche 1.5 L,lidl,0.063,74,0.95,100 ml,Pet-Flasche 1.5 L,edeka,0.063
+29,105,Rotkäppchen Sekt Alkoholfrei,3.99,100 ml,Flasche Glas 750 ML,lidl,0.532,124,3.99,100 ml,Flasche Glas 750 ML,edeka,0.532
+30,111,Zentis Nusspli Nuss Nougat Creme,0.99,100 Gramm,Becher 400 Gramm,lidl,0.248,31,1.59,100 Gramm,Becher 400 Gramm,edeka,0.39799999999999996
+31,124,Mumm Extra Dry Sekt trocken,5.99,100 ml,Flasche Glas 0.75 L,lidl,0.799,1181,5.79,100 ml,Flasche Glas 0.75 L,edeka,0.772
+32,126,"Salakis Schafskäse Natur, 50 % Fett",1.59,100 Gramm,Packung 200 Gramm,lidl,0.8,88,1.69,100 Gramm,Packung 200 Gramm,edeka,0.85
+33,151,Golden Toast Butter Toast,1.19,100 Gramm,Packung 500  Gramm,lidl,0.23800000000000002,224,0.75,100 Gramm,Packung 250  Gramm,edeka,0.3
+34,152,Bertolli Extra Vergine Originale das Fruchtige,4.69,100 ml,Flasche Glas 500 ML,lidl,0.938,220,3.29,100 ml,Flasche Glas 500 ML,edeka,0.6579999999999999
+35,154,Barilla Spaghetti No.5,0.77,100 Gramm,Packung 500 Gramm,lidl,0.154,128,0.69,100 Gramm,Packung 500 Gramm,edeka,0.13799999999999998
+36,155,Dr. Quendt Echter Dresdner Christstollen,7.49,100 Gramm,Packung 1000 Gramm,lidl,0.7490000000000001,973,7.99,100 Gramm,Packung 1000 Gramm,edeka,0.799
+37,160,Dr. Oetker Bistro Baguette Champignons,2.49,100 Gramm,"Multipack 500 Gramm, 4 x 125 g",lidl,0.5,121,1.39,100 Gramm,Packung 250 Gramm,edeka,0.56
+38,161,Ehrmann Grand Dessert Plus Double-Choc,0.79,100 Gramm,Becher 190 Gramm,lidl,0.42,2024,0.59,100 Gramm,Becher 200 Gramm,edeka,0.3
+39,163,Philadelphia Joghurt,1.49,100 Gramm,Packung 175 Gramm,lidl,0.85,2085,1.39,100 Gramm,"Minis,Packung 140 Gramm, 4 x 35 g",edeka,0.99
+40,180,Bahlsen Comtess Choco Chips,1.99,100 Gramm,Packung 400 Gramm,lidl,0.4980000000000001,1844,1.39,100 Gramm,Packung 400 Gramm,edeka,0.348
+41,181,Jacobs Krönung Original,5.99,100 Gramm,Packung 500 Gramm,lidl,1.198,2622,3.19,Preis pro 100 Stück,Packung 40 Stück,edeka,7.98
+42,184,Chantre Weinbrand 36% Vol.,6.99,100 ml,Flasche Glas 0.7 L,lidl,0.9990000000000001,2857,2.89,Preis pro 100 Stück,Packung 64 Stück,edeka,4.52
+43,190,Melitta Bella Crema La Crema,12.99,100 Gramm,Packung 1000 Gramm,lidl,1.2990000000000002,4223,10.99,100 Gramm,Packung 1000 Gramm,edeka,1.099
+44,193,Melitta Cafe Auslese,5.69,100 Gramm,Vakuum 500 Gramm,lidl,1.138,2511,3.33,100 Gramm,Vakuum 500 Gramm,edeka,0.6659999999999999
+45,199,"Aperol italienischer Aperitiv Bitter Spirituose, 15 % Vol.",9.99,100 ml,Flasche Glas 0.7 L,lidl,1.4269999999999998,4101,8.99,100 ml,Flasche Glas 0.7 L,edeka,1.284
+46,200,"Philadelphia Schnittlauch, 12% Fett",1.49,100 Gramm,Packung 175 Gramm,lidl,0.85,1372,1.39,100 Gramm,Packung 175 Gramm,edeka,0.79
+47,235,"Old Amsterdam Gouda alt Holländischer Schnittkäse Alt, in Scheiben,  48 % Fett",1.79,100 Gramm,Packung 125 Gramm,lidl,1.43,115,2.39,100 Gramm,Packung 125 Gramm,edeka,1.91
+48,236,Granatapfel frisch,0.79,Preis pro Stück,Granatapfel aus der Türkei 1 Stück,lidl,0.79,794,0.49,Preis pro Stück,Granatapfel aus Griechenland 1 Stück,edeka,0.49
+49,257,Rama mit Butter,1.29,100 Gramm,Becher 225 Gramm,lidl,0.57,3099,1.49,100 Gramm,Becher 225 Gramm,edeka,0.66
+50,261,Leerdammer Original Scheibenkäse Classic 45 % Fett,1.99,100 Gramm,"Packung 140g, 7 Scheiben",lidl,1.42,302,5.49,100 Gramm,"Packung 315 Gramm, 30er",edeka,1.74
+51,262,Lorenz Crunchips Paprika,1.19,100 Gramm,Beutel 200 Gramm,lidl,0.6,462,1.49,100 Gramm,Beutel 200 Gramm,edeka,0.75
+52,263,Ritter Sport Schokolade Voll-Nuss,1.29,100 Gramm,Tafel 100 Gramm,lidl,1.29,234,0.59,100 Gramm,Tafel 100 Gramm,edeka,0.59
+53,264,Becks Pils,4.29,100 ml,"6 x 0,5 L, Pack 3 L",lidl,0.14300000000000002,142,15.95,100 ml,"20 x 0,5 L, Kasten 10 L",edeka,0.16
+54,265,Deli Reform Margarine Das Original,0.85,100 Gramm,Becher 555 Gramm,lidl,0.153,392,0.88,100 Gramm,Becher 500  Gramm,edeka,0.17600000000000002
+55,266,Dr. Oetker Bistro Baguette Salami,2.45,100 Gramm,"Multipackung 500 Gramm, 4 x 125 g",lidl,0.49,370,1.59,100 Gramm,Packung 250 Gramm,edeka,0.64
+56,267,"Danone Activia Classic Erdbeer, 4 x 115 g",1.99,100 Gramm,Packung 460 Gramm,lidl,0.433,488,1.99,100 Gramm,Packung 460 Gramm,edeka,0.433
+57,268,Kinder Bueno,2.79,100 Gramm,"Packung 258 Gramm, 12 x 21,5 g 	 ",lidl,1.08,360,1.69,100 Gramm,"Packung 129 Gramm, 6 Stück",edeka,1.31
+58,269,Coca Cola Light,0.89,100 ml,Pet-Flasche 1.25 L,lidl,0.071,305,0.69,100 Gramm,"Packung 93 Gramm, 10 Stück",edeka,0.74
+59,270,Maggi Ravioli in Tomatensauce,1.39,100 Gramm,Dose 800 Gramm,lidl,0.174,297,1.59,100 Gramm,Flasche Glas 250 Gramm,edeka,0.64
+60,271,Hanuta Haselnuss Schnitte,1.89,100 Gramm,Packung 249.6 Gramm,lidl,0.76,366,1.99,100 Gramm,Packung 249.6 Gramm,edeka,0.8
+61,272,"Ramazzotti Amaro Kräuterbitter, 30% Vol.",8.88,100 ml,Flasche Glas 0.7 L,lidl,1.2690000000000001,137,11.99,100 ml,Flasche Glas 0.7 L,edeka,1.713
+62,274,Raffaello Pralinen Kokos-Mandel,1.99,100 Gramm,Packung 180 Gramm,lidl,1.11,372,2.69,100 Gramm,Packung 230 Gramm,edeka,1.17
+63,275,Rocher Pralinen,3.49,100 Gramm,"Packung 200 Gramm, 16 Stück",lidl,1.75,63,3.49,100 Gramm,"Packung 200 Gramm, 16 Stück",edeka,1.75
+64,276,Danone Actimel Erdbeere,1.99,100 Gramm,Packung 400 Gramm,lidl,0.4980000000000001,3170,1.69,100 Gramm,Flasche Kunststoff 100 Gramm,edeka,1.69
+65,278,Ferrero Kinder Riegel,2.39,100 Gramm,"10 x 21 g, Packung 210 Gramm",lidl,1.14,389,2.5,100 Gramm,"Packung 420 Gramm, 20 Riegel Sparpack",edeka,0.6
+66,279,Mini Babybel rot 45% Fett,1.89,100 Gramm,"Netz 140 Gramm, 7 Stück",lidl,1.35,235,1.99,100 Gramm,"Netz 120 Gramm, 6 x 20 g",edeka,1.66
+67,281,Schwip Schwap ohne Zucker,0.89,100 ml,Pet-Flasche 1.5 L,lidl,0.059000000000000004,373,0.65,100 ml,Pet-Flasche 1.5 L,edeka,0.043
+68,287,Maggi Würze Tischflasche,1.59,100 Gramm,Flasche Glas 250 Gramm,lidl,0.64,298,0.89,100 Gramm,Becher 200 Gramm,edeka,0.45
+69,292,Ferrero Milchschnitte,1.79,100 Gramm,Beutel 200 Gramm,lidl,0.9,16,1.29,100 Gramm,"5 x 28 g, Packung 140 Gramm",edeka,0.92
+70,293,Lorenz Erdnuß Locken Leicht,1.19,100 Gramm,Packung 600 Gramm,lidl,0.198,359,1.79,100 Gramm,Beutel 200 Gramm,edeka,0.9
+71,296,Paprika rot,2.77,100 Gramm,Packung 396 Gramm,lidl,0.7,3946,4.99,100 Gramm,Beutel 1 KG,edeka,0.499
+72,324,Milka Weisse Schokolade,0.59,100 Gramm,Packung 130 Gramm,lidl,0.45,226,0.79,100 Gramm,Tafel 100  Gramm,edeka,0.79
+73,364,Vernel Aroma Therapie Sensual,3.29,100 ml,Flasche Kunststoff 2 L,lidl,0.16499999999999998,526,1.29,100 ml,Flasche Kunststoff 750 ML,edeka,0.172
+74,368,Kaki frisch,1.49,Preis pro Stück, 1 Stück,lidl,1.49,2722,0.99,Preis pro Stück, 1 Stück,edeka,0.99
+75,447,"Patros Feta Natur,  40% Fett",1.99,100 Gramm,Packung 225 Gramm,lidl,0.884,377,1.49,100 Gramm,Packung 200 Gramm,edeka,0.745
+76,464,Weihenstephan Frische Tafelbutter 82% Fett,0.99,100 Gramm,Packung 250  Gramm,lidl,0.4,248,0.99,100 Gramm,Packung 250  Gramm,edeka,0.4
+77,465,Landliebe Butter 82% Fett,0.99,100 Gramm,Packung 250  Gramm,lidl,0.4,537,1.69,100 Gramm,Packung 250  Gramm,edeka,0.68
+78,466,Golden Toast Vollkorn Toast,1.19,100 Gramm,Packung 500 Gramm,lidl,0.23800000000000002,915,0.75,100 Gramm,Packung 250 Gramm,edeka,0.3
+79,467,Dr. Oetker Ristorante Pizza Salame,2.69,100 Gramm,Karton 320 Gramm,lidl,0.84,64,1.66,100 Gramm,Karton 320 Gramm,edeka,0.52
+80,468,"Danone Actimel 4-er Orange, 4 x 100 g",1.39,100 Gramm,Packung 400 Gramm,lidl,0.348,927,1.69,100 Gramm,Packung 400 Gramm,edeka,0.423
+81,469,Uncle Bens Express Spitzen-Langkorn-Reis 2 Minuten,1.59,100 Gramm,Packung 250 Gramm,lidl,0.64,221,1.99,100 Gramm,Packung 250 Gramm,edeka,0.8
+82,471,Danone Activia Classic Natur,1.99,100 Gramm,"Packung 500 Gramm, 4 x 125g",lidl,0.4,218,1.99,100 Gramm,"Packung 460 Gramm, 4 x 115 Gramm",edeka,0.43
+83,475,Wagner herzhafter Flammkuchen Unser Original,2.59,100 Gramm,Packung 300 Gramm,lidl,0.86,538,2.59,100 Gramm,Packung 300 Gramm,edeka,0.86
+84,477,"Müller Froop Frucht auf Joghurt Pfirsich-Maracuja, 3.5 % Fett",0.49,100 Gramm,Becher 150 Gramm,lidl,0.33,791,0.29,100 Gramm,Becher 150 Gramm,edeka,0.19
+85,478,Teachers Scotch Whisky Highland Cream 40 % Vol.,8.99,100 ml,Flasche Glas 0.7 L,lidl,1.284,4602,11.99,100 ml,Flasche Glas 0.7 L,edeka,1.713
+86,480,Milka Noisette Schokolade,0.79,100 Gramm,Tafel 100  Gramm,lidl,0.79,217,0.95,100 Gramm,Tafel 100  Gramm,edeka,0.95
+87,484,Landliebe Sahnepudding Schokolade,1.99,100 Gramm,"Packung 500 Gramm, 4 Stück",lidl,0.4,974,0.75,100 Gramm,Becher 150 Gramm,edeka,0.5
+88,485,Iglo Schlemmer Filet Sylter Art,1.77,100 Gramm,Packung 380 Gramm,lidl,0.466,908,1.79,100 Gramm,Glas 400 Gramm,edeka,0.4480000000000001
+89,490,Larsen Kaviar Creme,1.49,100 Gramm,Tube 100 Gramm,lidl,1.49,1722,1.99,100 Gramm,Tube 100 Gramm,edeka,1.99
+90,494,Capri Sonne Orange 10-er Pack 10 x 0.2 L,1.99,100 ml,Pack 2 L,lidl,0.1,231,1.99,100 ml,Pack 2 L,edeka,0.1
+91,495,"Danone Fruchtzwerge Erdbeere, Kirsche, Himbeere, 6 x 50 g",1.35,100 Gramm,Packung 300 Gramm,lidl,0.45,380,1.35,100 Gramm,Packung 300 Gramm,edeka,0.45
+92,497,Geramont Frisch Genuss Frischkäsespezialität mit Creme Fraiche,2.19,100 Gramm,Packung 150 Gramm,lidl,1.46,375,2.29,100 Gramm,Packung 150 Gramm,edeka,1.53
+93,555,"Weihenstephan Haltbare Alpenmilch 3,5% Fett",0.79,100 ml,Getränkekarton 1 L,lidl,0.079,378,0.79,100 ml,Getränkekarton 1 L,edeka,0.079
+94,556,Herta Knoblauchwurst,3.49,100 Gramm,Packung 500 Gramm,lidl,0.7,520,4.79,100 Gramm,Packung 500 Gramm,edeka,0.96
+95,558,Dr. Oetker Steinofen Tradizionale Salame Pizza,2.22,100 Gramm,Karton 310 Gramm,lidl,0.72,371,2.29,100 Gramm,Karton 310 Gramm,edeka,0.74
+96,681,Langnese Cremissimo Stracciatella,3.29,100 ml,,lidl,0.0,478,0.99,100 Gramm,Packung 100 Gramm,edeka,0.99
+97,682,Haribo Goldbären,0.89,100 Gramm,Beutel 300 Gramm,lidl,0.3,367,0.55,100 Gramm,Beutel 200 Gramm,edeka,0.28
+98,683,Milram Paprikaquark,0.69,100 Gramm,Becher 200 Gramm,lidl,0.35,299,1.45,100 Gramm,Packung 200 Gramm,edeka,0.73
+99,685,Pfanner Der Grüne Tee Zitrone-Kaktusfeige,0.99,100 ml,Getränkekarton 2 L,lidl,0.05,148,1.44,100 ml,Getränkekarton 2 L,edeka,0.07200000000000001
+100,690,Brunch Brotaufstrich Romeo all Arrabbiata,0.88,100 Gramm,Becher 200 Gramm,lidl,0.44,494,1.19,100 Gramm,Becher 200 Gramm,edeka,0.6
+101,691,Schwartau Extra Wellness Multivitamin,1.69,100 Gramm,Glas 260 Gramm,lidl,0.65,517,1.89,100 Gramm,Glas 260 Gramm,edeka,0.73
+102,692,Geramont mit Joghurt 20% Fett,1.59,100 Gramm,Packung 200 Gramm,lidl,0.8,376,2.29,100 Gramm,Packung 200 Gramm,edeka,1.15
+103,695,Houdek Kabanos Klassik,1.25,100 Gramm,Packung 100 Gramm,lidl,1.25,532,3.29,100 Gramm,Packung 250 Gramm,edeka,1.32
+104,699,Amicelli Waffelröllchen,1.99,100 Gramm,"Packung 225 Gramm, 18 12,5g",lidl,0.88,296,1.29,100 Gramm,Dose 800 Gramm,edeka,0.161
+105,700,Milka Adventskalender,4.44,100 Gramm,Packung 200 Gramm,lidl,2.22,5712,14.99,100 Gramm,Packung 329 Gramm,edeka,4.56
+106,702,Cornelius Pfälzer Leberwurst im Kunstdarm,1.99,100 Gramm,Folie 400 Gramm,lidl,0.5,533,1.49,100 Gramm,Folie 200 Gramm,edeka,0.75
+107,708,Rougette Landkäse Fein-würzig,1.49,100 Gramm,Packung 180 Gramm,lidl,0.83,480,2.49,100 Gramm,Packung 400 Gramm,edeka,0.62
+108,719,Dr. Oetker Die Ofenfrische Pizza Pepperoni-Salami,2.39,100 Gramm,Packung 320  Gramm,lidl,0.75,936,2.49,100 Gramm,Packung 400 Gramm,edeka,0.62
+109,720,Original Wagner Steinofen Pizza Salami,0.88,100 Gramm,Packung 125 Gramm,lidl,0.7,677,2.59,100 Gramm,Packung 320  Gramm,edeka,0.81
+110,721,Leibniz Choco Vollmilch,1.29,100 Gramm,Packung 500 Gramm,lidl,0.258,541,0.88,100 Gramm,Packung 125 Gramm,edeka,0.7
+111,790,Arla Kaergarden gesalzen,1.89,100 Gramm,Becher 250  Gramm,lidl,0.76,1926,1.79,100 Gramm,Becher 250  Gramm,edeka,0.72
+112,791,"Meggle die Kräuter-Butter Portionen Original portioniert, 5 x 20 g",1.39,100 Gramm,Packung 100 Gramm,lidl,1.39,1642,1.39,100 Gramm,Packung 100 Gramm,edeka,1.39
+113,792,"Bonbel Butterkäse in Scheiben, 50% Fett",0.99,100 Gramm,Packung 100  Gramm,lidl,0.99,1903,1.69,100 Gramm,Packung 100  Gramm,edeka,1.69
+114,793,"Geramont Weichkäse Cremig-Leicht, 16% Fett",2.29,100 Gramm,Packung 200 Gramm,lidl,1.15,1647,2.59,100 Gramm,Packung 200 Gramm,edeka,1.3
+115,796,After Eight Classic,1.99,100 Gramm,Packung 200   Gramm,lidl,1.0,992,2.99,100 Gramm,Packung 400  Gramm,edeka,0.75
+116,797,Ritter Sport Schokolade Nugat,0.99,100 Gramm,Tafel 100  Gramm,lidl,0.99,304,0.95,100 ml,Pet-Flasche 1.5 L,edeka,0.063
+117,798,Sonnen Bassermann Hühner Nudeltopf mit buntem Gemüse,1.95,100 Gramm,Dose 800 Gramm,lidl,0.244,1837,1.29,100 Gramm,Dose 800 Gramm,edeka,0.161
+118,799,Becel pro-activ Halbfettmargarine 40% Fett,2.99,100 Gramm,Becher 250 Gramm,lidl,1.1960000000000002,1147,2.99,100 Gramm,Becher 250 Gramm,edeka,1.1960000000000002
+119,800,Becel Classic 60% Fett,1.49,100 Gramm,"Becher 250 Gramm, Classic",lidl,0.596,1434,1.49,100 Gramm,"Becher 250 Gramm, Classic",edeka,0.596
+120,801,Deli Reform Die Leichte Halbfettmargarine,1.39,100 Gramm,Becher 500  Gramm,lidl,0.278,2088,1.29,100 Gramm,Becher 500  Gramm,edeka,0.258
+121,802,Mazola Keimöl,1.99,100 ml,Flasche Glas 750  ML,lidl,0.265,1132,1.39,100 ml,Flasche Glas 250 ML,edeka,0.5559999999999999
+122,804,Emmi Caffe Latte Cappuccino,1.39,100 Gramm,Becher 230 ML,lidl,0.0,1292,1.15,100 Gramm,Becher 230 ML,edeka,0.0
+123,807,Dallmayr Crema d Oro,8.99,100 Gramm,Beutel 1000 Gramm,lidl,0.899,2439,11.99,100 Gramm,Beutel 1000 Gramm,edeka,1.199
+124,808,Dallmayr Espresso d Oro ganze Bohnen,12.79,100 Gramm,Beutel 1000 Gramm,lidl,1.2790000000000001,2440,11.99,100 Gramm,Beutel 1000 Gramm,edeka,1.199
+125,809,Celebrations Pralinenmischung,2.79,100 Gramm,Packung 190 Gramm,lidl,1.47,991,1.99,100 Gramm,Packung 190 Gramm,edeka,1.05
+126,810,Nescafe Classic Mild,6.69,100 Gramm,Glas 200 Gramm,lidl,3.35,227,6.99,100 Gramm,Glas 200 Gramm,edeka,3.5
+127,812,Zewa Softis  super-soft Taschentücher 30 x 10 Tücher,2.29,Preis pro Stück,Packung 30 Stück,lidl,0.08,1477,2.49,Preis pro Stück,Packung 30 Stück,edeka,0.08
+128,813,Nescafe Classic Original,5.99,100 Gramm,Glas 200 Gramm,lidl,3.0,75,6.99,100 Gramm,Glas 200 Gramm,edeka,3.5
+129,815,Caro Landkaffee Original,2.99,100 Gramm,Dose 200 Gramm,lidl,1.5,2442,2.79,100 Gramm,Dose 200 Gramm,edeka,1.4
+130,818,Lenor Weichspüler Aprilfrisch,1.95,100 ml,"Flasche 38 Waschladungen, 950ml",lidl,0.0,1298,1.29,100 ml,Flasche Kunststoff 1 L,edeka,0.129
+131,818,Lenor Weichspüler Aprilfrisch,1.95,100 ml,"Flasche 38 Waschladungen, 950ml",lidl,0.0,8798,2.22,100 ml,Flasche Kunststoff 3000 ML,edeka,0.07400000000000001
+132,819,Miracle Whip Balance,1.29,100 ml,Glas 500 ML,lidl,0.258,984,1.29,100 ml,Glas 500 ML,edeka,0.258
+133,820,Langnese Flotte Biene Wildblüten Honig,2.79,100 Gramm,Spenderflasche 250 Gramm,lidl,1.1159999999999999,1009,2.22,100 Gramm,Spenderflasche 250 Gramm,edeka,0.8880000000000001
+134,822,"Danone Fruchtzwerge Banane, Erdbeere, Aprikose",1.49,100 Gramm,"Packung 300 Gramm, 6 x 50g",lidl,0.5,1445,1.49,100 Gramm,"Packung 300 Gramm, 6 x 50g",edeka,0.5
+135,823,Langnese Cremissimo Bourbon Vanille,1.99,100 ml,Packung 1000 ML,lidl,0.19899999999999998,986,3.49,100 ml,Packung 1000 ML,edeka,0.34900000000000003
+136,824,Brunch Cremiger Brotaufstrich Feine Kräuter,1.39,100 Gramm,Becher 200 Gramm,lidl,0.7,1290,0.99,100 Gramm,Becher 200 Gramm,edeka,0.5
+137,825,Brunch Brotaufstrich Paprika-Peperoni,1.39,100 Gramm,Becher 200 Gramm,lidl,0.7,1150,0.99,100 Gramm,Becher 200 Gramm,edeka,0.5
+138,826,Brunch Cremiger Brotaufstrich Natur,1.39,100 Gramm,Becher 200 Gramm,lidl,0.7,1620,0.88,100 Gramm,Becher 200 Gramm,edeka,0.44
+139,827,Landliebe Sahne Pudding Vanille,0.65,100 Gramm,Becher 150 Gramm,lidl,0.43,2043,0.69,100 Gramm,Becher 150 Gramm,edeka,0.46
+140,828,Nestle Kit Kat Mini,1.89,100 Gramm,Beutel 250 Gramm,lidl,0.7559999999999999,1604,1.89,100 Gramm,Packung 283 Gramm,edeka,0.6679999999999999
+141,829,Nestle Smarties Mini,1.89,100 Gramm,Packung 216 Gramm,lidl,0.88,1426,1.89,100 Gramm,Packung 216 Gramm,edeka,0.88
+142,831,De Beukelaer Prinzen Rolle mit Kakaocreme,1.39,100 Gramm,Rolle 400 Gramm,lidl,0.35,146,1.49,100 Gramm,Rolle 400 Gramm,edeka,0.37
+143,832,Hohes C Milde Orange 100% Saft,2.19,100 ml,Getränkekarton 1.5 L,lidl,0.146,1436,1.11,100 ml,Pet-Flasche 1 L,edeka,0.11100000000000003
+144,833,Bifi Original Minisalami 5-er 5 x 25 g,1.99,100 Gramm,Packung 125 Gramm,lidl,1.59,1384,1.99,100 Gramm,Packung 125 Gramm,edeka,1.59
+145,834,Miracel Whip Klassik,1.29,100 ml,Glas 500 ML,lidl,0.258,822,1.29,100 ml,Glas 500 ML,edeka,0.258
+146,836,Lätta Halbfettmargarine extra fit mit Buttermilch,1.59,100 Gramm,Becher 500  Gramm,lidl,0.318,1378,1.59,100 Gramm,Becher 500  Gramm,edeka,0.318
+147,838,"Rama Cremefine zum Schlagen, 19 % Fett",0.99,100 ml,XXL Flasche Kunststoff 300 ML,lidl,0.33,1006,0.99,100 ml,Flasche Kunststoff 250 ML,edeka,0.4
+148,839,Rama Cremefine zum Kochen 15 % Fett,0.99,100 ml,Flasche Kunststoff 250 ML,lidl,0.4,1148,0.99,100 ml,Flasche Kunststoff 250 ML,edeka,0.4
+149,840,Lorenz Saltletts Sticks,1.55,100 Gramm,Packung 250 Gramm,lidl,0.62,1121,1.11,100 Gramm,Packung 250 Gramm,edeka,0.44
+150,841,Maggi Ravioli in pikanter Sauce,1.99,100 Gramm,Dose 800 Gramm,lidl,0.24900000000000005,650,1.29,100 Gramm,Dose 800 Gramm,edeka,0.161
+151,842,Du darfst leichte Butter 39% Fett,1.05,100 Gramm,Packung 250  Gramm,lidl,0.42,1313,1.29,100 Gramm,Packung 250  Gramm,edeka,0.52
+152,843,"Hochland Sandwich Scheiben Gouda, 48% Fett",1.99,100 Gramm,Packung 200 Gramm,lidl,1.0,996,1.99,100 Gramm,"Packung 175 Gramm, 10 Scheiben",edeka,1.14
+153,845,Wasa Knäckebrot Sesam,0.89,100 Gramm,Packung 200 Gramm,lidl,0.45,1803,1.09,100 Gramm,Packung 200 Gramm,edeka,0.55
+154,847,Iglo Filegro Müllerin Art,1.66,100 Gramm,Packung 250 Gramm,lidl,0.66,690,2.99,100 Gramm,Beutel 500 Gramm,edeka,0.5980000000000001
+155,848,Appel Hering zarte Filets in Dill-Kräuter-Creme,1.25,100 Gramm,Dose 200 Gramm,lidl,0.63,2328,1.19,100 Gramm,Dose 200 Gramm,edeka,0.6
+156,849,Rügen Fisch Heringsfilets in Tomaten-Creme,0.99,100 Gramm,Dose 200 Gramm,lidl,0.5,1010,0.89,100 Gramm,Dose 200 Gramm,edeka,0.45
+157,851,Herta Finesse saftiger Schinken hauchzart,1.89,100 Gramm,Packung 100 Gramm,lidl,1.89,1956,2.19,100 Gramm,Packung 150 Gramm,edeka,1.46
+158,852,Kinder Schoko Bons,1.95,100 Gramm,"Beutel 224 Gramm, 200 g+12 % Mehr Inhalt",lidl,0.87,1603,1.99,100 Gramm,"Beutel 224 Gramm, 200 g+12 % Mehr Inhalt",edeka,0.89
+159,853,Aoste Stickado Snack Classic,1.99,100 Gramm,Packung 70 Gramm,lidl,2.84,1136,1.99,100 Gramm,Packung 70 Gramm,edeka,2.84
+160,855,Aoste Stickado Snack Pikant,1.99,100 Gramm,Packung 70 Gramm,lidl,2.84,1953,1.99,100 Gramm,Packung 70 Gramm,edeka,2.84
+161,860,Baileys Original Irish Cream,9.99,100 ml,Flasche Glas 700 ML,lidl,1.4269999999999998,655,13.99,100 ml,Flasche Glas 700 ML,edeka,1.999
+162,861,Rama Culinesse Pflanzencreme,1.59,100 ml,Flasche Kunststoff 500  ML,lidl,0.318,1001,1.59,100 ml,Flasche Kunststoff 500  ML,edeka,0.318
+163,862,"Barilla Pesto alla Genovese, Basilico Fresco",2.89,100 ml,Glas 190 ML,lidl,1.52,1730,2.89,100 ml,Glas 190 ML,edeka,1.52
+164,863,Müllers Mühle Teller  Linsen,1.39,100 Gramm,Packung 500 Gramm,lidl,0.278,634,1.69,100 Gramm,Packung 500 Gramm,edeka,0.338
+165,864,Geramont Klassik 60% Fett,1.99,100 Gramm,Packung 200 Gramm,lidl,1.0,995,2.29,100 Gramm,Packung 200 Gramm,edeka,1.15
+166,865,Saint Albray mild & würzig 60% Fett,2.99,100 Gramm,Vorteilspack 300 Gramm,lidl,1.0,1374,2.49,100 Gramm,Packung 200 Gramm,edeka,1.25
+167,866,"Fol Epi Hauchfein Classic, 50 % Fett",2.29,100 Gramm,Packung 150 Gramm,lidl,1.53,1400,2.29,100 Gramm,Packung 150 Gramm,edeka,1.53
+168,867,"Fol Epi Scheiben Leicht,",1.99,100 Gramm,Packung 150 Gramm,lidl,1.33,2057,1.79,100 Gramm,Packung 150 Gramm,edeka,1.19
+169,868,Mars Ice Cream,2.99,100 ml,"Packung 357  ML, 7 Stück Family Pack",lidl,0.84,1287,2.39,100 ml,"Packung 306 ML, 6 Stück x 51ml",edeka,0.78
+170,869,"Milkana Schmelzkäse Sahne, 50% Fett",1.99,100 Gramm,Packung 200 Gramm,lidl,1.0,1117,1.89,100 Gramm,Packung 200 Gramm,edeka,0.95
+171,870,"Hengstenberg Original Aceto Balsamico di Modena, 6 % Säure",2.69,100 ml,Flasche Glas 0.5 L,lidl,0.5379999999999999,2223,2.19,100 ml,Flasche Glas 0.5 L,edeka,0.43799999999999994
+172,872,Ferrero Kinder Maxi King,1.09,100 Gramm,"Packung 105 Gramm, 3 x 35g",lidl,1.04,1294,1.29,100 Gramm,"Packung 105 Gramm, 3 x 35g",edeka,1.23
+173,874,Jules Mumm Medium halbtrocken,3.69,100 ml,Flasche Glas 0.75 L,lidl,0.49200000000000005,1339,3.59,100 ml,Flasche Glas 0.75 L,edeka,0.479
+174,875,Schwartau Extra Fruttissima Erdbeere,1.49,100 Gramm,Becher 250 Gramm,lidl,0.6,1125,1.85,100 Gramm,Becher 250 Gramm,edeka,0.74
+175,876,Ariel Pulver Waschmittel Color & Style,15.99,Preis pro Waschladung,XXXL Pack 110 Waschladungen ,lidl,0.15,7556,12.79,Preis pro Waschladung,"Packung 50 WL, , 3,6 kg",edeka,0.0
+176,877,Pepsi Cola Light,0.89,100 ml,Pet-Flasche 1.5 L,lidl,0.059000000000000004,751,0.95,100 ml,Pet-Flasche 1.5 L,edeka,0.063
+177,878,Schwip Schwap Cola + Orange mit Zucker,0.89,100 ml,Pet-Flasche 1.5 L,lidl,0.059000000000000004,1433,0.85,100 ml,Pet-Flasche 1.5 L,edeka,0.057
+178,882,Dallmayr Prodomo 100 % Arabica,6.49,100 Gramm,Packung 500 Gramm,lidl,1.298,1850,3.77,100 Gramm,Packung 500 Gramm,edeka,0.754
+179,883,Hochland Sandwich Scheiben Emmentaler,1.99,100 Gramm,Packung 200 Gramm,lidl,1.0,1120,1.99,100 Gramm,Packung 200 Gramm,edeka,1.0
+180,884,Katjes Yoghurt Gums,0.85,100 Gramm,Beutel 200 Gramm,lidl,0.43,1305,0.59,100 Gramm,Beutel 200 Gramm,edeka,0.3
+181,886,Danone Activia Cerealien,1.59,100 Gramm,"Packung 500 Gramm, 4 x 125 g",lidl,0.318,2038,3.89,100 Gramm,Packung 920 Gramm,edeka,0.423
+182,887,"Du darfst Land-Leberwurst mit würzigen Kräutern, 21% Fett",1.35,100 Gramm,Folie 160 Gramm,lidl,0.84,1955,1.49,100 Gramm,Packung 125 Gramm,edeka,1.19
+183,890,Ariel Pulver Waschmittel Klassik,10.99,Preis pro Waschladung,"XXL Packung, 60 Wäschen",lidl,0.18,983,12.95,Preis pro Waschladung,XXXL Pack 88 Waschladungen,edeka,0.15
+184,891,Bitburger Premium Pils,0.75,100 ml,Dose 0.5 L,lidl,0.15,1640,3.79,100 ml,"Pack 1.98 L, 6 x 0,33 L",edeka,0.191
+185,892,Volvic Frucht Orange,1.29,100 ml,Pet-Flasche 1.5 L,lidl,0.086,2452,1.35,100 ml,"Kasten 9 L, 6 x 1,5 L",edeka,0.015
+186,893,"Leerdammer Caractere Schnittkäse in Scheiben, 48% Fett",1.99,100 Gramm,"Packung 150 Gramm, 6 Scheiben",lidl,1.33,1914,1.99,100 Gramm,"Packung 150 Gramm, 6 Scheiben",edeka,1.33
+187,895,Hohes C Orange 100% Saft,1.39,100 ml,Getränkekarton 1500 ML,lidl,0.09300000000000001,630,0.99,100 ml,Pet-Flasche 1 L,edeka,0.099
+188,896,Snickers Schokoriegel mit Erdnüsse und Karamel,1.49,100 Gramm,"Packung 250 Gramm, 5 x 50g",lidl,0.6,1441,2.89,100 Gramm,"Packung 500 Gramm, 10 Stück",edeka,0.58
+189,897,Pringles Original,2.15,100 Gramm,Dose 190 Gramm,lidl,1.13,2426,1.39,100 Gramm,Dose 170 Gramm,edeka,0.82
+190,898,Heinz Tomato Ketchup,1.11,100 ml,Dosierflasche 450 ML,lidl,0.24700000000000005,804,1.79,100 ml,Flasche 400 ml ,edeka,0.4480000000000001
+191,898,Heinz Tomato Ketchup,1.11,100 ml,Dosierflasche 450 ML,lidl,0.24700000000000005,888,1.59,100 ml,Flasche Glas 750 ML,edeka,0.212
+192,1348,Heinz Tomato Ketchup,1.99,100 ml,"Flasche 875ml, + 33% mehr Inhalt",lidl,0.16999999999999998,804,1.79,100 ml,Flasche 400 ml ,edeka,0.4480000000000001
+193,1348,Heinz Tomato Ketchup,1.99,100 ml,"Flasche 875ml, + 33% mehr Inhalt",lidl,0.16999999999999998,888,1.59,100 ml,Flasche Glas 750 ML,edeka,0.212
+194,909,Kerrygold Extra ungesalzen,0.75,100 Gramm,Becher 150 Gramm,lidl,0.5,1131,1.29,100 Gramm,Becher 250 Gramm,edeka,0.52
+195,911,Kerrygold Extra gesalzen,0.75,100 Gramm,Becher 150 Gramm,lidl,0.5,1154,1.29,100 Gramm,Becher 250 Gramm,edeka,0.52
+196,912,Grünländer Leicht Leicht mit 17 % Joghurt,1.99,100 Gramm,Packung 175 Gramm,lidl,1.14,1910,1.99,100 Gramm,Packung 175 Gramm,edeka,1.14
+197,916,Landliebe Grieß Pudding Traditionell,1.99,100 Gramm,Packung 500 Gramm,lidl,0.4,1399,0.69,100 Gramm,Becher 150 Gramm,edeka,0.46
+198,936,Langnese Flotte Biene Gebirgsblüten Honig kalt geschleudert,2.69,100 Gramm,Spenderflasche 250 Gramm,lidl,1.0759999999999998,959,2.49,100 Gramm,Spenderflasche 250 Gramm,edeka,0.996
+199,937,Kühne würzen + genießen Hot Chili Sauce,0.89,100 ml,Flasche Glas 250 ML,lidl,0.36,802,0.99,100 ml,Flasche Glas 250 ML,edeka,0.4
+200,938,Erasco Hühner Nudeltopf mit frischem Gemüse,1.89,100 Gramm,Dose 800 Gramm,lidl,0.23600000000000002,675,1.49,100 Gramm,Dose 800 Gramm,edeka,0.18600000000000003
+201,940,Werder Tomatenketchup,0.99,100 ml,Flasche Glas 450 ML,lidl,0.22000000000000006,980,1.19,100 ml,Flasche Glas 450 ML,edeka,0.264
+202,942,"Arla Kaergarden Balance ungesalzen, 30% weniger Fett",1.79,100 Gramm,Becher 250 Gramm,lidl,0.72,920,1.79,100 Gramm,Becher 250 Gramm,edeka,0.72
+203,944,Philadelphia Balance Räucherlachs mit Dill,1.39,100 Gramm,Packung 175 Gramm,lidl,0.79,1146,1.39,100 Gramm,Packung 175 Gramm,edeka,0.79
+204,945,Danone Actimel Vanilla,1.39,100 Gramm,Packung 400 Gramm,lidl,0.348,2005,1.69,100 Gramm,Packung 400 Gramm,edeka,0.423
+205,946,"Südzucker Fein Zucker feinkörnig, rasch löslich",0.85,100 Gramm,Packung 1000 Gramm,lidl,0.08499999999999999,2269,1.09,100 Gramm,Packung 1000 Gramm,edeka,0.109
+206,948,Schwartau Fruit 2 Day Mango-Pfirsich,1.89,100 ml,Pack 400 ML,lidl,0.47,1624,1.99,100 ml,"Pack 400 Gramm, 4 x 100g",edeka,0.0
+207,949,"Danone Dany Sahne 4-er Bourbon Vanille, 4 x 115 g",1.49,100 Gramm,Packung 460 Gramm,lidl,0.32,1340,0.88,100 Gramm,Packung 460 Gramm,edeka,0.19
+208,951,Ferrero Küsschen,2.25,100 Gramm,"Packung 178 Gramm, 20 Stück",lidl,1.26,1708,1.99,100 Gramm,"Packung 178 Gramm, 20 Stück",edeka,1.12
+209,975,Sonnen Bassermann Linsentopf mit Cocktailwürstchen,1.89,100 Gramm,Dose 800 Gramm,lidl,0.23600000000000002,1300,1.29,100 Gramm,Dose 800 Gramm,edeka,0.161
+210,978,Krombacher Pils,0.79,100 ml,"Dose 0,5L",lidl,0.158,999,3.99,100 ml,"Pack 3 L, 6 x 500 ml",edeka,0.133
+211,981,Kölln Müsli Schoko,2.89,100 Gramm,Packung 600 Gramm,lidl,0.482,2201,2.69,100 Gramm,Packung 600 Gramm,edeka,0.4480000000000001
+212,989,"Miracel Whip so leicht 4,9% Fett",0.75,100 Gramm,Beutel 125 Gramm,lidl,0.6,2163,1.89,100 ml,Glas 500 ML,edeka,0.37799999999999995
+213,1001,Volvic Frucht Zitrone Limette,1.25,100 Gramm,Schale 500 Gramm,lidl,0.25,2453,1.35,100 ml,"Kasten 9 L, 6 x 1,5 L",edeka,0.015
+214,1004,M&Ms Peanut,2.49,100 Gramm,Beutel 285 Gramm,lidl,0.87,1155,2.99,100 Gramm,Large Beutel 330 Gramm + 10%,edeka,0.91
+215,1217,Exquisa Der Sahnige Kräuter,0.66,100 Gramm,Packung 200  Gramm,lidl,0.33,414,1.29,100 ml,Getränkekarton 250 ML,edeka,0.52
+216,1218,"Du darfst Teewurst nach Rügenwalder Art,  27% Fett",1.35,100 Gramm,Folie 125 Gramm,lidl,1.08,924,1.59,100 Gramm,Folie 125 Gramm,edeka,1.27
+217,1219,Kühne Salatfix Kräuterwürzig,1.99,100 ml,Flasche Glas 1000 ML,lidl,0.2,937,2.99,100 ml,Flasche Glas 1000 ML,edeka,0.3
+218,1221,Oro Di Parma Tomaten stückig,0.88,100 ml,Dose 425 ML,lidl,0.207,900,1.09,100 ml,Dose 425 ML,edeka,0.256
+219,1222,Bürger Eierspätzle Original schwäbisch,1.89,100 Gramm,Packung 1000 Gramm,lidl,0.18899999999999997,913,1.49,100 Gramm,Packung 500 Gramm,edeka,0.298
+220,1224,Zott Monte Drink Milch + Schoko,1.49,100 ml,"Packung 800 ML,  3+1 Gratis, 4 x 200 ml",lidl,0.18600000000000003,797,0.59,100 ml,Pet-Flasche 200 ML,edeka,0.29500000000000004
+221,1227,Geramont Kräuter leicht 16% Fett,2.29,100 Gramm,Packung 200  Gramm,lidl,1.15,1370,2.29,100 Gramm,Packung 200  Gramm,edeka,1.15
+222,1228,Arla Buko Frischkäse Garten Kräuter 18% Fett,1.19,100 Gramm,Packung 200 Gramm,lidl,0.6,2078,1.19,100 Gramm,Packung 200 Gramm,edeka,0.6
+223,1229,Barilla Pasta Fusilli,0.77,100 Gramm,Packung 500 Gramm,lidl,0.154,1622,0.69,100 Gramm,Packung 500 Gramm,edeka,0.13799999999999998
+224,1230,Uncle Bens Express Basmati Reis 2 Minuten,1.59,100 Gramm,Packung 250 Gramm,lidl,0.64,639,1.99,100 Gramm,Packung 250 Gramm,edeka,0.8
+225,1231,"Müller Froop Frucht auf Joghurt Zitrone, 3.5 % Fett",0.49,100 Gramm,Becher 150 Gramm,lidl,0.33,2012,0.45,100 Gramm,Becher 150 Gramm,edeka,0.3
+226,1232,Optiwell Vanilla Pudding Vanille,0.55,100 Gramm,Becher 150 Gramm,lidl,0.37,2045,0.59,100 Gramm,Becher 150 Gramm,edeka,0.39
+227,1233,Langnese Viennetta Vanille,1.49,100 ml,Packung 1000 ML,lidl,0.149,687,1.39,100 Gramm,Packung 160 Gramm,edeka,0.87
+228,1236,Kinder Pingui Schoko,0.88,100 Gramm,"Packung 120 Gramm, 4 Stück",lidl,0.73,681,1.29,100 Gramm,"Packung 120 Gramm, 4 Stück",edeka,1.08
+229,1345,Uncle Bens Express Chinesisch,1.59,100 Gramm,Packung 250 Gramm,lidl,0.64,945,1.59,100 Gramm,Packung 250 Gramm,edeka,0.64
+230,1347,Dr. Oetker Vitalis Früchte Müsli,2.79,100 Gramm,Packung 600 Gramm,lidl,0.465,799,2.99,100 Gramm,Packung 600 Gramm,edeka,0.4980000000000001
+231,1350,Pfanner Ice Tea Pfirsich,0.95,100 ml,Getränkekarton 2 L,lidl,0.048,788,0.88,100 ml,Getränkekarton 2 L,edeka,0.044000000000000004
+232,1351,Langnese Cremissimo Schokolade,2.89,100 ml,Packung 900 ML,lidl,0.321,5600,1.99,100 ml,Packung 900 ML,edeka,0.221
+233,1353,Dr. Oetker Tortenguss 3-er rot ungezuckert,0.79,100 Gramm,Beutel 40 Gramm,lidl,1.98,944,0.79,100 Gramm,Beutel 40 Gramm,edeka,1.98
+234,1355,Frosta Bami Goreng,2.49,100 Gramm,Packung 500 Gramm,lidl,0.4980000000000001,674,2.79,100 Gramm,Packung 500 Gramm,edeka,0.5579999999999999
+235,1356,Frosta Steakhouse Pfanne,3.33,100 Gramm,"Beutel 650 Gramm, + 30% mehr Inhalt",lidl,0.512,967,4.99,100 Gramm,Packung 900 Gramm,edeka,0.5539999999999999
+236,1357,Gaggli Frischeier Nudeln Faden Nestchen,1.19,100 Gramm,Packung 250 Gramm,lidl,0.47600000000000003,790,1.29,100 Gramm,Packung 250 Gramm,edeka,0.516
+237,1362,Thomy Les Sauces Hollandaise,0.97,100 ml,Getränkekarton 250 ML,lidl,0.39,415,1.19,100 ml,Packung 1 L,edeka,0.11900000000000001
+238,1371,Bonbel Cremig & Würzig 50% Fett,1.99,100 Gramm,Rolle 170 Gramm,lidl,1.17,2053,2.39,100 Gramm,Rolle 180 Gramm,edeka,1.33
+239,1372,Schwartau Extra Samt Erdbeere,1.89,100 Gramm,Glas 270 Gramm,lidl,0.7,2396,1.89,100 Gramm,Glas 270 Gramm,edeka,0.7
+240,1375,"Geramont Feine Scheiben Natur, 60% Fett",2.29,100 Gramm,"Packung 150 Gramm, 7 Scheiben",lidl,1.53,1908,2.29,100 Gramm,"Packung 150 Gramm, 7 Scheiben",edeka,1.53
+241,1376,Schogetten Alpenvollmilch-Nuss,0.69,100 Gramm,"Tafel 116.6 Gramm, + 16% mehr Inhalt",lidl,0.59,2405,0.49,100 Gramm,Tafel 100 Gramm,edeka,0.49
+242,1378,Wilthener Gebirgskräuter Likör,6.49,100 ml,Flasche Glas 0.7 L,lidl,0.927,284,4.77,100 ml,Flasche Glas 0.7 L,edeka,0.6809999999999999
+243,1381,Iglo Chicken Nuggets,1.99,100 Gramm,"Packung 250 Gramm, 12 Stück",lidl,0.7959999999999999,1437,2.59,100 Gramm,"Packung 250 Gramm, 12 Stück",edeka,1.036
+244,1480,Leibniz Butterkeks,0.99,100 Gramm,Packung 200 Gramm,lidl,0.5,1450,0.88,100 Gramm,Packung 200 Gramm,edeka,0.44
+245,1481,Arla Buko Der Sahnige,0.88,100 Gramm,Packung 200  Gramm,lidl,0.44,2468,0.88,100 Gramm,Packung 200  Gramm,edeka,0.44
+246,1482,Funny Frisch Jumpys mit Paprika,1.39,100 Gramm,Beutel 75 Gramm,lidl,1.85,2988,0.99,100 Gramm,Beutel 75 Gramm,edeka,1.32
+247,1483,Becel Vital,1.49,100 Gramm,Becher 250 Gramm,lidl,0.596,2602,1.69,100 Gramm,Becher 250 Gramm,edeka,0.6759999999999999
+248,1485,Uncle Bens Spitzen-Langkorn-Reis 10 min.,2.69,100 Gramm,"Packung 750 Gramm, 6 x 125 g",lidl,0.359,946,2.29,100 Gramm,"Packung 500 Gramm, 4 x 125 g - im Kochbeutel ",edeka,0.45799999999999996
+249,1486,"Müller Milchreis Zimt, 3% Fett",0.59,100 Gramm,Becher 200 Gramm,lidl,0.3,2901,0.33,100 Gramm,Becher 200 Gramm,edeka,0.17
+250,1488,Nescafe Gold Mild,9.49,100 Gramm,Glas 200 Gramm,lidl,4.75,963,9.99,100 Gramm,Glas 200 Gramm,edeka,5.0
+251,1489,Nescafe Gold entkoffeiniert,9.49,100 Gramm,Glas 200 Gramm,lidl,4.75,3761,4.79,100 Gramm,Glas 100 Gramm,edeka,4.79
+252,1490,Nestle Nesquick Nachfüllbeutel,2.29,100 Gramm,Nachfüllbeutel 500 Gramm,lidl,0.45799999999999996,406,1.99,100 Gramm,Packung 1 KG,edeka,0.19899999999999998
+253,1492,Knorr Fix Spaghetti Bolognese,0.75,100 Gramm,Beutel 46 Gramm,lidl,1.63,3000,0.49,100 Gramm,Beutel 46 Gramm,edeka,1.07
+254,1493,Nestle Kit Kat Chunky,1.89,100 Gramm,Packung 200 Gramm,lidl,0.95,4027,0.75,100 Gramm,Riegel 50 Gramm,edeka,1.5
+255,1497,Ehrmann Almighurt Erdbeer,0.55,100 Gramm,Becher 150 Gramm,lidl,0.37,1452,0.29,100 Gramm,Becher 150 Gramm,edeka,0.19
+256,1499,Balisto Korn Mix,1.99,100 Gramm,"Packung 185 Gramm, 9 + 1 Riegel",lidl,1.08,3731,1.99,100 Gramm,Packung 180 Gramm,edeka,1.11
+257,1500,Balisto Joghurt-Beeren-Mix,1.99,100 Gramm,"Packung 185 Gramm, 9 + 1",lidl,1.08,3732,1.99,100 Gramm,Packung 180 Gramm,edeka,1.11
+258,1502,"Langnese Magnum Almond Mandel, 4 Stück",0.65,100 Gramm,Folie 20 Gramm,lidl,3.25,2751,2.99,100 ml,"Packung 440 ML, 4 Stück",edeka,0.68
+259,1504,Mövenpick Der Himmlische Kaffee gemahlen,2.19,100 Gramm,Packung 150 Gramm,lidl,1.46,2475,3.99,100 Gramm,Packung 500 Gramm,edeka,0.7979999999999999
+260,1507,Bresso Frischkäse mit Kräutern aus der Provence,1.59,100 Gramm,Becher 150 Gramm,lidl,1.06,2755,1.49,100 Gramm,Becher 150 Gramm,edeka,0.99
+261,1510,Salatgurken frisch,0.75,Preis pro Stück, 1 Stück,lidl,0.0,2830,0.33,Preis pro Stück, 1 Stück,edeka,0.33
+262,1512,MM Extra halbtrocken,2.69,100 ml,Flasche Glas 0.75 L,lidl,0.359,2473,3.29,100 ml,Flasche Glas 0.75 L,edeka,0.439
+263,1513,"Müller Froop Frucht auf Joghurt Himbeere, 3.5 % Fett",0.49,100 Gramm,Becher 150 Gramm,lidl,0.33,2579,0.29,100 Gramm,Becher 150 Gramm,edeka,0.19
+264,1514,Milka Ganze Haselnüsse Schokolade,2.39,100 Gramm,Tafel 300 Gramm,lidl,0.8,2916,0.55,100 Gramm,Tafel 100 Gramm,edeka,0.55
+265,1516,Appel Heringsfilets in Tomaten-Creme,1.19,100 Gramm,Dose 200 Gramm,lidl,0.6,1096,1.59,100 Gramm,Dose 200 Gramm,edeka,0.8
+266,1517,Mon Cheri Piemont Kirsche,2.59,100 Gramm,"15 Stück, Packung 157 Gramm",lidl,1.65,303,1.15,100 Gramm,Tafel 100  Gramm,edeka,1.15
+267,1522,Nescafe Gold Das Original,9.49,100 Gramm,Glas 200 Gramm,lidl,4.75,123,9.99,100 Gramm,Glas 200 Gramm,edeka,5.0
+268,1524,Thomy Remoulade,1.29,100 ml,Tube 200 ML,lidl,0.65,2613,1.49,100 ml,Glas 250 ML,edeka,0.6
+269,1525,"bebe Young Care 3 in 1 pflegende Reinigungstücher für empfindliche, trockene Haut",1.75,Preis pro Stück,Packung 25 Stück,lidl,0.07,3933,2.25,Preis pro Stück,Packung 25 Stück,edeka,0.09
+270,1527,Rügenwalder Teewurst fein,1.69,100 Gramm,Becher 125 Gramm,lidl,1.35,1989,1.79,100 Gramm,Vakuum 125 Gramm,edeka,1.43
+271,1527,Rügenwalder Teewurst fein,1.69,100 Gramm,Becher 125 Gramm,lidl,1.35,3120,1.79,100 Gramm,Becher 125 Gramm,edeka,1.43
+272,1528,Ritter Sport Schokolade Alpenmilch,1.09,100 Gramm,Tafel 100 Gramm,lidl,1.09,678,1.15,100 Gramm,Tafel 100 Gramm,edeka,1.15
+273,1531,Zucchini,0.99,100 Gramm, 1 KG,lidl,0.099,2837,1.99,100 Gramm, 1 KG,edeka,0.19899999999999998
+274,1533,Rosenkohl,0.99,100 Gramm,Netz 1 KG,lidl,0.099,807,1.98,100 Gramm,Netz 500 Gramm,edeka,0.396
+275,1534,Feigen frisch,2.29,100 Gramm,Packung 500 Gramm,lidl,0.45799999999999996,3947,0.79,100 Gramm,1 Stück,edeka,0.0
+276,1535,Brunch Brotaufstrich Schoko Creme,1.39,100 Gramm,Becher 185 Gramm,lidl,0.75,3952,0.88,100 Gramm,Becher 185 Gramm,edeka,0.48
+277,1550,Galbani Santa Lucia Mozzarella 45% Fett,0.99,100 Gramm,Beutel 220 Gramm,lidl,0.45,1345,0.99,100 Gramm,Beutel 125  Gramm,edeka,0.79
+278,1551,Kiri mit Sahne 70% Fett,1.11,100 Gramm,"Packung 120 Gramm, 6 x 20g",lidl,0.93,1145,1.59,100 Gramm,"Packung 120 Gramm, 6 x 20g",edeka,1.33
+279,1552,"Grünländer Chili-Paprika in Scheiben,  48 % Fett",1.99,100 Gramm,Packung 175 Gramm,lidl,1.14,1371,1.99,100 Gramm,"Packung 150 Gramm, 7 Scheiben",edeka,1.33
+280,1553,Arla Buko Balance 17% Fett,1.19,100 Gramm,Packung 200  Gramm,lidl,0.6,2075,1.19,100 Gramm,Packung 200  Gramm,edeka,0.6
+281,1554,"Sanella Backen ist Liebe ... Margarine, 75% Fett",1.59,100 Gramm,Becher 500 Gramm,lidl,0.318,1831,0.99,100 Gramm,Becher 500 Gramm,edeka,0.198
+282,1556,Barilla Pasta Farfalle No.65,1.39,100 Gramm,Packung 1kg,lidl,0.13899999999999998,2219,1.49,100 Gramm,Packung 500 Gramm,edeka,0.298
+283,1557,Barilla Pasta Maccheroni,0.59,100 Gramm,Packung 500 Gramm,lidl,0.11800000000000001,2218,1.49,100 Gramm,Packung 500 Gramm,edeka,0.298
+284,1558,"Danone Actimel  4-er Erdbeere,  4 x 100 g, 0,1% Fett",1.69,100 Gramm,Packung 400 Gramm,lidl,0.423,2007,1.69,100 Gramm,Packung 400 Gramm,edeka,0.423
+285,1559,Ehrmann Almighurt Himbeer,0.45,100 Gramm,Becher 150 Gramm,lidl,0.3,2022,0.43,100 Gramm,Becher 150 Gramm,edeka,0.29
+286,1560,Südzucker Gelier Zucker 2 plus 1,0.65,100 Gramm,Packung 500 Gramm,lidl,0.13,2270,0.95,100 Gramm,Packung 500 Gramm,edeka,0.19
+287,1561,"Mondamin Grießbrei Klassische Art, für 2 - 3 Portionen",0.95,100 Gramm,Beutel 89 Gramm,lidl,1.07,1389,0.99,100 Gramm,Beutel 89 Gramm,edeka,1.11
+288,1563,"Danone Activia Erdbeere, 4 x 115 g",1.99,100 Gramm,Packung 460 Gramm,lidl,0.433,2032,1.99,100 Gramm,Packung 460 Gramm,edeka,0.433
+289,1564,Langnese Cremissimo Leichter Genuss Erdbeer mit Joghurt,2.89,100 ml,Packung 850 ML,lidl,0.34,2148,2.99,100 ml,Packung 850 ML,edeka,0.35200000000000004
+290,1565,Ballantines Finest Scotch Whisky,9.99,100 ml,Flasche Glas 700 ML,lidl,1.4269999999999998,823,9.99,100 ml,Flasche Glas 700 ML,edeka,1.4269999999999998
+291,1566,Lätta Halbfettmargarine mit Joghurt,1.59,100 Gramm,Becher 500  Gramm,lidl,0.318,1129,1.59,100 Gramm,Becher 500  Gramm,edeka,0.318
+292,1568,Bifi Original Minisalami 6 x 25 g,1.79,100 Gramm,Packung 150 Gramm,lidl,1.19,1982,2.29,100 Gramm,Packung 150 Gramm,edeka,1.53
+293,1569,Kölln Müsli Karibik,2.79,100 Gramm,Packung 600 Gramm,lidl,0.465,1965,2.99,100 Gramm,Packung 600 Gramm,edeka,0.4980000000000001
+294,1570,Ouzo 12,8.99,100 ml,Flasche Glas 0.7 L,lidl,1.284,1000,8.99,100 ml,Flasche Glas 0.7 L,edeka,1.284
+295,1574,"Fol Epi Scheiben Nuss, 55% Fett",1.99,100 Gramm,Packung 150 Gramm,lidl,1.33,2059,1.79,100 Gramm,Packung 150 Gramm,edeka,1.19
+296,1575,"Fol Epi Scheiben a la Provence, 50% Fett",1.99,100 Gramm,Packung 150 Gramm,lidl,1.33,2056,1.79,100 Gramm,Packung 150 Gramm,edeka,1.19
+297,1577,Danone Obstgarten Pfirsich Maracuja,0.35,100 Gramm,Becher 125 Gramm,lidl,0.28,1308,0.33,100 Gramm,Becher 125 Gramm,edeka,0.26
+298,1577,Danone Obstgarten Pfirsich Maracuja,0.35,100 Gramm,Becher 125 Gramm,lidl,0.28,2033,0.39,100 Gramm,Becher 125 Gramm,edeka,0.31
+299,1578,Fritt Kaubonbon Zitrone,0.55,100 Gramm,Packung 70 Gramm,lidl,0.79,2412,0.55,100 Gramm,Packung 70 Gramm,edeka,0.79
+300,1582,Nestle Kit Kat Multipack 5 x 45 g,1.69,100 Gramm,Packung 225 Gramm,lidl,0.75,1602,1.89,100 Gramm,Packung 225 Gramm,edeka,0.84
+301,1583,Paprika Mix frisch,1.29,100 Gramm,Folie 750 Gramm,lidl,0.172,6641,1.29,100 ml,Getränkekarton 1 L,edeka,0.129
+302,1584,Mars Riegel,1.99,100 Gramm,"Packung 270 Gramm, 6 x 45 g",lidl,0.74,1443,1.99,100 Gramm,"Packung 270 Gramm, 5 x 54 g",edeka,0.74
+303,1587,Lätta & luftig luftig aufgeschlagen 39%,1.29,100 Gramm,Packung 175 Gramm,lidl,0.74,1929,1.59,100 Gramm,Schale 320 Gramm,edeka,0.49700000000000005
+304,1591,Adler Edelcreme Sahne,1.55,100 Gramm,"Packung 150 Gramm, 6 x 25 g",lidl,1.03,3082,1.19,100 Gramm,Packung 100 Gramm,edeka,1.19
+305,1593,Dr. Oetker Die Ofenfrische Pizza Salami,0.99,100 Gramm,"Packung 500 Gramm, 4 x 125g, 3 und 1 Becher gratis",lidl,0.2,2572,2.22,100 Gramm,Packung 380 Gramm,edeka,0.58
+306,1595,Nestle Kit Kat Senses,1.89,100 ml,Pack 400 ML,lidl,0.47,3907,0.75,100 Gramm,Riegel 31 Gramm,edeka,2.42
+307,1596,Du darfst Apfel-Zwiebel Leberwurst 21% Fett,1.35,100 Gramm,Packung 125 Gramm,lidl,1.08,3157,1.49,100 Gramm,Packung 125 Gramm,edeka,1.19
+308,1610,Bresso Frischkäse Grüne Pfeffer,1.49,100 Gramm,Becher 150 Gramm,lidl,0.99,3824,1.69,100 Gramm,Becher 150 Gramm,edeka,1.13
+309,1611,"Bresso Frischkäse Balance mit Kräutern aus der Provence, 15% Fett",1.39,100 Gramm,Becher 150 Gramm,lidl,0.93,3086,1.49,100 Gramm,Becher 150 Gramm,edeka,0.99
+310,1620,Nescafe Cappuccino International Vanilla,1.99,100 ml,Flasche Kunststoff 250 ML,lidl,0.8,3926,3.19,100 Gramm,Dose 350 Gramm,edeka,0.911
+311,1623,Blumenkohl 1 Kopf,1.49,Preis pro Stück,"1 Stück, Frankreich, Kl. 1",lidl,1.49,2563,0.49,Preis pro Stück, 1 Stück,edeka,0.49
+312,1633,Kopfsalat kl. I,1.49,100 Gramm,Schale 400 Gramm,lidl,0.37,1187,0.49,Preis pro Stück, 1 Stück,edeka,0.49
+313,1650,St. Mang Rahm Limburger 50% Fett,0.59,100 Gramm,Beutel 500 Gramm,lidl,0.11800000000000001,4083,1.89,100 Gramm,Packung 200 Gramm,edeka,0.95
+314,1899,Exquisa Scheiben aus Frischkäse Mediterrane Kräuter,1.39,100 Gramm,Packung 125 Gramm,lidl,1.11,1906,1.19,100 Gramm,Packung 125 Gramm,edeka,0.95
+315,1901,Maggi Ravioli Gemüse,1.39,100 Gramm,Dose 800  Gramm,lidl,0.174,1758,0.99,100 Gramm,Dose 800  Gramm,edeka,0.124
+316,1902,Maggi Ravioli Diavolo,1.39,100 Gramm,Dose 800  Gramm,lidl,0.174,1765,1.49,100 Gramm,Dose 800  Gramm,edeka,0.18600000000000003
+317,1903,"Schwartau Fruit 2 Day  2-er Papaya Grapefruit, 2 x 200 ml",1.89,100 ml,Pack 400 ML,lidl,0.47,1269,1.99,100 ml,Pack 400 ML,edeka,0.5
+318,1905,Kühne Salatfix Joghurt,1.99,100 ml,Flasche Glas 1000 ML,lidl,0.2,2158,1.79,100 ml,Flasche Glas 500 ML,edeka,0.36
+319,1907,Hohes C Multivitamin 100% Saft,1.39,100 ml,Getränkekarton 1.5 L,lidl,0.09300000000000001,808,0.99,100 ml,Pet-Flasche 1 L,edeka,0.099
+320,1908,Capri Sonne Multivitamin,1.99,100 ml,Pack 2 L,lidl,0.1,1275,2.19,100 ml,Pack 2 L,edeka,0.11
+321,1909,Leibniz Zoo,0.88,100 Gramm,"Bonuspack 150 Gramm, + 20 %",lidl,0.59,1428,1.49,100 Gramm,Packung 125 Gramm,edeka,1.19
+322,1911,"Weihenstephan Rahmjoghurt cremig-mild Erdbeere, 10 % Fett",0.35,100 Gramm,Becher 150 Gramm,lidl,0.23,2028,0.55,100 Gramm,Becher 150 Gramm,edeka,0.37
+323,1913,Brandt Der Markenzwieback,0.93,100 Gramm,Packung 225 Gramm,lidl,0.41,1856,1.99,100 Gramm,Vorratspackung 450 Gramm,edeka,0.44
+324,1915,President Meersalzbutter mit Meersalzkörner,1.79,100 Gramm,Becher 250 Gramm,lidl,0.72,62,3.29,100 Gramm,Becher 250 Gramm,edeka,1.32
+325,1918,"Müller Frucht Buttermilch Erdbeere, 0.6% Fett",0.59,100 Gramm,Becher 500 Gramm,lidl,0.11800000000000001,1976,0.89,100 Gramm,Becher 500 Gramm,edeka,0.17800000000000002
+326,1929,Hohes C Orange mit Fruchtfleisch 100% Saft,0.88,100 ml,Pet-Flasche 1 L,lidl,0.08800000000000001,1329,0.95,100 ml,Pet-Flasche 1 L,edeka,0.095
+327,1931,Ferrero Kinder Choco Fresh 5 x 21 g,0.99,100 ml,Dose 500 ML,lidl,0.198,1380,1.59,100 Gramm,"Packung 105 Gramm, 5 Stück",edeka,1.51
+328,1940,Bertolli Brotaufstrich mit mildem Olivenöl,0.59,100 Gramm,Becher 200 Gramm,lidl,0.3,2482,1.49,100 Gramm,Packung 250 Gramm,edeka,0.6
+329,1943,Schwartau Extra Erdbeere,1.99,100 Gramm,Glas 340 Gramm,lidl,0.59,2590,1.49,100 Gramm,Glas 340 Gramm,edeka,0.44
+330,1947,"Brunch Leichter Brotaufstrich Legere Classic, 15% Fett",1.19,100 Gramm,Becher 200 Gramm,lidl,0.6,2684,1.19,100 Gramm,Becher 200 Gramm,edeka,0.6
+331,1949,Nescafe Cappucino Cremig Zart 10 x 14g,2.45,100 Gramm,Packung 140 Gramm,lidl,1.75,3763,2.89,100 Gramm,Packung 140 Gramm,edeka,2.064
+332,1951,bebe Young Care Reinigungstücher erfrischend für normale Haut,1.75,Preis pro Stück,Packung 25 Stück,lidl,0.07,3791,2.25,Preis pro Stück,Packung 25 Stück,edeka,0.09
+333,1954,Bananen ca. 6 Stück,0.69,100 Gramm, 1 KG,lidl,0.06899999999999999,2576,0.99,100 Gramm, 1 KG,edeka,0.099
+334,1957,"Hochland Sandwich Scheiben Butterkäse, 50% Fett",1.79,100 Gramm,Packung 200 Gramm,lidl,0.9,2713,1.77,100 Gramm,Packung 200 Gramm,edeka,0.89
+335,1977,Brokkoli frisch,1.29,100 Gramm,Folie 500 Gramm,lidl,0.258,2565,1.59,100 ml,Dose 0.485 L,edeka,0.328
+336,2068,Appel Fisch Minis Heringsfilet-Stücke in tomatiger Ketchup-Sauce,0.59,100 Gramm,Dose 100 Gramm,lidl,0.59,2329,0.89,100 Gramm,Dose 100 Gramm,edeka,0.89
+337,2069,Kühne Rotkohl Das Original,1.05,100 ml,Glas 720 ML,lidl,0.146,1829,0.79,100 ml,Glas 720 ML,edeka,0.11
+338,2072,Meggle die Kräuter-Butter Original mit frischen Kräutern,1.11,100 Gramm,Rolle 125  Gramm,lidl,0.89,1401,1.69,100 Gramm,Rolle 125  Gramm,edeka,1.35
+339,2073,"Adler Edelcreme Champignon, 2 Ecken,  60% Fett",0.79,100 Gramm,Packung 100 Gramm,lidl,0.79,1897,1.19,100 Gramm,Packung 100 Gramm,edeka,1.19
+340,2074,Boursin Frischkäse mit Pfeffer,1.59,100 Gramm,Becher 150 Gramm,lidl,1.06,2060,1.99,100 Gramm,Becher 150 Gramm,edeka,1.33
+341,2075,"Arla Esrom Classic Dänischer Schnittkäse in Scheiben, 45 % Fett",1.49,100 Gramm,Packung 175 Gramm,lidl,0.85,1366,1.99,100 Gramm,Packung 175 Gramm,edeka,1.14
+342,2076,Mikado Milchschokolade,0.99,100 Gramm,Packung 75 Gramm,lidl,1.32,2428,1.29,100 Gramm,Packung 75 Gramm,edeka,1.72
+343,2077,Lorenz Crunchips Cheese & Onion,1.19,100 Gramm,Beutel 200  Gramm,lidl,0.6,1304,1.49,100 Gramm,Beutel 200  Gramm,edeka,0.75
+344,2078,Langnese Cremissimo Schwarzwälder Kirsch,1.88,100 ml,Packung 900 ML,lidl,0.209,2146,2.99,100 ml,Packung 900 ML,edeka,0.332
+345,2079,Milram Frühlingsquark 40 % Fett,0.69,100 Gramm,Becher 200 Gramm,lidl,0.35,821,0.99,100 Gramm,Becher 200 Gramm,edeka,0.5
+346,2080,"Danone Actimel  4-er Himbeere, 4 x 100 g. 0,1 % Fett",1.39,100 Gramm,Packung 400 Gramm,lidl,0.348,1781,1.59,100 Gramm,Packung 400 Gramm,edeka,0.39799999999999996
+347,2081,Teekanne Winterzeit 20 x 3 g,1.59,100 Gramm,Packung 60 Gramm,lidl,2.65,2446,2.19,100 Gramm,Packung 60 Gramm,edeka,3.65
+348,2082,Weihenstephan Sahne zum Kochen 15% 50% weniger Fett,0.69,100 Gramm,"Getränkekarton 325 Gramm,  + 30 % gratis",lidl,0.21,1934,1.19,100 Gramm,Getränkekarton 250 Gramm,edeka,0.48
+349,2085,Dr. Oetker Vitalis Schoko Müsli klassisch,2.79,100 Gramm,Packung 600 Gramm,lidl,0.465,672,2.22,100 Gramm,Packung 600 Gramm,edeka,0.37
+350,2086,Maggi Meisterklasse Sauce Hollandaise klassisch,0.79,100 Gramm,Beutel 32 Gramm,lidl,2.47,1843,0.59,100 Gramm,Beutel 32 Gramm,edeka,1.84
+351,2087,Dr. Oetker Kirsch Grütze,0.69,100 Gramm,Becher 160 Gramm,lidl,0.431,2041,0.85,100 Gramm,Becher 160 Gramm,edeka,0.5309999999999999
+352,2088,Müller Schoko Pudding mit Sauce Vanillegeschmack,0.77,100 Gramm,Becher 450 Gramm,lidl,0.17,1119,1.19,100 Gramm,Becher 450 Gramm,edeka,0.26
+353,2089,Schwartau Fruit 2 Day Ananas-Banane,2.69,100 Gramm,"Packung 352.5  Gramm, 15 x 23.5 g",lidl,0.76,2460,1.99,100 ml,Doppelpackung 400 ML,edeka,0.5
+354,2090,Kinder Country,1.79,100 Gramm,Glas 340 Gramm,lidl,0.53,1277,1.79,100 Gramm,"Packung 211.5 Gramm, 9 x 23,5",edeka,0.85
+355,2092,Kühne würzen + genießen Knoblauch Sauce,0.65,100 Gramm,Beutel 175 Gramm,lidl,0.37,1344,0.99,100 ml,Flasche Glas 250 ML,edeka,0.4
+356,2095,"Optiwell Joghurt Himbeere, 4 x 125 g",1.45,100 Gramm,Packung 400 Gramm,lidl,0.36,2046,0.99,100 Gramm,Packung 500 Gramm,edeka,0.2
+357,2101,Rügenwalder Mühlen Schinken Zarter Kochschinken,1.89,100 Gramm,Packung 200 Gramm,lidl,0.95,1988,1.99,100 Gramm,Packung 100 Gramm,edeka,1.99
+358,2104,Iglo Viva Italia Feine Ricotta-Spinat-Tortelloni in Käse-Sahne-Sauce,1.75,100 Gramm,Packung 480 Gramm,lidl,0.365,2108,2.29,100 Gramm,Packung 440 Gramm,edeka,0.52
+359,2105,Sonnen Bassermann Hacksteaks in pikanter Bratensoße,0.85,100 Gramm,Dose 200 Gramm,lidl,0.43,1628,1.99,100 Gramm,Packung 480 Gramm,edeka,0.415
+360,2106,Mehlig & Heller Opas Weißer,1.29,100 ml,Glas 500 ML,lidl,0.258,100,2.49,100 Gramm,Glas 300 Gramm,edeka,0.83
+361,2110,Appel Heringsfilets in Piri-Mango-Creme,0.39,100 Gramm,Packung 500 Gramm,lidl,0.078,464,1.59,100 Gramm,Dose 200 Gramm,edeka,0.8
+362,2113,Iglo Rahmspinat portionierbar,1.29,100 Gramm,Packung 150 Gramm,lidl,0.86,1134,0.99,100 Gramm,Packung 750 Gramm,edeka,0.132
+363,2115,Milka Tender Milch Minis feine Biskuitrolle mit leckerer Milchcreme,1.49,100 Gramm,Beutel 150 Gramm,lidl,0.993,2437,1.69,100 Gramm,Beutel 150 Gramm,edeka,1.127
+364,2116,Kühne Schlemmertöpfchen Scharfe Gürkchen,1.99,100 ml,Glas 580 ML,lidl,0.34299999999999997,1974,2.49,100 ml,Glas 580 ML,edeka,0.429
+365,2119,Meggle die Knoblauch-Butter,1.11,100 Gramm,Rolle 125  Gramm,lidl,0.89,1641,1.69,100 Gramm,Rolle 125  Gramm,edeka,1.35
+366,2121,Aoste Ringsalami luftgetrocknet,3.49,100 Gramm,Packung 250 Gramm,lidl,1.4,1137,4.69,100 Gramm,Packung 250 Gramm,edeka,1.88
+367,2122,"Müller Frucht Buttermilch Kirsch-Banane, 0.6% Fett",0.29,100 Gramm,Becher 500 Gramm,lidl,0.058,1940,0.99,100 Gramm,Flasche 500 Gramm,edeka,0.198
+368,2125,"Ehrmann Früchte Traum Erdbeere, mit 50 % mehr Frucht",0.22,100 Gramm,Becher 125 Gramm,lidl,0.18,2023,0.33,100 Gramm,Becher 125 Gramm,edeka,0.26
+369,2127,Berchtesgadener Land Rahmjoghurt mild Erdbeere,0.35,100 Gramm,Becher 150 Gramm,lidl,0.23,1752,0.49,100 Gramm,Becher 150 Gramm,edeka,0.33
+370,2129,Bresso Frischkäse Mediterrane Kräuter,1.49,100 Gramm,Becher 150 Gramm,lidl,0.99,1491,1.69,100 Gramm,Becher 150 Gramm,edeka,1.13
+371,2132,"President Camembert L Original, 45% Fett i. Tr.",1.79,100 Gramm,Packung 250 Gramm,lidl,0.72,990,1.99,100 Gramm,Packung 250 Gramm,edeka,0.8
+372,2141,Frosta Nasi Goreng,2.49,100 Gramm,Packung 500 Gramm,lidl,0.4980000000000001,1115,2.79,100 Gramm,Packung 500 Gramm,edeka,0.5579999999999999
+373,2142,Frosta Hähnchen Curry,2.49,100 Gramm,Packung 500 Gramm,lidl,0.4980000000000001,1875,2.49,100 Gramm,Packung 500 Gramm,edeka,0.4980000000000001
+374,2148,"Hochland Sandwich Scheiben Gouda, leicht",1.99,100 Gramm,Packung 200 Gramm,lidl,1.0,1912,1.99,100 Gramm,Packung 200 Gramm,edeka,1.0
+375,2151,Haribo Color-Rado,0.89,100 Gramm,Beutel 300 Gramm,lidl,0.3,1852,0.55,100 Gramm,Beutel 200 Gramm,edeka,0.28
+376,2153,"Danone Activia Ballaststoffen Müsli, 4 x 115 g",1.99,100 Gramm,Packung 460 Gramm,lidl,0.433,1311,1.99,100 Gramm,Packung 460 Gramm,edeka,0.433
+377,2154,Mondamin Fix Soßenbinder hell,0.99,100 Gramm,"Packung 275 Gramm, + 10% mehr",lidl,0.36,2184,0.99,100 Gramm,Packung 250 Gramm,edeka,0.4
+378,2155,"Teekanne Harmonie für Körper und Seele Schlank und Fit,  20 x 2 g",1.79,100 Gramm,Packung 40 Gramm,lidl,4.48,1335,2.45,100 Gramm,Packung 40 Gramm,edeka,6.13
+379,2156,Havana Club Anejo 3 Anos 3 Jahre,10.99,100 ml,Flasche Glas 0.7 L,lidl,1.5699999999999998,44,13.99,100 ml,Flasche Glas 0.7 L,edeka,1.999
+380,2159,Bahlsen Waffeletten Vollmilch,1.49,100 Gramm,Packung 100 Gramm,lidl,1.49,1663,1.99,100 Gramm,Packung 100 Gramm,edeka,1.99
+381,2161,Nestle Die Weisse Crisp,0.79,100 Gramm,Tafel 100 Gramm,lidl,0.79,1599,0.89,100 Gramm,Tafel 100 Gramm,edeka,0.89
+382,2165,Wernesgrüner Pils Legende,0.49,100 ml,Flasche Glas 0.5 L,lidl,0.098,1619,10.99,100 ml,Kasten 10 L,edeka,0.11
+383,2169,"Rügenwalder Mühlen Mett Zwiebelmett fein gewürzt, 2 x 62.5 g",1.49,100 Gramm,Becher 125 Gramm,lidl,1.19,1718,1.99,100 Gramm,Becher 125 Gramm,edeka,1.59
+384,2170,"cp Petri Petrella Frischkäsezubereitung Schnittlauch, 24% Fett",1.29,100 Gramm,Schale 140 Gramm,lidl,0.92,1920,1.59,100 Gramm,Schale 125 Gramm,edeka,1.27
+385,2172,Granini Trinkgenuss Orange mit Fruchtfleisch Fruchtgehalt: 100 %,0.95,100 ml,Pet-Flasche 1 L,lidl,0.095,1778,0.99,100 ml,Pet-Flasche 1 L,edeka,0.099
+386,2173,Russian Standard Original Vodka,9.99,100 ml,Flasche Glas 0.7 L,lidl,1.4269999999999998,1888,11.99,100 ml,Flasche Glas 0.7 L,edeka,1.713
+387,2181,Uncle Bens Spitzen-Langkorn-Reis 20 Minuten im Kochbeutel,2.79,100 Gramm,"Packung 1000 Gramm, 8 x 125 g",lidl,0.27899999999999997,2216,3.49,100 Gramm,"Packung 1000 Gramm, 8 x 125 g",edeka,0.34900000000000003
+388,2185,"Milram Burlander leicht, in Scheiben",1.19,100 Gramm,Packung 175 Gramm,lidl,0.68,1139,1.99,100 Gramm,Packung 175 Gramm,edeka,1.14
+389,2189,Milka Crispello Pudding a la Vanille Pudding,1.79,100 Gramm,Packung 150 Gramm,lidl,1.19,1842,1.99,100 Gramm,Packung 150 Gramm,edeka,1.33
+390,2190,Milka Crispello Pudding a la Schoko Pudding,1.79,100 Gramm,Packung 150 Gramm,lidl,1.19,1841,1.99,100 Gramm,Packung 150 Gramm,edeka,1.33
+391,2201,Ferrero Fiesta Kuchen Snack,3.79,100 Gramm,Packung 400 Gramm,lidl,0.95,1839,3.79,100 Gramm,Packung 400 Gramm,edeka,0.95
+392,2204,Duplo Big Pack 20 Riegel Sparpack,2.99,100 Gramm,Packung 364 Gramm,lidl,0.82,1617,2.5,100 Gramm,Packung 364 Gramm,edeka,0.69
+393,2229,Idee Kaffee Classic,3.59,100 Gramm,Packung 500 Gramm,lidl,0.718,2893,3.45,100 Gramm,Packung 500 Gramm,edeka,0.6900000000000001
+394,2231,Thomy Delikatess Mayonnaise,1.29,100 ml,Tube 200 ML,lidl,0.645,501,2.99,100 ml,Glas 500 ML,edeka,0.5980000000000001
+395,2232,"Müller Müllermilch Erdbeere, 1,5 % Fett",0.79,100 Gramm,Flasche Kunststoff 400 Gramm,lidl,0.198,2694,0.49,100 Gramm,Flasche Kunststoff 400 Gramm,edeka,0.12300000000000001
+396,2235,Herta Finesse zarte Putenbrust mit Honig,1.89,100 Gramm,Packung 150 Gramm,lidl,1.26,2776,2.19,100 Gramm,Packung 150 Gramm,edeka,1.46
+397,2236,Aoste Stickado Minisalamis Walnuss,1.99,100 Gramm,Packung 70 Gramm,lidl,2.84,3798,1.99,100 Gramm,Packung 70 Gramm,edeka,2.84
+398,2238,Ferrero Rondnoir,2.99,100 Gramm,Packung 120 Gramm,lidl,2.49,3734,2.99,100 Gramm,Packung 120 Gramm,edeka,2.49
+399,2239,"Danone Actimel Classic, 0,1% Fett",1.99,100 Gramm,"Packung 800 Gramm, 8 x 100 g",lidl,0.24900000000000005,3022,2.22,100 Gramm,"Packung 800 Gramm, 8 x 100 g",edeka,0.278
+400,2242,Rügenwalder Pommersche Gutsleberwurst fein,1.69,100 Gramm,Becher 125 Gramm,lidl,1.35,4061,1.79,100 Gramm,Becher 125 Gramm,edeka,1.43
+401,2245,Paprika gelb,2.45,100 Gramm,Packung 280 Gramm,lidl,0.88,3945,4.99,100 Gramm, 1 KG,edeka,0.499
+402,2246,Iglo Lachs Filetstäbchen 100% Wildlachsfilet,7.9,100 Gramm,Packung 1 KG,lidl,0.79,2750,2.89,100 Gramm,"Packung 224 Gramm, 8 Stück,",edeka,1.29
+403,2248,Lipton Ice Tea Zero Sugar Peach,1.05,100 ml,Pet-Flasche 1.25 L,lidl,0.08399999999999999,2971,1.29,100 ml,Pet-Flasche 1.5 L,edeka,0.086
+404,2250,Rama mit Butter mit Meersalz,1.19,100 Gramm,Becher 225 Gramm,lidl,0.53,3100,1.49,100 Gramm,Becher 225 Gramm,edeka,0.66
+405,2305,Lorenz Erdnuss Locken Classic,1.89,100 Gramm,Beutel 250 Gramm,lidl,0.76,4449,1.79,100 Gramm,Beutel 250 Gramm,edeka,0.72
+406,2308,Vernel Classic Wild-Rose,2.89,100 ml,"Flasche Kunststoff 2 L, 56 WL",lidl,0.145,4209,1.39,100 ml,Flasche Kunststoff 1 L,edeka,0.13899999999999998
+407,2309,Dallmayr Prodomo Naturmild,5.49,100 Gramm,Packung 500 Gramm,lidl,1.0979999999999999,4192,3.88,100 Gramm,Packung 500 Gramm,edeka,0.7759999999999999
+408,2311,Melitta Cafe Montana Premium,3.69,100 Gramm,Packung 500 Gramm,lidl,0.738,4935,2.77,100 Gramm,Packung 500 Gramm,edeka,0.5539999999999999
+409,2312,Melitta Cafe Harmonie naturmild,5.69,100 Gramm,Packung 500 Gramm,lidl,1.138,4092,3.59,100 Gramm,Packung 500 Gramm,edeka,0.718
+410,2313,Melitta Cafe Auslese Mild,4.95,100 Gramm,Packung 500 Gramm,lidl,0.99,4195,2.75,100 Gramm,Packung 500 Gramm,edeka,0.55
+411,2315,Barilla Pesto alla Calabrese,2.89,100 Gramm,Glas 190 Gramm,lidl,1.52,4796,2.69,100 Gramm,Glas 190 Gramm,edeka,1.42
+412,2316,Sprite,0.89,100 ml,Pet-Flasche 1.25 L,lidl,0.071,4951,0.85,100 ml," 6 L, 12 x 500 ml, Mehrwegflasche",edeka,0.014000000000000002
+413,2317,Fanta Orange,0.89,100 ml,Pet-Flasche 1.25 L,lidl,0.071,4566,0.89,100 ml,Pet-Flasche 1 L,edeka,0.08900000000000001
+414,2318,Volvic Mineralwasser Naturelle,0.59,100 ml,Pet-Flasche 1.5 L,lidl,0.039,4413,0.59,100 ml,Pet-Flasche 1.5 L,edeka,0.039
+415,2319,Vittel Natürliches Mineralwasser ohne Kohlensäure,0.75,100 ml,Pet-Flasche 2 L,lidl,0.038,4212,2.49,100 ml,"Pack 9 L,  6 x 1,5 L",edeka,0.028000000000000004
+416,2321,DanKlorix Hygiene-Reiniger Klassisch,2.65,100 ml,Flasche Kunststoff 1500 ML,lidl,0.177,5011,2.69,100 ml,Flasche Kunststoff 1500 ML,edeka,0.179
+417,2322,Rotkäppchen Sekt Trocken,3.99,100 ml,Flasche Glas 0.75 L,lidl,0.532,4219,1.29,100 ml,Flasche Glas 0.2 L,edeka,0.645
+418,2324,Listerine Mundspülung Coolmint Minzstark,3.95,100 ml,Flasche Glas 500 ML,lidl,0.79,4388,4.25,100 ml,Flasche Glas 500 ML,edeka,0.85
+419,2326,Cilit Bang Kraftreiniger Multi-Fett,3.85,100 ml,Sprühflasche 750 ML,lidl,0.513,4500,3.99,100 ml,Sprühflasche 750 ML,edeka,0.532
+420,2328,Mövenpick Espresso ganze Bohnen,9.99,100 Gramm,Packung 1000 Gramm,lidl,0.9990000000000001,4939,12.49,100 Gramm,Packung 1000 Gramm,edeka,1.249
+421,2329,Averna Amaro Siciliano,8.99,100 ml,Flasche Glas 700 ML,lidl,1.284,4420,11.99,100 ml,Flasche Glas 700 ML,edeka,1.713
+422,2330,Jim Beam Bourbon Whisky Kentucky Straight Bourbon Whiskey,9.99,100 ml,Flasche Glas 700 ML,lidl,1.4269999999999998,2509,9.99,100 ml,Flasche Glas 700 ML,edeka,1.4269999999999998
+423,2331,Metaxa 5 Sterne Classic,8.99,100 ml,Flasche Glas 0.7 L,lidl,1.284,4207,11.99,100 ml,Flasche Glas 0.7 L,edeka,1.713
+424,2332,"Campari Bitter Aperitif, 25 % Vol.",10.99,100 ml,Flasche Glas 700 ML,lidl,1.5699999999999998,4099,11.49,100 ml,Flasche Glas 700 ML,edeka,1.641
+425,2333,Mumm Dry Sekt trocken,3.99,100 ml,Flasche Glas 0.75 L,lidl,0.532,4098,3.66,100 ml,Flasche Glas 0.75 L,edeka,0.488
+426,2334,Lipton Ice Tea Peach,1.25,100 ml,Pet-Flasche 1.5 L,lidl,0.08299999999999999,4196,0.79,100 ml,Pet-Flasche 1.5 L,edeka,0.053000000000000005
+427,2336,"Chaumes Weichkäse mit roter Rinde, 55% Fett",2.49,100 Gramm,Packung 200 Gramm,lidl,1.25,4216,2.49,100 Gramm,Packung 200 Gramm,edeka,1.25
+428,2337,Duplo,1.75,100 Gramm,"Packung 180 Gramm, 10 x 18g",lidl,0.97,4091,1.11,100 Gramm,"Packung 180 Gramm, 10 x 18g",edeka,0.62
+429,2338,"Smirnoff Vodka Red Label 37,5 % Vol.",8.99,100 ml,Flasche Glas 0.7 L,lidl,1.284,2512,8.99,100 ml,Flasche Glas 0.7 L,edeka,1.284
+430,2341,Jules Mumm Sekt Rose Dry trocken,3.69,100 ml,Flasche Glas 0.75 L,lidl,0.49200000000000005,4556,3.59,100 ml,Flasche Glas 0.75 L,edeka,0.479
+431,2342,MM Extra trocken,2.69,100 ml,Flasche Glas 0.75 L,lidl,0.359,2533,3.29,100 ml,Flasche Glas 0.75 L,edeka,0.439
+432,2343,Lenor Weichspüler Sensitiv,1.85,100 ml,Flasche Kunststoff 1 L,lidl,0.185,4221,1.99,100 ml,"Flasche Kunststoff 1.2 L, +20% gratis, 34 WL",edeka,0.0
+433,2344,"Rotkäppchen Riesling Sekt Flaschengärung, trocken",3.99,100 ml,Flasche Glas 0.75 L,lidl,0.532,5436,3.99,100 ml,Flasche Glas 0.75 L,edeka,0.532
+434,2345,Fa Deodorant Sport,1.15,100 ml,Spraydose 150 ML,lidl,0.77,5220,1.35,100 ml,Spraydose 150 ML,edeka,0.9
+435,2347,Sanella Zum Backen / Braten / Kochen Margarine,1.59,100 Gramm,Becher 500 Gramm,lidl,0.318,4217,0.99,100 Gramm,Becher 500 Gramm,edeka,0.198
+436,2353,Purina One Adult Huhn & Reis,2.95,100 Gramm,Beutel 800 Gramm,lidl,0.369,4436,5.95,100 Gramm,Beutel 1500 Gramm,edeka,0.397
+437,2354,Suppengrün,1.29,100 Gramm,Schale 500 Gramm,lidl,0.258,5647,1.99,100 Gramm,Packung 500 Gramm,edeka,0.39799999999999996
+438,2361,Persil Universal Pulver,16.99,Preis pro Waschladung,Packung 100 Wäschen,lidl,0.17,2534,12.75,Preis pro Waschladung,"Packung XXL, 65 Wäschen",edeka,0.2
+439,2362,Somat 7 Tabs,10.95,100 Gramm,Packung 1.176 KG,lidl,0.9309999999999999,4210,6.29,100 Gramm,"Packung 26 Stück, 494 g",edeka,0.0
+440,2363,Chantre Cuvee Rouge 30 % Vol.,5.99,100 ml,Flasche Glas 0.7 L,lidl,0.8560000000000001,4587,8.49,100 ml,Flasche Glas 0.7 L,edeka,1.213
+441,2368,Ananas frisch,1.69,Preis pro Stück, 1 Stück,lidl,1.69,5528,1.79,Preis pro Stück, 1 Stück,edeka,1.79
+442,2372,"Arla Kaergarden Balance gesalzen, 30% weniger Fett",1.79,100 Gramm,Becher 250  Gramm,lidl,0.72,4621,1.79,100 Gramm,Becher 250  Gramm,edeka,0.72
+443,2373,Grünländer Das Original mild & nussig,1.99,100 Gramm,"Packung 175 Gramm, 8 Scheiben",lidl,1.14,4615,1.99,100 Gramm,"Packung 175 Gramm, 8 Scheiben",edeka,1.14
+444,2393,"Adler Edelcreme Kräuter,  2 x 50 g, 60% Fett",1.89,100 Gramm,Dose 800 Gramm,lidl,0.23600000000000002,2753,1.19,100 Gramm,Packung 100 Gramm,edeka,1.19
+445,2395,Dr. Oetker Ristorante Pizza Spinaci,2.59,100 Gramm,Packung 390 Gramm,lidl,0.66,3313,1.99,100 Gramm,Packung 390 Gramm,edeka,0.51
+446,2397,"Weihenstephan Frischer Joghurt mild 0,1 % Fett",0.79,100 Gramm,Becher 500 Gramm,lidl,0.158,3050,0.79,100 Gramm,Becher 500 Gramm,edeka,0.158
+447,2398,Dr. Oetker Süße Mahlzeit Milchreis nach klassischer Art,1.03,100 Gramm,Packung 125 Gramm,lidl,0.82,3373,0.95,100 Gramm,Packung 125 Gramm,edeka,0.76
+448,2399,Maggi Delikatess Soße zu Schweinebraten,0.99,100 Gramm,"Packung 69 Gramm, 3 x 23g",lidl,1.435,2819,0.99,100 Gramm,"Packung 69 Gramm, 3 x 23g",edeka,1.435
+449,2400,Knorr Fix Hackbraten,0.75,100 Gramm,Beutel 100 Gramm,lidl,0.75,3524,0.55,100 Gramm,Beutel 100 Gramm,edeka,0.55
+450,2403,Maggi fix & frisch Spaghetti Bolognese,0.79,100 Gramm,Beutel 46 Gramm,lidl,1.72,2469,0.49,100 Gramm,Beutel 46 Gramm,edeka,1.07
+451,2404,Bahlsen ABC Russisch Brot,0.99,100 Gramm,"Beutel 125 Gramm, Superpack + 25% mehr ",lidl,0.79,2826,0.99,100 Gramm,Beutel 100 Gramm,edeka,0.99
+452,2415,"Knorr Sauce Hollandaise light, tafelfertig, 15% Fett",1.09,Preis pro Stück,Beutel 5 Stück,lidl,0.22,4071,1.09,100 ml,Getränkekarton 250 ML,edeka,0.44
+453,2417,"Knorr Salat Krönung Dill-Kräuter, ergibt 90 ml",2.79,100 Gramm,Packung 600 Gramm,lidl,0.465,3348,0.99,Preis pro Stück,Beutel 5 Stück,edeka,0.2
+454,2418,"Leerdammer Delacreme mild, würzig",0.89,100 Gramm,Packung 230 Gramm,lidl,0.39,3094,1.99,100 Gramm,Packung 150 Gramm,edeka,1.33
+455,2419,Kölln Schoko-Kirsch Müsli,2.49,100 Gramm,Packung 150 Gramm,lidl,1.66,3424,2.69,100 Gramm,Packung 600 Gramm,edeka,0.4480000000000001
+456,2420,Wasa Mjölk,1.59,100 Gramm,Becher 150 Gramm,lidl,1.06,2950,1.09,100 Gramm,Packung 230 Gramm,edeka,0.47
+457,2421,"Saint Albray mild würzige Scheiben cremig fein, 60 % Fett",1.49,100 Gramm,Becher 150 Gramm,lidl,0.99,3262,2.49,100 Gramm,Packung 150 Gramm,edeka,1.66
+458,2422,Bresso Weichkäse Natur,1.89,100 Gramm,Packung 200 Gramm,lidl,0.95,3823,1.99,100 Gramm,Packung 200 Gramm,edeka,1.0
+459,2424,Schogetten Nugat,0.69,100 Gramm,"Tafel 116.6 Gramm,  + 16% mehr Inhalt",lidl,0.59,1183,0.69,100 Gramm,"Tafel 116.6 Gramm,  + 16% mehr Inhalt",edeka,0.59
+460,2427,Kühne würzen + genießen Curry Sauce,0.89,100 ml,Flasche Glas 250 ML,lidl,0.36,2730,0.99,100 ml,Flasche Glas 250 ML,edeka,0.4
+461,2428,"Danone Actimel zum Löffeln 4-er Vanille, 4 x 125 g",1.39,100 Gramm,Packung 500 Gramm,lidl,0.28,3239,1.49,100 Gramm,Packung 500 Gramm,edeka,0.3
+462,2430,"Müller Joghurt mit der Ecke Schlemmer Kirsche, 3.5 % Fett",0.59,100 Gramm,Becher 150 Gramm,lidl,0.39,7124,0.33,100 Gramm,Becher 150 Gramm,edeka,0.22
+463,4269,"Müller Joghurt mit der Ecke Schlemmer Kirsche, 3.5 % Fett",0.49,100 Gramm,Becher 150 Gramm,lidl,0.33,7124,0.33,100 Gramm,Becher 150 Gramm,edeka,0.22
+464,2431,"Müller Joghurt mit der Ecke Knusper Original, 3.8 % Fett",0.49,100 Gramm,Becher 150 Gramm,lidl,0.33,2907,0.33,100 Gramm,Becher 150 Gramm,edeka,0.22
+465,2433,Chinakohl Deutschland Kl.1,0.89,100 Gramm, 1 KG,lidl,0.08900000000000001,2582,0.69,100 Gramm, 1 KG,edeka,0.06899999999999999
+466,2434,Rügenwalder Pommersche Gutsleberwurst grob,1.59,100 Gramm,Becher 125 Gramm,lidl,1.27,4060,1.79,100 Gramm,Becher 125 Gramm,edeka,1.43
+467,2438,Kohlrabi Deutschland,0.39,Preis pro Stück, 1 Stück,lidl,0.39,3980,0.59,Preis pro Stück, 1 Stück,edeka,0.59
+468,2439,Feldsalat küchenfertig,0.59,100 Gramm,Packung 150 Gramm,lidl,0.39,3948,1.29,100 Gramm,Packung 150 Gramm,edeka,0.86
+469,2440,Deutscher Spargel weiss frisch,2.99,100 Gramm,Packung 500 Gramm,lidl,0.5980000000000001,3955,5.9,100 Gramm,"Bund weiß violett, 16mm+, Kl. II, Deutschland",edeka,0.5900000000000001
+470,2445,Kölln Müsli Schoko 30% weniger Zucker,2.99,100 Gramm,Packung 600 Gramm,lidl,0.4980000000000001,3136,2.99,100 Gramm,Packung 600 Gramm,edeka,0.4980000000000001
+471,2447,Freixenet Carta Nevada Semi Seco halbtrocken,4.44,100 ml,Flasche Glas 750 ML,lidl,0.5920000000000001,2510,4.44,100 ml,Flasche Glas 750 ML,edeka,0.5920000000000001
+472,2447,Freixenet Carta Nevada Semi Seco halbtrocken,4.44,100 ml,Flasche Glas 750 ML,lidl,0.5920000000000001,9164,1.88,100 ml,Flasche Glas 0.2 L,edeka,0.94
+473,2448,Lavazza Caffe Crema Classico,9.99,100 Gramm,Beutel 1000 Gramm,lidl,0.9990000000000001,2527,13.59,100 Gramm,Beutel 1000 Gramm,edeka,1.359
+474,2449,Nestle Nesquick Das Plus zur Milch Nachfüllbeutel,1.69,100 Gramm,Nachfüllbeutel 500 Gramm,lidl,0.338,4947,1.79,100 Gramm,Nachfüllbeutel 500 Gramm,edeka,0.358
+475,2450,Lenor Weichspüler Sommerbrise,1.75,100 ml,Flasche Kunststoff 1 L,lidl,0.175,2626,0.99,100 Gramm,Packung 150 Gramm,edeka,0.66
+476,2451,Barilla Pesto Rosso,2.89,100 ml,Glas 190 ML,lidl,1.52,4797,2.69,100 ml,Glas 190 ML,edeka,1.42
+477,2466,Wilthener Goldkrone 28 % Vol.,5.29,100 ml,Flasche Glas 0.7 L,lidl,0.7559999999999999,4402,5.49,100 ml,Flasche Glas 0.7 L,edeka,0.784
+478,2468,Der General Univeral Allzweckreiniger Bergfrühling,1.65,100 ml,Flasche Kunststoff 500 ML,lidl,0.33,5012,2.69,100 ml,Flasche Kunststoff 1500 ML,edeka,0.179
+479,2470,Osborne Veterano,8.99,100 ml,Flasche Glas 0.7 L,lidl,1.284,4547,8.99,100 ml,Flasche Glas 0.7 L,edeka,1.284
+480,2512,Captain Morgan Original Spiced Gold 35 % Vol.,9.99,100 ml,Flasche Glas 0.7 L,lidl,1.4269999999999998,2856,1.59,Preis pro 1 Meter,Packung 30 Meter,edeka,0.0
+481,2672,"Weihenstephan Haltbare Alpenmilch fettarm, 1,5% Fett",0.79,100 ml,Getränkekarton 1 L,lidl,0.079,1451,0.79,100 ml,Getränkekarton 1 L,edeka,0.079
+482,2673,"Leerdammer Lightlife 8 Scheiben, 32% Fett",1.99,100 Gramm,Packung 200 Gramm,lidl,1.0,2699,2.19,100 Gramm,Packung 200 Gramm,edeka,1.1
+483,2676,Uncle Bens Sauce Chinesisch Süß-Sauer Extra Gemüse,1.99,100 Gramm,"Glas 750 Gramm, XXL",lidl,0.265,910,0.88,100 Gramm,"Packung 460 Gramm, 4 x 115g",edeka,0.19
+484,2678,"Reinert Chambelle Lachsschinken, geschnitten",1.39,100 Gramm,Vakuum 60 Gramm,lidl,2.32,3160,1.99,100 Gramm,Vakuum 60 Gramm,edeka,3.32
+485,2680,Leibnitz Choco Edelherb,0.88,100 Gramm,Packung 125  Gramm,lidl,0.7,3976,1.39,100 Gramm,Packung 125  Gramm,edeka,1.11
+486,2681,"Knorr Asia Gebratene Nudeln Curry, 2 Portionen",0.99,100 Gramm,Beutel 123 Gramm,lidl,0.8,3625,1.39,100 Gramm,Beutel 123 Gramm,edeka,1.13
+487,2682,Milka Trauben Nuss Schokolade,0.79,100 Gramm,Tafel 100  Gramm,lidl,0.79,1088,0.95,100 Gramm,Tafel 100  Gramm,edeka,0.95
+488,2684,Herta Luftgetrocknete Mettwurst,3.49,100 Gramm,Packung 500 Gramm,lidl,0.7,3799,5.49,100 Gramm,Packung 500 Gramm,edeka,1.1
+489,2685,Nescafe frappe Original,1.99,100 Gramm,Dose 275 Gramm,lidl,0.72,3924,0.49,100 Gramm,Beutel 40 Gramm,edeka,1.23
+490,2687,Schwartau Extra Samt Mango,1.79,100 Gramm,Glas 270 Gramm,lidl,0.66,3693,1.89,100 Gramm,Glas 270 Gramm,edeka,0.7
+491,2690,Schwartau Dessert Sauce Erdbeer,0.89,100 ml,Flasche Glas 125 ML,lidl,0.71,3142,1.39,100 ml,Flasche Glas 125 ML,edeka,1.11
+492,2692,Dreistern Schweinskopfsülze,1.19,100 Gramm,Glas 400 Gramm,lidl,0.298,2820,1.79,100 Gramm,Glas 400 Gramm,edeka,0.4480000000000001
+493,2695,Milka Joghurt Schokolade,0.79,100 Gramm,Tafel 100 Gramm,lidl,0.79,3900,0.79,100 Gramm,Tafel 100 Gramm,edeka,0.79
+494,2699,Nestle Yes Cacao 3-er,1.39,100 Gramm,"Packung 96 Gramm, 3 x 32",lidl,1.45,2711,1.69,100 Gramm,"Packung 96 Gramm, 3 x 32",edeka,1.76
+495,2701,Kiri Frischkäse Kräuter,1.11,100 Gramm,Packung 120 Gramm,lidl,0.93,3093,1.49,100 Gramm,Packung 120 Gramm,edeka,1.24
+496,2702,Bresso Antipasti Frischkäse-Häppchen mit Kräutern der Provence,1.89,100 Gramm,Packung 100 Gramm,lidl,1.89,2599,2.39,100 Gramm,Packung 100 Gramm,edeka,2.39
+497,2704,"Zott Sahne Joghurt mild Erdbeer, 1,5 % Fett",0.33,100 Gramm,Becher 150  Gramm,lidl,0.22,2999,0.33,100 Gramm,Becher 150  Gramm,edeka,0.22
+498,2707,Wirsing Deutschland,0.99,100 Gramm, 1 KG,lidl,0.099,4016,0.69,100 Gramm, 1 KG,edeka,0.06899999999999999
+499,2708,Knoblauch,1.29,100 Gramm,Netz 200 Gramm,lidl,0.65,3944,9.9,100 Gramm,Zopf 1 KG,edeka,0.99
+500,2711,Livio Klassik-Pflanzenöl Sonnenblumenöl,1.49,100 ml,Flasche Glas 750 ML,lidl,0.19899999999999998,2742,1.99,100 ml,Dose Weißblech 500 ML,edeka,0.39799999999999996
+501,2907,Livio Klassik-Pflanzenöl Sonnenblumenöl,1.79,100 Gramm,Glas 340 Gramm,lidl,0.526,2742,1.99,100 ml,Dose Weißblech 500 ML,edeka,0.39799999999999996
+502,2723,Dallmayr Entcoffeiniert,3.49,100 Gramm,Glas 375 Gramm,lidl,0.9309999999999999,4940,4.79,100 Gramm,Packung 500 Gramm,edeka,0.958
+503,2724,Jacobs Krönung Balance,9.99,100 ml,Flasche Glas 700 ML,lidl,1.4269999999999998,4514,3.15,100 Gramm,Packung 500 Gramm,edeka,0.63
+504,2725,Langnese Bergblüten Honig kalt geschleudert,2.45,100 Gramm,Packung 125 Gramm,lidl,1.96,4414,3.99,100 Gramm,Glas 375 Gramm,edeka,1.064
+505,2726,Listerine Mundspülung Freshmint,3.95,100 ml,Flasche Glas 500 ML,lidl,0.79,4541,2.69,100 ml,Flasche Glas 500 ML,edeka,0.5379999999999999
+506,2813,Oro Di Parma Tomatenmark Classic 3-fach konzentriert,0.89,100 Gramm,Tube 200 Gramm,lidl,0.45,2679,1.19,100 Gramm,Tube 200 Gramm,edeka,0.6
+507,2815,Dr. Oetker Die Ofenfrische Pizza Thunfisch,2.59,100 Gramm,Packung 420 Gramm,lidl,0.617,2801,2.22,100 Gramm,Packung 420 Gramm,edeka,0.529
+508,2816,Ehrmann Grand Dessert Schoko,0.37,100 Gramm,Becher 200 Gramm,lidl,0.19,2689,0.39,100 Gramm,Becher 200 Gramm,edeka,0.2
+509,2817,Ehrmann Grand Dessert Vanille,0.37,100 Gramm,Becher 200 Gramm,lidl,0.19,3212,0.59,100 Gramm,Becher 200 Gramm,edeka,0.3
+510,2818,"Milram Frühlingsquark leicht, 2,4% Fett",0.69,100 Gramm,Becher 200 Gramm,lidl,0.35,2586,0.99,100 Gramm,Becher 200 Gramm,edeka,0.5
+511,2819,Birkel No.1 Hartweizen Eiernudeln Gabelspaghetti,0.77,100 Gramm,Packung 500 Gramm,lidl,0.154,3442,1.29,100 Gramm,Packung 500 Gramm,edeka,0.258
+512,2823,"Müller Froop Frucht auf Joghurt Heidelbeere, 3.5 % Fett",0.49,100 Gramm,Becher 150 Gramm,lidl,0.33,2700,0.45,100 Gramm,Becher 150 Gramm,edeka,0.3
+513,2824,"Teekanne Harmonie für Körper und Seele Magenfein, 20 x 2 g",1.79,100 Gramm,Packung 40 Gramm,lidl,4.48,3772,2.79,100 Gramm,Packung 40 Gramm,edeka,6.98
+514,2826,Teekanne Sweet Kiss mit Kirsch-Erdbeer-Aroma,1.69,100 Gramm,"Packung 60 Gramm, 20 x 3 g",lidl,2.82,3767,2.19,100 Gramm,"Packung 60 Gramm, 20 x 3 g",edeka,3.65
+515,2827,"Zentis Belfrutta Auslese Erdbeere, mit 50% Fruchtgehalt",1.29,100 Gramm,Glas 340 Gramm,lidl,0.38,3677,1.89,100 Gramm,Glas 340 Gramm,edeka,0.56
+516,2828,Original Wagner Steinofen Pizza Mozzarella,2.39,100 Gramm,Packung 350 Gramm,lidl,0.68,3969,6.49,100 Gramm,Packung 500 Gramm,edeka,1.298
+517,2829,"Landliebe Haltbare fettarme Landmilch 1,5% Fett",0.85,100 ml,Getränkekarton 1 L,lidl,0.08499999999999999,2741,0.99,100 ml,Getränkekarton 1 L,edeka,0.099
+518,2832,Maggi Meisterklasse Spargel-Cremesuppe,0.59,100 Gramm,Beutel 46 Gramm,lidl,1.28,2724,0.59,100 Gramm,Beutel 46 Gramm,edeka,1.28
+519,2834,Uncle Bens Sauce Chinesisch Süß-Sauer Extra Ananas,1.29,100 Gramm,Glas 400 Gramm,lidl,0.32299999999999995,1091,1.79,100 Gramm,Glas 400 Gramm,edeka,0.4480000000000001
+520,2835,Schwartau Extra Schwarz-Kirsche,1.79,100 Gramm,Glas 340 Gramm,lidl,0.53,3689,1.89,100 Gramm,Glas 340 Gramm,edeka,0.56
+521,2836,Schwartau Extra Aprikose,1.49,100 Gramm,"Glas 374 Gramm, + 10% gratis",lidl,0.4,2731,1.49,100 Gramm,Glas 340 Gramm,edeka,0.44
+522,2837,Schwartau Extra Waldfrucht,1.79,100 Gramm,Glas 340 Gramm,lidl,0.53,3687,1.89,100 Gramm,Glas 340 Gramm,edeka,0.56
+523,2838,Zentis Aachener Pflümli Pflaumenmus,0.88,100 Gramm,Becher 450 Gramm,lidl,0.2,2823,2.58,100 Gramm,Becher 450 Gramm,edeka,0.57
+524,2841,Ferrero Kinder Happy Hippo Cacao,0.99,100 Gramm,Packung 103.5 Gramm,lidl,0.96,3015,1.49,100 Gramm,Packung 103.5 Gramm,edeka,1.44
+525,2842,Dr. Oetker Bratapfel Kuchen Großmutters Back-Ideen,2.49,100 Gramm,Packung 415 Gramm,lidl,0.6,3382,3.19,100 Gramm,Packung 415 Gramm,edeka,0.769
+526,2846,Optiwell Control Himbeer,1.95,100 ml,Packung 400 ML,lidl,0.488,3260,2.49,100 ml,Packung 400 ML,edeka,0.623
+527,2848,Becel Omega 3 Pflanzenöl,1.99,100 ml,Flasche Glas 500 ML,lidl,0.39799999999999996,3272,2.69,100 ml,Flasche Glas 500 ML,edeka,0.5379999999999999
+528,2850,Wagner Big Pizza Supreme,1.88,100 Gramm,Packung 410 Gramm,lidl,0.459,2888,1.19,100 Gramm,Flasche Glas 165 Gramm,edeka,0.72
+529,2852,Knorr Asia Indian Curry Nudeln,0.69,100 Gramm,Becher 56 Gramm,lidl,1.23,3629,0.95,100 Gramm,Becher 56 Gramm,edeka,1.7
+530,2857,"Pfanni Kartoffel Püree das Lockere, 3 x 3 Portionen",0.25,100 Gramm,Becher 150 Gramm,lidl,0.17,3449,1.29,100 Gramm,Packung 250 Gramm,edeka,0.52
+531,2863,Hawesta zarte Bratheringe nach Hausfrauenart in würziger Marinade,1.99,100 ml,"Dose 257g, ergibt 2,75 Liter",lidl,0.0,2821,1.59,100 Gramm,Dose 180 Gramm,edeka,0.883
+532,2864,Dr. Oetker Frischkäse Torte,0.95,100 ml,Pet-Flasche 1 L,lidl,0.095,3354,3.19,100 Gramm,Packung 350 Gramm,edeka,0.91
+533,2865,Herta Finesse saftiger Schinken mit Belem-Pfeffer,1.89,100 Gramm,Packung 500 Gramm,lidl,0.37799999999999995,2774,2.19,100 Gramm,Packung 150 Gramm,edeka,1.46
+534,2866,Herta Saftige Fleischwurst,1.49,100 Gramm,Becher 200 Gramm,lidl,0.75,2775,2.39,100 Gramm,Packung 500 Gramm,edeka,0.478
+535,2871,Schwartau Schoko Mac,0.89,100 Gramm,Becher 150 Gramm,lidl,0.59,3148,2.09,100 Gramm,Glas 400 Gramm,edeka,0.523
+536,2875,Schwartau Extra Samt Waldfrucht,1.79,100 Gramm,Glas 270 Gramm,lidl,0.66,3691,1.99,100 Gramm,Glas 270 Gramm,edeka,0.74
+537,2878,Schwartau Extra Samt Kiwi,1.79,100 Gramm,Glas 270 Gramm,lidl,0.66,3694,1.89,100 Gramm,Glas 270 Gramm,edeka,0.7
+538,2879,Schwartau Extra Wellness Erdbeere,1.69,100 Gramm,Glas 260 Gramm,lidl,0.65,3702,1.89,100 Gramm,Glas 260 Gramm,edeka,0.73
+539,2881,Schwartau Dessert Sauce Schokolade,0.89,100 ml,Flasche Glas 125 ML,lidl,0.71,2610,1.39,100 ml,Flasche Glas 125 ML,edeka,1.11
+540,2883,tic tac Dragee cherry mint - 100 Stück,0.85,Preis pro 100 Stück,Dose 100 Stück,lidl,0.85,3749,0.99,Preis pro 100 Stück,Dose 100 Stück,edeka,0.99
+541,2884,Meggle Grill- & Pfannen-Kartoffel Paprika-Chili,1.79,100 Gramm,Packung 400 Gramm,lidl,0.4480000000000001,2697,2.29,100 Gramm,Packung 400 Gramm,edeka,0.5730000000000001
+542,2887,Trumpf Schogetten Tiramisu,0.69,100 Gramm,Tafel 100 Gramm,lidl,0.69,3712,0.49,100 Gramm,Tafel 100 Gramm,edeka,0.49
+543,2888,Granini Trinkgenuss Pfirsich Fruchtgehalt: 50%,0.95,100 ml,Pet-Flasche 1 L,lidl,0.095,3780,1.49,100 ml,Pet-Flasche 1 L,edeka,0.149
+544,2889,Müller Fructiv ACE + F,0.69,100 Gramm,Pet-Flasche 440 Gramm,lidl,0.157,2890,0.66,100 Gramm,Pet-Flasche 440 Gramm,edeka,0.15
+545,2896,"Weihenstephan Frucht Buttermilch Erdbeere, 1% Fett",0.69,100 Gramm,Becher 500 Gramm,lidl,0.13799999999999998,3215,1.09,100 Gramm,Becher 500 Gramm,edeka,0.21800000000000005
+546,2900,"MinusL fettarme H Milch 1,5% Fett",0.99,100 ml,Getränkekarton 1 L,lidl,0.099,2763,0.99,100 ml,Getränkekarton 1 L,edeka,0.099
+547,2904,Bübchen Sonnen Milch LSF 30,0.75,100 Gramm,Flasche Kunststoff 250 Gramm,lidl,0.3,3935,4.99,100 ml,Flasche Kunststoff 150 ML,edeka,3.33
+548,2908,Wagner La Pizza Rusticale Salame Cipolla,1.99,100 Gramm,Packung 350 Gramm,lidl,0.57,3829,2.49,100 Gramm,Packung 350 Gramm,edeka,0.71
+549,2909,Wagner La Pizza Rusticale Peperoncini Piccante,1.99,100 Gramm,Packung 350 Gramm,lidl,0.57,3830,2.49,100 Gramm,Packung 350 Gramm,edeka,0.71
+550,2910,Wagner Big Pizza Texas,1.88,100 Gramm,Packung 420 Gramm,lidl,0.4480000000000001,2569,0.99,100 Gramm,Packung 400 Gramm,edeka,0.248
+551,2911,Nescafe Xpress Iced Latte,1.29,100 ml,Dose Weißblech 250 ML,lidl,0.52,3774,1.39,100 ml,Dose Weißblech 250 ML,edeka,0.56
+552,2915,Nescafe Cafe au Lait,2.99,100 Gramm,Dose 250 Gramm,lidl,1.2,3925,3.49,100 Gramm,Dose 250 Gramm,edeka,1.4
+553,2916,Mondamin Fix Soßenbinder dunkel,0.99,100 Gramm,"Packung 275 Gramm, + 10 % mehr",lidl,0.36,3393,0.99,100 Gramm,Packung 250 Gramm,edeka,0.4
+554,2917,"Müller Joghurt mit der Ecke Schoko Stars, 3.8 % Fett",0.49,100 Gramm,Becher 150 Gramm,lidl,0.33,2918,0.49,100 Gramm,Becher 150 Gramm,edeka,0.33
+555,2919,Herta Wacholderschinken Westfälische Art,0.99,100 Gramm,Packung 100 Gramm,lidl,0.99,3811,1.69,100 Gramm,Packung 100 Gramm,edeka,1.69
+556,2921,Nestle Yes Caramel 3-er 3 x 32 g,1.39,100 Gramm,Packung 96 Gramm,lidl,1.45,2963,1.69,100 Gramm,Packung 96 Gramm,edeka,1.76
+557,2923,Emmi Käse Schweizer Fondue Family & Friends,2.99,100 Gramm,Packung 400 Gramm,lidl,0.748,3090,3.49,100 Gramm,Packung 400 Gramm,edeka,0.873
+558,2925,"Müller Milchreis natur, 3% Fett",0.49,100 Gramm,Becher 200 Gramm,lidl,0.25,2793,0.33,100 Gramm,Becher 200 Gramm,edeka,0.17
+559,2949,Speisekartoffeln Deutschland vorwiegend festkochend,0.85,100 Gramm,"Netz 2,5 kg",lidl,0.034,3020,2.99,100 Gramm,Netz 10 KG,edeka,0.03
+560,2950,Lauch / Poree,1.79,100 Gramm, 1 KG,lidl,0.179,2831,0.99,100 Gramm, 1 KG,edeka,0.099
+561,2953,Radieschen Bund,0.39,Preis pro Stück, 1 Stück,lidl,0.39,2564,0.79,100 Gramm,Folie 500 Gramm,edeka,0.158
+562,2955,Milka Alpenmilch Schokolade 4+1,1.79,100 Gramm,Packung 1 KG,lidl,0.179,2931,2.99,100 Gramm,Tafel 500  Gramm,edeka,0.6
+563,2960,Mango frisch,1.79,100 ml,Dose 800 ML,lidl,0.22400000000000006,2739,0.99,Preis pro Stück,"Mango Shelly essreif, faserarm aus Peru 1 Stück",edeka,0.99
+564,2965,"Knorr Sauce Pur Feine Sauce,  4 x 0,25 L",1.39,100 ml,Packung 100 ML,lidl,1.39,4022,1.39,100 ml,Packung 100 ML,edeka,1.39
+565,2966,"Knorr Sauce Pur Bratensauce, 4 x 28 g, Portionen:  4",1.39,100 Gramm,Packung 112 Gramm,lidl,1.24,4021,1.39,100 Gramm,Packung 112 Gramm,edeka,1.24
+566,2968,Grünländer Käsewürfel mild & nussig,1.79,100 Gramm,"Packung 150 Gramm, 2 x 75g",lidl,1.19,3091,2.49,100 Gramm,"Packung 130 Gramm, 2 x 65g",edeka,1.92
+567,2979,Speisezwiebeln,1.19,100 Gramm,Beutel 1.0 KG,lidl,0.11900000000000001,3943,0.99,100 Gramm,Beutel 1.0 KG,edeka,0.099
+568,2984,"Bürger Gerollte Maultaschen traditionell und locker gerollt, 6 Stück",1.89,100 Gramm,Packung 340 Gramm,lidl,0.56,3112,1.99,100 Gramm,Packung 340 Gramm,edeka,0.59
+569,2986,"Dr. Oetker Paula Minis Vanille Pudding mit Schokoflecken, 6 x 50 g",0.99,100 Gramm,Packung 300 Gramm,lidl,0.33,3014,1.11,100 Gramm,Packung 300 Gramm,edeka,0.37
+570,2988,3D Bugles Paprika Style,0.99,100 Gramm,Beutel 100 Gramm,lidl,0.99,4025,0.99,100 Gramm,Beutel 100 Gramm,edeka,0.99
+571,3007,Jacobs Auslese Klassisch,3.49,100 Gramm,Packung 500 Gramm,lidl,0.6980000000000001,2835,3.49,100 Gramm,Packung 500 Gramm,edeka,0.6980000000000001
+572,3014,Onko Kaffee klassisch,2.45,100 ml,Flasche Kunststoff 200 ML,lidl,1.23,4093,4.49,100 Gramm,Packung 500 Gramm,edeka,0.898
+573,3016,Pantene Pro-V Shampoo Volumen Pur,26.85,Preis pro 100 Stück,"Karton 120 Stück, 3 x 40 Stück ",lidl,22.38,4094,4.49,100 ml,Flasche Kunststoff 400 ML,edeka,1.12
+574,3018,Moskovskaya Russischer Wodka,5.79,100 ml,Flasche Glas 0.5 L,lidl,1.158,4095,7.99,100 ml,Flasche Glas 0.5 L,edeka,1.598
+575,3019,Persil Color Pulver,19.99,Preis pro Waschladung,Packung 130 Wäschen,lidl,0.15,5004,12.45,Preis pro Waschladung,"Packung 50 WL, 4,75kg",edeka,0.0
+576,3020,"Frolic Complete & Balanced mit Rind, Karotten, Getreide",2.49,100 Gramm,Packung 1500 Gramm,lidl,0.16599999999999998,4220,2.79,100 Gramm,Packung 1500 Gramm,edeka,0.18600000000000003
+577,3021,Bacardi Superior Rum,9.99,100 ml,Flasche Glas 700 ML,lidl,1.4269999999999998,2526,8.88,100 ml,Flasche Glas 700 ML,edeka,1.2690000000000001
+578,3160,"Langnese Feine Auslese Honig Landhonig, kalt geschleudert",3.99,100 Gramm,Glas 500 Gramm,lidl,0.7979999999999999,6042,1.99,100 Gramm,Glas 250 Gramm,edeka,0.7959999999999999
+579,3165,Bertolli Extra Vergine Robusto das Kräftige,4.49,100 ml,Flasche Glas 500 ML,lidl,0.898,5941,3.29,100 ml,Flasche Glas 500 ML,edeka,0.6579999999999999
+580,3166,Lorenz Saltletts Sticks Sesam,1.45,100 Gramm,Packung 175 Gramm,lidl,0.83,5727,1.11,100 Gramm,Packung 175 Gramm,edeka,0.63
+581,3167,Rotkäppchen Sekt Rose trocken,3.99,100 ml,Flasche Glas 0.75 L,lidl,0.532,6104,3.99,100 ml,Flasche Glas 0.75 L,edeka,0.532
+582,3168,Langnese Feine Auslese Honig Sommerblüte,3.99,100 Gramm,Glas 500 Gramm,lidl,0.7979999999999999,5501,3.33,100 Gramm,Glas 500 Gramm,edeka,0.6659999999999999
+583,3170,Pril Spülmittel Kraftgel,1.35,100 ml,Flasche 500ml,lidl,0.27,5506,1.85,100 ml,Flasche Kunststoff 600 ML,edeka,0.308
+584,3171,Pril Spülmittel Lemon,1.75,100 ml,Flasche Kunststoff 600 ML,lidl,0.292,5502,1.85,100 ml,Flasche Kunststoff 600 ML,edeka,0.308
+585,3172,Felix Knuspermenü mit Fleisch,2.45,100 Gramm,Packung 1000 Gramm,lidl,0.245,6414,1.29,100 Gramm,Packung 400 Gramm,edeka,0.32299999999999995
+586,3173,Felix Knuspermenü mit Geflügel,2.45,100 Gramm,Packung 1000 Gramm,lidl,0.245,5522,2.45,100 Gramm,Packung 1000 Gramm,edeka,0.245
+587,3175,"President Snacking französische Käserolle mild cremig,  55% Fett",2.39,100 Gramm,Rolle 180 Gramm,lidl,1.33,5573,2.99,100 Gramm,Rolle 180 Gramm,edeka,1.66
+588,3177,Nestle Nesquick Extra Schokoladig Nachfüllbeutel,2.29,100 Gramm,Nachfüllbeutel 500 Gramm,lidl,0.45799999999999996,5572,2.29,100 Gramm,Nachfüllbeutel 500 Gramm,edeka,0.45799999999999996
+589,3180,finish Powerball Classic,6.99,Preis pro Waschladung,XL Packung 44 Wäschen,lidl,0.16,6623,7.77,Preis pro 100 Stück,"XXL Pack, 77 Tabs",edeka,10.09
+590,3188,Appel Wellness Heringfilets Balance,0.99,100 Gramm,Beutel 150 Gramm,lidl,0.66,4827,1.15,100 Gramm,Dose 200 Gramm,edeka,0.58
+591,3190,Barilla Penne Rigate,0.69,100 Gramm,Packung 500 Gramm,lidl,0.13799999999999998,2529,0.79,100 Gramm,Packung 500 Gramm,edeka,0.158
+592,3191,Jacobs Krönung Mild,4.29,100 Gramm,Packung 500 Gramm,lidl,0.858,4108,3.99,100 Gramm,Packung 500 Gramm,edeka,0.7979999999999999
+593,5342,Jacobs Krönung Mild,4.59,100 Gramm,Packung 500 Gramm,lidl,0.918,4108,3.99,100 Gramm,Packung 500 Gramm,edeka,0.7979999999999999
+594,3192,Martini Bianco 15 % Vol.,5.49,100 ml,Flasche Glas 750 ML,lidl,0.732,159,6.99,100 ml,Flasche Glas 750 ML,edeka,0.932
+595,3194,Jacobs Krönung Gold,6.66,100 Gramm,Glas 200 Gramm,lidl,3.33,4493,4.69,100 Gramm,Glas 100 Gramm,edeka,4.69
+596,3195,Langnese Sonnenblumen Honig mit Sommertracht,3.49,100 Gramm,Glas 375 Gramm,lidl,0.9309999999999999,4857,3.49,100 Gramm,Glas 375 Gramm,edeka,0.9309999999999999
+597,3197,Vernel Aroma Therapie Refresh,1.99,100 ml,Flasche Kunststoff 750 ML,lidl,0.265,5000,1.29,100 ml,Flasche Kunststoff 750 ML,edeka,0.172
+598,3198,Ariel Pulver Waschmittel Compact Color & Style,8.79,Preis pro Waschladung,Flasche Kunststoff 44 Waschladungen,lidl,0.2,5460,8.79,Preis pro Waschladung,Flasche Kunststoff 40 Waschladungen,edeka,0.0
+599,3200,Lipton Ice Tea Lemon,9.99,100 ml,Flasche Glas 0.7 L,lidl,1.4269999999999998,4492,0.66,100 ml,Pet-Flasche 1.5 L,edeka,0.044000000000000004
+600,3201,Fernet Branca,1.45,100 ml,Packung 400 ml,lidl,0.36,4107,8.77,100 ml,Flasche Glas 0.7 L,edeka,1.253
+601,3203,Lorenz Crunchips leicht Creme fraiche,1.79,100 Gramm,Packung 250 Gramm,lidl,0.72,4916,1.69,100 Gramm,Beutel 175 Gramm,edeka,0.97
+602,3208,"Fol Epi Hauchfein Pfeffer, 50 % Fett",2.19,100 Gramm,Packung 100 Gramm,lidl,2.19,4666,1.69,100 Gramm,Packung 100 Gramm,edeka,1.69
+603,3213,Sierra Tequila Silver,9.99,100 ml,Flasche Glas 0.7 L,lidl,1.4269999999999998,4599,10.99,100 ml,Flasche Glas 0.7 L,edeka,1.5699999999999998
+604,3214,Malibu Caribbean Rum mit Kokosnuss,9.99,100 ml,Flasche Glas 0.7 L,lidl,1.4269999999999998,5439,9.99,100 ml,Flasche Glas 0.7 L,edeka,1.4269999999999998
+605,3219,Coca Cola Cherry Kirsch,0.95,100 ml,Pet-Flasche 1.25 L,lidl,0.076,4952,0.85,100 ml," 6 L, 12 x 500 ml, Mehrweg",edeka,0.014000000000000002
+606,3223,Persil Color Gel Leuchtkraftformel,16.99,Preis pro Waschladung,"Pack 2 x 50 Wäschen Fläschen, 2 x 3,65l",lidl,0.17,5473,3.79,Preis pro Waschladung,Flasche Kunststoff 15 Waschladungen,edeka,0.25
+607,3226,Bertolli Olio Di Oliva Das Besonders Milde,3.99,100 Gramm,Packung 500 Gramm,lidl,0.7979999999999999,5940,3.29,100 ml,Flasche Glas 500 ML,edeka,0.6579999999999999
+608,3228,Ferrero Kinder Friends,1.99,Preis pro 100 Stück,Packung 80 Stück,lidl,2.49,6543,2.89,100 Gramm,Packung 200 Gramm,edeka,1.4449999999999998
+609,3330,Rotkäppchen Sekt Tradition Mild,3.99,100 ml,Flasche Glas 0.75 L,lidl,0.532,6402,3.99,100 ml,Flasche Glas 0.75 L,edeka,0.532
+610,3704,Ferrero Giotto Haselnuss Gebäckspezialität,8.88,Preis pro Waschladung,"Flasche Kunststoff 45 WL, 3,375 L",lidl,0.0,4397,2.15,100 Gramm,"Packung 154.8 Gramm, 4 x 38,7, 36 Stück",edeka,1.39
+611,3705,Persil Color-Gel,1.49,100 Gramm,Packung 180 Gramm,lidl,0.83,4454,5.45,Preis pro Waschladung,Flasche Kunststoff 23 Waschladungen,edeka,0.0
+612,3706,"Salakis Schafskäse Leicht, 9% Fett",5.99,Preis pro Waschladung,Flasche Kunststoff 3000 ML,lidl,0.0,4096,2.29,100 Gramm,Packung 180 Gramm,edeka,1.27
+613,3707,Pril Spülmittel Apple Fresh,1.15,100 ml,Flasche Kunststoff 500 ML,lidl,0.23,5013,1.25,100 ml,Flasche Kunststoff 500 ML,edeka,0.25
+614,3708,Pril Spülmittel Lemon Fresh,1.15,100 ml,Flasche Kunststoff 500 ML,lidl,0.23,4491,0.88,100 ml,Flasche Kunststoff 500 ML,edeka,0.17600000000000002
+615,3710,Nivea for Men Deodorant Roll-on Dry Impact,1.55,100 ml,Dose 50 ML,lidl,3.1,5208,2.15,100 ml,Dose 50 ML,edeka,4.3
+616,3713,Bref Power Reiniger Kalk & Schmutz,2.45,100 ml,"Sprühflasche 900 ML, + 20% gratis",lidl,0.272,5429,2.99,100 ml,Sprühflasche 750 ML,edeka,0.39899999999999997
+617,3717,Bacardi Black Rum Dunkler Rum,8.88,100 ml,Flasche Glas 700 ML,lidl,1.2690000000000001,4214,12.49,100 ml,Flasche Glas 700 ML,edeka,1.784
+618,3719,Karamalz Classic Alkoholfrei,4.95,100 ml,"Pack 6 x 0,75l",lidl,0.11,4464,3.29,100 ml,"Pack 1.98 L, 6 x 0,33l",edeka,0.16599999999999998
+619,3720,o.b. Tampons Normal,4.45,Preis pro 100 Stück,Packung 64 Stück,lidl,6.95,4476,4.45,Preis pro 100 Stück,Packung 64 Stück,edeka,6.95
+620,3724,Tullamore Dew Irish Whisky,11.99,100 ml,Flasche Glas 700 ML,lidl,1.713,4603,15.99,100 ml,Flasche Glas 700 ML,edeka,2.2840000000000003
+621,3727,Pitu Do Brasil Cachaca 40 % Vol.,8.99,100 ml,Flasche Glas 700 ML,lidl,1.284,4586,10.99,100 ml,Flasche Glas 700 ML,edeka,1.5699999999999998
+622,3740,Felix Häppchen in Gelee Ente & Geflügel,0.59,100 Gramm,Dose 400 Gramm,lidl,0.15,6122,0.65,100 Gramm,Dose 400 Gramm,edeka,0.16
+623,3741,Felix Häppchen in Gelee Kaninchen & Ente,0.65,100 Gramm,Dose 400 Gramm,lidl,0.16,6123,0.65,100 Gramm,Dose 400 Gramm,edeka,0.16
+624,3742,Jules Mumm Dry Sekt,3.69,100 ml,Flasche Glas 0.75 L,lidl,0.49200000000000005,6102,4.99,100 ml,Flasche Glas 0.75 L,edeka,0.665
+625,3759,Langnese Wald Honig kalt geschleudert,3.49,100 Gramm,Glas 375 Gramm,lidl,0.9309999999999999,4213,3.99,100 Gramm,Glas 375 Gramm,edeka,1.064
+626,3760,Langnese Raps Honig fein-blumig,1.99,100 Gramm,Glas 400 Gramm,lidl,0.4980000000000001,4858,3.49,100 Gramm,Glas 375 Gramm,edeka,0.9309999999999999
+627,3762,Jacobs Carismo Caffe Crema Classico,0.69,100 Gramm,Beutel 250  Gramm,lidl,0.28,4485,7.99,100 Gramm,Packung 1 KG,edeka,0.799
+628,3763,Piasten Schoko Linsen,0.59,100 Gramm,Beutel 200 Gramm,lidl,0.3,4879,0.99,100 Gramm,Beutel 250  Gramm,edeka,0.4
+629,3764,Nestle Lion Mini,0.99,100 ml,Getränkekarton 2 L,lidl,0.05,5312,1.89,100 Gramm,Packung 250 Gramm,edeka,0.7559999999999999
+630,3766,Pfanner Der Gelbe Tee,1.69,100 ml,Becher 750  ML,lidl,0.225,2625,3.49,Preis pro Waschladung,Packung 30 Waschladungen,edeka,0.0
+631,3768,Landliebe Eiscreme Bourbon Vanille,3.45,100 ml,Flasche Kunststoff 400 ML,lidl,0.8630000000000001,4191,2.49,100 ml,Becher 750  ML,edeka,0.332
+632,3769,Head & Shoulders Anti-Schuppen-Shampoo Classic Clean,3.85,100 ml,Flasche Kunststoff 300 ML,lidl,1.28,5246,4.35,100 ml,Flasche Kunststoff 300 ML,edeka,1.45
+633,3770,"Whiskas Crunch mit Huhn, Truthahn und Ente",0.99,100 Gramm,Becher 100 Gramm,lidl,0.99,4997,1.45,100 Gramm,Becher 100 Gramm,edeka,1.45
+634,3776,Johnny Walker Red Label,4.44,100 ml,Flasche Glas 700 ML,lidl,0.634,2515,13.49,100 ml,Flasche Glas 700 ML,edeka,1.9269999999999998
+635,3777,Johnny Walker Black Label 12 years,4.44,100 ml,Flasche Glas 700 ML,lidl,0.634,4983,26.99,100 ml,Flasche Glas 0.7 L,edeka,3.856
+636,3778,Berentzen Fruchtige 20 % Vol.,4.44,100 ml,Flasche Glas 700 ML,lidl,0.634,4097,6.49,100 ml,Flasche Glas 700 ML,edeka,0.927
+637,3779,Berentzen Fruchtige Saurer Apfel 16% Vol.,1.49,100 Gramm,Packung 500 Gramm,lidl,0.3,4516,6.29,100 ml,Flasche Glas 700 ML,edeka,0.899
+638,3782,Baileys Creme Caramel,9.99,100 ml,Flasche Glas 0.7 L,lidl,1.4269999999999998,4421,13.99,100 ml,Flasche Glas 0.7 L,edeka,1.999
+639,3783,Kümmerling Kräuterlikör,4.99,100 ml,Flasche Glas 500 ML,lidl,0.998,4208,8.99,100 ml,"Karton 500 ML, 25 x 20 ml ",edeka,1.798
+640,3784,"Chivas Regal Whisky 12 Years Blended Scotch Whisky, 12 Jahre, 40% Vol.",19.99,100 ml,Flasche Glas 700 ML,lidl,2.8560000000000003,4588,24.99,100 ml,Flasche Glas 700 ML,edeka,3.5700000000000003
+641,3785,Lorenz Tacitos Tomato + Chili,0.99,100 Gramm,Beutel 125 Gramm,lidl,0.79,4914,1.49,100 Gramm,Beutel 125 Gramm,edeka,1.19
+642,3788,Bübchen Sonnen Spray Kids LSF 30,7.49,100 ml,Flasche Kunststoff 150 ML,lidl,4.99,5413,6.95,100 ml,Spraydose 150 ML,edeka,4.63
+643,3789,Bübchen Sonnen Milch Kids LSF 50,3.99,100 ml,Flasche Glas 0.75 L,lidl,0.532,5412,7.95,100 ml,Flasche Kunststoff 150 ML,edeka,5.3
+644,3791,Dreistern Sülze Paprika,0.99,100 Gramm,Packung 200 Gramm,lidl,0.5,5476,1.99,100 Gramm,Beutel 500 Gramm,edeka,0.39799999999999996
+645,3793,Zentis Frühstücksvariationen 8 x 25 g,9.99,100 ml,Flasche Glas 0.7 L,lidl,1.4269999999999998,4856,1.19,100 Gramm,Packung 200 Gramm,edeka,0.6
+646,3795,Bonzo 3 x Leckerle,0.99,100 Gramm,Packung 500 Gramm,lidl,0.198,5342,1.39,100 Gramm,Packung 500 Gramm,edeka,0.278
+647,3798,Jules Mumm Dry Mini,3.88,100 ml,Flasche Glas 0.2 L,lidl,1.94,5332,1.49,100 ml,Flasche Glas 0.2 L,edeka,0.745
+648,3804,Söhnlein Brillant Jahrgangssekt Trocken,2.29,100 ml,Flasche Glas 0.75 L,lidl,0.305,2528,2.49,100 ml,Flasche Glas 0.75 L,edeka,0.332
+649,3807,Ouzo Plomari 40 % Vol.,8.99,100 ml,Flasche Glas 0.7 L,lidl,1.284,4551,8.99,100 ml,Flasche Glas 0.7 L,edeka,1.284
+650,3810,Emmi Griess Töpfli Basler Kirsche,1.59,Preis pro 100 Stück,Doppelpackung 200 Stück,lidl,0.8,4532,0.75,100 Gramm,Becher 175 Gramm,edeka,0.43
+651,3819,Persil Sensitive Gel,1.11,100 Gramm,Tafel 300 Gramm,lidl,0.37,4470,4.45,Preis pro Waschladung,"Flasche 15 WL, 1,095l",edeka,0.3
+652,3820,Alpia Alpenmilch Schokolade,4.99,100 Gramm,Packung 400 Gramm,lidl,1.248,164,0.44,100 Gramm,Tafel 100 Gramm,edeka,0.44
+653,3820,Alpia Alpenmilch Schokolade,4.99,100 Gramm,Packung 400 Gramm,lidl,1.248,4546,0.99,100 Gramm,Tafel 300 Gramm,edeka,0.33
+654,3837,Rotkäppchen Fruchtsecco Holunderblüte,2.79,100 ml,Flasche Glas 0.75 L,lidl,0.37200000000000005,4471,2.79,100 ml,Flasche Glas 0.75 L,edeka,0.37200000000000005
+655,3841,Rotkäppchen Fruchtsecco Erdbeere,2.79,100 ml,Flasche Glas 0.75 L,lidl,0.37200000000000005,5484,2.69,100 ml,Flasche Glas 0.75 L,edeka,0.359
+656,3852,"Südzucker Puder Zucker hauchzart locker, pudrig leicht",0.39,100 Gramm,Packung 250 Gramm,lidl,0.16,5552,0.39,100 Gramm,Packung 250 Gramm,edeka,0.16
+657,3853,Cilit Bang Kraftreiniger Kalk & Schmutz,2.99,100 ml,"Sprühflasche 1L, gratis + 33%",lidl,0.29900000000000004,5555,3.79,100 ml,Sprühflasche 750 ML,edeka,0.505
+658,3860,Eisbergsalat,0.65,Preis pro Stück, 1 Stück,lidl,0.65,5498,0.59,Preis pro Stück, 1 Stück,edeka,0.59
+659,3862,Himbeeren frisch,1.79,100 Gramm,Schale 125 Gramm,lidl,1.43,4376,2.99,100 Gramm,Schale 125 Gramm,edeka,2.39
+660,3864,Milka Schmunzelhase Nuss,1.99,100 Gramm,Lose 130 Gramm,lidl,1.53,6652,1.39,100 Gramm,Lose 130 Gramm,edeka,1.07
+661,3866,"Frolic  Complete & Balanced mit Geflügel, Gemüse und Reis",3.25,100 Gramm,Packung 1500 Gramm,lidl,0.217,6624,2.79,100 Gramm,Packung 1500 Gramm,edeka,0.18600000000000003
+662,3874,Melitta Cafe Harmonie Pads naturmild,1.49,100 Gramm,"Packung 112 Gramm, 6 Kaffeepads",lidl,1.33,6078,1.99,100 Gramm,Packung 125 Gramm,edeka,1.59
+663,3878,Hilcona Tortelloni Ricotta e Spinaci,1.99,100 Gramm,Packung 250 Gramm,lidl,0.7959999999999999,4627,2.19,100 Gramm,Beutel 250 Gramm,edeka,0.8759999999999999
+664,3882,Axe Bodyspray Alaska,2.95,100 ml,Spraydose 150 ML,lidl,1.97,6282,2.99,100 ml,Spraydose 150 ML,edeka,1.99
+665,3883,Maggi Delikatess Jägersoße Bonuspack 2+1 3 x 27g,0.99,100 Gramm,Packung 81 Gramm,lidl,1.22,6324,0.99,100 Gramm,Packung 81 Gramm,edeka,1.22
+666,3884,Purina One Maturity 7 + Huhn & Reis,3.65,100 Gramm,Beutel 800 Gramm,lidl,0.456,6446,1.15,100 Gramm,Beutel 200 Gramm,edeka,0.575
+667,3884,Purina One Maturity 7 + Huhn & Reis,3.65,100 Gramm,Beutel 800 Gramm,lidl,0.456,6447,4.29,100 Gramm,Beutel 800 Gramm,edeka,0.536
+668,3893,Honigmelone gelb,1.79,Preis pro Stück, 1 Stück,lidl,1.79,6553,2.99,Preis pro Stück, 1 Stück,edeka,2.99
+669,3894,Orangen,1.39,100 Gramm,Netz 2 KG,lidl,0.06999999999999999,5567,3.99,100 Gramm,Packung 1000 Gramm,edeka,0.39899999999999997
+670,3894,Orangen,1.39,100 Gramm,Netz 2 KG,lidl,0.06999999999999999,7742,2.99,100 Gramm,Netz 3 KG,edeka,0.1
+671,3899,Leerdammer Leger 17% Fett,1.99,100 Gramm,Packung 140 Gramm 7 Scheiben,lidl,1.42,5604,1.99,100 Gramm,"Packung 160 Gramm, 8 Scheiben",edeka,1.24
+672,3911,Kerrygold Original Irische Butter gesalzen,1.79,100 Gramm,Packung 250 Gramm,lidl,0.72,6568,1.89,100 Gramm,Packung 250 Gramm,edeka,0.76
+673,3914,Ritter Sport Edel Vollmilch,0.99,100 Gramm,Tafel 100 Gramm,lidl,0.99,4186,1.15,100 Gramm,Tafel 100 Gramm,edeka,1.15
+674,3915,Felix Häppchen in Gelee Huhn & Pute in Käsegelee,0.69,100 Gramm,Dose 400 Gramm,lidl,0.17,6116,0.65,100 Gramm,Dose 400 Gramm,edeka,0.16
+675,3925,Pril Spülmittel Balance,1.15,100 ml,Flasche Kunststoff 500 ML,lidl,0.23,5633,1.25,100 ml,Flasche Kunststoff 500 ML,edeka,0.25
+676,3926,Vernel Classic Hautsensitiv,1.99,100 ml,Flasche Kunststoff 2  L,lidl,0.1,5512,1.39,100 ml,Flasche Kunststoff 1 L,edeka,0.13899999999999998
+677,3928,Lavazza Crema Gustoso ganze Bohne,10.99,100 Gramm,Packung 1000 Gramm,lidl,1.099,5499,13.59,100 Gramm,Packung 1000 Gramm,edeka,1.359
+678,3931,Pril Spülmittel Original,1.25,100 ml,Flasche Kunststoff 900 ML,lidl,0.13899999999999998,5510,1.54,100 ml,Flasche Kunststoff 900 ML,edeka,0.171
+679,3933,Ferrero Die Besten,4.44,100 Gramm,"Karton 269 Gramm,  26 Stück",lidl,1.65,2551,5.49,100 Gramm,"Karton 269 Gramm,  26 Stück",edeka,2.04
+680,3934,Le Rustique Camembert 45% Fett i. Tr.,1.99,100 Gramm,Packung 250 Gramm,lidl,0.8,4482,2.89,100 Gramm,Packung 250 Gramm,edeka,1.16
+681,3941,Clementinen frisch,0.79,100 Gramm, 1 KG,lidl,0.079,5539,1.99,100 Gramm, 1 KG,edeka,0.19899999999999998
+682,3943,Basilikum im Topf,0.85,Preis pro Stück, 1 Stück,lidl,0.85,6655,1.79,Preis pro Stück, 1 Stück,edeka,1.79
+683,3948,Milka Schmunzelhase Alpenmilch,0.89,100 Gramm,Lose 60 Gramm,lidl,1.48,6651,1.39,100 Gramm,Lose 130 Gramm,edeka,1.07
+684,3949,Bonbel Cremig,1.99,100 Gramm,Rolle 180 Gramm,lidl,1.11,6570,2.59,100 Gramm,Rolle 180 Gramm,edeka,1.44
+685,3952,De Beukelaer ChocOle Zarte Milchschokolade,0.99,100 Gramm,Packung 75 Gramm,lidl,1.32,5782,1.29,100 Gramm,Packung 75 Gramm,edeka,1.72
+686,3958,Appel zarte Heringsfilets in Paprika-Creme,1.15,100 Gramm,Dose 200 Gramm,lidl,0.58,6017,1.19,100 Gramm,Dose 200 Gramm,edeka,0.6
+687,3959,Whiskas Trockennahrung Adult mit Lamm,2.29,100 Gramm,Beutel 1 KG,lidl,0.22899999999999998,6126,2.75,100 Gramm,Beutel 1 KG,edeka,0.275
+688,3961,Emmi Caffe Latte Caramel New York Edition,2.99,100 ml,"Packung 920 ML, 4 x 230 ml",lidl,0.33,5868,1.15,100 ml,Becher 230 ML,edeka,0.5
+689,3965,Langnese Flotte Biene Akazien mit Frühlingsblütenhonig,0.99,100 ml,Getränkekarton 2 L,lidl,0.05,5613,2.89,100 Gramm,Spenderflasche 250 Gramm,edeka,1.156
+690,3968,Landliebe Grieß Pudding Milchschokolade,1.79,100 ml,Spraydose 250 ML,lidl,0.72,5640,0.44,100 Gramm,Becher 150 Gramm,edeka,0.29
+691,3973,Nestle Fitness & Joghurt mit Vollkornweizen,2.89,100 Gramm,Packung 350 Gramm,lidl,0.826,6315,2.89,100 Gramm,Packung 350 Gramm,edeka,0.826
+692,3975,"Jacobs Carismo Kaffeepads Vollmundig intensiv, 18 Kaffeepads",1.75,100 Gramm,Packung 125 Gramm,lidl,1.4,5634,1.69,100 Gramm,Packung 125 Gramm,edeka,1.35
+693,3980,"Mini Babybel gelb 6 x 20 g,  45% Fett",1.99,100 Gramm,"Netz 200 Gramm, 10 x 20 Gramm",lidl,1.0,5601,1.89,100 Gramm,Netz 120 Gramm,edeka,1.58
+694,3987,Schwartau Extra Fruttissima Limited Edition Brombeere-Boysenbeere,1.59,100 Gramm,Becher 250 Gramm,lidl,0.64,6041,1.89,100 Gramm,Becher 250 Gramm,edeka,0.76
+695,3988,The Spirit of Georgia Lemon Wacholderbeere,0.59,100 ml,Pet-Flasche 0.75 L,lidl,0.079,6085,0.89,100 ml,Pet-Flasche 0.75 L,edeka,0.11900000000000001
+696,3991,Nescafe Xpress Vanilla,3.59,100 Gramm,Packung 500 Gramm,lidl,0.718,6389,1.29,100 ml,Pet-Flasche 250 ML,edeka,0.52
+697,4859,Nescafe Xpress Vanilla,1.29,100 ml,Dose Weißblech 250 ML,lidl,0.52,6389,1.29,100 ml,Pet-Flasche 250 ML,edeka,0.52
+698,4002,"Meggle Butter Boutique Mix mit frischen Kräutern,  5 x 20 g",1.39,100 Gramm,Doppelpackung 200 Gramm,lidl,0.7,5606,1.39,100 Gramm,Packung 100 Gramm,edeka,1.39
+699,4017,Punica Tea & Fruit Exotic,0.49,100 Gramm,Dose 400 Gramm,lidl,0.12,6558,1.59,100 ml,Getränkekarton 1.5 L,edeka,0.106
+700,4020,Sellerie frisch,0.79,100 Gramm, 1 KG,lidl,0.079,5526,1.0,100 Gramm,500 Gramm,edeka,0.2
+701,4023,Zitronen frisch,0.69,100 Gramm,Netz 500 Gramm,lidl,0.13799999999999998,5531,0.99,100 Gramm,"Netz 1 kg, Spanien, Kl. 1",edeka,0.099
+702,4026,Underberg Kräuterlikör 12 x 20 ml,6.99,100 ml,Packung 240 ML,lidl,2.9130000000000003,5824,8.59,100 ml,Packung 240 ML,edeka,3.579
+703,4079,"Fol Epi Scheiben Chili, fruchtig & feurig",1.59,100 Gramm,Packung  130 Gramm,lidl,0.0,5838,2.29,100 Gramm,Packung  130 Gramm,edeka,1.76
+704,4080,"Fol Epi Scheiben Kürbiskern, knackig & frisch",1.59,100 Gramm,Packung 130 Gramm,lidl,0.0,5839,2.29,100 Gramm,Packung 130 Gramm,edeka,1.76
+705,4082,Johannisbeeren rot frisch,1.11,Preis pro Stück, 1 Stück,lidl,1.11,5775,1.79,100 Gramm,Schale 500 Gramm,edeka,0.358
+706,4086,De Beukelaer ChocOle Feine Zartbitterschokolade,0.99,100 Gramm,Packung 75 Gramm,lidl,1.32,5781,1.29,100 Gramm,Packung 75 Gramm,edeka,1.72
+707,4098,Cherry Tomaten,1.99,100 Gramm,"Schale 300 Gramm, Spanien, Kl. 1 ",lidl,0.66,6612,0.59,100 Gramm,"Schale 250 Gramm, Spanien, Kl. 1",edeka,0.24
+708,4112,Valensina Secco Orange,1.39,100 Gramm,Packung 60 Gramm,lidl,2.32,1097,2.99,100 ml,Flasche Glas 0.75 L,edeka,0.39899999999999997
+709,4181,Snickers Ice Cream,2.99,100 ml,"Packung 371 ml, 7 x 53ml",lidl,0.81,7121,1.79,100 ml,"Packung 318 ML, 6 x 53ml",edeka,0.56
+710,4183,Bounty Ice Cream,3.29,100 ml,"Packung 400 ML, 8 x 50 ml",lidl,0.82,7265,2.79,100 ml,"Packung 300 Gramm, 6 x 2",edeka,0.0
+711,4248,Norfisk Stremellachs Natur,4.99,100 Gramm,Packung 750 Gramm,lidl,0.665,7271,1.99,100 Gramm,Packung 125 Gramm,edeka,1.59
+712,4265,Emmi Swiss Yogurt Erdbeer,0.79,100 Gramm,Glas 175 Gramm,lidl,0.45,6974,0.79,100 Gramm,Glas 175 Gramm,edeka,0.45
+713,4303,Coca Cola life,0.55,100 Gramm,Becher 150 Gramm,lidl,0.37,7285,1.19,100 ml,"Pet Flasche 1,5L",edeka,0.079
+714,4317,Pringles Chips Paprika,2.49,100 Gramm,Packung 250 Gramm,lidl,0.996,7549,1.39,100 Gramm,Dose 170 Gramm,edeka,0.82
+715,4323,Lipton Ice Tea Zero Sugar Lemon,1.25,100 ml,Pet-Flasche 1.5 L,lidl,0.08299999999999999,7456,1.79,100 Gramm,Packung 200 Gramm,edeka,0.9
+716,4531,Lipton Ice Tea Zero Sugar Lemon,1.05,100 ml,Pet-Flasche 1.25 L,lidl,0.08399999999999999,7456,1.79,100 Gramm,Packung 200 Gramm,edeka,0.9
+717,4366,Twix Miniatures,0.99,100 Gramm,Beutel 130 Gramm,lidl,0.762,7220,1.29,100 Gramm,Beutel 150  Gramm,edeka,0.86
+718,4426,Mikado Zartherb,0.99,100 Gramm,Packung 75 Gramm,lidl,1.32,7224,1.29,100 Gramm,Packung 75 Gramm,edeka,1.72
+719,4427,Bounty Miniatures,0.99,100 Gramm,Beutel 150 Gramm,lidl,0.6599999999999999,7219,1.29,100 Gramm,Beutel 150 Gramm,edeka,0.86
+720,4428,"Müller Milchreis Erdbeere, 3% Fett",0.35,100 Gramm,Becher 200 Gramm,lidl,0.18,7118,1.0,100 Gramm,Packung 400  Gramm,edeka,0.25
+721,4431,Kraft Dressing French,1.99,100 ml,Flasche Glas 1000 ML,lidl,0.2,7178,1.69,100 ml,Flasche Kunststoff 500 ML,edeka,0.34
+722,4434,Philadelphia Kräuter,2.27,100 Gramm,Packung 200  Gramm,lidl,1.14,7085,1.35,100 Gramm,Packung 200  Gramm,edeka,0.68
+723,4437,Wasa Knäckebrot Roggen dünn,0.89,100 Gramm,Packung 275 Gramm,lidl,0.32,7131,1.09,100 Gramm,Packung 275 Gramm,edeka,0.4
+724,4527,Somat 5 Tabs,10.45,100 Gramm,"Packung 1260 Gramm, 60 Stück",lidl,0.8290000000000001,7557,5.99,100 Gramm,Packung 690 Gramm,edeka,0.868
+725,4539,Dr. Best Zahnbürste Schwingkopf Mittel,1.75,Preis pro Stück,Packung 1 Stück,lidl,1.75,8874,1.95,Preis pro Stück,Packung 1 Stück,edeka,1.95
+726,4752,Amanie Joghurt Toffees,1.75,100 Gramm,Beutel 550 Gramm,lidl,0.32,9081,1.75,100 Gramm,Beutel 550 Gramm,edeka,0.32
+727,4753,Amanie Finest Toffees Selection,1.75,100 Gramm,Beutel 600 Gramm,lidl,0.29,9082,1.75,100 Gramm,Beutel 600 Gramm,edeka,0.29
+728,4833,Uncle Bens Spitzen-Langkorn-Reis 10 Minuten lose,2.99,100 Gramm,Packung 1000 Gramm,lidl,0.29900000000000004,7510,3.49,100 Gramm,Packung 1000 Gramm,edeka,0.34900000000000003
+729,4834,"Müller Milchreis Diät Schoko-Split, 3% Fett",0.35,100 Gramm,Becher 207 Gramm,lidl,0.17,7493,0.49,100 Gramm,Becher 207 Gramm,edeka,0.24
+730,4843,Mazzetti Condimento Balsamico Bianco,0.59,100 ml,Pet-Flasche 0.75 L,lidl,0.079,7594,3.49,100 ml,Flasche Glas 500 ML,edeka,0.6980000000000001
+731,4851,"Exquisa Quark Genuss Erdbeere,0.2% Fett",0.39,100 Gramm,Becher 150 Gramm,lidl,0.26,2718,1.59,100 Gramm,Becher 500 Gramm,edeka,0.32
+732,4854,Odol Med3 Zahncreme Mint,2.15,100 ml,Tube 125 ML,lidl,1.72,8994,1.45,100 ml,Tube 75 ML,edeka,1.93
+733,4992,Odol Med3 Zahncreme Mint,1.95,100 ml,Tube 75 ML,lidl,2.6,8994,1.45,100 ml,Tube 75 ML,edeka,1.93
+734,4858,Nescafe Xpress Cappuccino White,1.29,100 ml,Dose Weißblech 250 ML,lidl,0.52,6390,1.29,100 ml,Pet-Flasche 250 ML,edeka,0.52
+735,4983,dusch das Flüssigseife Magnolia,1.25,100 ml,Spenderflasche 300 ML,lidl,0.41700000000000004,9833,1.35,100 ml,Spenderflasche 300 ML,edeka,0.45
+736,4984,dusch das Flüssigseife Vitamine & Pflege,1.25,100 ml,Spenderflasche 300 ML,lidl,0.41700000000000004,9835,1.35,100 ml,Spenderflasche 300 ML,edeka,0.45
+737,4986,"President Snacking französische Käserolle fein-würzig, 55% Fett",2.39,100 Gramm,Rolle 180 Gramm,lidl,1.33,9204,1.99,100 Gramm,Rolle 180 Gramm,edeka,1.11
+738,4991,dusch das Duschgel Sport,1.25,100 ml,Flasche Kunststoff 250 ML,lidl,0.5,7987,0.89,100 ml,Flasche Kunststoff 250 ML,edeka,0.36
+739,4995,Drei Wetter Taft Schaumfestiger Ultra Stark 4,1.95,100 ml,Spraydose 150 ML,lidl,1.3,8980,1.95,100 ml,Spraydose 150 ML,edeka,1.3
+740,4996,Drei Wetter Taft Haarspray Ultra Stark 4,1.95,100 ml,Spraydose 250 ML,lidl,0.78,8979,1.95,100 ml,Spraydose 250 ML,edeka,0.78
+741,5001,Wilthener Feiner alter Wilthener 36 % Vol.,6.79,100 ml,Flasche Glas 0.7 L,lidl,0.97,8022,7.99,100 ml,Flasche Glas 0.7 L,edeka,1.141
+742,5013,Drei Wetter Taft Power Styling Gel Mega stark 5,1.99,100 ml,Packung 12 ML,lidl,16.58,9818,1.95,100 ml,Tube 150 ML,edeka,1.3
+743,5247,Pril Spülmittel Grapefruit,1.15,100 ml,Flasche Kunststoff 500 ML,lidl,0.23,8848,1.25,100 ml,Flasche Kunststoff 500 ML,edeka,0.25
+744,5248,Pril Spülmittel Balsam,1.15,100 ml,Flasche Kunststoff 500 ML,lidl,0.23,8847,1.25,100 ml,Flasche Kunststoff 500 ML,edeka,0.25
+745,5250,Faber Light live Sekt alkoholfrei,2.49,100 ml,Flasche Glas 750 ML,lidl,0.332,8004,2.22,100 ml,Flasche Glas 750 ML,edeka,0.29600000000000004
+746,5265,Jacobs Carismo Caffe Crema Espresso,7.99,100 Gramm,Packung 1000 Gramm,lidl,0.799,7988,7.99,100 Gramm,Packung 1000 Gramm,edeka,0.799
+747,5266,Powerade Isotonisches Sportgetränk Orange,0.79,100 ml,Sportflasche 0.7 L,lidl,0.113,8674,0.99,100 ml,Sportflasche 500 ML,edeka,0.198
+748,5267,Powerade Isotonisches Sportgetränk Wild-Cherry,0.79,100 ml,Sportflasche 0.7 L,lidl,0.113,8679,11.88,100 ml,Pack 6 L,edeka,0.198
+749,5273,Perfetti Mentos Mint 4-er 4 x 38 g,1.99,100 ml,Doppelpackung 150 ML,lidl,1.33,8578,1.49,100 Gramm,Packung 152 Gramm,edeka,0.98
+750,5274,Perfetti Mentos Fruit Kaudragee 4-er 4 x 38 g,0.99,100 ml,Flasche Kunststoff 250 ML,lidl,0.4,8579,1.49,100 Gramm,Packung 152 Gramm,edeka,0.98
+751,5293,Nestle Nestea Pfirsich,0.69,100 ml,Flasche Kunststoff 1.25 L,lidl,0.055000000000000014,7899,0.89,100 ml,Pet-Flasche 1.5 L,edeka,0.059000000000000004
+752,5294,Veet Haarentfernungs-Creme Aloe Vera,1.99,100 Gramm,Nachfüllbeutel 440 Gramm,lidl,0.452,7981,4.29,100 ml,Packung 100 ML,edeka,4.29
+753,5309,Ouzo 12 Gold,8.99,100 ml,Flasche Glas 0.7 L,lidl,1.284,8020,10.49,100 ml,Flasche Glas 0.7 L,edeka,1.499
+754,5313,Alpia Haselnuss Schokolade mit knackigen Nüssen,1.11,100 Gramm,Tafel 300 Gramm,lidl,0.37,5307,0.59,100 Gramm,Tafel 100 Gramm,edeka,0.59
+755,5334,Jacobs Latte Macchiato,0.99,100 ml,Becher 230 ML,lidl,0.43,8657,2.89,100 Gramm,Beutel 240 Gramm,edeka,1.2
+756,5341,Pedigree  Adult  Nassnahrung Classic mit 5 Sorten Fleisch,1.55,100 Gramm,Dose 820 Gramm,lidl,0.18899999999999997,9748,1.49,100 Gramm,Dose 820 Gramm,edeka,0.182
+757,5343,Salakis Schafskäse Kräuter,1.59,100 Gramm,Packung 180 Gramm,lidl,0.883,9253,1.88,100 Gramm,Packung 180 Gramm,edeka,1.044
+758,5344,Odol Med3 Zahncreme Samtweiss mit 3-fach Vorsorge,1.95,100 ml,Tube 75 ML,lidl,2.6,9837,2.25,100 ml,Tube 75 ML,edeka,3.0
+759,5345,Odol Med3 Samtweiss Polarfrisch,1.95,100 ml,Tube 75 ML,lidl,2.6,9838,2.25,100 ml,Tube 75 ML,edeka,3.0
+760,5347,Wellaflex Schaumfestiger extra starker Halt 3,1.95,100 ml,Spraydose 200 ML,lidl,0.98,9845,1.99,100 ml,Spraydose 200 ML,edeka,1.0
+761,5349,Vanish Oxi Action Vorwaschspray,5.45,100 ml,Flasche Kunststoff 750 ML,lidl,0.727,9767,4.99,100 ml,Flasche Kunststoff 750 ML,edeka,0.665
+762,5372,Schwartau Extra Fruttissima Waldfrucht,1.59,100 ml,Pet-Flasche 1500 ML,lidl,0.106,9396,1.99,100 Gramm,Becher 250 Gramm,edeka,0.8
+763,5395,Frolic Unterwegs mit Rind,0.69,100 Gramm,Packung 200 Gramm,lidl,0.34500000000000003,9747,0.95,100 Gramm,Packung 200 Gramm,edeka,0.475
+764,5396,"Leerdammer Classic Scheiben 7 Scheiben, 45% Fett",2.09,100 Gramm,Packung 200  Gramm,lidl,1.05,9258,2.19,100 Gramm,Packung 200  Gramm,edeka,1.1
+765,5397,Exquisa Frischkäse Trendgenuss Mediterrane Kräuter,0.99,100 Gramm,Packung 200 Gramm,lidl,0.5,9466,0.99,100 Gramm,Packung 200 Gramm,edeka,0.5
+766,5398,Sonnen Bassermann Kartoffeleintopf nach Ratsherren-Art,1.89,100 Gramm,Dose 800 Gramm,lidl,0.23600000000000002,9554,1.89,100 Gramm,Dose 800 Gramm,edeka,0.23600000000000002
+767,5406,Sonnen Bassermann Tomaten Cremesuppe mit Sahne verfeinert,0.95,100 ml,Dose 425 ML,lidl,0.22400000000000006,9555,1.39,100 ml,Dose 425 ML,edeka,0.327
+768,5416,"Odol Med3 Mundspülung mint, antibakteriell",2.75,100 ml,Flasche Kunststoff 600 ML,lidl,0.45799999999999996,9839,3.65,100 ml,Flasche Kunststoff 600 ML,edeka,0.608

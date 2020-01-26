@@ -1,0 +1,101 @@
+,Unnamed: 0_x,Name,Price_x,Unit_x,Packet Size_x,Supermarket_x,Comparable Price_x,Unnamed: 0_y,Price_y,Unit_y,Packet Size_y,Supermarket_y,Comparable Price_y
+0,0,Nutella,3.79,100 Gramm,Vorteils Glas 1000 Gramm,kaufland,0.379,1,3.79,100 Gramm,Glas 750 Gramm,aldi-nord,0.505
+1,1,Iglo Fischstäbchen,3.39,100 Gramm,"15er, Packung 450 Gramm",kaufland,0.753,4,3.49,100 Gramm,"15er, Packung 450 Gramm",aldi-nord,0.7759999999999999
+2,5,Kerrygold Original Irische Butter mildgesäuert,2.39,100 Gramm,Packung 250  Gramm,kaufland,0.96,98,1.05,100 Gramm,Becher 400 Gramm,aldi-nord,0.263
+3,8,Ferrero Milchschnitte,1.99,100 Gramm,"10 x 28 g, Packung 280 Gramm",kaufland,0.71,177,1.99,100 Gramm,"10 x 28 g, Packung 280 Gramm",aldi-nord,0.71
+4,14,Meica Curry King,2.09,100 Gramm,Packung 220 Gramm,kaufland,0.95,18,1.49,100 Gramm,Packung 220 Gramm,aldi-nord,0.68
+5,15,Coca Cola,11.4,100 ml,"Kasten 12 L, 12 x 1l",kaufland,0.095,2,2.89,100 ml,"6 x 0,33 L, 1.98 L",aldi-nord,0.146
+6,25,Arla Kaergarden ungesalzen,2.19,100 Gramm,Becher 250 Gramm,kaufland,0.88,451,1.29,100 Gramm,Becher 250 Gramm,aldi-nord,0.52
+7,35,Breffod Kaninchenkeulen aus Bodenhaltung,9.99,100 Gramm,Packung 1000 Gramm,kaufland,0.9990000000000001,1262,3.99,100 Gramm,Packung 500 Gramm,aldi-nord,0.7979999999999999
+8,39,Iglo Schlemmer-Filet Classic a la Bordelaise,2.89,100 Gramm,Packung 380 Gramm,kaufland,0.7609999999999999,19,3.19,100 Gramm,Packung 380 Gramm,aldi-nord,0.8390000000000001
+9,40,Kölln Blütenzarte Köllnflocken,1.29,100 Gramm,Packung 500 Gramm,kaufland,0.258,300,0.99,100 Gramm,Packung 500 Gramm,aldi-nord,0.198
+10,42,Original Wagner Steinofen Pizza Salami,2.29,100 Gramm,Packung 320  Gramm,kaufland,0.72,121,2.29,100 Gramm,Packung 320  Gramm,aldi-nord,0.72
+11,75,Original Wagner Steinofen Pizza Speciale,2.29,100 Gramm,Packung 350 Gramm,kaufland,0.65,220,2.29,100 Gramm,Packung 350 Gramm,aldi-nord,0.65
+12,81,Kinder Pingui Schoko,1.99,100 Gramm,"Family Pack 240 Gramm, 8 x 30 g",kaufland,0.83,472,1.99,100 Gramm,"Family Pack 240 Gramm, 8 x 30 g",aldi-nord,0.83
+13,82,Krombacher Pils,14.8,100 ml,"Kasten 10 L, 20 x 0,5 L ",kaufland,0.14800000000000002,218,0.79,100 ml,"Dose 0,5L",aldi-nord,0.158
+14,89,Rotkäppchen Sekt Halbtrocken,3.99,100 ml,Flasche Glas 0.75 L,kaufland,0.532,219,3.99,100 ml,Flasche Glas 0.75 L,aldi-nord,0.532
+15,91,Rocher Pralinen,3.49,100 Gramm,"Packung 200 Gramm, 16 Stück",kaufland,1.75,413,3.49,100 Gramm,"Packung 200 Gramm, 16 Stück",aldi-nord,1.75
+16,99,Rio Plata Brasilianisches Corned Beef,3.29,100 Gramm,Dose 340 Gramm,kaufland,0.97,604,1.19,100 Gramm,Dose 340 Gramm,aldi-nord,0.35
+17,100,Ferrero Küsschen,2.99,100 Gramm,"Packung 178 Gramm, 20 Stück",kaufland,1.68,470,2.99,100 Gramm,"Packung 178 Gramm, 20 Stück",aldi-nord,1.68
+18,112,Iglo Rahmspinat der mit dem Blubb,1.89,100 Gramm,Packung 800 Gramm,kaufland,0.23600000000000002,25,1.89,100 Gramm,Packung 750 Gramm,aldi-nord,0.252
+19,136,Brokkoli frisch,1.19,100 Gramm,Folie 500 Gramm,kaufland,0.23800000000000002,617,0.59,100 Gramm,Folie 500 Gramm,aldi-nord,0.11800000000000001
+20,145,Arla Kaergarden gesalzen,2.19,100 Gramm,Becher 250  Gramm,kaufland,0.88,450,1.29,100 Gramm,Becher 250  Gramm,aldi-nord,0.52
+21,147,Rügen Fisch Heringsfilets in Tomaten-Creme,0.99,100 Gramm,Dose 200 Gramm,kaufland,0.5,1245,0.79,100 Gramm,Dose 200 Gramm,aldi-nord,0.4
+22,152,Storck Knoppers Milch-Haselnuss-Schnitte,1.99,100 Gramm,"Packung 200 Gramm, 8 x 25 g",kaufland,1.0,716,1.89,100 Gramm,"Packung 200 Gramm, 8 x 25 g",aldi-nord,0.95
+23,153,Ferrero Kinder Überraschung Ei,0.79,100 Gramm,Folie 20 Gramm,kaufland,3.95,615,2.29,100 Gramm,"Folie 60 Gramm, 3 Stück",aldi-nord,3.82
+24,200,Ehrmann Grand Dessert Plus Double-Choc,0.79,100 Gramm,Becher 190 Gramm,kaufland,0.42,229,0.79,100 Gramm,Becher 190 Gramm,aldi-nord,0.42
+25,206,Sprite,12.48,100 ml,Kasten 12 L,kaufland,0.104,551,0.89,100 ml,"Pet-Flasche 1,5 L 	",aldi-nord,0.059000000000000004
+26,207,Fanta Orange,12.48,100 ml,"Kasten 12 L, 12 x 1l",kaufland,0.104,552,0.99,100 Gramm,Beutel 150 Gramm,aldi-nord,0.66
+27,248,Dr. Oetker la MIA GRANDE Salame Piccante,3.49,100 Gramm,Karton 380 Gramm,kaufland,0.92,448,2.85,100 Gramm,Karton 380 Gramm,aldi-nord,0.75
+28,249,Dr. Oetker la MIA GRANDE Tonno e Cipolle,3.49,100 Gramm,Karton 415 Gramm,kaufland,0.841,449,2.85,100 Gramm,Karton 415 Gramm,aldi-nord,0.687
+29,251,Dr. Oetker la MIA GRANDE Margherita,3.49,100 Gramm,Karton 360 Gramm,kaufland,0.97,447,2.85,100 Gramm,Karton 360 Gramm,aldi-nord,0.79
+30,290,Funny Frisch Chipsfrisch Ungarisch,1.99,100 Gramm,Beutel 175 Gramm,kaufland,1.14,79,1.39,100 Gramm,Beutel 175 Gramm,aldi-nord,0.79
+31,292,Deli Reform Margarine Das Original,1.39,100 Gramm,Becher 500  Gramm,kaufland,0.278,176,1.69,100 Gramm,"Netz 120 Gramm, 6 x 20 g",aldi-nord,1.41
+32,300,Maggi Würze Tischflasche,1.95,100 Gramm,Flasche 202ml,kaufland,1.41,78,1.69,100 Gramm,Flasche Glas 250 Gramm,aldi-nord,0.68
+33,309,Bachmeier Bayerische Brezen,1.19,100 Gramm,Karton 850 Gramm,kaufland,0.14,612,1.19,100 Gramm,Karton 850 Gramm,aldi-nord,0.14
+34,321,Raffaello Pralinen Kokos-Mandel,1.99,100 Gramm,"Packung 150  Gramm, 15 Stück",kaufland,1.33,145,2.99,100 Gramm,Packung 230 Gramm,aldi-nord,1.3
+35,333,Ferrero Kinder Riegel,3.39,100 Gramm,"Packung 378 Gramm, 18 x 21g",kaufland,0.9,146,1.99,100 Gramm,"10 x 21 g, Packung 210 Gramm",aldi-nord,0.95
+36,336,Feldsalat küchenfertig,0.77,100 Gramm,Packung 150 Gramm,kaufland,0.51,702,1.09,100 Gramm,Packung 150 Gramm,aldi-nord,0.73
+37,520,Dr. Oetker Ristorante Pizza Salame,2.69,100 Gramm,Karton 320 Gramm,kaufland,0.84,122,2.49,100 Gramm,Karton 320 Gramm,aldi-nord,0.78
+38,525,Dr. Oetker Original Pudding Vanille Geschmack,0.79,100 Gramm,"Packung 105 Gramm, 3er",kaufland,0.75,298,0.99,100 Gramm,Packung 148 Gramm,aldi-nord,0.67
+39,540,Wagner herzhafter Flammkuchen Unser Original,2.29,100 Gramm,Packung 300 Gramm,kaufland,0.76,123,2.29,100 Gramm,Packung 300 Gramm,aldi-nord,0.76
+40,607,Haribo Goldbären,1.45,100 Gramm,Mini-Maxi Beutel 250 Gramm,kaufland,0.58,56,0.99,100 Gramm,Beutel 200 Gramm,aldi-nord,0.5
+41,774,Vossko Hähnchenmedaillons Hawaii,1.99,100 Gramm,Packung 125 Gramm,kaufland,1.59,601,3.39,100 Gramm,Packung 500 Gramm,aldi-nord,0.6779999999999999
+42,782,Kerrygold Extra ungesalzen,3.39,100 Gramm,"Becher 400 Gramm, Vorteils Packung",kaufland,0.85,466,2.19,100 Gramm,Becher 250 Gramm,aldi-nord,0.88
+43,785,Kerrygold Extra gesalzen,3.39,100 Gramm,Vorteilspackung 400 Gramm,kaufland,0.85,467,2.19,100 Gramm,Becher 250 Gramm,aldi-nord,0.88
+44,800,Dr. Oetker Paradies Creme Sahne-Karamell-Geschmack,0.59,100 Gramm,Packung 76 Gramm,kaufland,0.78,301,0.79,100 Gramm,Packung 76 Gramm,aldi-nord,1.04
+45,871,Dr. Oetker Vitalis Schoko Müsli klassisch,2.99,100 Gramm,Packung 600 Gramm,kaufland,0.4980000000000001,469,2.79,100 Gramm,Packung 600 Gramm,aldi-nord,0.465
+46,889,De Beukelaer Prinzen Rolle mit Kakaocreme,1.69,100 Gramm,Rolle 400 Gramm,kaufland,0.42,228,1.49,100 Gramm,Rolle 400 Gramm,aldi-nord,0.37
+47,897,Miracel Whip Klassik,1.59,100 ml,Glas 500 ML,kaufland,0.318,227,1.59,100 ml,Glas 500 ML,aldi-nord,0.318
+48,967,Red Bull Energy Drink,20.0,100 ml,"Karton 6 L, 24 x 0,250 L",kaufland,0.33299999999999996,446,1.09,100 ml,Dose 250 ML,aldi-nord,0.4360000000000001
+49,1124,Storck Toffifee,1.35,100 Gramm,"Packung 125  Gramm, 15 Stück",kaufland,1.08,1044,2.69,100 Gramm,"Packung 250 Gramm, 2 x 125 Gramm",aldi-nord,1.08
+50,1126,Bäcker Bachmeier Bayerische Laugenstangerl,1.19,100 Gramm,Karton 818 Gramm,kaufland,0.145,961,1.19,100 Gramm,Karton 818 Gramm,aldi-nord,0.145
+51,1317,Himbeeren frisch,1.99,100 Gramm,Schale 125 Gramm,kaufland,1.59,1764,1.55,100 Gramm,Schale 200 Gramm,aldi-nord,0.78
+52,1408,Kölln Echte Kernige,1.39,100 Gramm,Packung 500 Gramm,kaufland,0.278,706,0.99,100 Gramm,Packung 500 Gramm,aldi-nord,0.198
+53,1412,Yano Bierschinken,1.39,100 Gramm,Dose 800 Gramm,kaufland,0.174,2972,0.99,100 Gramm,Dose 170 Gramm,aldi-nord,0.58
+54,1417,Dr. Quendt Echter Dresdner Christstollen,0.49,100 Gramm,Becher 500 Gramm,kaufland,0.098,264,6.99,100 Gramm,Packung 1000 Gramm,aldi-nord,0.6990000000000001
+55,3699,Dr. Quendt Echter Dresdner Christstollen,1.19,100 Gramm,Packung 500 Gramm,kaufland,0.23800000000000002,264,6.99,100 Gramm,Packung 1000 Gramm,aldi-nord,0.6990000000000001
+56,1495,Oreo Doppelkeks Vanillegeschmack,1.99,100 Gramm,Packung 176 Gramm,kaufland,1.13,473,1.49,100 Gramm,Packung 176 Gramm,aldi-nord,0.85
+57,1545,Leibniz Butterkeks,1.29,100 Gramm,Packung 200 Gramm,kaufland,0.65,703,0.99,100 Gramm,Packung 200 Gramm,aldi-nord,0.5
+58,1547,Haribo Lakritz Konfekt,0.95,100 Gramm,Beutel 200 Gramm,kaufland,0.48,720,1.99,100 Gramm,Beutel 500 Gramm,aldi-nord,0.4
+59,1556,Dr. Oetker Paradies Creme Vanille Geschmack,0.79,100 Gramm,Packung 63 Gramm,kaufland,1.25,713,0.89,100 Gramm,Packung 63 Gramm,aldi-nord,1.41
+60,1604,Balisto Korn Mix,1.99,100 Gramm,"Packung 166.5 Gramm, 9 x 18,5 g",kaufland,1.2,718,1.79,100 Gramm,"Packung 166.5 Gramm, 9 x 18,5 g",aldi-nord,1.08
+61,1659,Mon Cheri Piemont Kirsche,2.99,100 Gramm,"15 Stück, Packung 157 Gramm",kaufland,1.9,715,2.99,100 Gramm,"15 Stück, Packung 157 Gramm",aldi-nord,1.9
+62,1832,Miracle Whip Balance,1.89,100 ml,Glas 500 ML,kaufland,0.37799999999999995,226,1.59,100 ml,Glas 500 ML,aldi-nord,0.318
+63,2029,Weihenstephan Frischer Fruchtquark Pfirsich Maracuja,1.89,100 Gramm,Becher 500 Gramm,kaufland,0.38,704,1.39,100 Gramm,Becher 500 Gramm,aldi-nord,0.28
+64,2037,Halloren Von Herzen Sahne-Cacao,3.99,100 Gramm,Dose 200 Gramm,kaufland,2.0,1485,1.99,100 Gramm,Packung 160 Gramm,aldi-nord,1.24
+65,2059,Rosenkohl,1.29,100 Gramm,Netz 1 KG,kaufland,0.129,289,0.99,100 Gramm,Netz 750 Gramm,aldi-nord,0.132
+66,2169,Wiltmann Leber Pastete mit Hirschfleisch,1.49,100 Gramm,Packung 100 Gramm,kaufland,1.49,875,1.69,100 Gramm,Packung 180 Gramm,aldi-nord,0.94
+67,2207,Blumenkohl 1 Kopf,1.45,Preis pro Stück, 1 Stück,kaufland,1.45,1487,1.95,100 Gramm,Packung 500 Gramm,aldi-nord,0.39
+68,2224,Gutes aus der Bäckerei Berliner Pfannkuchen 6 Stück,2.29,100 Gramm,Dose 280 Gramm,kaufland,0.82,1481,1.79,100 Gramm,Packung 400 Gramm,aldi-nord,0.4480000000000001
+69,2316,Kinder Country,1.49,100 Gramm,"Packung 211.5 Gramm, 9 x 23,5",kaufland,0.7,471,1.99,100 Gramm,"Packung 211.5 Gramm, 9 x 23,5",aldi-nord,0.94
+70,2431,Yano Schweinefleisch,1.39,100 Gramm,Vakuum 100 Gramm,kaufland,1.39,2973,0.99,100 Gramm,Dose 170 Gramm,aldi-nord,0.5820000000000001
+71,2571,Zerbster Original Schweinskopfsülze,1.79,100 Gramm,Glas 400  Gramm,kaufland,0.4480000000000001,1266,1.29,100 Gramm,Packung 375 Gramm,aldi-nord,0.344
+72,2787,Ferrero Giotto Haselnuss Gebäckspezialität,1.99,100 Gramm,"Packung 154.8 Gramm, 4 x 38,7, 36 Stück",kaufland,1.29,1045,2.69,100 Gramm,"Packung 154.8 Gramm, 4 x 38,7, 36 Stück",aldi-nord,1.74
+73,2818,Rotkäppchen Sekt Trocken,3.99,100 ml,Flasche Glas 0.75 L,kaufland,0.532,547,6.6,100 Gramm,Folie 264 Gramm,aldi-nord,2.5
+74,2845,Duplo,1.99,100 Gramm,"Packung 180 Gramm, 10 x 18g",kaufland,1.11,1046,1.99,100 Gramm,"Packung 180 Gramm, 10 x 18g",aldi-nord,1.11
+75,2865,Mezzo Mix Cola küsst Orange,0.89,100 ml,Pet-Flasche 1.25 L,kaufland,0.071,553,1.99,100 Gramm,Folie 650 Gramm,aldi-nord,0.306
+76,2990,Arla Buko Der Sahnige,1.19,100 Gramm,Packung 200  Gramm,kaufland,0.6,707,0.88,100 Gramm,Packung 200  Gramm,aldi-nord,0.44
+77,2996,Ehrmann Grand Dessert Vanille,0.55,100 Gramm,Becher 200 Gramm,kaufland,0.28,383,0.79,100 Gramm,Becher 190 Gramm,aldi-nord,0.42
+78,2999,Ehrmann Almighurt Ananas,0.55,100 Gramm,Becher 150 Gramm,kaufland,0.37,708,0.59,100 Gramm,Becher 150 Gramm,aldi-nord,0.39
+79,3000,Dr. Oetker Paradies Creme Schokolade,0.69,100 Gramm,Packung 73 Gramm,kaufland,0.95,382,0.89,100 Gramm,Packung 73 Gramm,aldi-nord,1.22
+80,3163,Funny Frisch Chipsfrisch Oriental,1.79,100 Gramm,Beutel 175 Gramm,kaufland,1.02,384,1.39,100 Gramm,Beutel 175 Gramm,aldi-nord,0.79
+81,3170,Trauben hell kernlos,1.99,100 Gramm,Schale 500 Gramm,kaufland,0.39799999999999996,1483,1.19,100 Gramm,Schale 500 Gramm,aldi-nord,0.23800000000000002
+82,3322,Krustenbrot,0.99,100 Gramm, 1000 Gramm,kaufland,0.099,1241,1.15,100 Gramm, 1000 Gramm,aldi-nord,0.115
+83,3781,Speisekartoffeln Deutschland vorwiegend festkochend,2.99,100 Gramm,"Netz 2,5 kg",kaufland,0.12,1490,1.19,100 ml,,aldi-nord,0.0
+84,4136,Roggenkrüstchen,0.15,Preis pro Stück, 1 Stück,kaufland,0.15,1377,0.25,Preis pro Stück, 1 Stück,aldi-nord,0.25
+85,4237,Weißkohl frisch,0.99,Preis pro Stück, 1 Stück,kaufland,0.99,1766,0.69,100 Gramm,Netz 500 Gramm,aldi-nord,0.13799999999999998
+86,4240,Heidelbeeren frisch,1.75,100 Gramm,Packung 125 Gramm,kaufland,1.4,1765,0.22,Preis pro Stück,,aldi-nord,0.22
+87,4423,Sternburg Export 20-er,7.2,100 ml,Kasten 10 L,kaufland,0.07200000000000001,1724,4.29,100 ml,Flasche Glas 0.7 L,aldi-nord,0.613
+88,4439,Vio Natürliches Mineralwasser still,0.69,100 ml,Pet-Flasche 1.5 L,kaufland,0.046,1043,0.79,100 ml,Pet-Flasche 1.5 L,aldi-nord,0.053000000000000005
+89,4478,Rondo Melange,3.49,100 Gramm,Packung 500 Gramm,kaufland,0.6980000000000001,1759,1.89,100 Gramm,Packung 200 Gramm,aldi-nord,0.95
+90,4702,Storck Merci Finest Selection Grosse Vielfalt,7.95,100 Gramm,Packung 675  Gramm,kaufland,1.18,485,2.39,100 Gramm,Packung 200 Gramm,aldi-nord,1.2
+91,4771,Schneekoppe Apfelessig klar,1.49,100 ml,Flasche Glas 750 ML,kaufland,0.19899999999999998,1038,1.25,100 ml,Flasche Glas 750 ML,aldi-nord,0.16699999999999998
+92,4828,Yano Rindgulasch,1.39,100 Gramm,Dose 300 Gramm,kaufland,0.463,2974,1.89,100 Gramm,Dose 400 Gramm,aldi-nord,0.47
+93,5427,Breffod Kaninchen aus Bodenhaltung,6.11,100 Gramm,Packung 1150 Gramm,kaufland,0.5309999999999999,1751,7.49,100 Gramm,Packung 1150 Gramm,aldi-nord,0.6509999999999999
+94,5539,Omnimax Land Diele Truthahnfleisch im eigenen Saft,1.29,100 Gramm,Dose 250 Gramm,kaufland,0.52,2975,1.79,100 Gramm,Dose 300 Gramm,aldi-nord,0.6
+95,5911,Erdbeeren frisch,14.99,100 ml,Flasche Glas 0.7 L,kaufland,2.141,1761,1.99,100 Gramm,Packung 500 Gramm,aldi-nord,0.39799999999999996
+96,5976,Diamant Gelier Rohrzucker 1:1,1.45,100 Gramm,Packung 500 Gramm,kaufland,0.29,1773,2.99,100 Gramm,Packung 250 Gramm,aldi-nord,1.2
+97,6441,K Classic Mini Sticks Paprika,0.59,100 Gramm,Beutel 100 Gramm,kaufland,0.59,2251,0.79,100 Gramm,Beutel 125 Gramm,aldi-nord,0.63
+98,7244,Karwendel Käse Aufschnitt 7 Scheiben,1.99,100 Gramm,Packung 250 Gramm,kaufland,0.8,2897,1.39,100 Gramm,Packung 250 Gramm,aldi-nord,0.56
+99,7382,Kölner Gelierzucker 2:1,0.59,100 Gramm,Packung 500 Gramm,kaufland,0.11800000000000001,2187,0.79,100 Gramm,Packung 500 Gramm,aldi-nord,0.158

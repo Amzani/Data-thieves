@@ -1,0 +1,80 @@
+,Unnamed: 0_x,Name,Price_x,Unit_x,Packet Size_x,Supermarket_x,Comparable Price_x,Unnamed: 0_y,Price_y,Unit_y,Packet Size_y,Supermarket_y,Comparable Price_y
+0,0,Coca Cola,0.99,100 ml,Pet-Flasche 1.25 L,lidl,0.079,2,2.89,100 ml,"6 x 0,33 L, 1.98 L",aldi-nord,0.146
+1,3,Nutella,3.99,100 Gramm,Vorteils Glas 1000 Gramm,lidl,0.39899999999999997,1,3.79,100 Gramm,Glas 750 Gramm,aldi-nord,0.505
+2,5,Iglo Fischstäbchen,3.39,100 Gramm,"15er, Packung 450 Gramm",lidl,0.753,4,3.49,100 Gramm,"15er, Packung 450 Gramm",aldi-nord,0.7759999999999999
+3,17,Kerrygold Original Irische Butter mildgesäuert,2.39,100 Gramm,Packung 250  Gramm,lidl,0.96,98,1.05,100 Gramm,Becher 400 Gramm,aldi-nord,0.263
+4,38,Iglo Schlemmer-Filet Classic a la Bordelaise,1.77,100 Gramm,Packung 380 Gramm,lidl,0.466,19,3.19,100 Gramm,Packung 380 Gramm,aldi-nord,0.8390000000000001
+5,53,Funny Frisch Chipsfrisch Ungarisch,1.39,100 Gramm,Beutel 175 Gramm,lidl,0.79,79,1.39,100 Gramm,Beutel 175 Gramm,aldi-nord,0.79
+6,75,Rotkäppchen Sekt Halbtrocken,3.99,100 ml,Flasche Glas 0.75 L,lidl,0.532,219,3.99,100 ml,Flasche Glas 0.75 L,aldi-nord,0.532
+7,76,Red Bull Energy Drink,1.09,100 ml,Dose 250 ML,lidl,0.4360000000000001,446,1.09,100 ml,Dose 250 ML,aldi-nord,0.4360000000000001
+8,155,Dr. Quendt Echter Dresdner Christstollen,7.49,100 Gramm,Packung 1000 Gramm,lidl,0.7490000000000001,264,6.99,100 Gramm,Packung 1000 Gramm,aldi-nord,0.6990000000000001
+9,161,Ehrmann Grand Dessert Plus Double-Choc,0.79,100 Gramm,Becher 190 Gramm,lidl,0.42,229,0.79,100 Gramm,Becher 190 Gramm,aldi-nord,0.42
+10,265,Deli Reform Margarine Das Original,0.85,100 Gramm,Becher 555 Gramm,lidl,0.153,176,1.69,100 Gramm,"Netz 120 Gramm, 6 x 20 g",aldi-nord,1.41
+11,274,Raffaello Pralinen Kokos-Mandel,1.99,100 Gramm,Packung 180 Gramm,lidl,1.11,145,2.99,100 Gramm,Packung 230 Gramm,aldi-nord,1.3
+12,275,Rocher Pralinen,3.49,100 Gramm,"Packung 200 Gramm, 16 Stück",lidl,1.75,413,3.49,100 Gramm,"Packung 200 Gramm, 16 Stück",aldi-nord,1.75
+13,278,Ferrero Kinder Riegel,2.39,100 Gramm,"10 x 21 g, Packung 210 Gramm",lidl,1.14,146,1.99,100 Gramm,"10 x 21 g, Packung 210 Gramm",aldi-nord,0.95
+14,287,Maggi Würze Tischflasche,1.59,100 Gramm,Flasche Glas 250 Gramm,lidl,0.64,78,1.69,100 Gramm,Flasche Glas 250 Gramm,aldi-nord,0.68
+15,292,Ferrero Milchschnitte,1.79,100 Gramm,Beutel 200 Gramm,lidl,0.9,177,1.99,100 Gramm,"10 x 28 g, Packung 280 Gramm",aldi-nord,0.71
+16,301,Krustenbrot,1.15,100 Gramm, 1000 Gramm,lidl,0.115,1241,1.15,100 Gramm, 1000 Gramm,aldi-nord,0.115
+17,3828,Krustenbrot,1.29,100 Gramm, 1000 Gramm,lidl,0.129,1241,1.15,100 Gramm, 1000 Gramm,aldi-nord,0.115
+18,467,Dr. Oetker Ristorante Pizza Salame,2.69,100 Gramm,Karton 320 Gramm,lidl,0.84,122,2.49,100 Gramm,Karton 320 Gramm,aldi-nord,0.78
+19,475,Wagner herzhafter Flammkuchen Unser Original,2.59,100 Gramm,Packung 300 Gramm,lidl,0.86,123,2.29,100 Gramm,Packung 300 Gramm,aldi-nord,0.76
+20,682,Haribo Goldbären,0.89,100 Gramm,Beutel 300 Gramm,lidl,0.3,56,0.99,100 Gramm,Beutel 200 Gramm,aldi-nord,0.5
+21,720,Original Wagner Steinofen Pizza Salami,0.88,100 Gramm,Packung 125 Gramm,lidl,0.7,121,2.29,100 Gramm,Packung 320  Gramm,aldi-nord,0.72
+22,789,Arla Kaergarden ungesalzen,1.89,100 Gramm,Becher 250 Gramm,lidl,0.76,451,1.29,100 Gramm,Becher 250 Gramm,aldi-nord,0.52
+23,790,Arla Kaergarden gesalzen,1.89,100 Gramm,Becher 250  Gramm,lidl,0.76,450,1.29,100 Gramm,Becher 250  Gramm,aldi-nord,0.52
+24,805,Dr. Oetker Ristorante Pizza Tonno,2.69,100 Gramm,Packung 355 Gramm,lidl,0.758,221,2.49,100 Gramm,Packung 355 Gramm,aldi-nord,0.701
+25,816,Original Wagner Steinofen Pizza Speciale,2.29,100 Gramm,Packung 350 Gramm,lidl,0.65,220,2.29,100 Gramm,Packung 350 Gramm,aldi-nord,0.65
+26,819,Miracle Whip Balance,1.29,100 ml,Glas 500 ML,lidl,0.258,226,1.59,100 ml,Glas 500 ML,aldi-nord,0.318
+27,831,De Beukelaer Prinzen Rolle mit Kakaocreme,1.39,100 Gramm,Rolle 400 Gramm,lidl,0.35,228,1.49,100 Gramm,Rolle 400 Gramm,aldi-nord,0.37
+28,834,Miracel Whip Klassik,1.29,100 ml,Glas 500 ML,lidl,0.258,227,1.59,100 ml,Glas 500 ML,aldi-nord,0.318
+29,849,Rügen Fisch Heringsfilets in Tomaten-Creme,0.99,100 Gramm,Dose 200 Gramm,lidl,0.5,1245,0.79,100 Gramm,Dose 200 Gramm,aldi-nord,0.4
+30,909,Kerrygold Extra ungesalzen,0.75,100 Gramm,Becher 150 Gramm,lidl,0.5,466,2.19,100 Gramm,Becher 250 Gramm,aldi-nord,0.88
+31,911,Kerrygold Extra gesalzen,0.75,100 Gramm,Becher 150 Gramm,lidl,0.5,467,2.19,100 Gramm,Becher 250 Gramm,aldi-nord,0.88
+32,951,Ferrero Küsschen,2.25,100 Gramm,"Packung 178 Gramm, 20 Stück",lidl,1.26,470,2.99,100 Gramm,"Packung 178 Gramm, 20 Stück",aldi-nord,1.68
+33,978,Krombacher Pils,0.79,100 ml,"Dose 0,5L",lidl,0.158,218,0.79,100 ml,"Dose 0,5L",aldi-nord,0.158
+34,1228,Arla Buko Frischkäse Garten Kräuter 18% Fett,1.19,100 Gramm,Packung 200 Gramm,lidl,0.6,465,0.88,100 Gramm,Packung 200 Gramm,aldi-nord,0.44
+35,1236,Kinder Pingui Schoko,0.88,100 Gramm,"Packung 120 Gramm, 4 Stück",lidl,0.73,472,1.99,100 Gramm,"Family Pack 240 Gramm, 8 x 30 g",aldi-nord,0.83
+36,1237,Leibniz Butterkeks 30% weniger Zucker,0.88,100 Gramm,Packung 150 Gramm,lidl,0.59,461,0.99,100 Gramm,Packung 150 Gramm,aldi-nord,0.66
+37,1364,Tafeltrauben hell,2.19,100 Gramm,Packung 1 KG,lidl,0.21899999999999997,1491,1.59,100 Gramm,Beutel 750 Gramm,aldi-nord,0.212
+38,1480,Leibniz Butterkeks,0.99,100 Gramm,Packung 200 Gramm,lidl,0.5,703,0.99,100 Gramm,Packung 200 Gramm,aldi-nord,0.5
+39,1481,Arla Buko Der Sahnige,0.88,100 Gramm,Packung 200  Gramm,lidl,0.44,707,0.88,100 Gramm,Packung 200  Gramm,aldi-nord,0.44
+40,1499,Balisto Korn Mix,1.99,100 Gramm,"Packung 185 Gramm, 9 + 1 Riegel",lidl,1.08,718,1.79,100 Gramm,"Packung 166.5 Gramm, 9 x 18,5 g",aldi-nord,1.08
+41,1500,Balisto Joghurt-Beeren-Mix,1.99,100 Gramm,"Packung 185 Gramm, 9 + 1",lidl,1.08,719,1.79,100 Gramm,"Packung 166.5 Gramm, 9",aldi-nord,1.08
+42,1501,Balisto Müsli Mix,3.29,100 ml,"Packung 440 ML, 4 Stück",lidl,0.75,717,1.79,100 Gramm,"Packung 166.5 Gramm, 9 x 18,5 g",aldi-nord,1.08
+43,1503,Ferrero Kinder Überraschung Ei,3.88,100 Gramm,Packung 500 Gramm,lidl,0.7759999999999999,615,2.29,100 Gramm,"Folie 60 Gramm, 3 Stück",aldi-nord,3.82
+44,1517,Mon Cheri Piemont Kirsche,2.59,100 Gramm,"15 Stück, Packung 157 Gramm",lidl,1.65,715,2.99,100 Gramm,"15 Stück, Packung 157 Gramm",aldi-nord,1.9
+45,1533,Rosenkohl,0.99,100 Gramm,Netz 1 KG,lidl,0.099,289,0.99,100 Gramm,Netz 750 Gramm,aldi-nord,0.132
+46,1544,Beyond Burger Vegane Burger,4.99,100 Gramm,Packung 227 Gramm,lidl,2.2,386,4.99,100 Gramm,Packung 227 Gramm,aldi-nord,2.2
+47,1559,Ehrmann Almighurt Himbeer,0.45,100 Gramm,Becher 150 Gramm,lidl,0.3,468,0.59,100 Gramm,Becher 150 Gramm,aldi-nord,0.39
+48,1560,Südzucker Gelier Zucker 2 plus 1,0.65,100 Gramm,Packung 500 Gramm,lidl,0.13,1261,0.69,100 Gramm,Packung 500 Gramm,aldi-nord,0.13799999999999998
+49,1593,Dr. Oetker Die Ofenfrische Pizza Salami,0.99,100 Gramm,"Packung 500 Gramm, 4 x 125g, 3 und 1 Becher gratis",lidl,0.2,377,2.69,100 Gramm,Packung 380 Gramm,aldi-nord,0.71
+50,1623,Blumenkohl 1 Kopf,1.49,Preis pro Stück,"1 Stück, Frankreich, Kl. 1",lidl,1.49,1487,1.95,100 Gramm,Packung 500 Gramm,aldi-nord,0.39
+51,1976,Trauben hell kernlos,2.99,100 Gramm,Folie 1 KG,lidl,0.29900000000000004,1483,1.19,100 Gramm,Schale 500 Gramm,aldi-nord,0.23800000000000002
+52,1977,Brokkoli frisch,1.29,100 Gramm,Folie 500 Gramm,lidl,0.258,617,0.59,100 Gramm,Folie 500 Gramm,aldi-nord,0.11800000000000001
+53,2085,Dr. Oetker Vitalis Schoko Müsli klassisch,2.79,100 Gramm,Packung 600 Gramm,lidl,0.465,469,2.79,100 Gramm,Packung 600 Gramm,aldi-nord,0.465
+54,2090,Kinder Country,1.79,100 Gramm,Glas 340 Gramm,lidl,0.53,471,1.99,100 Gramm,"Packung 211.5 Gramm, 9 x 23,5",aldi-nord,0.94
+55,2093,Haribo Pico-Balla,0.55,100 Gramm,Becher 200 Gramm,lidl,0.28,238,0.99,100 Gramm,Beutel 175 Gramm,aldi-nord,0.57
+56,2151,Haribo Color-Rado,0.89,100 Gramm,Beutel 300 Gramm,lidl,0.3,1263,1.19,100 Gramm,Maxi Pack 360 Gramm,aldi-nord,0.33
+57,2202,Oreo Doppelkeks Vanillegeschmack,1.29,100 Gramm,Packung 154 Gramm,lidl,0.84,473,1.49,100 Gramm,Packung 176 Gramm,aldi-nord,0.85
+58,2247,Kirschen frisch,0.85,100 ml,Dose 500 ML,lidl,0.16999999999999998,1422,1.99,100 Gramm,Packung 500 Gramm,aldi-nord,0.39799999999999996
+59,2316,Sprite,0.89,100 ml,Pet-Flasche 1.25 L,lidl,0.071,551,0.89,100 ml,"Pet-Flasche 1,5 L 	",aldi-nord,0.059000000000000004
+60,2317,Fanta Orange,0.89,100 ml,Pet-Flasche 1.25 L,lidl,0.071,552,0.99,100 Gramm,Beutel 150 Gramm,aldi-nord,0.66
+61,2322,Rotkäppchen Sekt Trocken,3.99,100 ml,Flasche Glas 0.75 L,lidl,0.532,547,6.6,100 Gramm,Folie 264 Gramm,aldi-nord,2.5
+62,2337,Duplo,1.75,100 Gramm,"Packung 180 Gramm, 10 x 18g",lidl,0.97,1046,1.99,100 Gramm,"Packung 180 Gramm, 10 x 18g",aldi-nord,1.11
+63,2354,Suppengrün,1.29,100 Gramm,Schale 500 Gramm,lidl,0.258,1771,0.99,100 ml,Getränkekarton 1 L,aldi-nord,0.099
+64,2368,Ananas frisch,1.69,Preis pro Stück, 1 Stück,lidl,1.69,1768,1.89,100 Gramm,,aldi-nord,0.18899999999999997
+65,2439,Feldsalat küchenfertig,0.59,100 Gramm,Packung 150 Gramm,lidl,0.39,702,1.09,100 Gramm,Packung 150 Gramm,aldi-nord,0.73
+66,2719,Doppelbrötchen,0.29,100 Gramm, 1 Stück,lidl,0.0,1375,0.25,Preis pro Stück, 1 Stück,aldi-nord,0.25
+67,2817,Ehrmann Grand Dessert Vanille,0.37,100 Gramm,Becher 200 Gramm,lidl,0.19,383,0.79,100 Gramm,Becher 190 Gramm,aldi-nord,0.42
+68,2828,Original Wagner Steinofen Pizza Mozzarella,2.39,100 Gramm,Packung 350 Gramm,lidl,0.68,376,2.29,100 Gramm,Packung 350 Gramm,aldi-nord,0.65
+69,2949,Speisekartoffeln Deutschland vorwiegend festkochend,0.85,100 Gramm,"Netz 2,5 kg",lidl,0.034,1490,1.19,100 ml,,aldi-nord,0.0
+70,2960,Mango frisch,1.79,100 ml,Dose 800 ML,lidl,0.22400000000000006,1488,1.89,100 Gramm,Packung 400 Gramm,aldi-nord,0.473
+71,3167,Rotkäppchen Sekt Rose trocken,3.99,100 ml,Flasche Glas 0.75 L,lidl,0.532,1335,3.99,100 ml,Flasche Glas 0.75 L,aldi-nord,0.532
+72,3704,Ferrero Giotto Haselnuss Gebäckspezialität,8.88,Preis pro Waschladung,"Flasche Kunststoff 45 WL, 3,375 L",lidl,0.0,1045,2.69,100 Gramm,"Packung 154.8 Gramm, 4 x 38,7, 36 Stück",aldi-nord,1.74
+73,3862,Himbeeren frisch,1.79,100 Gramm,Schale 125 Gramm,lidl,1.43,1764,1.55,100 Gramm,Schale 200 Gramm,aldi-nord,0.78
+74,3894,Orangen,1.39,100 Gramm,Netz 2 KG,lidl,0.06999999999999999,1770,0.69,100 Gramm,Schale 600 Gramm,aldi-nord,0.115
+75,3895,Erdbeeren frisch,1.49,100 Gramm,Schale 500 Gramm,lidl,0.298,1761,1.99,100 Gramm,Packung 500 Gramm,aldi-nord,0.39799999999999996
+76,4023,Zitronen frisch,0.69,100 Gramm,Netz 500 Gramm,lidl,0.13799999999999998,1767,1.09,Preis pro Stück, 1 Stück,aldi-nord,1.09
+77,4065,Laugenbrötchen,0.29,Preis pro Stück, 1 Stück,lidl,0.29,1205,0.29,Preis pro Stück, 1 Stück,aldi-nord,0.29
+78,5322,Weltmeisterbrötchen,0.29,Preis pro Stück, 1 Stück,lidl,0.29,2887,2.99,100 Gramm,Dose 700 Gramm,aldi-nord,0.427
