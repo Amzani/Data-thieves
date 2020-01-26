@@ -7,5 +7,6 @@ For this project we decided to compare the prices of the six most popular superm
 
 ## Project Workflow
 
-- Scraping supermarketcheck.de [https://github.com/livvyton/Data-thieves] 
+- Scraping supermarketcheck.de [a link](https://github.com/livvyton/Data-thieves) 
 - Cleaning the data with for loop [https://github.com/livvyton/Data-thieves/tree/master/data_cleaning]
+- 
